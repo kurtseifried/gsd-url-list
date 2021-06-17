@@ -1,0 +1,1 @@
+http://pysvn.tigris.org/issues/show_bug.cgi?id=202

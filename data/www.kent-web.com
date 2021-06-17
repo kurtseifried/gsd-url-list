@@ -1,0 +1,9 @@
+http://www.kent-web.com/bbs/clipbbs.html
+http://www.kent-web.com/bbs/joyful.html
+http://www.kent-web.com/bbs/patio.html
+http://www.kent-web.com/bbs/wforum.html
+http://www.kent-web.com/bbs/yybbs.html
+http://www.kent-web.com/cart/mart.html
+http://www.kent-web.com/data/report.html
+http://www.kent-web.com/mail/clipmail.html
+http://www.kent-web.com/mail/postmail.html

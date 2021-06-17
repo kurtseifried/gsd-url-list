@@ -1,0 +1,4 @@
+ftp://ftp.isc.org/isc/dhcp/dhcp-1.0-history/dhcp-1.0.0-1.0pl1.diff.gz
+http://ftp.isc.org/isc/bind9/9.7.2-P2/RELEASE-NOTES-BIND-9.7.2-P2.html
+http://ftp.isc.org/isc/dhcp/dhcp-4.0.2-P1-RELNOTES
+http://ftp.isc.org/isc/dhcp/dhcp-4.1.1-P1-RELNOTES

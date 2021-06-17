@@ -1,0 +1,1 @@
+http://snyk.io/vuln/SNYK-JS-CHROMELAUNCHER-537575

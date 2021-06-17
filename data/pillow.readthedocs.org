@@ -1,0 +1,1 @@
+http://pillow.readthedocs.org/releasenotes/2.7.0.html

@@ -1,0 +1,11 @@
+http://www.eucalyptus.com/eucalyptus-cloud/security/esa-03
+http://www.eucalyptus.com/eucalyptus-cloud/security/esa-04
+http://www.eucalyptus.com/eucalyptus-cloud/security/esa-05
+http://www.eucalyptus.com/eucalyptus-cloud/security/esa-06
+http://www.eucalyptus.com/eucalyptus-cloud/security/esa-07
+http://www.eucalyptus.com/eucalyptus-cloud/security/esa-08
+http://www.eucalyptus.com/resources/security/advisories
+http://www.eucalyptus.com/resources/security/advisories/esa-09
+http://www.eucalyptus.com/resources/security/advisories/esa-10
+http://www.eucalyptus.com/resources/security/advisories/esa-12
+http://www.eucalyptus.com/resources/security/advisories/esa-13

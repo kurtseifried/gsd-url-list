@@ -1,0 +1,5 @@
+http://sources.gentoo.org/cgi-bin/viewvc.cgi/gentoo-x86/net-misc/apt-cacher-ng/files/apt-cacher-ng-0.7.26-CVE-2014-4510.patch?view=markup
+http://sources.gentoo.org/viewcvs.py/gentoo/src/patchsets/glibc/2.5/1600_all_glibc-hwcap-mask-secure.patch?rev=1.1&amp;amp;view=markup
+http://sources.gentoo.org/viewcvs.py/gentoo/src/patchsets/glibc/2.5/1600_all_glibc-hwcap-mask-secure.patch?rev=1.1&amp;view=markup
+http://sources.gentoo.org/viewcvs.py/portage?rev=7799&amp;amp;view=rev
+http://sources.gentoo.org/viewcvs.py/portage?rev=7799&amp;view=rev

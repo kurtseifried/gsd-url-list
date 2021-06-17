@@ -1,0 +1,3 @@
+http://blog.agavi.org/post/58189391/false-agavi-vulnerability-reports
+http://blog.agavi.org/post/75829956/agavi-0-11-6-released-fixes-vulnerability
+http://blog.agavi.org/post/75830918/agavi-1-0-0-beta-8-released-fixes-vulnerability

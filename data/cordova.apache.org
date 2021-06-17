@@ -1,0 +1,2 @@
+http://cordova.apache.org/announcements/2014/08/04/android-351.html
+http://cordova.apache.org/announcements/2014/08/06/android-351-update.html

@@ -1,0 +1,2 @@
+http://wiki.videolan.org/Changelog/0.8.6b
+http://wiki.videolan.org/Changelog/0.8.6f

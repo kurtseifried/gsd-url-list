@@ -1,0 +1,2 @@
+http://www.munin-monitoring.org/ticket/1234
+http://www.munin-monitoring.org/ticket/1238

@@ -1,0 +1,8 @@
+http://kiki91.altervista.org/exploit/bitweaver_1.2.1_XSS.txt
+http://kiki91.altervista.org/exploit/dir.txt
+http://kiki91.altervista.org/exploit/jax.txt
+http://kiki91.altervista.org/exploit/open.txt
+http://kiki91.altervista.org/exploit/ozjournals.txt
+http://kiki91.altervista.org/exploit/qwikiwiki_1.0.5_xss.txt
+http://kiki91.altervista.org/exploit/sBlog_0.72_xss.txt
+http://kiki91.altervista.org/exploit/siteframe5.0.1a_xss.txt

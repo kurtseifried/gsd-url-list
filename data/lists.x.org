@@ -1,0 +1,9 @@
+http://lists.x.org/archives/xorg-announce/2012-January/001797.html
+http://lists.x.org/archives/xorg-announce/2013-October/002332.html
+http://lists.x.org/archives/xorg-announce/2014-January/002389.html
+http://lists.x.org/archives/xorg-announce/2014-May/002431.html
+http://lists.x.org/archives/xorg-announce/2015-April/002561.html
+http://lists.x.org/archives/xorg-announce/2015-August/002630.html
+http://lists.x.org/archives/xorg-commit/2014-July/036840.html
+http://lists.x.org/archives/xorg-devel/2012-January/028691.html
+http://lists.x.org/archives/xorg-devel/2013-October/037996.html

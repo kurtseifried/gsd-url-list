@@ -1,0 +1,2 @@
+http://download.opensuse.org/update/10.3-test/repodata/patch-kpartx-6082.xml
+http://download.opensuse.org/update/10.3-test/repodata/patch-struts-5872.xml

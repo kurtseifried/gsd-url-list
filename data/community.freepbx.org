@@ -1,0 +1,1 @@
+http://community.freepbx.org/t/critical-freepbx-rce-vulnerability-all-versions-cve-2014-7235/24536

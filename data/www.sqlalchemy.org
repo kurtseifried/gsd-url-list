@@ -1,0 +1,2 @@
+http://www.sqlalchemy.org/changelog/CHANGES_0_7_0
+http://www.sqlalchemy.org/trac/changeset/852b6a1a87e7/

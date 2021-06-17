@@ -1,0 +1,15 @@
+http://tracker.firebirdsql.org/browse/CORE-1063
+http://tracker.firebirdsql.org/browse/CORE-1148
+http://tracker.firebirdsql.org/browse/CORE-1149
+http://tracker.firebirdsql.org/browse/CORE-1312
+http://tracker.firebirdsql.org/browse/CORE-1397
+http://tracker.firebirdsql.org/browse/CORE-1403
+http://tracker.firebirdsql.org/browse/CORE-1405
+http://tracker.firebirdsql.org/browse/CORE-1603
+http://tracker.firebirdsql.org/browse/CORE-1681
+http://tracker.firebirdsql.org/browse/CORE-2563
+http://tracker.firebirdsql.org/browse/CORE-3884
+http://tracker.firebirdsql.org/browse/CORE-4058
+http://tracker.firebirdsql.org/browse/CORE-4630
+http://tracker.firebirdsql.org/browse/CORE-5068
+http://tracker.firebirdsql.org/browse/CORE-5474

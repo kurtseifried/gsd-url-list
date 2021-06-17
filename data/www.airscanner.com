@@ -1,0 +1,9 @@
+http://www.airscanner.com/security/05081101_vxweb.htm
+http://www.airscanner.com/security/05081102_vxftpsrv.htm
+http://www.airscanner.com/security/05081203_vxtftpsrv.htm
+http://www.airscanner.com/security/05083101_kioskpass.htm
+http://www.airscanner.com/security/05083102_kioskremove.htm
+http://www.airscanner.com/security/06070101_abidia_oanywhere.htm
+http://www.airscanner.com/security/07080601_ezphotosales.htm
+http://www.airscanner.com/security/07101401_mobilespy.htm
+http://www.airscanner.com/security/pocketcontroller.htm

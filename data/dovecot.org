@@ -1,0 +1,15 @@
+http://dovecot.org/doc/NEWS
+http://dovecot.org/list/dovecot-cvs/2006-May/005563.html
+http://dovecot.org/list/dovecot-cvs/2007-March/008488.html
+http://dovecot.org/list/dovecot-news/2006-November/000023.html
+http://dovecot.org/list/dovecot-news/2007-December/000057.html
+http://dovecot.org/list/dovecot-news/2007-December/000058.html
+http://dovecot.org/list/dovecot-news/2007-March/000038.html
+http://dovecot.org/list/dovecot-news/2009-September/000135.html
+http://dovecot.org/list/dovecot-news/2010-March/000152.html
+http://dovecot.org/pipermail/dovecot-news/2006-November/000024.html
+http://dovecot.org/pipermail/dovecot-news/2014-May/000273.html
+http://dovecot.org/pipermail/dovecot-news/2016-December/000333.html
+http://dovecot.org/pipermail/dovecot/2010-February/047190.html
+http://dovecot.org/pipermail/dovecot/2011-May/059085.html
+http://dovecot.org/pipermail/dovecot/2011-May/059086.html

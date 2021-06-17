@@ -1,0 +1,1 @@
+http://hg.libsdl.org/SDL_image/

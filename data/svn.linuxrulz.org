@@ -1,0 +1,4 @@
+http://svn.linuxrulz.org/WebSVN/diff.php?repname=Policyd&amp;amp;path=%2Ftrunk%2Fsockets.c&amp;amp;rev=4&amp;amp;sc=0
+http://svn.linuxrulz.org/WebSVN/diff.php?repname=Policyd&amp;path=%2Ftrunk%2Fsockets.c&amp;rev=4&amp;sc=0
+http://svn.linuxrulz.org/WebSVN/log.php?repname=Policyd&amp;amp;path=%2Fbranches%2Fv1.8x%2Fsockets.c&amp;amp;rev=0&amp;amp;sc=0&amp;amp;isdir=0
+http://svn.linuxrulz.org/WebSVN/log.php?repname=Policyd&amp;path=%2Fbranches%2Fv1.8x%2Fsockets.c&amp;rev=0&amp;sc=0&amp;isdir=0

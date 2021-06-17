@@ -1,0 +1,5 @@
+http://www.mnogosearch.org/Download/mnogosearch-3.1.20.tar.gz
+http://www.mnogosearch.org/doc/msearch-changelog.html
+http://www.mnogosearch.org/doc33/msearch-changelog.html#changelog-3-3-12
+http://www.mnogosearch.org/history.html
+http://www.mnogosearch.org/history.html#log31

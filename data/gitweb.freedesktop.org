@@ -1,0 +1,6 @@
+http://gitweb.freedesktop.org/?p=PolicyKit.git;a=commitdiff;h=5bc86a14cc0e356bcf8b5f861674f842869b1be7
+http://gitweb.freedesktop.org/?p=cairo;a=commitdiff;h=5c7d2d14d78e4dfb1ef6d2c40f0910f177e07360
+http://gitweb.freedesktop.org/?p=cairo;a=commitdiff;h=e49bcde27f88e21d5b8037a0089a226096f6514b
+http://gitweb.freedesktop.org/?p=cairo;a=commitdiff_plain;h=6020f67f1a49cfe3844c4938d4af24c63c8424cc;hp=c79fc9af334fd6f2d1078071d64178125561b187
+http://gitweb.freedesktop.org/?p=swfdec/swfdec.git;a=commit;h=326ee4ff631ecc11605f1251e1923a94561a3823
+http://gitweb.freedesktop.org/?p=xorg/lib/libX11.git;a=commit;h=686bb8b35acf6cecae80fe89b2b5853f5816ce19

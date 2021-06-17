@@ -1,0 +1,4 @@
+http://www.opennms.org/documentation/ReleaseNotesStable.html#opennms-1.12.7
+http://www.opennms.org/documentation/ReleaseNotesUnStable.html
+http://www.opennms.org/documentation/ReleaseNotesUnStable.html#d788e257
+http://www.opennms.org/wiki/CVE-2015-0975

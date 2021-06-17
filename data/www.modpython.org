@@ -1,0 +1,5 @@
+http://www.modpython.org/fs_sec_warn.html
+http://www.modpython.org/pipermail/mod_python/2002-April/001991.html
+http://www.modpython.org/pipermail/mod_python/2002-April/002003.html
+http://www.modpython.org/pipermail/mod_python/2003-November/004005.html
+http://www.modpython.org/pipermail/mod_python/2004-January/014879.html

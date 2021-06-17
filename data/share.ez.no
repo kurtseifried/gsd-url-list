@@ -1,0 +1,3 @@
+http://share.ez.no/community-project/security-advisories/ezsa-2012-006-xss-exploit-on-ezjscore-run-command-when-using-firefox
+http://share.ez.no/community-project/security-advisories/ezsa-2012-009-ezoe-flash-player-csrf-security-issues
+http://share.ez.no/community-project/security-advisories/ezsa-2017-005-xss-issue-in-search

@@ -1,0 +1,10 @@
+http://cups.org/articles.php?L596
+http://cups.org/str.php?L3490
+http://cups.org/str.php?L3498
+http://cups.org/str.php?L3510
+http://cups.org/str.php?L3516
+http://cups.org/str.php?L3518
+http://cups.org/str.php?L3577
+http://cups.org/str.php?L3867
+http://cups.org/str.php?L3914
+http://cups.org/strfiles/3516/str3516.patch

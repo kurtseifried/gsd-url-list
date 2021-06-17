@@ -1,0 +1,3 @@
+http://www.xfocus.org/advisories/200603/11.html
+http://www.xfocus.org/documents/200307/2.html
+http://www.xfocus.org/exploits/200403/31.html

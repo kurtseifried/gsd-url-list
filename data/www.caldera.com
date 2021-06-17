@@ -1,0 +1,15 @@
+http://www.caldera.com/support/security/advisories/CSSA-2000-008.0.txt
+http://www.caldera.com/support/security/advisories/CSSA-2001-009.0.txt
+http://www.caldera.com/support/security/advisories/CSSA-2001-015.0.txt
+http://www.caldera.com/support/security/advisories/CSSA-2001-021.0.txt
+http://www.caldera.com/support/security/advisories/CSSA-2001-022.1.txt
+http://www.caldera.com/support/security/advisories/CSSA-2001-027.0.txt
+http://www.caldera.com/support/security/advisories/CSSA-2001-037.0.txt
+http://www.caldera.com/support/security/advisories/CSSA-2001-038.0.txt
+http://www.caldera.com/support/security/advisories/CSSA-2001-039.0.txt
+http://www.caldera.com/support/security/advisories/CSSA-2001-040.0.txt
+http://www.caldera.com/support/security/advisories/CSSA-2001-041.0.txt
+http://www.caldera.com/support/security/advisories/CSSA-2002-003.0.txt
+http://www.caldera.com/support/security/advisories/CSSA-2002-010.0.txt
+http://www.caldera.com/support/security/advisories/CSSA-2002-014.1.txt
+http://www.caldera.com/support/security/advisories/SA-1998.35.txt

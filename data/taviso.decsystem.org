@@ -1,0 +1,3 @@
+http://taviso.decsystem.org/research.html
+http://taviso.decsystem.org/research.t2t
+http://taviso.decsystem.org/virtsec.pdf

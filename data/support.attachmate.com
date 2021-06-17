@@ -1,0 +1,11 @@
+http://support.attachmate.com/techdocs/1704.html
+http://support.attachmate.com/techdocs/1708.html
+http://support.attachmate.com/techdocs/2127.html
+http://support.attachmate.com/techdocs/2128.html
+http://support.attachmate.com/techdocs/2137.html
+http://support.attachmate.com/techdocs/2288.html
+http://support.attachmate.com/techdocs/2374.html
+http://support.attachmate.com/techdocs/2398.html
+http://support.attachmate.com/techdocs/2501.html
+http://support.attachmate.com/techdocs/2502.html
+http://support.attachmate.com/techdocs/2700.html

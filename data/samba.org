@@ -1,0 +1,8 @@
+http://samba.org/rsync/#security_aug04
+http://samba.org/samba/history/samba-2.2.11.html
+http://samba.org/samba/history/samba-3.4.8.html
+http://samba.org/samba/history/samba-3.5.10.html
+http://samba.org/samba/history/samba-3.5.2.html
+http://samba.org/samba/security/CVE-2008-3789.html
+http://samba.org/samba/security/CVE-2009-2906.html
+http://samba.org/samba/security/CVE-2011-0719.html

@@ -1,0 +1,1 @@
+http://ftp.x.org/pub/X11R6.8.0/patches/README.xorg-CAN-2004-0687-0688.patch

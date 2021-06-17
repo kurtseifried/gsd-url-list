@@ -1,0 +1,9 @@
+http://blog.mybb.com/2010/04/13/mybb-1-4-12-released-security-maintenance-update/
+http://blog.mybb.com/2010/12/15/mybb-1-6-1-release-1-4-14-update/
+http://blog.mybb.com/2011/11/25/mybb-1-6-5-released-feature-update-security-maintenance-release/
+http://blog.mybb.com/2012/04/01/mybb-1-6-7-update-1-8-development/
+http://blog.mybb.com/2013/12/16/mybb-1-6-12-released-security-maintenance-release
+http://blog.mybb.com/2014/08/04/mybb-1-6-15-released-security-maintenance-release
+http://blog.mybb.com/2014/11/13/mybb-1-8-2-released-security-release/
+http://blog.mybb.com/2015/02/15/mybb-1-8-4-released-feature-update-security-maintenance-release/
+http://blog.mybb.com/2015/05/27/mybb-1-8-5-1-6-17-merge-system-1-8-5-release/

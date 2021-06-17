@@ -1,0 +1,1 @@
+http://nmav.gnutls.org/2013/02/time-is-money-for-cbc-ciphersuites.html

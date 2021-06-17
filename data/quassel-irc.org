@@ -1,0 +1,5 @@
+http://quassel-irc.org/node/115
+http://quassel-irc.org/node/120
+http://quassel-irc.org/node/123
+http://quassel-irc.org/node/129
+http://quassel-irc.org/node/89

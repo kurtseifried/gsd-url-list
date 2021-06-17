@@ -1,0 +1,3 @@
+http://www.freeradius.org/security.html
+http://www.freeradius.org/security/20050909-response-to-suse.txt
+http://www.freeradius.org/security/20050909-vendor-sec.txt

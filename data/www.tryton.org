@@ -1,0 +1,4 @@
+http://www.tryton.org/posts/security-release-for-issue3446.html
+http://www.tryton.org/posts/security-release-for-issue4155.html
+http://www.tryton.org/posts/security-release-for-issue5167.html
+http://www.tryton.org/posts/security-release-for-issue5795-and-issue5808.html

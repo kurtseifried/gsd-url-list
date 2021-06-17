@@ -1,0 +1,15 @@
+http://www.libreoffice.org/about-us/security/advisories/cve-2012-2665/
+http://www.libreoffice.org/about-us/security/advisories/cve-2015-4551/
+http://www.libreoffice.org/about-us/security/advisories/cve-2015-5212/
+http://www.libreoffice.org/about-us/security/advisories/cve-2015-5213/
+http://www.libreoffice.org/about-us/security/advisories/cve-2015-5214/
+http://www.libreoffice.org/about-us/security/advisories/cve-2016-10327/
+http://www.libreoffice.org/about-us/security/advisories/cve-2016-4324/
+http://www.libreoffice.org/about-us/security/advisories/cve-2017-7856/
+http://www.libreoffice.org/about-us/security/advisories/cve-2017-7870/
+http://www.libreoffice.org/about-us/security/advisories/cve-2017-7882/
+http://www.libreoffice.org/advisories/CVE-2011-2713/
+http://www.libreoffice.org/advisories/CVE-2012-0037/
+http://www.libreoffice.org/advisories/cve-2012-1149/
+http://www.libreoffice.org/advisories/cve-2012-2334/
+http://www.libreoffice.org/advisories/cve-2012-4233/

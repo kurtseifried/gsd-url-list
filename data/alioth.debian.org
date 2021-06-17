@@ -1,0 +1,4 @@
+http://alioth.debian.org/frs/shownotes.php?release_id=1019
+http://alioth.debian.org/frs/shownotes.php?release_id=1031
+http://alioth.debian.org/tracker/?func=detail&amp;aid=313636
+http://alioth.debian.org/tracker/?func=detail&amp;amp;aid=313636

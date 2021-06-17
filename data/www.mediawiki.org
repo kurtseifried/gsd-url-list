@@ -1,0 +1,7 @@
+http://www.mediawiki.org/wiki/Download
+http://www.mediawiki.org/wiki/Extension:RSS_Reader#0.2.6
+http://www.mediawiki.org/wiki/Extension:SemanticTitle#Version_1.1.0
+http://www.mediawiki.org/wiki/Manual:$wgShowExceptionDetails
+http://www.mediawiki.org/wiki/MediaWiki
+http://www.mediawiki.org/wiki/Release_notes/1.20
+http://www.mediawiki.org/wiki/Special:Code/MediaWiki/85856

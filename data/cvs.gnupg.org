@@ -1,0 +1,2 @@
+http://cvs.gnupg.org/cgi-bin/viewcvs.cgi/trunk/g10/parse-packet.c?rev=4157&amp;amp;r1=4141&amp;amp;r2=4157
+http://cvs.gnupg.org/cgi-bin/viewcvs.cgi/trunk/g10/parse-packet.c?rev=4157&amp;r1=4141&amp;r2=4157

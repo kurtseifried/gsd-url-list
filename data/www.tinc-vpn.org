@@ -1,0 +1,4 @@
+http://www.tinc-vpn.org/git/browse?p=tinc;a=commit;h=d3297fbd3b8c8c8a4661f5bbf89aca5cacba8b5a
+http://www.tinc-vpn.org/git/browse?p=tinc;a=commit;h=e97943b7cc9c851ae36f5a41e2b6102faa74193f
+http://www.tinc-vpn.org/news/
+http://www.tinc-vpn.org/pipermail/tinc/2013-April/003240.html

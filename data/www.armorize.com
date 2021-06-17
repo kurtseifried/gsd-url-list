@@ -1,0 +1,9 @@
+http://www.armorize.com/advisory.php?Keyword=Armorize-ADV-2006-0001
+http://www.armorize.com/advisory.php?Keyword=Armorize-ADV-2006-0002
+http://www.armorize.com/advisory.php?Keyword=Armorize-ADV-2006-0003
+http://www.armorize.com/advisory.php?Keyword=Armorize-ADV-2006-0005
+http://www.armorize.com/resources/vulnerDetail.php?cve_name=Armorize-ADV-2006-0009
+http://www.armorize.com/resources/vulnerability.php?Keyword=Armorize-ADV-2006-0004
+http://www.armorize.com/resources/vulnerability.php?Keyword=Armorize-ADV-2006-0006
+http://www.armorize.com/resources/vulnerability.php?Keyword=Armorize-ADV-2006-0007
+http://www.armorize.com/resources/vulnerability.php?Keyword=Armorize-ADV-2006-0008

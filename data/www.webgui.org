@@ -1,0 +1,5 @@
+http://www.webgui.org/bugs/tracker/8980
+http://www.webgui.org/bugs/tracker/security-issue---collaboration-rss/
+http://www.webgui.org/getwebgui/advisories/webgui-7.5.30-stable-released
+http://www.webgui.org/getwebgui/advisories/webgui-7_5_13-beta-released
+http://www.webgui.org/uploads/70/o2/70o29CTLCGWjntJrLYdmJA/asset-security-7.4.diff

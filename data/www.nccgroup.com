@@ -1,0 +1,1 @@
+http://www.nccgroup.com/media/244196/patch_notificatio_virtual_access_monitor_multiple_sql_injection_vulnerabilities.pdf

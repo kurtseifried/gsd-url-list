@@ -1,0 +1,16 @@
+http://www.schneider-electric.com/corporate/en/support/cybersecurity/viewer-news.page?c_filepath=/templatedata/Content/News/data/en/local/cybersecurity/general_information/2014/03/20140325_vulnerability_disclosure_opc_factory_server.xml
+http://www.schneider-electric.com/download/ww/en/details/29960967-SE-Software-Update-Utility-Vulnerability-Disclosure/?reference=SEVD-2013-009-01
+http://www.schneider-electric.com/download/ww/en/details/35081317-Vulnerability-Disclosure-for-Quantum-Premium-and-M340/
+http://www.schneider-electric.com/download/ww/en/file/141141292-SEVD-2013-143-01.pdf
+http://www.schneider-electric.com/download/ww/en/file/36555639-SEVD-2013-023-01.pdf/?fileName=SEVD-2013-023-01.pdf&amp;amp;reference=SEVD-2013-023-01&amp;amp;docType=Technical-paper
+http://www.schneider-electric.com/download/ww/en/file/36555639-SEVD-2013-023-01.pdf/?fileName=SEVD-2013-023-01.pdf&amp;reference=SEVD-2013-023-01&amp;docType=Technical-paper
+http://www.schneider-electric.com/en/download/document/SEVD-2017-061-01/
+http://www.schneider-electric.com/en/download/document/SEVD-2017-125-01/
+http://www.schneider-electric.com/en/download/document/SEVD-2017-125-02/
+http://www.schneider-electric.com/en/download/document/SEVD-2017-173-01/
+http://www.schneider-electric.com/en/download/document/SEVD-2017-178-01/
+http://www.schneider-electric.com/en/download/document/SEVD-2017-195-01/
+http://www.schneider-electric.com/en/download/document/SEVD-2017-264-01/
+http://www.schneider-electric.com/ww/en/download/document/SEVD-2015-084-01
+http://www.schneider-electric.com/ww/en/download/document/SEVD-2015-162-01
+http://www.schneider-electric.com/ww/en/download/document/SEVD-2016-153-01

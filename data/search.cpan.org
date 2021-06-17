@@ -1,0 +1,7 @@
+http://search.cpan.org/CPAN/authors/id/K/KR/KRAIH/Mojolicious-1.16.tar.gz
+http://search.cpan.org/src/BRADFITZ/Perlbal-1.70/CHANGES
+http://search.cpan.org/src/DCASTRO/Apache-AuthCAS-0.5/Changes
+http://search.cpan.org/src/OLAF/Net-DNS-0.63/Changes
+http://search.cpan.org/~flora/perl-5.14.2/pod/perldelta.pod#Encode_decode_xs_n-byte_heap-overflow_%28CVE-2011-2939%29
+http://search.cpan.org/~flora/perl-5.14.2/pod/perldelta.pod#Encode_decode_xs_n-byte_heap-overflow_(CVE-2011-2939)
+http://search.cpan.org/~smylers/CGI-Lite-2.02/Lite.pm

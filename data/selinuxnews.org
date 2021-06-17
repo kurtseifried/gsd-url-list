@@ -1,0 +1,1 @@
+http://selinuxnews.org/wp/index.php/2006/03/13/security-ptrace-bug-cve-2006-1052/

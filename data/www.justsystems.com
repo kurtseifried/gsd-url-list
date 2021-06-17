@@ -1,0 +1,17 @@
+http://www.justsystems.com/jp/info/js09001.html
+http://www.justsystems.com/jp/info/js09002.html
+http://www.justsystems.com/jp/info/js09003.html
+http://www.justsystems.com/jp/info/js10001.html
+http://www.justsystems.com/jp/info/js10002.html
+http://www.justsystems.com/jp/info/js10003.html
+http://www.justsystems.com/jp/info/js11001.html
+http://www.justsystems.com/jp/info/js12001.html
+http://www.justsystems.com/jp/info/js13001.html
+http://www.justsystems.com/jp/info/js13002.html
+http://www.justsystems.com/jp/info/js13003.html
+http://www.justsystems.com/jp/info/js14001.html
+http://www.justsystems.com/jp/info/js14002.html
+http://www.justsystems.com/jp/info/js14003.html
+http://www.justsystems.com/jp/info/pd7004.html
+http://www.justsystems.com/jp/info/pd8001.html
+http://www.justsystems.com/jp/info/pd8002.html

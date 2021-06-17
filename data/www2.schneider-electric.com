@@ -1,0 +1,1 @@
+http://www2.schneider-electric.com/corporate/en/support/cybersecurity/viewer-news.page?c_filepath=/templatedata/Content/News/data/en/local/cybersecurity/general_information/2013/01/20130109_advisory_of_vulnerability_affecting_schneider_electric_s_software_upda.xml

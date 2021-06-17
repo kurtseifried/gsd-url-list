@@ -1,0 +1,15 @@
+http://doc.powerdns.com/changelog.html
+http://doc.powerdns.com/changelog.html#CHANGELOG-2-9-17
+http://doc.powerdns.com/changelog.html#CHANGELOG-2-9-18
+http://doc.powerdns.com/changelog.html#CHANGELOG-RECURSOR-3-0-1
+http://doc.powerdns.com/changelog.html#CHANGELOG-RECURSOR-3-1-6
+http://doc.powerdns.com/html/changelog.html
+http://doc.powerdns.com/md/security/powerdns-advisory-2014-02/
+http://doc.powerdns.com/powerdns-advisory-2006-01.html
+http://doc.powerdns.com/powerdns-advisory-2006-02.html
+http://doc.powerdns.com/powerdns-advisory-2008-01.html
+http://doc.powerdns.com/powerdns-advisory-2008-02.html
+http://doc.powerdns.com/powerdns-advisory-2008-03.html
+http://doc.powerdns.com/powerdns-advisory-2010-01.html
+http://doc.powerdns.com/powerdns-advisory-2010-02.html
+http://doc.powerdns.com/powerdns-advisory-2012-01.html

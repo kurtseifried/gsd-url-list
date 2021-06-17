@@ -1,0 +1,9 @@
+http://vapid.dhs.org/advisories/centrify_deployment_manager_insecure_tmp2.html
+http://vapid.dhs.org/advisories/karteek-docsplit-cmd-inject.html
+http://vapid.dhs.org/advisories/md2pdf-remote-exec.html
+http://vapid.dhs.org/advisories/show_in_browser.html
+http://vapid.dhs.org/advisories/sounder-ruby-gem-cmd-inj.html
+http://vapid.dhs.org/advisories/sprout-0.7.246-command-inj.html
+http://vapid.dhs.org/advisories/thumbshooter-ruby-gem-remoteexec.html
+http://vapid.dhs.org/exploits/centrify_local_r00t.c
+http://vapid.dhs.org/zerogadv.txt

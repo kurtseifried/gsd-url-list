@@ -1,0 +1,2 @@
+http://www.tigase.org/content/finally-version-510-final-available
+http://www.tigase.org/content/uncontrolled-resource-consumption-highly-compressed-xmpp-messages

@@ -1,0 +1,6 @@
+http://git.debian.org/?p=collab-maint/no-ip.git;a=commit;h=60ed93621ff36d9731ba5d9f9336d6eb91122302
+http://git.debian.org/?p=lintian/lintian.git;a=commit;h=c8d01f062b3e5137cf65196760b079a855c75e00
+http://git.debian.org/?p=lintian/lintian.git;a=commit;h=fbe0c92b2ef7e360d13414bf40d6af5507d0c86d
+http://git.debian.org/?p=pkg-php/php.git;a=commit;h=d09fd04ed7bfcf7f008360c6a42025108925df09
+http://git.debian.org/?p=users/olberger-guest/nusoap.git;a=blob;f=debian/patches/595248.patch;h=6af3d725fe74d839764d9755c5bb18458a192518;hb=268f03b88c6900d1a87b17734c248c705c22cb07
+http://git.debian.org/?p=users/olberger-guest/nusoap.git;a=blobdiff;f=debian/patches/595248.patch;h=11202fa70433b62aeab7dfc68af668329bc0fe7e;hp=6af3d725fe74d839764d9755c5bb18458a192518;hb=3ac7a26a49086c6b91fb79e5acafcfcdc5d6980a;hpb=268f03b88c6900d1a87b17734c248c705c22cb07

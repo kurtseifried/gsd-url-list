@@ -1,0 +1,13 @@
+http://bzr.linuxfoundation.org/loggerhead/openprinting/cups-filters/annotate/head:/NEWS
+http://bzr.linuxfoundation.org/loggerhead/openprinting/cups-filters/revision/7175
+http://bzr.linuxfoundation.org/loggerhead/openprinting/cups-filters/revision/7176
+http://bzr.linuxfoundation.org/loggerhead/openprinting/cups-filters/revision/7188#NEWS
+http://bzr.linuxfoundation.org/loggerhead/openprinting/cups-filters/revision/7194
+http://bzr.linuxfoundation.org/loggerhead/openprinting/cups-filters/revision/7333
+http://bzr.linuxfoundation.org/loggerhead/openprinting/cups-filters/revision/7363
+http://bzr.linuxfoundation.org/loggerhead/openprinting/cups-filters/revision/7365
+http://bzr.linuxfoundation.org/loggerhead/openprinting/cups-filters/revision/7366#NEWS
+http://bzr.linuxfoundation.org/loggerhead/openprinting/cups-filters/revision/7369
+http://bzr.linuxfoundation.org/loggerhead/openprinting/cups-filters/revision/7406
+http://bzr.linuxfoundation.org/loggerhead/openprinting/cups-filters/revision/7419
+http://bzr.linuxfoundation.org/loggerhead/openprinting/foomatic-4.0/foomatic-filters/annotate/head:/ChangeLog

@@ -1,0 +1,5 @@
+http://www.mutt.org
+http://www.mutt.org/
+http://www.mutt.org/announce/mutt-1.2.5.1-1.3.25.html
+http://www.mutt.org/doc/devel/ChangeLog
+http://www.mutt.org/news.html

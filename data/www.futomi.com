@@ -1,0 +1,9 @@
+http://www.futomi.com/library/info/2008/20081212.html
+http://www.futomi.com/library/info/2009/20090123.html
+http://www.futomi.com/library/info/2009/20090310.html
+http://www.futomi.com/library/info/2009/20090316.html
+http://www.futomi.com/library/info/2009/20090331.html
+http://www.futomi.com/library/info/2010/20100910.html
+http://www.futomi.com/library/info/2015/20150319.html
+http://www.futomi.com/library/info/2016/201605.html
+http://www.futomi.com/library/mpmailec.html#history

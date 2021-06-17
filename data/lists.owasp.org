@@ -1,0 +1,2 @@
+http://lists.owasp.org/pipermail/esapi-dev/2013-August/002285.html
+http://lists.owasp.org/pipermail/owasp-mobile-security-project/2013-June/000640.html

@@ -1,0 +1,2 @@
+http://www.vulnhunt.com/advisories/CAL-20070730-1_BlueSkyCat_v2.ocx_ActiveX_remote_heap_overflow_vulnerability_en.txt
+http://www.vulnhunt.com/advisories/CAL-20070912-1_Multiple_vendor_produce_handling_AVI_file_vulnerabilities.txt

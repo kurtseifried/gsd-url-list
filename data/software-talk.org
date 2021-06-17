@@ -1,0 +1,2 @@
+http://software-talk.org/blog/2015/06/session-fixation-xss-code-execution-vulnerability-pivotx/
+http://software-talk.org/blog/2015/07/second-order-sql-injection-reflected-xss-path-traversal-function-execution-vulnerability-zenphoto/

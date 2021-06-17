@@ -1,0 +1,2 @@
+http://spamassassin.apache.org/advisories/cve-2007-0451.txt
+http://spamassassin.apache.org/advisories/cve-2007-2873.txt

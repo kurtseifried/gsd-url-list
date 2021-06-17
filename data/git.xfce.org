@@ -1,0 +1,1 @@
+http://git.xfce.org/apps/midori/tree/ChangeLog

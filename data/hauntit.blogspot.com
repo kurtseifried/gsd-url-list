@@ -1,0 +1,11 @@
+http://hauntit.blogspot.com/2012/03/en-gpeasy-233-html-injection-xss.html
+http://hauntit.blogspot.com/2012/03/en-quickcartv50-information-disclosure.html
+http://hauntit.blogspot.com/2012/03/en-quickcmsv40-xss-over-get.html
+http://hauntit.blogspot.com/2012/03/en-yaqas-cms-alpha1-information.html
+http://hauntit.blogspot.com/2012/04/en-e107-cms-reflected-xss-in.html
+http://hauntit.blogspot.com/2012/04/en-efront-3610-cms-information.html
+http://hauntit.blogspot.com/2012/04/en-jnews-jnewscore751-information.html
+http://hauntit.blogspot.com/2012/04/en-nbill-lite-joomla-component-html.html
+http://hauntit.blogspot.com/2012/04/en-vbulletin-4112-cross-site-scripting.html
+http://hauntit.blogspot.com/2013/04/en-smf-204-full-disclosure.html
+http://hauntit.blogspot.com/2014/02/en-xss-in-orangehrm.html

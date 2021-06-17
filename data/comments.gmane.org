@@ -1,0 +1,10 @@
+http://comments.gmane.org/gmane.comp.db.postgresql.pgbouncer.general/1251
+http://comments.gmane.org/gmane.comp.security.oss.general/11132
+http://comments.gmane.org/gmane.comp.security.oss.general/11986
+http://comments.gmane.org/gmane.comp.security.oss.general/12099
+http://comments.gmane.org/gmane.comp.security.oss.general/12284
+http://comments.gmane.org/gmane.comp.security.oss.general/12355
+http://comments.gmane.org/gmane.comp.web.egroupware.german/33144
+http://comments.gmane.org/gmane.linux.drivers.rdma/11659
+http://comments.gmane.org/gmane.linux.kernel.cifs/3827
+http://comments.gmane.org/gmane.mail.mutt.devel/8379

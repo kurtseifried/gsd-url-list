@@ -1,0 +1,4 @@
+http://www.freepbx.org/news/2014-02-06/security-vulnerability-notice
+http://www.freepbx.org/trac/changeset/2076
+http://www.freepbx.org/trac/ticket/4553
+http://www.freepbx.org/trac/ticket/5711

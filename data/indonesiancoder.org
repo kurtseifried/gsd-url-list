@@ -1,0 +1,1 @@
+http://indonesiancoder.org/joomla-component-jvehicles-aid-sql-injection-vulnerability

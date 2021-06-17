@@ -1,0 +1,2 @@
+http://bugs.sitracker.org/view.php?id=1047
+http://bugs.sitracker.org/view.php?id=1737

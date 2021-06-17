@@ -1,0 +1,5 @@
+http://www.postfix.org/CVE-2011-0411.html
+http://www.postfix.org/CVE-2011-1720.html
+http://www.postfix.org/announcements/20080902.html
+http://www.postfix.org/announcements/postfix-2.8.3.html
+http://www.postfix.org/announcements/postfix-3.2.2.html

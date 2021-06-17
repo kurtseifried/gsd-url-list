@@ -1,0 +1,3 @@
+http://www.tripbit.org/advisories/TA-040305.txt
+http://www.tripbit.org/advisories/TA-150104.txt
+http://www.tripbit.org/advisories/twilight_advisory.txt

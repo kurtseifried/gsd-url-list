@@ -1,0 +1,6 @@
+http://foswiki.org/Support/SecurityAlert-CVE-2009-1434
+http://foswiki.org/Support/SecurityAlert-CVE-2012-1004
+http://foswiki.org/Support/SecurityAlert-CVE-2013-1666
+http://foswiki.org/Support/SecurityAlertCVE20104215
+http://foswiki.org/Tasks/Item11498
+http://foswiki.org/Tasks/Item11501

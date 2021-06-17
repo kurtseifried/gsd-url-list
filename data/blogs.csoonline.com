@@ -1,0 +1,1 @@
+http://blogs.csoonline.com/the_skype_mystery_why_blame_the_august_windows_updates

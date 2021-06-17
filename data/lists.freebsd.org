@@ -1,0 +1,16 @@
+http://lists.freebsd.org/pipermail/cvs-src/2004-January/016271.html
+http://lists.freebsd.org/pipermail/cvs-src/2006-May/063969.html
+http://lists.freebsd.org/pipermail/cvs-src/2006-May/064488.html
+http://lists.freebsd.org/pipermail/freebsd-bugbusters/2014-February/000610.html
+http://lists.freebsd.org/pipermail/freebsd-bugbusters/2014-February/000612.html
+http://lists.freebsd.org/pipermail/freebsd-bugbusters/2014-February/000616.html
+http://lists.freebsd.org/pipermail/freebsd-security/2006-December/004186.html
+http://lists.freebsd.org/pipermail/freebsd-security/2006-July/003907.html
+http://lists.freebsd.org/pipermail/freebsd-security/2006-July/003915.html
+http://lists.freebsd.org/pipermail/freebsd-security/2006-October/004051.html
+http://lists.freebsd.org/pipermail/freebsd-security/2007-January/004218.html
+http://lists.freebsd.org/pipermail/freebsd-security/2011-December/006117.html
+http://lists.freebsd.org/pipermail/freebsd-security/2011-December/006118.html
+http://lists.freebsd.org/pipermail/freebsd-security/2011-December/006119.html
+http://lists.freebsd.org/pipermail/freebsd-security/2011-December/006120.html
+http://lists.freebsd.org/pipermail/freebsd-security/2012-August/006541.html

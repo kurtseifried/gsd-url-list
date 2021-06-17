@@ -1,0 +1,2 @@
+http://blogs.perl.org/users/mike_b/2016/10/security-release---buffer-overflow-in-dbdmysql-perl-library.html
+http://blogs.perl.org/users/rafael_garcia-suarez/2010/03/new-safepm-fixes-security-hole.html

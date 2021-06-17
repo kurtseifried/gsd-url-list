@@ -1,0 +1,15 @@
+http://lists.xensource.com/archives/html/xen-announce/2007-11/msg00000.html
+http://lists.xensource.com/archives/html/xen-devel/2007-10/msg00932.html
+http://lists.xensource.com/archives/html/xen-devel/2007-10/msg01048.html
+http://lists.xensource.com/archives/html/xen-devel/2008-05/msg00421.html
+http://lists.xensource.com/archives/html/xen-devel/2008-09/msg00992.html
+http://lists.xensource.com/archives/html/xen-devel/2008-09/msg00994.html
+http://lists.xensource.com/archives/html/xen-devel/2008-12/msg00842.html
+http://lists.xensource.com/archives/html/xen-devel/2008-12/msg00845.html
+http://lists.xensource.com/archives/html/xen-devel/2008-12/msg00846.html
+http://lists.xensource.com/archives/html/xen-devel/2008-12/msg00847.html
+http://lists.xensource.com/archives/html/xen-devel/2009-05/msg00561.html
+http://lists.xensource.com/archives/html/xen-devel/2010-11/msg01650.html
+http://lists.xensource.com/archives/html/xen-devel/2011-05/msg00483.html
+http://lists.xensource.com/archives/html/xen-devel/2011-05/msg00491.html
+http://lists.xensource.com/archives/html/xen-ia64-devel/2007-10/msg00189.html

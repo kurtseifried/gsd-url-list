@@ -1,0 +1,11 @@
+http://w1.fi/gitweb/gitweb.cgi?p=hostap.git;a=commitdiff;h=586c446e0ff42ae00315b014924ec669023bd8de
+http://w1.fi/security/2014-1/
+http://w1.fi/security/2015-1/wpa_supplicant-p2p-ssid-overflow.txt
+http://w1.fi/security/2015-2/wps-upnp-http-chunked-transfer-encoding.txt
+http://w1.fi/security/2015-3/integer-underflow-in-ap-mode-wmm-action-frame.txt
+http://w1.fi/security/2015-4/0005-EAP-pwd-peer-Fix-asymmetric-fragmentation-behavior.patch
+http://w1.fi/security/2015-4/eap-pwd-missing-payload-length-validation.txt
+http://w1.fi/security/2015-5/incomplete-wps-and-p2p-nfc-ndef-record-payload-length-validation.txt
+http://w1.fi/security/2015-6/wpa_supplicant-unauthorized-wnm-sleep-mode-gtk-control.txt
+http://w1.fi/security/2015-7/eap-pwd-missing-last-fragment-length-validation.txt
+http://w1.fi/security/2015-8/eap-pwd-unexpected-confirm.txt

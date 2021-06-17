@@ -1,0 +1,10 @@
+http://www.eSecurityOnline.com/advisories/eSO5063.asp
+http://www.esecurityonline.com/advisories/eSO2397.asp
+http://www.esecurityonline.com/advisories/eSO2408.asp
+http://www.esecurityonline.com/advisories/eSO3761.asp
+http://www.esecurityonline.com/advisories/eSO4123.asp
+http://www.esecurityonline.com/advisories/eSO4124.asp
+http://www.esecurityonline.com/advisories/eSO4125.asp
+http://www.esecurityonline.com/advisories/eSO4126.asp
+http://www.esecurityonline.com/advisories/eSO4197.asp
+http://www.esecurityonline.com/advisories/eSO4198.asp

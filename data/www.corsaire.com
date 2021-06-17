@@ -1,0 +1,17 @@
+http://www.corsaire.com/advisories/c030224-001.txt
+http://www.corsaire.com/advisories/c030807-001.txt
+http://www.corsaire.com/advisories/c031120-001.txt
+http://www.corsaire.com/advisories/c031120-002.txt
+http://www.corsaire.com/advisories/c031120-003.txt
+http://www.corsaire.com/advisories/c040619-001.txt
+http://www.corsaire.com/advisories/c040720-001.txt
+http://www.corsaire.com/advisories/c040817-002.txt
+http://www.corsaire.com/advisories/c040817-003.txt
+http://www.corsaire.com/advisories/c041123-001.txt
+http://www.corsaire.com/advisories/c041127-001.txt
+http://www.corsaire.com/advisories/c050323-001.txt
+http://www.corsaire.com/advisories/c050503-001.txt
+http://www.corsaire.com/advisories/c051114-001.txt
+http://www.corsaire.com/advisories/c051114-002.txt
+http://www.corsaire.com/advisories/c051114-003.txt
+http://www.corsaire.com/advisories/c060512-001.txt

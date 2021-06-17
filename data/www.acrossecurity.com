@@ -1,0 +1,14 @@
+http://www.acrossecurity.com/aspr/ASPR-1999-11-10-1-PUB.txt
+http://www.acrossecurity.com/aspr/ASPR-1999-12-15-1-PUB.txt
+http://www.acrossecurity.com/aspr/ASPR-2000-04-06-1-PUB.txt
+http://www.acrossecurity.com/aspr/ASPR-2000-07-22-1-PUB.txt
+http://www.acrossecurity.com/aspr/ASPR-2000-07-22-2-PUB.txt
+http://www.acrossecurity.com/aspr/ASPR-2004-10-13-1-PUB.txt
+http://www.acrossecurity.com/aspr/ASPR-2005-05-24-1-PUB.txt
+http://www.acrossecurity.com/aspr/ASPR-2005-05-24-2-PUB.txt
+http://www.acrossecurity.com/aspr/ASPR-2006-05-17-1-PUB.txt
+http://www.acrossecurity.com/aspr/ASPR-2007-05-14-1-PUB.txt
+http://www.acrossecurity.com/aspr/ASPR-2010-04-12-2-PUB.txt
+http://www.acrossecurity.com/aspr/ASPR-2010-08-18-1-PUB.txt
+http://www.acrossecurity.com/aspr/ASPR-2010-11-05-1-PUB.txt
+http://www.acrossecurity.com/aspr/ASPR-2011-02-11-1-PUB.txt

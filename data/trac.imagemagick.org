@@ -1,0 +1,8 @@
+http://trac.imagemagick.org/changeset/14801
+http://trac.imagemagick.org/changeset/17845
+http://trac.imagemagick.org/changeset/17846
+http://trac.imagemagick.org/changeset/17854
+http://trac.imagemagick.org/changeset/17855
+http://trac.imagemagick.org/changeset/17856
+http://trac.imagemagick.org/changeset/6998/ImageMagick/branches/ImageMagick-6.7.5/magick/profile.c
+http://trac.imagemagick.org/changeset/6998/ImageMagick/branches/ImageMagick-6.7.5/magick/property.c

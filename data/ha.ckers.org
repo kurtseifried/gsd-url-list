@@ -1,0 +1,15 @@
+http://ha.ckers.org/blog/20060621/malformed-ascii-bypasses-filters/
+http://ha.ckers.org/blog/20060621/us-ascii-xss-part-2
+http://ha.ckers.org/blog/20070309/firefox-header-redirection-javascript-execution/
+http://ha.ckers.org/blog/20070511/bluehat-errata/
+http://ha.ckers.org/blog/20070516/read-firefox-settings-poc/
+http://ha.ckers.org/blog/20070516/read-firefox-settings-poc/#comment-35888
+http://ha.ckers.org/blog/20070531/google-desktop-0day/
+http://ha.ckers.org/blog/20070606/additional-image-bypass-on-windows/
+http://ha.ckers.org/blog/20070608/cross-domain-basic-auth-phishing-tactics/
+http://ha.ckers.org/blog/20070702/ie60-protocol-guessing/
+http://ha.ckers.org/blog/20070823/xss-and-possible-information-disclosure-in-urchin/
+http://ha.ckers.org/blog/20081007/clickjacking-details/
+http://ha.ckers.org/google-desktop-0day/
+http://ha.ckers.org/slowloris/
+http://ha.ckers.org/xss.html#XSS_Non_alpha_non_digit2

@@ -1,0 +1,5 @@
+ftp://ftp.simplesystems.org/pub/libpng/png/src/libpng-1.2.8-README.txt
+ftp://ftp.simplesystems.org/pub/png-group/src/libpng-1.5.1beta01-1.5.0-diff.txt
+ftp://ftp.simplesystems.org/pub/png-group/src/libpng-1.5.1beta01-README.txt
+ftp://ftp.simplesystems.org/pub/png/src/libpng-1.2.34-ADVISORY.txt
+ftp://ftp.simplesystems.org/pub/png/src/libpng16/patch-libpng16-vu684412.diff

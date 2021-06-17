@@ -1,0 +1,13 @@
+http://wwwnew.mandriva.com/security/advisories?name=MDKSA-2003:084
+http://wwwnew.mandriva.com/security/advisories?name=MDKSA-2005:121
+http://wwwnew.mandriva.com/security/advisories?name=MDKSA-2005:222
+http://wwwnew.mandriva.com/security/advisories?name=MDKSA-2005:236
+http://wwwnew.mandriva.com/security/advisories?name=MDKSA-2006:007
+http://wwwnew.mandriva.com/security/advisories?name=MDKSA-2006:017
+http://wwwnew.mandriva.com/security/advisories?name=MDKSA-2006:035
+http://wwwnew.mandriva.com/security/advisories?name=MDKSA-2006:038
+http://wwwnew.mandriva.com/security/advisories?name=MDKSA-2006:044
+http://wwwnew.mandriva.com/security/advisories?name=MDKSA-2006:046
+http://wwwnew.mandriva.com/security/advisories?name=MDKSA-2006:047
+http://wwwnew.mandriva.com/security/advisories?name=MDKSA-2006:051
+http://wwwnew.mandriva.com/security/advisories?name=MDKSA-2006:066

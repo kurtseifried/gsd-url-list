@@ -1,0 +1,4 @@
+http://trac.edgewall.org/browser/tags/trac-0.11.6/RELEASE
+http://trac.edgewall.org/ticket/2473
+http://trac.edgewall.org/ticket/4049
+http://trac.edgewall.org/wiki/ChangeLog

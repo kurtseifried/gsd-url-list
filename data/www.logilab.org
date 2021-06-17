@@ -1,0 +1,2 @@
+http://www.logilab.org/ticket/207561
+http://www.logilab.org/ticket/207562

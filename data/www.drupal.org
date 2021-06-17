@@ -1,0 +1,2 @@
+http://www.drupal.org/security/drupal-sa-2005-002/advisory.txt
+http://www.drupal.org/security/drupal-sa-2005-003/advisory.txt

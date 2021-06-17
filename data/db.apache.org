@@ -1,0 +1,4 @@
+http://db.apache.org/derby/releases/release-10.1.2.1.html
+http://db.apache.org/derby/releases/release-10.2.1.6.html
+http://db.apache.org/derby/releases/release-10.6.1.0.cgi#Fix+for+Security+Bug+CVE-2009-4269
+http://db.apache.org/derby/releases/release-10.6.2.1.html#Note+for+DERBY-2925

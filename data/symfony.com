@@ -1,0 +1,11 @@
+http://symfony.com/blog/cve-2013-5750-security-issue-in-fosuserbundle-login-form
+http://symfony.com/blog/cve-2015-4050-esi-unauthorized-access
+http://symfony.com/blog/cve-2016-1902-securerandom-s-fallback-not-secure-when-openssl-fails
+http://symfony.com/blog/cve-2016-2403-unauthorized-access-on-a-misconfigured-ldap-server-when-using-an-empty-password
+http://symfony.com/blog/security-release-symfony-1-4-18-released
+http://symfony.com/blog/security-release-symfony-1-4-20-released
+http://symfony.com/blog/security-release-symfony-2-0-20-and-2-1-5-released
+http://symfony.com/blog/security-release-symfony-2-0-22-and-2-1-7-released
+http://symfony.com/blog/security-release-twig-1-20-0
+http://symfony.com/blog/security-releases-cve-2013-5958-symfony-2-0-25-2-1-13-2-2-9-and-2-3-6-released
+http://symfony.com/blog/security-releases-symfony-2-0-24-2-1-12-2-2-5-and-2-3-3-released

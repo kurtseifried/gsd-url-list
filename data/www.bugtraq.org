@@ -1,0 +1,3 @@
+http://www.bugtraq.org/advisories/GOBBLES-15.txt
+http://www.bugtraq.org/advisories/_BSSADV-0000.txt
+http://www.bugtraq.org/advisories/_BSSADV-0001.txt

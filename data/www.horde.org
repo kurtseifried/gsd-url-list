@@ -1,0 +1,6 @@
+http://www.horde.org/apps/imp/docs/CHANGES
+http://www.horde.org/apps/imp/docs/RELEASE_NOTES
+http://www.horde.org/apps/webmail/docs/CHANGES
+http://www.horde.org/apps/webmail/docs/RELEASE_NOTES
+http://www.horde.org/imp/2.2/news.php
+http://www.horde.org/imp/3.2/

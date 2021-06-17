@@ -1,0 +1,9 @@
+http://www.acunetix.com/blog/news/directory-traversal-axigen/
+http://www.acunetix.com/blog/news/misleading-reports-0-day-acunetix-wvs/
+http://www.acunetix.com/blog/web-security-articles/security-risks-associated-with-utf8_decode/
+http://www.acunetix.com/blog/web-security-zone/articles/sql-injection-xss-cubecart-4-3-3/
+http://www.acunetix.com/blog/web-security-zone/articles/zenphoto-13-advisory/
+http://www.acunetix.com/blog/web-security-zone/wordpress-pingback-vulnerability/
+http://www.acunetix.com/blog/websecuritynews/acusensor-curl-and-zen-cart/
+http://www.acunetix.com/blog/websecuritynews/cubecart-4-session-management-bypass-leads-to-administrator-access/
+http://www.acunetix.com/blog/websecuritynews/php-multipartform-data-denial-of-service/

@@ -1,0 +1,2 @@
+http://xenuser.org/documents/security/joomla_com_activehelper_livehelp_xss.txt
+http://xenuser.org/documents/security/joomla_com_bfquiz_sqli.txt

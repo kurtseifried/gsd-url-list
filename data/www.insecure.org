@@ -1,0 +1,4 @@
+http://www.insecure.org/sploits/Internet_explorer_4.0.hack.html
+http://www.insecure.org/sploits/irix.xfsdump.html
+http://www.insecure.org/sploits/netmanage.chameleon.overflows.html
+http://www.insecure.org/sploits/sunos.dev.tcx0.write.wierd.shit.to.device.bug.html

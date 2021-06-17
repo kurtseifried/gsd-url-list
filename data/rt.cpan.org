@@ -1,0 +1,9 @@
+http://rt.cpan.org/Public/Bug/Display.html?id=18397
+http://rt.cpan.org/Public/Bug/Display.html?id=21392
+http://rt.cpan.org/Public/Bug/Display.html?id=23961
+http://rt.cpan.org/Public/Bug/Display.html?id=26811
+http://rt.cpan.org/Public/Bug/Display.html?id=27285
+http://rt.cpan.org/Public/Bug/Display.html?id=29517
+http://rt.cpan.org/Public/Bug/Display.html?id=30380
+http://rt.cpan.org/Public/Bug/Display.html?id=35324
+http://rt.cpan.org/Public/Bug/Display.html?id=36982

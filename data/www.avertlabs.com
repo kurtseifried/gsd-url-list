@@ -1,0 +1,9 @@
+http://www.avertlabs.com/research/blog/?p=191
+http://www.avertlabs.com/research/blog/?p=199
+http://www.avertlabs.com/research/blog/?p=206
+http://www.avertlabs.com/research/blog/?p=230
+http://www.avertlabs.com/research/blog/?p=233
+http://www.avertlabs.com/research/blog/?p=95
+http://www.avertlabs.com/research/blog/index.php/2007/08/15/more-on-the-yahoo-messenger-webcam-0day/
+http://www.avertlabs.com/research/blog/index.php/2007/08/17/targeted-zero-day-attack-against-free-tools-lhaz/
+http://www.avertlabs.com/research/blog/index.php/2008/12/09/yet-another-unpatched-drive-by-exploit-found-on-the-web/

@@ -1,0 +1,2 @@
+http://www.mindrot.org/pipermail/openssh-unix-announce/2005-September/000083.html
+http://www.mindrot.org/projects/jBCrypt/news/rel04.html

@@ -1,0 +1,2 @@
+http://www.truecrypt.org/docs/?s=version-history
+http://www.truecrypt.org/history.php

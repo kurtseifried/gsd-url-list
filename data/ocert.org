@@ -1,0 +1,10 @@
+http://ocert.org/advisories/ocert-2009-013.html
+http://ocert.org/advisories/ocert-2014-005.html
+http://ocert.org/patches/2008-012/MIME.patch
+http://ocert.org/patches/2008-012/Text_Filter.31.patch
+http://ocert.org/patches/2008-012/Text_Filter.patch
+http://ocert.org/patches/2008-015/camel-CVE-2009-0587.diff
+http://ocert.org/patches/2008-015/evc-CVE-2009-0587.diff
+http://ocert.org/patches/2008-015/glib-CVE-2008-4316.diff
+http://ocert.org/patches/2008-015/gst-plugins-base-CVE-2009-0586.diff
+http://ocert.org/patches/2008-015/libsoup-CVE-2009-0585.diff

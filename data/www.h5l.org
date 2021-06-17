@@ -1,0 +1,5 @@
+http://www.h5l.org/advisories.html?show=2017-04-13
+http://www.h5l.org/advisories.html?show=2017-07-11
+http://www.h5l.org/pipermail/heimdal-announce/2017-December/000008.html
+http://www.h5l.org/pipermail/heimdal-announce/2019-May/000009.html
+http://www.h5l.org/pipermail/heimdal-discuss/2017-August/000259.html

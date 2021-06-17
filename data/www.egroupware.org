@@ -1,0 +1,11 @@
+http://www.egroupware.org/changelog
+http://www.egroupware.org/epl-changelog
+http://www.egroupware.org/forum#nabble-td3997580
+http://www.egroupware.org/news
+http://www.egroupware.org/news?item=93
+http://www.egroupware.org/viewvc/branches/1.4/admin/inc/class.uicategories.inc.php?r1=23611&amp;amp;r2=24443&amp;amp;pathrev=24443
+http://www.egroupware.org/viewvc/branches/1.4/admin/inc/class.uicategories.inc.php?r1=23611&amp;r2=24443&amp;pathrev=24443
+http://www.egroupware.org/viewvc/branches/1.4/phpgwapi/inc/class.kses.inc.php?r1=23625&amp;amp;r2=25110&amp;amp;pathrev=25110
+http://www.egroupware.org/viewvc/branches/1.4/phpgwapi/inc/class.kses.inc.php?r1=23625&amp;r2=25110&amp;pathrev=25110
+http://www.egroupware.org/viewvc/branches/1.4/preferences/inc/class.uicategories.inc.php?r1=23741&amp;amp;r2=24443&amp;amp;pathrev=24443
+http://www.egroupware.org/viewvc/branches/1.4/preferences/inc/class.uicategories.inc.php?r1=23741&amp;r2=24443&amp;pathrev=24443

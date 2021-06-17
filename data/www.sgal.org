@@ -1,0 +1,1 @@
+http://www.sgal.org/files/download/20060512-xss-patch.zip

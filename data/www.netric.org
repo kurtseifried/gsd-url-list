@@ -1,0 +1,2 @@
+http://www.netric.org/advisories/netric-adv007.txt
+http://www.netric.org/advisories/netric-adv010.txt

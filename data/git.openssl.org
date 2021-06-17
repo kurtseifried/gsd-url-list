@@ -1,0 +1,10 @@
+http://git.openssl.org/gitweb/?p=openssl.git;a=blob_plain;f=CHANGES;hb=refs/heads/OpenSSL_1_0_1-stable
+http://git.openssl.org/gitweb/?p=openssl.git;a=commit;h=125093b59f3c2a2d33785b5563d929d0472f1721
+http://git.openssl.org/gitweb/?p=openssl.git;a=commit;h=197e0ea817ad64820789d86711d55ff50d71f631
+http://git.openssl.org/gitweb/?p=openssl.git;a=commit;h=2198be3483259de374f91e57d247d0fc667aef29
+http://git.openssl.org/gitweb/?p=openssl.git;a=commit;h=34628967f1e65dc8f34e000f0f5518e21afbfc7b
+http://git.openssl.org/gitweb/?p=openssl.git;a=commit;h=62e4506a7d4cec1c8e1ff687f6b220f6a62a57c7
+http://git.openssl.org/gitweb/?p=openssl.git;a=commit;h=66e8211c0b1347970096e04b18aa52567c325200
+http://git.openssl.org/gitweb/?p=openssl.git;a=commit;h=96db9023b881d7cd9f379b0c154650d6c108e9a3
+http://git.openssl.org/gitweb/?p=openssl.git;a=commit;h=ca989269a2876bae79393bd54c3e72d49975fc75
+http://git.openssl.org/gitweb/?p=openssl.git;a=commit;h=ebc71865f0506a293242bd4aec97cdc7a8ef24b0

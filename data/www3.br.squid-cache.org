@@ -1,0 +1,1 @@
+http://www3.br.squid-cache.org/Advisories/SQUID-2005_4.txt

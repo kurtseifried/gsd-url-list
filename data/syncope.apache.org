@@ -1,0 +1,4 @@
+http://syncope.apache.org/security
+http://syncope.apache.org/security.html
+http://syncope.apache.org/security.html#CVE-2018-1321:_Remote_code_execution_by_administrators_with_report_and_template_entitlements
+http://syncope.apache.org/security.html#CVE-2018-1322:_Information_disclosure_via_FIQL_and_ORDER_BY_sorting

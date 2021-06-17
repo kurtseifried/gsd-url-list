@@ -1,0 +1,3 @@
+http://community.aegirproject.org/1.9
+http://community.aegirproject.org/2.4
+http://community.aegirproject.org/3.0-beta2

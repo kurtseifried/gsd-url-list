@@ -1,0 +1,8 @@
+http://subversion.tigris.org/security/CAN-2004-0413-advisory.txt
+http://subversion.tigris.org/security/CAN-2004-0749-advisory.txt
+http://subversion.tigris.org/security/CVE-2007-2448-advisory.txt
+http://subversion.tigris.org/security/CVE-2009-2411-advisory.txt
+http://subversion.tigris.org/servlets/NewsItemView?newsItemID=1941
+http://subversion.tigris.org/servlets/ReadMsg?list=users&amp;amp;msgNo=69413
+http://subversion.tigris.org/servlets/ReadMsg?list=users&amp;msgNo=69413
+http://subversion.tigris.org/svn-sscanf-advisory.txt

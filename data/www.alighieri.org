@@ -1,0 +1,2 @@
+http://www.alighieri.org/advisories/advisory-mpg123.txt
+http://www.alighieri.org/advisories/advisory-remedy50102.txt

@@ -1,0 +1,6 @@
+http://cvs.xvid.org/cvs/viewvc.cgi/xvidcore/src/bitstream/mbcoding.c
+http://cvs.xvid.org/cvs/viewvc.cgi/xvidcore/src/bitstream/mbcoding.c?r1=1.54&amp;amp;r2=1.55
+http://cvs.xvid.org/cvs/viewvc.cgi/xvidcore/src/bitstream/mbcoding.c?r1=1.54&amp;r2=1.55
+http://cvs.xvid.org/cvs/viewvc.cgi/xvidcore/src/decoder.c
+http://cvs.xvid.org/cvs/viewvc.cgi/xvidcore/src/decoder.c?r1=1.80&amp;amp;r2=1.81
+http://cvs.xvid.org/cvs/viewvc.cgi/xvidcore/src/decoder.c?r1=1.80&amp;r2=1.81

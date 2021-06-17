@@ -1,0 +1,8 @@
+http://www.libsdl.org/cgi/viewvc.cgi/trunk/SDL_image/CHANGES?revision=3462&amp;amp;view=markup
+http://www.libsdl.org/cgi/viewvc.cgi/trunk/SDL_image/CHANGES?revision=3462&amp;view=markup
+http://www.libsdl.org/cgi/viewvc.cgi/trunk/SDL_image/IMG_gif.c?r1=2970&amp;amp;r2=3462
+http://www.libsdl.org/cgi/viewvc.cgi/trunk/SDL_image/IMG_gif.c?r1=2970&amp;r2=3462
+http://www.libsdl.org/cgi/viewvc.cgi/trunk/SDL_image/IMG_lbm.c?r1=3341&amp;amp;r2=3521
+http://www.libsdl.org/cgi/viewvc.cgi/trunk/SDL_image/IMG_lbm.c?r1=3341&amp;r2=3521
+http://www.libsdl.org/cgi/viewvc.cgi/trunk/SDL_image/IMG_lbm.c?revision=3521&amp;amp;view=markup
+http://www.libsdl.org/cgi/viewvc.cgi/trunk/SDL_image/IMG_lbm.c?revision=3521&amp;view=markup

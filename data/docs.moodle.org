@@ -1,0 +1,7 @@
+http://docs.moodle.org/en/Moodle_1.8.11_release_notes
+http://docs.moodle.org/en/Moodle_1.8.13_release_notes
+http://docs.moodle.org/en/Moodle_1.9.7_release_notes
+http://docs.moodle.org/en/Moodle_1.9.9_release_notes
+http://docs.moodle.org/en/Release_Notes#Moodle_1.6.2
+http://docs.moodle.org/en/Release_Notes#Moodle_1.8.5
+http://docs.moodle.org/en/Release_notes#Moodle_1.6.2

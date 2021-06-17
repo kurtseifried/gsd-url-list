@@ -1,0 +1,11 @@
+http://digitalparadox.org/advisories/aass.txt
+http://digitalparadox.org/advisories/lico.txt
+http://digitalparadox.org/advisories/metabid.txt
+http://digitalparadox.org/advisories/pafdb.txt
+http://digitalparadox.org/advisories/postnuke.txt
+http://digitalparadox.org/advisories/prodcart.txt
+http://digitalparadox.org/advisories/sqc.txt
+http://digitalparadox.org/advisories/storeportal.txt
+http://digitalparadox.org/viewadvisories.ah?view=36
+http://digitalparadox.org/viewadvisories.ah?view=37
+http://digitalparadox.org/viewadvisories.ah?view=42

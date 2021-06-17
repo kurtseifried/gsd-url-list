@@ -1,0 +1,3 @@
+http://www.packetfence.org/bugs/changelog_page.php
+http://www.packetfence.org/bugs/view.php?id=1390
+http://www.packetfence.org/bugs/view.php?id=763

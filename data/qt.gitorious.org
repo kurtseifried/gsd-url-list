@@ -1,0 +1,7 @@
+http://qt.gitorious.org/qt/qt/commit/3b14dc93cf0ef06f1424d7d6319a1af4505faa53%20%284.7%29
+http://qt.gitorious.org/qt/qt/commit/5f6018564668d368f75e431c4cdac88d7421cff0
+http://qt.gitorious.org/qt/qt/commit/691e78e5061d4cbc0de212d23b06c5dffddf2098%20%284.8%29
+http://qt.gitorious.org/qt/qt/commit/802d8c02eaa0aa9cd8d0c6cbd18cd814e6337bc6
+http://qt.gitorious.org/qt/qt/commit/846f1b44eea4bb34d080d055badb40a4a13d369e
+http://qt.gitorious.org/qt/qt/commit/96311def2466dd44de64d77a1c815b22fbf68f71
+http://qt.gitorious.org/qt/qt/commit/c25c7c9bdfade6b906f37ac8bad44f6f0de57597

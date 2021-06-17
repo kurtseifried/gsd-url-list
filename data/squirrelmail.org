@@ -1,0 +1,5 @@
+http://squirrelmail.org/plugin_view.php?id=101
+http://squirrelmail.org/plugin_view.php?id=32
+http://squirrelmail.org/security/issue/2006-12-02
+http://squirrelmail.org/security/issue/2010-06-21
+http://squirrelmail.org/security/issue/2010-07-23

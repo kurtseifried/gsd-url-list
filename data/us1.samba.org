@@ -1,0 +1,13 @@
+http://us1.samba.org/samba/ftp/WHATSNEW-3.0.2a.txt
+http://us1.samba.org/samba/ftp/patches/security/samba-3.0.32-CVE-2008-4314.patch
+http://us1.samba.org/samba/history/samba-3.5.5.html
+http://us1.samba.org/samba/security/CAN-2006-1059.html
+http://us1.samba.org/samba/security/CVE-2007-0452.html
+http://us1.samba.org/samba/security/CVE-2007-0453.html
+http://us1.samba.org/samba/security/CVE-2007-0454.html
+http://us1.samba.org/samba/security/CVE-2007-4572.html
+http://us1.samba.org/samba/security/CVE-2007-5398.html
+http://us1.samba.org/samba/security/CVE-2008-4314.html
+http://us1.samba.org/samba/security/CVE-2010-3069.html
+http://us1.samba.org/samba/whatsnew/macroexploit.html
+http://us1.samba.org/samba/whatsnew/samba-2.2.7.html

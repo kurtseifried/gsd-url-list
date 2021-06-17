@@ -1,0 +1,14 @@
+http://kolab.org/security/kolab-vendor-notice-07.txt
+http://kolab.org/security/kolab-vendor-notice-08.txt
+http://kolab.org/security/kolab-vendor-notice-09.txt
+http://kolab.org/security/kolab-vendor-notice-10.txt
+http://kolab.org/security/kolab-vendor-notice-11.txt
+http://kolab.org/security/kolab-vendor-notice-13.txt
+http://kolab.org/security/kolab-vendor-notice-14.txt
+http://kolab.org/security/kolab-vendor-notice-15.txt
+http://kolab.org/security/kolab-vendor-notice-16.txt
+http://kolab.org/security/kolab-vendor-notice-17.txt
+http://kolab.org/security/kolab-vendor-notice-19.txt
+http://kolab.org/security/kolab-vendor-notice-20.txt
+http://kolab.org/security/kolab-vendor-notice-21.txt
+http://kolab.org/security/kolab-vendor-notice-22.txt

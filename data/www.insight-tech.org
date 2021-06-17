@@ -1,0 +1,11 @@
+http://www.insight-tech.org/index.php?p=IBM-Tivoli-Continuous-Data-Protection-for-Files-version-3-1-4-0---XSS
+http://www.insight-tech.org/index.php?p=Kernel-recovery-for-Macintosh-v-4-04-Buffer-Overflow
+http://www.insight-tech.org/index.php?p=Kernel-recovery-for-Novell-Traditional-volumes-v-4-03-Code-Execution-and-DoS
+http://www.insight-tech.org/index.php?p=NovaNET-12-Remote-Buffer-Oveflow
+http://www.insight-tech.org/index.php?p=Ulteo-Open-Virtual-Desktop-v1-0-multiple-XSS
+http://www.insight-tech.org/index.php?p=Yosemite-backup-8-7-DtbClsLogin-Buffer-Overflow-Vulnerability
+http://www.insight-tech.org/index.php?p=bakbone-netvault-backup-8-22-build-29-remote-dos
+http://www.insight-tech.org/xploits/KernelrecoveryforMacintoshv.4.04BufferOverflow.py
+http://www.insight-tech.org/xploits/KernelrecoveryforNovell%28Traditionalvolumes%29v.4.03CodeExecutionandDoS.py
+http://www.insight-tech.org/xploits/KernelrecoveryforNovell(Traditionalvolumes)v.4.03CodeExecutionandDoS.py
+http://www.insight-tech.org/xploits/yosemiteStackOverflowExploit.zip

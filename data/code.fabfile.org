@@ -1,0 +1,1 @@
+http://code.fabfile.org/projects/fabric/files/Fabric-1.1.0.tar.gz

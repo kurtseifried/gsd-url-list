@@ -1,0 +1,3 @@
+http://www.silverstripe.org/download/security-releases/ss-2015-026
+http://www.silverstripe.org/security-releases
+http://www.silverstripe.org/security-releases/

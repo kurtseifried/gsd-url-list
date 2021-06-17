@@ -1,0 +1,1 @@
+http://svn.igniterealtime.org/svn/repos/openfire/trunk/src/web/log.jsp

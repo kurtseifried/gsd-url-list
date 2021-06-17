@@ -1,0 +1,2 @@
+http://hg.debian.org/hg/xine-lib/xine-lib?cmd=changeset;node=a62d6f482a69;style=gitweb
+http://hg.debian.org/hg/xine-lib/xine-lib?cmd=changeset;node=fb6d089b520dca199ef16a046da28c50c984c2d2;style=gitweb

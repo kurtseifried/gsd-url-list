@@ -1,0 +1,10 @@
+http://www.caughq.org/advisories/CAU-2004-0002.txt
+http://www.caughq.org/advisories/CAU-2005-0002.txt
+http://www.caughq.org/advisories/CAU-2005-0003.txt
+http://www.caughq.org/advisories/CAU-2005-0004.txt
+http://www.caughq.org/advisories/CAU-2005-0005.txt
+http://www.caughq.org/advisories/CAU-2005-0006.txt
+http://www.caughq.org/advisories/CAU-2005-0007.txt
+http://www.caughq.org/advisories/CAU-2008-0002.txt
+http://www.caughq.org/exploits/CAU-EX-2008-0002.txt
+http://www.caughq.org/exploits/CAU-EX-2008-0003.txt

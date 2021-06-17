@@ -1,0 +1,5 @@
+http://soot.shabgard.org/Contrexx-CMS.txt
+http://soot.shabgard.org/bugs/Clansys.txt
+http://soot.shabgard.org/bugs/Sphider.txt
+http://soot.shabgard.org/bugs/phpremoteview.txt
+http://soot.shabgard.org/bugs/propublish.txt

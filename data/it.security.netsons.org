@@ -1,0 +1,3 @@
+http://it.security.netsons.org/exploit/FGB.txt
+http://it.security.netsons.org/exploit/MicroGuestBook.txt
+http://it.security.netsons.org/exploit/simplegb.txt

@@ -1,0 +1,8 @@
+http://www.arkoon.fr/upload/alertes/32AK-2006-01-EN-1.0_EVASION_HTTP.pdf
+http://www.arkoon.fr/upload/alertes/33AK-2006-02-EN-1.0_FAST_DNS_DOS.pdf
+http://www.arkoon.fr/upload/alertes/36AK-2006-07-FR-1.0_FAST360_OPENSSH.pdf
+http://www.arkoon.fr/upload/alertes/37AK-2006-06-FR-1.1_FAST360_OPENSSL_ASN1.pdf
+http://www.arkoon.fr/upload/alertes/40AK-2006-04-FR-1.1_SSL360_OPENSSL_RSA.pdf
+http://www.arkoon.fr/upload/alertes/41AK-2006-08-FR-1.1_SSL360_OPENSSL_ASN1.pdf
+http://www.arkoon.fr/upload/alertes/42AK-2006-05-FR-1.1_SSL360_XSS.pdf
+http://www.arkoon.fr/upload/alertes/43AK-2006-09-FR-1.0_SSL360_OPENSSH.pdf

@@ -1,0 +1,13 @@
+http://savannah.gnu.org/bugs/?19774
+http://savannah.gnu.org/bugs/?25296
+http://savannah.gnu.org/bugs/?29755
+http://savannah.gnu.org/bugs/?50142
+http://savannah.gnu.org/bugs/?55369
+http://savannah.gnu.org/bugs/?func=detailitem&amp;amp;item_id=13863
+http://savannah.gnu.org/bugs/?func=detailitem&amp;item_id=13863
+http://savannah.gnu.org/cgi-bin/viewcvs/emacs/emacs/lib-src/rcs2log?only_with_tag=EMACS_PRETEST_21_0_95
+http://savannah.gnu.org/forum/forum.php?forum_id=6077
+http://savannah.gnu.org/forum/forum.php?forum_id=6153
+http://savannah.gnu.org/forum/forum.php?forum_id=6368
+http://savannah.gnu.org/patch/index.php?func=detailitem&amp;amp;item_id=4407
+http://savannah.gnu.org/patch/index.php?func=detailitem&amp;item_id=4407

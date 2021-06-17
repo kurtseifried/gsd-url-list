@@ -1,0 +1,9 @@
+http://www.networkworld.com/columnists/2009/080509-xml-flaw.html
+http://www.networkworld.com/community/node/74259
+http://www.networkworld.com/news/2006/080406-black-hat-unpatched-flaw-revealed.html?t5
+http://www.networkworld.com/news/2008/111208-microsoft-seven-year-security-patch.html
+http://www.networkworld.com/news/2009/073009-more-holes-found-in-webs.html
+http://www.networkworld.com/news/2009/091709-microsoft-ie-security-hole.html
+http://www.networkworld.com/news/2010/030410-rsa-security-attack.html
+http://www.networkworld.com/news/2012/072712-black-hat-shark-bitten-security-researcher-261203.html
+http://www.networkworld.com/newsletters/sec/2007/0402sec2.html

@@ -1,0 +1,1 @@
+http://gnutls.org/security.html#GNUTLS-SA-2014-2

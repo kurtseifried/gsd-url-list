@@ -1,0 +1,2 @@
+http://hg.dovecot.org/dovecot-1.1/rev/3698dfe0f21c
+http://hg.dovecot.org/dovecot-2.0/rev/5e9eaf63a6b1

@@ -1,0 +1,2 @@
+http://varnish-cache.org/security/VSV00002.html
+http://varnish-cache.org/security/VSV00004.html#vsv00004

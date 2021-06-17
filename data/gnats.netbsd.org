@@ -1,0 +1,1 @@
+http://gnats.netbsd.org/47360

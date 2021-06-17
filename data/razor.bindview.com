@@ -1,0 +1,10 @@
+http://razor.bindview.com/publish/advisories/adv_Cabletron.html
+http://razor.bindview.com/publish/advisories/adv_FunkProxy.html
+http://razor.bindview.com/publish/advisories/adv_NAPTHA.html
+http://razor.bindview.com/publish/advisories/adv_NTLMSSP.html
+http://razor.bindview.com/publish/advisories/adv_ipsec.html
+http://razor.bindview.com/publish/advisories/adv_mstelnet.html
+http://razor.bindview.com/publish/advisories/adv_sm812.html
+http://razor.bindview.com/publish/advisories/adv_sm8120.html
+http://razor.bindview.com/publish/advisories/adv_ssh1crc.html
+http://razor.bindview.com/publish/advisories/adv_vbtsql.html

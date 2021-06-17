@@ -1,0 +1,2 @@
+http://www.elasticsearch.org/blog/elasticsearch-1-4-0-beta-released/
+http://www.elasticsearch.org/blog/logstash-1-4-2/

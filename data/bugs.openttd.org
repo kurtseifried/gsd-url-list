@@ -1,0 +1,13 @@
+http://bugs.openttd.org/task/3754
+http://bugs.openttd.org/task/3785
+http://bugs.openttd.org/task/3909
+http://bugs.openttd.org/task/3909/getfile/6237/loop_fix.patch
+http://bugs.openttd.org/task/4717
+http://bugs.openttd.org/task/4745
+http://bugs.openttd.org/task/4745/getfile/7707/fixcmds.diff
+http://bugs.openttd.org/task/4746
+http://bugs.openttd.org/task/4747
+http://bugs.openttd.org/task/4748
+http://bugs.openttd.org/task/4955
+http://bugs.openttd.org/task/5254
+http://bugs.openttd.org/task/5820

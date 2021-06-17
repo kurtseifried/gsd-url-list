@@ -1,0 +1,10 @@
+http://download.lighttpd.net/lighttpd/security/lighttpd-1.4.31_fix_connection_header_dos.patch
+http://download.lighttpd.net/lighttpd/security/lighttpd-1.4.x_fix_slow_request_dos.patch
+http://download.lighttpd.net/lighttpd/security/lighttpd-1.5_fix_slow_request_dos.patch
+http://download.lighttpd.net/lighttpd/security/lighttpd_sa_2010_01.txt
+http://download.lighttpd.net/lighttpd/security/lighttpd_sa_2011_01.txt
+http://download.lighttpd.net/lighttpd/security/lighttpd_sa_2012_01.txt
+http://download.lighttpd.net/lighttpd/security/lighttpd_sa_2013_01.txt
+http://download.lighttpd.net/lighttpd/security/lighttpd_sa_2013_02.txt
+http://download.lighttpd.net/lighttpd/security/lighttpd_sa_2013_03.txt
+http://download.lighttpd.net/lighttpd/security/lighttpd_sa_2014_01.txt

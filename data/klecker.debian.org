@@ -1,0 +1,2 @@
+http://klecker.debian.org/~joey/security/kernel/patches/patch.CAN-2005-0528.mremap
+http://klecker.debian.org/~white/mod-auth-mysql/CVE-2008-2384_mod-auth-mysql.patch

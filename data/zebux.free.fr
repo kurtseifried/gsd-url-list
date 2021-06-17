@@ -1,0 +1,2 @@
+http://zebux.free.fr/pub/Advisory/Advisory_Accellion_SPAM_Engine_Vulnerability_200808.txt
+http://zebux.free.fr/pub/Advisory/Advisory_Accellion_XSS_Vulnerability_200808.txt

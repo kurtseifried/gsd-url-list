@@ -1,0 +1,2 @@
+http://gforge.hl7.org/gf/project/strucdoc/frs/?action=FrsReleaseView&amp;amp;release_id=1088
+http://gforge.hl7.org/gf/project/strucdoc/frs/?action=FrsReleaseView&amp;release_id=1088

@@ -1,0 +1,9 @@
+http://www.nta-monitor.com/news/checkpoint.htm
+http://www.nta-monitor.com/news/checkpoint2004/index.htm
+http://www.nta-monitor.com/news/vpn-flaws/cisco/VPN-Concentrator/index.htm
+http://www.nta-monitor.com/news/vpn-flaws/juniper/netscreen/index.htm
+http://www.nta-monitor.com/news/vpn-flaws/nortel/nortel-client/
+http://www.nta-monitor.com/news/vpn-flaws/nortel/vpn-router-dos/
+http://www.nta-monitor.com/news/vpn-flaws/safenet/index.htm
+http://www.nta-monitor.com/news/xss/sawmill/index.htm
+http://www.nta-monitor.com/posts/2006/07/cisco-concentrator-dos.html

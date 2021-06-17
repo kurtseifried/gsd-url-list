@@ -1,0 +1,2 @@
+http://suricata-ids.org/2013/09/24/suricata-1-4-6-released/
+http://suricata-ids.org/2015/05/06/suricata-2-0-8-available/

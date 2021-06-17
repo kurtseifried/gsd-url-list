@@ -1,0 +1,14 @@
+http://madwifi.org/changeset/1842
+http://madwifi.org/changeset/2736
+http://madwifi.org/ticket/1270
+http://madwifi.org/ticket/1334
+http://madwifi.org/ticket/1335
+http://madwifi.org/ticket/162
+http://madwifi.org/ticket/279
+http://madwifi.org/ticket/287
+http://madwifi.org/ticket/880
+http://madwifi.org/ticket/963
+http://madwifi.org/ticket/967
+http://madwifi.org/wiki/Releases/0.9.3
+http://madwifi.org/wiki/Security
+http://madwifi.org/wiki/news/20061207/release-0-9-2-1-fixes-critical-security-issue

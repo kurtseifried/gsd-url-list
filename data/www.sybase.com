@@ -1,0 +1,13 @@
+http://www.sybase.com/detail/1,6904,1033894,00.html
+http://www.sybase.com/detail?id=1034520
+http://www.sybase.com/detail?id=1034752
+http://www.sybase.com/detail?id=1036742
+http://www.sybase.com/detail?id=1040117
+http://www.sybase.com/detail?id=1040213
+http://www.sybase.com/detail?id=1040665
+http://www.sybase.com/detail?id=1041431
+http://www.sybase.com/detail?id=1047991
+http://www.sybase.com/detail?id=1091057
+http://www.sybase.com/detail?id=1092074
+http://www.sybase.com/detail?id=1095200
+http://www.sybase.com/detail?id=1099371

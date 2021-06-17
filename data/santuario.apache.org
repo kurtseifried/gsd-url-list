@@ -1,0 +1,11 @@
+http://santuario.apache.org/secadv.data/CVE-2013-2153.txt
+http://santuario.apache.org/secadv.data/CVE-2013-2154.txt
+http://santuario.apache.org/secadv.data/CVE-2013-2155.txt
+http://santuario.apache.org/secadv.data/CVE-2013-2156.txt
+http://santuario.apache.org/secadv.data/CVE-2013-2172.txt.asc
+http://santuario.apache.org/secadv.data/CVE-2013-2210.txt
+http://santuario.apache.org/secadv.data/CVE-2014-8152.txt.asc
+http://santuario.apache.org/secadv.data/CVE-2019-12400.asc?version=1&amp;amp;modificationDate=1566573083000&amp;amp;api=v2
+http://santuario.apache.org/secadv.data/CVE-2019-12400.asc?version=1&amp;modificationDate=1566573083000&amp;api=v2
+http://santuario.apache.org/secadv.data/cve-2013-4517.txt.asc
+http://santuario.apache.org/secadv/CVE-2011-2516.txt

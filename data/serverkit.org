@@ -1,0 +1,1 @@
+http://serverkit.org/modules/contrib/shttp/shttp-0.0.5.tar.gz

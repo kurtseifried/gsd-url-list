@@ -1,0 +1,1 @@
+http://svn.asterisk.org/svn/asterisk/branches/1.2/README-SERIOUSLY.bestpractices.txt

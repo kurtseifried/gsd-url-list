@@ -1,0 +1,5 @@
+http://www.remotesensing.org/libtiff/v3.9.3.html
+http://www.remotesensing.org/libtiff/v3.9.4.html
+http://www.remotesensing.org/libtiff/v3.9.5.html
+http://www.remotesensing.org/libtiff/v4.0.2.html
+http://www.remotesensing.org/libtiff/v4.0.3.html

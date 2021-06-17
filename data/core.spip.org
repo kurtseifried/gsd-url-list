@@ -1,0 +1,5 @@
+http://core.spip.org/projects/spip/repository/revisions/20541
+http://core.spip.org/projects/spip/repository/revisions/20874
+http://core.spip.org/projects/spip/repository/revisions/20879
+http://core.spip.org/projects/spip/repository/revisions/20880
+http://core.spip.org/projects/spip/repository/revisions/20902

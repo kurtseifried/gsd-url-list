@@ -1,0 +1,2 @@
+http://www.posadis.org/advisories/pos_adv_003.txt
+http://www.posadis.org/advisories/pos_adv_006.txt

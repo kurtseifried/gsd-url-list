@@ -1,0 +1,1 @@
+http://trac.xbmc.org/ticket/15198

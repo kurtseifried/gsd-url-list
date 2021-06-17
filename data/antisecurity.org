@@ -1,0 +1,2 @@
+http://antisecurity.org/bplawyercasedocument-1-0-mssql-vulnerabilities.antisecurity
+http://antisecurity.org/dvd-zone-view_mag-phpmag_id-bsqlxss-multiple-remote-vulnerabilities.antisecurity

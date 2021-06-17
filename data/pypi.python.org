@@ -1,0 +1,7 @@
+http://pypi.python.org/pypi/Products.PloneHotfix20110928/1.0
+http://pypi.python.org/pypi/ZODB3/3.10.0#id1
+http://pypi.python.org/pypi/ZODB3/3.8.2#whats-new-in-zodb-3-8-2
+http://pypi.python.org/pypi/ZODB3/3.8.3
+http://pypi.python.org/pypi/ZODB3/3.9.0c2
+http://pypi.python.org/pypi/keyring
+http://pypi.python.org/pypi/python-cjson/

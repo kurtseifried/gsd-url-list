@@ -1,0 +1,2 @@
+http://www.pip-installer.org/en/latest/installing.html
+http://www.pip-installer.org/en/latest/news.html#changelog

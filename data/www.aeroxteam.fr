@@ -1,0 +1,4 @@
+http://www.aeroxteam.fr/advisory-IceBB-1.0rc6.txt
+http://www.aeroxteam.fr/exploit-IceBB-1.0rc6.txt
+http://www.aeroxteam.fr/exploit-MetaForum-0.513b.txt
+http://www.aeroxteam.fr/exploit-NPDS-5.10.txt

@@ -1,0 +1,4 @@
+http://www.graphicsmagick.org/
+http://www.graphicsmagick.org/ChangeLog-2016.html
+http://www.graphicsmagick.org/Changelog.html
+http://www.graphicsmagick.org/NEWS.html#may-30-2016

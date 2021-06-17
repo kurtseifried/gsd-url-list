@@ -1,0 +1,1 @@
+http://trac.des.no/openpam/changeset/478/trunk/lib/openpam_configure.c

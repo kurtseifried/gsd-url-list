@@ -1,0 +1,5 @@
+http://www.openvas.org/OVSA20110118.html
+http://www.openvas.org/OVSA20121112.html
+http://www.openvas.org/OVSA20131108.html
+http://www.openvas.org/OVSA20141128.html
+http://www.openvas.org/OVSA20160113.html

@@ -1,0 +1,2 @@
+http://www.freedesktop.org/wiki/Software/dbus
+http://www.freedesktop.org/wiki/Software/dbus#head-dad0dab297a44f1d7a3b1259cfc06b583fd6a88a

@@ -1,0 +1,2 @@
+http://distcc.samba.org/ftp/distcc/distcc-2.17.NEWS
+http://distcc.samba.org/security.html

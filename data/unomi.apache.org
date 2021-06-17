@@ -1,0 +1,2 @@
+http://unomi.apache.org/security/cve-2020-11975.txt
+http://unomi.apache.org/security/cve-2021-31164

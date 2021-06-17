@@ -1,0 +1,11 @@
+http://confluence.atlassian.com/display/BAMBOO/Bamboo+Security+Advisory+2012-05-17
+http://confluence.atlassian.com/display/CROWD/Crowd+Security+Advisory+2012-05-17
+http://confluence.atlassian.com/display/DOC/Confluence+Security+Advisory+2012-05-17
+http://confluence.atlassian.com/display/FISHEYE/FishEye+Security+Advisory+2010-06-16
+http://confluence.atlassian.com/display/FISHEYE/FishEye+and+Crucible+Security+Advisory+2011-11-22
+http://confluence.atlassian.com/display/FISHEYE/FishEye+and+Crucible+Security+Advisory+2012-05-17
+http://confluence.atlassian.com/display/JIRA/JIRA+Security+Advisory+2007-12-24
+http://confluence.atlassian.com/display/JIRA/JIRA+Security+Advisory+2008-10-29
+http://confluence.atlassian.com/display/JIRA/JIRA+Security+Advisory+2008-12-09
+http://confluence.atlassian.com/display/JIRA/JIRA+Security+Advisory+2010-04-16
+http://confluence.atlassian.com/display/JIRA/JIRA+Security+Advisory+2012-05-17

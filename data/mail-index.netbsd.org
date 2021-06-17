@@ -1,0 +1,14 @@
+http://mail-index.netbsd.org/current-users/2006/11/10/0000.html
+http://mail-index.netbsd.org/netbsd-announce/2005/10/31/0000.html
+http://mail-index.netbsd.org/netbsd-announce/2005/11/08/0010.html
+http://mail-index.netbsd.org/pkgsrc-changes/2005/09/12/0010.html
+http://mail-index.netbsd.org/pkgsrc-changes/2009/06/10/msg024708.html
+http://mail-index.netbsd.org/source-changes/2005/01/12/0059.html
+http://mail-index.netbsd.org/source-changes/2005/09/12/0043.html
+http://mail-index.netbsd.org/source-changes/2005/09/13/0024.html
+http://mail-index.netbsd.org/source-changes/2005/10/21/0038.html
+http://mail-index.netbsd.org/source-changes/2005/10/31/0001.html
+http://mail-index.netbsd.org/source-changes/2006/01/19/0017.html
+http://mail-index.netbsd.org/source-changes/2014/06/24/msg055822.html
+http://mail-index.netbsd.org/tech-security/2006/11/16/0001.html
+http://mail-index.netbsd.org/tech-security/2006/12/14/0002.html

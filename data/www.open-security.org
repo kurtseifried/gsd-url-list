@@ -1,0 +1,3 @@
+http://www.open-security.org/advisories/13
+http://www.open-security.org/advisories/15
+http://www.open-security.org/advisories/17

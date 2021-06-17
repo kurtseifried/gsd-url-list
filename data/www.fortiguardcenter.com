@@ -1,0 +1,15 @@
+http://www.fortiguardcenter.com/advisory/FGA-2007-07.html
+http://www.fortiguardcenter.com/advisory/FGA-2007-10.html
+http://www.fortiguardcenter.com/advisory/FGA-2007-11.html
+http://www.fortiguardcenter.com/advisory/FGA-2008-04.html
+http://www.fortiguardcenter.com/advisory/FGA-2008-07.html
+http://www.fortiguardcenter.com/advisory/FGA-2008-16.html
+http://www.fortiguardcenter.com/advisory/FGA-2008-23.html
+http://www.fortiguardcenter.com/advisory/FGA-2009-02.html
+http://www.fortiguardcenter.com/advisory/FGA-2009-04.html
+http://www.fortiguardcenter.com/advisory/FGA-2009-11.html
+http://www.fortiguardcenter.com/advisory/FGA-2009-13.html
+http://www.fortiguardcenter.com/advisory/FGA-2009-16.html
+http://www.fortiguardcenter.com/advisory/FGA-2009-22.html
+http://www.fortiguardcenter.com/advisory/FGA-2009-23.html
+http://www.fortiguardcenter.com/advisory/FGA-2009-25.html

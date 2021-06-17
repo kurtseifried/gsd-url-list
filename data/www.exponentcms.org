@@ -1,0 +1,9 @@
+http://www.exponentcms.org/index.php?action=view&amp;amp;id=64&amp;amp;module=newsmodule&amp;amp;src=%40random44fe03276195
+http://www.exponentcms.org/index.php?action=view&amp;id=64&amp;module=newsmodule&amp;src=%40random44fe03276195
+http://www.exponentcms.org/news/patch-1-released-for-v2-3-9
+http://www.exponentcms.org/news/patch-3-released-for-v2-3-7
+http://www.exponentcms.org/news/patch-5-released-for-v2-4-1-to-fix-a-few-critical-issues
+http://www.exponentcms.org/news/patch-6-released-for-v2-4-1-to-fix-a-few-big-issues
+http://www.exponentcms.org/news/security-vulnerability-all-exponent-versions-june-2016
+http://www.exponentcms.org/news/show/title/corrected-security-patches-released-for-v2-1-4-v2-2-3-and-v2-3-0
+http://www.exponentcms.org/news/show/title/security-notice-closing-an-exponent-security-vulnerability

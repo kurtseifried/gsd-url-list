@@ -1,0 +1,2 @@
+http://cvs.freedesktop.org/gstreamer/gst-ffmpeg/ChangeLog?rev=1.239&amp;amp;view=markup
+http://cvs.freedesktop.org/gstreamer/gst-ffmpeg/ChangeLog?rev=1.239&amp;view=markup

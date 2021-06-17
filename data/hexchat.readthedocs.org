@@ -1,0 +1,1 @@
+http://hexchat.readthedocs.org/en/latest/changelog.html

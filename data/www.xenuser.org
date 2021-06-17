@@ -1,0 +1,16 @@
+http://www.xenuser.org/2010/04/18/dl_stats-multiple-vulnerabilities-sqli-xss-unprotected-admin-panel/
+http://www.xenuser.org/2010/05/14/joomla-component-je-ajax-event-calendar-local-file-inclusion-vulnerability/
+http://www.xenuser.org/2010/05/19/joomla-component-activehelper-livehelp-xss-vulnerabilities/
+http://www.xenuser.org/documents/security/Joomla_com_jsupport_SQLi.txt
+http://www.xenuser.org/documents/security/Joomla_com_jsupport_XSS.txt
+http://www.xenuser.org/documents/security/OneOrZero_Aims_multiple_vulnerabilities.txt
+http://www.xenuser.org/documents/security/auto-img-gallery_xss.txt
+http://www.xenuser.org/documents/security/dl_stats_multiple_vulnerabilities.txt
+http://www.xenuser.org/documents/security/flashcard_xss.txt
+http://www.xenuser.org/documents/security/galeriaSHQIP_sqli.txt
+http://www.xenuser.org/documents/security/joomla_com_MVRMM_sql.txt
+http://www.xenuser.org/documents/security/joomla_com_joltcard_sqli.txt
+http://www.xenuser.org/documents/security/joomla_com_jp_jobs_sql.txt
+http://www.xenuser.org/documents/security/joomla_com_mycar_multiple_vulnerabilities.txt
+http://www.xenuser.org/documents/security/mechbunny_paysitereviewcms_xss.txt
+http://www.xenuser.org/documents/security/qpersonel_sql.txt

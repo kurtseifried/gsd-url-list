@@ -1,0 +1,7 @@
+http://www.nagios.org/changelog.php
+http://www.nagios.org/development/changelog.php
+http://www.nagios.org/development/changelog.php#2x_branch
+http://www.nagios.org/development/history/core-3x/
+http://www.nagios.org/development/history/nagios-3x.php
+http://www.nagios.org/news/#88
+http://www.nagios.org/projects/nagioscore/history/core-3x

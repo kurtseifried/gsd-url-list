@@ -1,0 +1,4 @@
+http://www.dojotoolkit.org/0-4-3-and-updated-0-4-1-0-4-2-builds
+http://www.dojotoolkit.org/2007/05/26/0-4-3-released-0-4-2-and-0-4-1-users-should-upgrade-immediately
+http://www.dojotoolkit.org/book/dojo-1-1-release-notes
+http://www.dojotoolkit.org/releaseNotes/0.4.3

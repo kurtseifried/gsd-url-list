@@ -1,0 +1,3 @@
+http://www.net-security.org/advisory.php?id=2010
+http://www.net-security.org/secworld.php?id=15743
+http://www.net-security.org/secworld.php?id=8527

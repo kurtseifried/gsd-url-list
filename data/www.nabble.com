@@ -1,0 +1,17 @@
+http://www.nabble.com/-DSECRG--Sun-Glassfish-Multiple-Security-Vulnerabilities-p22595435.html
+http://www.nabble.com/-PATCH--XSM--FLASK--Argument-handling-bugs-in-XSM:FLASK-to18536032.html
+http://www.nabble.com/ANNOUNCE%3A-Apache-SpamAssassin-3.1.3-available%21-t1736096.html
+http://www.nabble.com/ANNOUNCE:-SquirrelMail-1.4.16-Released-td19711998.html
+http://www.nabble.com/Bug-417390:-CVE-2007-0242,--Qt-UTF-8-overlong-sequence-decoding-vulnerability-t3506065.html
+http://www.nabble.com/Bug-484305%3A-bicyclerepair%3A-bike.vim-imports-untrusted-python-files-from-cwd-td18848099.html
+http://www.nabble.com/Bug-526258:-CVE-2009-1339:-CSRF-Vulnerability-with-Image-Tag-td23311575.html
+http://www.nabble.com/CVE-2007-3056-tf4246678.html
+http://www.nabble.com/Details-on-the-gnutls_handshake-local-crash-problem--GNUTLS-SA-2008-2--td18205022.html
+http://www.nabble.com/Feedback%3A-WW-2414%2C-XSS-attack-is-possible-if-using-%3Cs%3Aurl-...%3E-and-%3Cs%3Aa-...%3E-td14771449.html
+http://www.nabble.com/Feedback%3A-WW-2414%2C-XSS-attack-is-possible-if-using-%3Cs%3Aurl-...%3E-and-%3Cs%3Aa-...%3E-td14771449i20.html
+http://www.nabble.com/Fwd%3A-Critical-phpwiki-c99shell-exploit-t3571197.html
+http://www.nabble.com/Geronimo-2.0-Release-suspended-due-to-security-issue-found-before-release-t4263667s134.html
+http://www.nabble.com/Important-UpLoad-security-fix%21-was--Fwd%3A--phpwiki---Open-Discussion--RE%3A-upload-security-risk--t3543463.html
+http://www.nabble.com/Re:--DSECRG--Sun-Glassfish-Multiple-Security-Vulnerabilities-p23002524.html
+http://www.nabble.com/courier-authlib-0.60.6-released-td17720739.html
+http://www.nabble.com/phpMyAdmin-2.11.9.1-is-released-td19497113.html

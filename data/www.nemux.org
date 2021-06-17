@@ -1,0 +1,2 @@
+http://www.nemux.org/2015/10/13/libsndfile-1-0-25-heap-overflow/
+http://www.nemux.org/2016/02/23/libquicktime-1-2-4/

@@ -1,0 +1,1 @@
+http://mosquitto.org/2017/05/security-advisory-cve-2017-7650/

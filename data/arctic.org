@@ -1,0 +1,1 @@
+http://arctic.org/~dean/patches/GeoIP-1.4.0-update-vulnerability.patch

@@ -1,0 +1,3 @@
+http://openwebmail.org/openwebmail/doc/changes.txt
+http://openwebmail.org/openwebmail/download/cert/advisories/SA-04:04.txt
+http://openwebmail.org/openwebmail/download/cert/patches/SA-04:02/openwebmail.pl.patch

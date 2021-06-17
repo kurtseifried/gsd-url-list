@@ -1,0 +1,7 @@
+http://zone14.free.fr/advisories/1
+http://zone14.free.fr/advisories/2/
+http://zone14.free.fr/advisories/3/
+http://zone14.free.fr/advisories/5/
+http://zone14.free.fr/advisories/6/
+http://zone14.free.fr/advisories/7/
+http://zone14.free.fr/advisories/8/

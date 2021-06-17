@@ -1,0 +1,5 @@
+http://www.illegalaccess.org/exploit/FullDiskApplet.html
+http://www.illegalaccess.org/exploit/ObjectStackOverflow.html
+http://www.illegalaccess.org/exploit/opera85/OperaApplet.html
+http://www.illegalaccess.org/java/jboss.php
+http://www.illegalaccess.org/java/jmf.php

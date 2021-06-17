@@ -1,0 +1,1 @@
+http://bugs.apache.org/index.cgi/full/7522

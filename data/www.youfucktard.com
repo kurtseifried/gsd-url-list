@@ -1,0 +1,11 @@
+http://www.youfucktard.com/blog/2006/06/30/mads-v10/
+http://www.youfucktard.com/blog/2006/08/02/ozjournal-v15-xss/
+http://www.youfucktard.com/xsp/dragking1.jpg
+http://www.youfucktard.com/xsp/dragking2.jpg
+http://www.youfucktard.com/xsp/dragking3.jpg
+http://www.youfucktard.com/xsp/dragking4.jpg
+http://www.youfucktard.com/xsp/dragking5.jpg
+http://www.youfucktard.com/xsp/dragking6.jpg
+http://www.youfucktard.com/xsp/dragking7.jpg
+http://www.youfucktard.com/xsp/eprayer1.jpg
+http://www.youfucktard.com/xsp/eprayer2.jpg

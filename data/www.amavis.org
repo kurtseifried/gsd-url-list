@@ -1,0 +1,3 @@
+http://www.amavis.org/ChangeLog.txt
+http://www.amavis.org/security/asa-2007-2.txt
+http://www.amavis.org/security/asa-2007-3.txt

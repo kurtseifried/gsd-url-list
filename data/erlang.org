@@ -1,0 +1,4 @@
+http://erlang.org/doc/efficiency_guide/commoncaveats.html#list_to_atom-1
+http://erlang.org/pipermail/erlang-questions/2017-November/094255.html
+http://erlang.org/pipermail/erlang-questions/2017-November/094256.html
+http://erlang.org/pipermail/erlang-questions/2017-November/094257.html

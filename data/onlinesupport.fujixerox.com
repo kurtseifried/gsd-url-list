@@ -1,0 +1,2 @@
+http://onlinesupport.fujixerox.com/processDriverForm.do?ctry_code=SG&amp;amp;lang_code=en&amp;amp;d_lang=en&amp;amp;corp_pid=AWMS2&amp;amp;rts=null&amp;amp;model=ApeosWare+Management+Suite+2&amp;amp;type_id=7&amp;amp;oslist=Windows+10+64bit&amp;amp;lang_list=en
+http://onlinesupport.fujixerox.com/processDriverForm.do?ctry_code=SG&amp;lang_code=en&amp;d_lang=en&amp;corp_pid=AWMS2&amp;rts=null&amp;model=ApeosWare+Management+Suite+2&amp;type_id=7&amp;oslist=Windows+10+64bit&amp;lang_list=en

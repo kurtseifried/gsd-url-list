@@ -1,0 +1,12 @@
+http://httpd.apache.org/dev/dist/CHANGES_1.3.42
+http://httpd.apache.org/dist/httpd/Announcement2.html
+http://httpd.apache.org/docs/logs.html
+http://httpd.apache.org/info/css-security/apache_specific.html
+http://httpd.apache.org/info/security_bulletin_20020617.txt
+http://httpd.apache.org/info/security_bulletin_20020908a.txt
+http://httpd.apache.org/security/vulnerabilities_13.html
+http://httpd.apache.org/security/vulnerabilities_20.html
+http://httpd.apache.org/security/vulnerabilities_22.html
+http://httpd.apache.org/security/vulnerabilities_22.html#2.2.21
+http://httpd.apache.org/security/vulnerabilities_22.html#2.2.22
+http://httpd.apache.org/security/vulnerabilities_24.html

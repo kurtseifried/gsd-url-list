@@ -1,0 +1,10 @@
+ftp://ftp.software.ibm.com/aix/efixes/iz50802/IZ50802.53TL8SP6.epkg.Z
+ftp://ftp.software.ibm.com/pc/pccbbs/pc_servers/dir5.10.3_docs_relnotes.pdf
+ftp://ftp.software.ibm.com/pc/pccbbs/pc_servers_pdf/dir5.10_docs_relnotes.pdf
+ftp://ftp.software.ibm.com/ps/products/db2/fixes/english-us/aparlist/db2_v82/APARLIST.TXT
+ftp://ftp.software.ibm.com/ps/products/db2/fixes/english-us/aparlist/db2_v91/APARLIST.TXT
+ftp://ftp.software.ibm.com/ps/products/db2/fixes/english-us/aparlist/db2_v95/APARLIST.TXT
+ftp://ftp.software.ibm.com/ps/products/db2/fixes/english-us/aparlist/db2_v97/APARLIST.TXT
+ftp://ftp.software.ibm.com/ps/products/db2/fixes/english-us/db2aixv7/FP10a_U495172/FixpakReadme.txt
+ftp://ftp.software.ibm.com/ps/products/tcpip/fixes/v4.3os2/ic27721/README
+ftp://ftp.software.ibm.com/software/websphere/appserv/support/fixes/pq62144/readme.txt

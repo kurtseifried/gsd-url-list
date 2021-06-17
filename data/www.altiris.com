@@ -1,0 +1,2 @@
+http://www.altiris.com/support/forum/Framesearch.aspx?vpath=/aexkb/public%20articles/6.x/deployment%20solution/kb/ds%20client%20security%20kb%20article%2010-22-04.doc&amp;amp;art=AKB6859&amp;amp;source=Altiris%20Helpdesk&amp;amp;artID=23644&amp;amp;refpara=532392&amp;amp;key=akb6859
+http://www.altiris.com/support/forum/Framesearch.aspx?vpath=/aexkb/public%20articles/6.x/deployment%20solution/kb/ds%20client%20security%20kb%20article%2010-22-04.doc&amp;art=AKB6859&amp;source=Altiris%20Helpdesk&amp;artID=23644&amp;refpara=532392&amp;key=akb6859

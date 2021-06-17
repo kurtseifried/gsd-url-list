@@ -1,0 +1,15 @@
+http://securityadvisories.dlink.com/security/publication.aspx?name=SAP10002
+http://securityadvisories.dlink.com/security/publication.aspx?name=SAP10003
+http://securityadvisories.dlink.com/security/publication.aspx?name=SAP10004
+http://securityadvisories.dlink.com/security/publication.aspx?name=SAP10006
+http://securityadvisories.dlink.com/security/publication.aspx?name=SAP10008
+http://securityadvisories.dlink.com/security/publication.aspx?name=SAP10018
+http://securityadvisories.dlink.com/security/publication.aspx?name=SAP10023
+http://securityadvisories.dlink.com/security/publication.aspx?name=SAP10027
+http://securityadvisories.dlink.com/security/publication.aspx?name=SAP10029
+http://securityadvisories.dlink.com/security/publication.aspx?name=SAP10048
+http://securityadvisories.dlink.com/security/publication.aspx?name=SAP10049
+http://securityadvisories.dlink.com/security/publication.aspx?name=SAP10050
+http://securityadvisories.dlink.com/security/publication.aspx?name=SAP10051
+http://securityadvisories.dlink.com/security/publication.aspx?name=SAP10052
+http://securityadvisories.dlink.com/security/publication.aspx?name=SAP10055

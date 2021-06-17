@@ -1,0 +1,16 @@
+http://arstechnica.com/articles/paedia/wpa-cracked.ars
+http://arstechnica.com/business/news/2012/03/ie-9-on-latest-windows-gets-stomped-at-hacker-contest.ars
+http://arstechnica.com/business/news/2012/04/backdoor-in-mission-critical-hardware-threatens-power-traffic-control-systems.ars
+http://arstechnica.com/journals/apple.ars/2007/2/14/7063
+http://arstechnica.com/news.ars/post/20090113-new-method-of-phishmongering-could-fool-experienced-users.html
+http://arstechnica.com/security/2012/09/crime-hijacks-https-sessions/
+http://arstechnica.com/security/2012/09/oracle-database-stealth-password-cracking-vulnerability/
+http://arstechnica.com/security/2012/12/developer-warns-of-critical-vulnerability-in-many-samsung-smartphones/
+http://arstechnica.com/security/2013/01/critical-java-vulnerabilies-confirmed-in-latest-version/
+http://arstechnica.com/security/2013/08/holy-sht-smart-toilet-hack-attack/
+http://arstechnica.com/security/2013/09/stop-using-nsa-influence-code-in-our-product-rsa-tells-customers/
+http://arstechnica.com/security/2014/07/mass-exploit-of-wordpress-plugin-backdoors-sites-running-joomla-magento-too/
+http://arstechnica.com/security/2014/10/adobes-e-book-reader-sends-your-reading-logs-back-to-adobe-in-plain-text/
+http://arstechnica.com/security/2015/06/new-exploit-turns-samsung-galaxy-phones-into-remote-bugging-devices/
+http://arstechnica.com/security/2015/12/unauthorized-code-in-juniper-firewalls-decrypts-encrypted-vpn-traffic/
+http://arstechnica.com/security/2016/08/new-attack-steals-ssns-e-mail-addresses-and-more-from-https-pages/

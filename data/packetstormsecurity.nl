@@ -1,0 +1,11 @@
+http://packetstormsecurity.nl/0206-exploits/magiccard_vuln.txt
+http://packetstormsecurity.nl/0310-exploits/FlexWATCH.txt
+http://packetstormsecurity.nl/0406-exploits/roundUP.txt
+http://packetstormsecurity.nl/0408-exploits/clearswift.txt
+http://packetstormsecurity.nl/0408-exploits/merak527.txt
+http://packetstormsecurity.nl/0409-exploits/sudoedit.txt
+http://packetstormsecurity.nl/0410-advisories/masterOrionIII.txt
+http://packetstormsecurity.nl/0410-exploits/alexPHP.txt
+http://packetstormsecurity.nl/0410-exploits/mssql.7.0.dos.c
+http://packetstormsecurity.nl/0411-exploits/eudora62014.txt
+http://packetstormsecurity.nl/0701-exploits/igshop10-multiple.txt

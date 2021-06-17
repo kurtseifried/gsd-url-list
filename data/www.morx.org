@@ -1,0 +1,6 @@
+http://www.morx.org/guestbook.txt
+http://www.morx.org/outblazeXSS.txt
+http://www.morx.org/phpquiz.txt
+http://www.morx.org/rev.txt
+http://www.morx.org/ring.txt
+http://www.morx.org/vcap.txt

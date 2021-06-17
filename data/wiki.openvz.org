@@ -1,0 +1,1 @@
+http://wiki.openvz.org/Download/kernel/rhel6-testing/042stab080.2

@@ -1,0 +1,4 @@
+http://redmine.ruby-lang.org/issues/4579
+http://redmine.ruby-lang.org/issues/show/1091
+http://redmine.ruby-lang.org/issues/show/4338
+http://redmine.ruby-lang.org/issues/show/794

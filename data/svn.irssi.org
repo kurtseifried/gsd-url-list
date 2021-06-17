@@ -1,0 +1,2 @@
+http://svn.irssi.org/cgi-bin/viewvc.cgi/irssi/trunk/src/core/nicklist.c?root=irssi&amp;amp;r1=4922&amp;amp;r2=5126
+http://svn.irssi.org/cgi-bin/viewvc.cgi/irssi/trunk/src/core/nicklist.c?root=irssi&amp;r1=4922&amp;r2=5126

@@ -1,0 +1,1 @@
+http://samizdat.nongnu.org/release-notes/samizdat-0.6.1-xss-escape-title.patch

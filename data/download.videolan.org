@@ -1,0 +1,1 @@
+http://download.videolan.org/pub/videolan/vlc/1.1.6/vlc-1.1.6.tar.bz2

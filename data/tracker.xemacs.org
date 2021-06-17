@@ -1,0 +1,2 @@
+http://tracker.xemacs.org/XEmacs/its/issue378
+http://tracker.xemacs.org/XEmacs/its/issue534

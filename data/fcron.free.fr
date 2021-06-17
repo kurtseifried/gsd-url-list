@@ -1,0 +1,4 @@
+http://fcron.free.fr/
+http://fcron.free.fr/CHANGES.html
+http://fcron.free.fr/doc/en/changes.html
+http://fcron.free.fr/news.php#a20060206a.xml

@@ -1,0 +1,2 @@
+http://www1.uk.squid-cache.org/Versions/v2/2.5/bugs/#squid-2.5.STABLE7-post
+http://www1.uk.squid-cache.org/squid/Versions/v2/2.5/bugs/#squid-2.5.STABLE6-ntlm_fetch_string

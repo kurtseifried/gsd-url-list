@@ -1,0 +1,6 @@
+http://www.ngenuity.org/wordpress/2009/01/28/ngenuity-2009-003-expressionengine-persistent-cross-site-scripting/
+http://www.ngenuity.org/wordpress/2009/03/10/ngenuity-2009-005-opencart-order-by-blind-sql-injection/
+http://www.ngenuity.org/wordpress/2009/06/26/osticket-admin-login-blind-sql-injection/
+http://www.ngenuity.org/wordpress/2009/08/08/ngenuity-ticket-subject-persistent-xss-in-kayako-supportsuite/
+http://www.ngenuity.org/wordpress/2010/01/14/ngenuity-2010-001-zenoss-getjsoneventsinfo-sql-injection/
+http://www.ngenuity.org/wordpress/2010/01/14/ngenuity-2010-002-zenoss-multiple-admin-csrf/

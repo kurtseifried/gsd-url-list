@@ -1,0 +1,2 @@
+http://wiki.jboss.org/wiki/Wiki.jsp?page=SecureJBoss
+http://wiki.jboss.org/wiki/Wiki.jsp?page=SecureTheJmxConsole

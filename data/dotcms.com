@@ -1,0 +1,9 @@
+http://dotcms.com
+http://dotcms.com/dotCMSVersions/
+http://dotcms.com/security/SI-14
+http://dotcms.com/security/SI-32
+http://dotcms.com/security/SI-33
+http://dotcms.com/security/SI-34
+http://dotcms.com/security/SI-35
+http://dotcms.com/security/SI-36
+http://dotcms.com/security/SI-39

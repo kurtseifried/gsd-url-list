@@ -1,0 +1,9 @@
+http://theforeman.org/manuals/1.2/index.html#Releasenotesfor1.2.2
+http://theforeman.org/manuals/1.9/index.html#Releasenotesfor1.9
+http://theforeman.org/security.html
+http://theforeman.org/security.html#2014-3653
+http://theforeman.org/security.html#2015-7518
+http://theforeman.org/security.html#2016-2100
+http://theforeman.org/security.html#2016-3693
+http://theforeman.org/security.html#2016-3728
+http://theforeman.org/security.html#CVE-2015-5233:reportsshow/destroynotrestrictedbyhostauthorization

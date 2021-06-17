@@ -1,0 +1,2 @@
+http://www.monkey.org/openbsd/archive/ports/0407/msg00265.html
+http://www.monkey.org/~dugsong/dsocks/

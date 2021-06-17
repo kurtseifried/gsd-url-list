@@ -1,0 +1,8 @@
+http://www.movabletype.org/2011/05/movable_type_51_and_505_436_security_update.html
+http://www.movabletype.org/2012/02/movable_type_513_507_and_438_security_updates.html
+http://www.movabletype.org/2013/01/movable_type_438_patch.html
+http://www.movabletype.org/documentation/appendices/release-notes/426.html
+http://www.movabletype.org/documentation/appendices/release-notes/513.html
+http://www.movabletype.org/documentation/appendices/release-notes/movable-type-502.html
+http://www.movabletype.org/documentation/appendices/release-notes/movable-type-504-435-release-notes.html
+http://www.movabletype.org/mt_423_change_log.html

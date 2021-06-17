@@ -1,0 +1,2 @@
+http://www.tornadoweb.org/documentation/releases/v2.2.1.html
+http://www.tornadoweb.org/en/stable/releases/v3.2.2.html

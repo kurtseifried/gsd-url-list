@@ -1,0 +1,5 @@
+http://avahi.org/changeset/1482
+http://avahi.org/milestone/Avahi%200.6.15
+http://avahi.org/milestone/Avahi%200.6.20
+http://avahi.org/milestone/Avahi%200.6.24
+http://avahi.org/ticket/325

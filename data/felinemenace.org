@@ -1,0 +1,3 @@
+http://felinemenace.org/advisories/bmv_advisory.txt
+http://felinemenace.org/advisories/macosx.txt
+http://felinemenace.org/~jaguar/advisories/log2mail.txt

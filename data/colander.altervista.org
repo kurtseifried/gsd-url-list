@@ -1,0 +1,12 @@
+http://colander.altervista.org/advisory/ASPDisc.txt
+http://colander.altervista.org/advisory/ASzGB.txt
+http://colander.altervista.org/advisory/CAForum.txt
+http://colander.altervista.org/advisory/CANews.txt
+http://colander.altervista.org/advisory/CuteGuestbook.txt
+http://colander.altervista.org/advisory/DayfoxBlog.txt
+http://colander.altervista.org/advisory/HTGuestBook2.txt
+http://colander.altervista.org/advisory/TDGuestBook.txt
+http://colander.altervista.org/advisory/UBlog.txt
+http://colander.altervista.org/advisory/bloggage.txt
+http://colander.altervista.org/advisory/riblog.txt
+http://colander.altervista.org/advisory/vlbook.txt

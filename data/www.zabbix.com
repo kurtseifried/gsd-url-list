@@ -1,0 +1,14 @@
+http://www.zabbix.com/forum/showthread.php?p=68770
+http://www.zabbix.com/forum/showthread.php?t=8400
+http://www.zabbix.com/rn1.1.5.php
+http://www.zabbix.com/rn1.8.10.php
+http://www.zabbix.com/rn1.8.16.php
+http://www.zabbix.com/rn1.8.19rc1.php
+http://www.zabbix.com/rn1.8.2.php
+http://www.zabbix.com/rn1.8.22.php
+http://www.zabbix.com/rn1.8.6.php
+http://www.zabbix.com/rn2.0.10rc1.php
+http://www.zabbix.com/rn2.0.14.php
+http://www.zabbix.com/rn2.0.5rc1.php
+http://www.zabbix.com/rn2.2.1rc1.php
+http://www.zabbix.com/rn2.2.8.php

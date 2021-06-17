@@ -1,0 +1,6 @@
+http://bugs.koha-community.org/bugzilla3/show_bug.cgi?id=11660
+http://bugs.koha-community.org/bugzilla3/show_bug.cgi?id=11661
+http://bugs.koha-community.org/bugzilla3/show_bug.cgi?id=11662
+http://bugs.koha-community.org/bugzilla3/show_bug.cgi?id=11666
+http://bugs.koha-community.org/bugzilla3/show_bug.cgi?id=13425
+http://bugs.koha-community.org/bugzilla3/show_bug.cgi?id=14416#c4

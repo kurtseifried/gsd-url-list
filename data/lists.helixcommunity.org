@@ -1,0 +1,11 @@
+http://lists.helixcommunity.org/pipermail/client-cvs/2008-January/003756.html
+http://lists.helixcommunity.org/pipermail/client-cvs/2008-January/003759.html
+http://lists.helixcommunity.org/pipermail/client-dev/2008-January/004591.html
+http://lists.helixcommunity.org/pipermail/common-cvs/2007-July/014956.html
+http://lists.helixcommunity.org/pipermail/common-cvs/2008-January/015484.html
+http://lists.helixcommunity.org/pipermail/datatype-cvs/2008-July/008455.html
+http://lists.helixcommunity.org/pipermail/datatype-cvs/2008-September/008633.html
+http://lists.helixcommunity.org/pipermail/datatype-cvs/2008-September/008678.html
+http://lists.helixcommunity.org/pipermail/helix-client-dev/2009-August/008092.html
+http://lists.helixcommunity.org/pipermail/protocol-cvs/2009-August/001943.html
+http://lists.helixcommunity.org/pipermail/server-cvs/2007-January/003783.html

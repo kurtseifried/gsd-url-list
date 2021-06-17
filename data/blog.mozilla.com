@@ -1,0 +1,14 @@
+http://blog.mozilla.com/security/2007/07/10/security-issue-in-url-protocol-handling-on-windows/
+http://blog.mozilla.com/security/2008/01/04/basicauth-dialog-realm-value-spoofing/
+http://blog.mozilla.com/security/2008/06/18/new-security-issue-under-investigation/
+http://blog.mozilla.com/security/2008/07/30/low-risk-denial-of-service-in-firefox/
+http://blog.mozilla.com/security/2008/12/30/md5-weaknesses-could-lead-to-certificate-forgery/
+http://blog.mozilla.com/security/2009/07/14/critical-javascript-vulnerability-in-firefox-35/
+http://blog.mozilla.com/security/2009/07/19/milw0rm-9158-stack-overflow-crash-not-exploitable-cve-2009-2479/
+http://blog.mozilla.com/security/2009/07/28/url-bar-spoofing-vulnerability/
+http://blog.mozilla.com/security/2010/02/22/secunia-advisory-sa38608/
+http://blog.mozilla.com/security/2010/03/18/update-on-secunia-advisory-sa38608/
+http://blog.mozilla.com/security/2010/03/31/plugging-the-css-history-leak/
+http://blog.mozilla.com/security/2010/10/26/critical-vulnerability-in-firefox-3-5-and-firefox-3-6/
+http://blog.mozilla.com/security/2011/06/16/webgl-graphics-memory-stealing-issue/
+http://blog.mozilla.com/security/2011/09/27/attack-against-tls-protected-communications/

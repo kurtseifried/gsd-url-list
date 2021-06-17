@@ -1,0 +1,3 @@
+http://jira.xwiki.org/jira/browse/XWIKI-366
+http://jira.xwiki.org/jira/browse/XWIKI-70
+http://jira.xwiki.org/jira/browse/XWIKI-726

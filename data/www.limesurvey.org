@@ -1,0 +1,3 @@
+http://www.limesurvey.org/content/view/102/1/lang,en/
+http://www.limesurvey.org/content/view/169/1/lang,en/
+http://www.limesurvey.org/en/stable-release

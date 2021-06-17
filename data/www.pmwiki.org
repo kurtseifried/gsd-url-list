@@ -1,0 +1,3 @@
+http://www.pmwiki.org/wiki/PITS/01271
+http://www.pmwiki.org/wiki/PmWiki/ChangeLog
+http://www.pmwiki.org/wiki/PmWiki/ReleaseNotes

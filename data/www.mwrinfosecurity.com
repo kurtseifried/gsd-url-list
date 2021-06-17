@@ -1,0 +1,12 @@
+http://www.mwrinfosecurity.com/advisories/MWR_crystal-reports-weak-sessions-advisory_2006-11-28.pdf
+http://www.mwrinfosecurity.com/advisories/mwri_cache-sample-files-xss-advisory_2007-04-04.pdf
+http://www.mwrinfosecurity.com/news/1658.html
+http://www.mwrinfosecurity.com/news/1690.html
+http://www.mwrinfosecurity.com/publications/mwri_elastic-path-arbitrary-file-system-access_2008-02-22.pdf
+http://www.mwrinfosecurity.com/publications/mwri_ibm-lotus-domino-accept-language-stack-overflow_2008-05-20.pdf
+http://www.mwrinfosecurity.com/publications/mwri_interwoven-worksite-activex-control-remote-code-execution_2008-03-10.pdf
+http://www.mwrinfosecurity.com/publications/mwri_itn-news-gadget-advisory_2008-02-04.pdf
+http://www.mwrinfosecurity.com/publications/mwri_merak-webmail-xss-advisory_2008-09-17.pdf
+http://www.mwrinfosecurity.com/publications/mwri_national-rail-enquiries-gadget-advisory_2008-04-24.pdf
+http://www.mwrinfosecurity.com/publications/mwri_plogger-photo-gallery-sql-injection-vulnerability_2007-12-17.pdf
+http://www.mwrinfosecurity.com/publications/mwri_watchguard-firebox-pptp-vpn-user-enumeration-advisory_2008-04-04.pdf

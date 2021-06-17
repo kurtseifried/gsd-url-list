@@ -1,0 +1,15 @@
+http://bugs.icu-project.org/trac/changeset/35699
+http://bugs.icu-project.org/trac/changeset/36801
+http://bugs.icu-project.org/trac/changeset/37080
+http://bugs.icu-project.org/trac/changeset/37162
+http://bugs.icu-project.org/trac/changeset/39671
+http://bugs.icu-project.org/trac/changeset/40324/trunk/icu4c/source/i18n/zonemeta.cpp
+http://bugs.icu-project.org/trac/changeset/40494
+http://bugs.icu-project.org/trac/ticket/10107
+http://bugs.icu-project.org/trac/ticket/10318
+http://bugs.icu-project.org/trac/ticket/1089
+http://bugs.icu-project.org/trac/ticket/11369
+http://bugs.icu-project.org/trac/ticket/11370
+http://bugs.icu-project.org/trac/ticket/11371
+http://bugs.icu-project.org/trac/ticket/5691
+http://bugs.icu-project.org/trac/ticket/8984

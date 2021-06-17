@@ -1,0 +1,6 @@
+http://svn.eu.apache.org/viewvc/tomcat/connectors/trunk/jk/native/common/jk_ajp_common.c?r1=702387&amp;amp;r2=702540&amp;amp;pathrev=702540&amp;amp;diff_format=h
+http://svn.eu.apache.org/viewvc/tomcat/connectors/trunk/jk/native/common/jk_ajp_common.c?r1=702387&amp;r2=702540&amp;pathrev=702540&amp;diff_format=h
+http://svn.eu.apache.org/viewvc/tomcat/connectors/trunk/jk/xdocs/miscellaneous/changelog.xml?view=markup&amp;amp;pathrev=702540
+http://svn.eu.apache.org/viewvc/tomcat/connectors/trunk/jk/xdocs/miscellaneous/changelog.xml?view=markup&amp;pathrev=702540
+http://svn.eu.apache.org/viewvc?view=rev&amp;amp;revision=702540
+http://svn.eu.apache.org/viewvc?view=rev&amp;revision=702540

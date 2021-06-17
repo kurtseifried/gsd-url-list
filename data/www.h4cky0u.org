@@ -1,0 +1,10 @@
+http://www.h4cky0u.org/advisories/HYA-2005-007-subscribe-me-pro.txt
+http://www.h4cky0u.org/advisories/HYA-2005-008-alstrasoft-epay-pro.txt
+http://www.h4cky0u.org/advisories/HYSA-2005-009-elite-forum.txt
+http://www.h4cky0u.org/advisories/HYSA-2006-001-phpbb.txt
+http://www.h4cky0u.org/advisories/HYSA-2006-002-phpclan.txt
+http://www.h4cky0u.org/advisories/HYSA-2006-003-oi-email.txt
+http://www.h4cky0u.org/advisories/HYSA-2006-004-phpbanner.txt
+http://www.h4cky0u.org/advisories/HYSA-2006-006-g-book.txt
+http://www.h4cky0u.org/advisories/HYSA-2006-008-mybloggie.txt
+http://www.h4cky0u.org/viewtopic.php?t=26834

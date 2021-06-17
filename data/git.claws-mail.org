@@ -1,0 +1,1 @@
+http://git.claws-mail.org/?p=claws.git;a=commit;h=d390fa07f5548f3173dd9cc13b233db5ce934c82

@@ -1,0 +1,1 @@
+http://libtiff.maptools.org/v4.0.7.html

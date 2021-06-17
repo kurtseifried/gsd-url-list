@@ -1,0 +1,1 @@
+http://www.kryptowire.com/disclosures/CVE-2016-6910/Factory_Resets_and_Obtaining_Notifications_on_Samsung_Android_Devices.pdf

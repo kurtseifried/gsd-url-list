@@ -1,0 +1,4 @@
+http://www.mnin.org/advisories/2006_cp5_tweed.pdf
+http://www.mnin.org/advisories/2006_novell_httpstk.pdf
+http://www.mnin.org/advisories/2007_firepass.pdf
+http://www.mnin.org/advisories/2008_symarkpb.pdf

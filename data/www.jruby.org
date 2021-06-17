@@ -1,0 +1,1 @@
+http://www.jruby.org/2010/04/26/jruby-1-4-1-xss-vulnerability.html

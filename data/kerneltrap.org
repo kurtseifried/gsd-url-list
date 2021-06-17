@@ -1,0 +1,6 @@
+http://kerneltrap.org/mailarchive/git-commits-head/2008/5/8/1760604
+http://kerneltrap.org/mailarchive/git-commits-head/2009/12/8/15289
+http://kerneltrap.org/mailarchive/git/2008/7/16/2529284
+http://kerneltrap.org/mailarchive/linux-kernel/2008/2/6/752194/thread
+http://kerneltrap.org/mailarchive/linux-netdev/2010/3/3/6271093/thread
+http://kerneltrap.org/mailarchive/linux-netdev/2010/5/21/6277805

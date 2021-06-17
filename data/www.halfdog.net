@@ -1,0 +1,13 @@
+http://www.halfdog.net/Security/2011/ApacheModSetEnvIfIntegerOverflow/
+http://www.halfdog.net/Security/2011/ApacheModSetEnvIfIntegerOverflow/DemoExploit.html
+http://www.halfdog.net/Security/2011/ApacheScoreboardInvalidFreeOnShutdown/
+http://www.halfdog.net/Security/2011/SuidBinariesAndProcInterface/
+http://www.halfdog.net/Security/2013/Vm86SyscallTaskSwitchKernelPanic/
+http://www.halfdog.net/Security/2015/ApportKernelCrashdumpFileAccessVulnerabilities/
+http://www.halfdog.net/Security/2015/MandbSymlinkLocalRootPrivilegeEscalation/
+http://www.halfdog.net/Security/2015/PtChownArbitraryPtsAccessViaUserNamespace/
+http://www.halfdog.net/Security/2015/UpstartLogrotationPrivilegeEscalation/
+http://www.halfdog.net/Security/2016/AufsPrivilegeEscalationInUserNamespaces/
+http://www.halfdog.net/Security/2016/OverlayfsOverFusePrivilegeEscalation/
+http://www.halfdog.net/Security/2016/UserNamespaceOverlayfsXattrSetgidPrivilegeEscalation/
+http://www.halfdog.net/Security/FuseTimerace/

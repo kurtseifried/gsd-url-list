@@ -1,0 +1,2 @@
+http://mknod.org/svn/fetchmail/branches/BRANCH_6-3/fetchmail-SA-2007-02.txt
+http://mknod.org/svn/fetchmail/branches/BRANCH_6-3/fetchmail-SA-2010-01.txt

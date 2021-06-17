@@ -1,0 +1,2 @@
+http://bugs.elvinbts.org/show_bug.php?id=49
+http://bugs.elvinbts.org/show_bug.php?id=50

@@ -1,0 +1,5 @@
+ftp://ftp.freedesktop.org/pub/xorg/X11R7.3/patches/xorg-xserver-1.4-cve-2008-1377.diff
+ftp://ftp.freedesktop.org/pub/xorg/X11R7.3/patches/xorg-xserver-1.4-cve-2008-1379.diff
+ftp://ftp.freedesktop.org/pub/xorg/X11R7.3/patches/xorg-xserver-1.4-cve-2008-2360.diff
+ftp://ftp.freedesktop.org/pub/xorg/X11R7.3/patches/xorg-xserver-1.4-cve-2008-2361.diff
+ftp://ftp.freedesktop.org/pub/xorg/X11R7.3/patches/xorg-xserver-1.4-cve-2008-2362.diff

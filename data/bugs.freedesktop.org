@@ -1,0 +1,11 @@
+http://bugs.freedesktop.org/attachment.cgi?id=30599&amp;action=edit
+http://bugs.freedesktop.org/attachment.cgi?id=30599&amp;amp;action=edit
+http://bugs.freedesktop.org/show_bug.cgi?id=12298
+http://bugs.freedesktop.org/show_bug.cgi?id=12299
+http://bugs.freedesktop.org/show_bug.cgi?id=15295
+http://bugs.freedesktop.org/show_bug.cgi?id=17803
+http://bugs.freedesktop.org/show_bug.cgi?id=19702
+http://bugs.freedesktop.org/show_bug.cgi?id=19790
+http://bugs.freedesktop.org/show_bug.cgi?id=23074
+http://bugs.freedesktop.org/show_bug.cgi?id=26982
+http://bugs.freedesktop.org/show_bug.cgi?id=7447

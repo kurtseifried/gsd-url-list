@@ -1,0 +1,2 @@
+http://amarok.kde.org/en/releases/1/4/10
+http://amarok.kde.org/en/releases/2.0.1.1

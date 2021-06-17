@@ -1,0 +1,10 @@
+http://jira.codehaus.org/browse/CONTINUUM-2604
+http://jira.codehaus.org/browse/GEOS-1747
+http://jira.codehaus.org/browse/JETTY-1004
+http://jira.codehaus.org/browse/JETTY-386#action_117699
+http://jira.codehaus.org/browse/JETTY-452
+http://jira.codehaus.org/browse/JETTY-980
+http://jira.codehaus.org/browse/JETTY/fixforversion/13950
+http://jira.codehaus.org/browse/MRM-1438
+http://jira.codehaus.org/browse/WSTX-285
+http://jira.codehaus.org/browse/WSTX-287

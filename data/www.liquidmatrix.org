@@ -1,0 +1,5 @@
+http://www.liquidmatrix.org/blog/2007/12/05/advisory-cross-site-scripting-in-ciscoworks/
+http://www.liquidmatrix.org/blog/2007/12/10/advisory-websense-xss-vulnerability/
+http://www.liquidmatrix.org/blog/2008/01/29/advisory-tripwire-enterprise-xss-vulnerability
+http://www.liquidmatrix.org/blog/2008/03/11/advisory-adobe-livecycle-workflow-xss-vulnerability/
+http://www.liquidmatrix.org/blog/2008/05/28/advisory-ciscoworks-arbitrary-code-execution-vulnerability/

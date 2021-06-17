@@ -1,0 +1,1 @@
+http://lesscss.org/usage/#less-options-enable-inline-javascript-deprecated-

@@ -1,0 +1,13 @@
+http://www.z0rlu.ownspace.org/index.php?/archives/50-EScontacts-XSS.html
+http://www.z0rlu.ownspace.org/index.php?/archives/52-MyBoard-1.0.12-XSS.html
+http://www.z0rlu.ownspace.org/index.php?/archives/58-Crazy-Goomba-1.2.1-SQL-inj.html
+http://www.z0rlu.ownspace.org/index.php?/archives/60-Advanced-Electron-Forum-AEF-1.0.6-XSS.html
+http://www.z0rlu.ownspace.org/index.php?/archives/63-Blog-PixelMotion-XSS.html
+http://www.z0rlu.ownspace.org/index.php?/archives/65-hive-v2.RC2-XSS.html
+http://www.z0rlu.ownspace.org/index.php?/archives/70-cnews-1.0.1-XSS.html
+http://www.z0rlu.ownspace.org/index.php?/archives/74-Powered-by-TLM-CMS-index.php-sql-inj..html
+http://www.z0rlu.ownspace.org/index.php?/archives/75-GEDCOM_to_MySQL2-XSS.html
+http://www.z0rlu.ownspace.org/index.php?/archives/84-ACGV-News-v0.9.1-2003-SQL-inj.-XSS.html
+http://www.z0rlu.ownspace.org/index.php?/archives/85-hive-v2.0-RC2-LFi.html
+http://www.z0rlu.ownspace.org/index.php?/archives/86-ANG-AN-Guestbook-version-0.4-xss.html
+http://www.z0rlu.ownspace.org/index.php?/archives/91-TR-News-v2.1-xss.html

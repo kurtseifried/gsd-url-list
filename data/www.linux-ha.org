@@ -1,0 +1,2 @@
+http://www.linux-ha.org/SecurityIssues
+http://www.linux-ha.org/_cache/SecurityIssues__sec03.txt

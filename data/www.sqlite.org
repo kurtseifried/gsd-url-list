@@ -1,0 +1,3 @@
+http://www.sqlite.org/cgi/src/info/67985761aa93fb61
+http://www.sqlite.org/cvstrac/rlog?f=sqlite/src/encode.c
+http://www.sqlite.org/src/info/c494171f77dc2e5e04cb6d865e688448f04e5920

@@ -1,0 +1,9 @@
+http://www.acid-root.new.fr/advisories/12070214.txt
+http://www.acid-root.new.fr/advisories/13070411.txt
+http://www.acid-root.new.fr/advisories/14070612.txt
+http://www.acid-root.new.fr/advisories/boastmachine.txt
+http://www.acid-root.new.fr/advisories/csforum081.txt
+http://www.acid-root.new.fr/advisories/news52.txt
+http://www.acid-root.new.fr/advisories/npds510.txt
+http://www.acid-root.new.fr/advisories/phpmyfactures.txt
+http://www.acid-root.new.fr/advisories/vubb021b.txt

@@ -1,0 +1,10 @@
+http://www.matasano.com/advisories/netapp-iSCSI.txt
+http://www.matasano.com/log/1032/this-new-vulnerability-dowds-inhuman-flash-exploit/
+http://www.matasano.com/log/1070/updates-on-drew-yaos-terrible-ruby-vulnerabilities/
+http://www.matasano.com/log/469/many-rsa-signatures-may-be-forgeable-in-openssl-and-elsewhere/
+http://www.matasano.com/log/530/matasano-advisory-macos-x-mach-exception-server-privilege-escalation/
+http://www.matasano.com/log/592/finger-79tcp-mcdonald-dowd-and-schuh-challenge-part-2/
+http://www.matasano.com/log/633/alastair-houghton-debunks-lmh-mokb-finding/
+http://www.matasano.com/log/806/hot-off-the-matasano-sms-queue-cansec-macbook-challenge-won/
+http://www.matasano.com/log/812/breaking-macbook-vuln-in-quicktime-affects-win32-apple-code/
+http://www.matasano.com/log/894/theo-de-raadt-intel-core-2-bugs-assuredly-exploitable-from-userland/

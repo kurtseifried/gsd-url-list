@@ -1,0 +1,2 @@
+http://www.viart.com/another_critical_sql_injection_security_fix_for_version_3_5.html
+http://www.viart.com/ideal_process_script_fix_for_release_32_and_33_beta.html

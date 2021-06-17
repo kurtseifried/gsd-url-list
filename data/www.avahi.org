@@ -1,0 +1,3 @@
+http://www.avahi.org/#December2006
+http://www.avahi.org/changeset/1340
+http://www.avahi.org/ticket/84

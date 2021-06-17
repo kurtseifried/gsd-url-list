@@ -1,0 +1,10 @@
+http://lists.virus.org/bugtraq-0406/msg00221.html
+http://lists.virus.org/bugtraq-0406/msg00234.html
+http://lists.virus.org/darklab-0509/msg00011.html
+http://lists.virus.org/darklab-0509/msg00017.html
+http://lists.virus.org/darklab-0509/msg00018.html
+http://lists.virus.org/dw-0day-0412/msg00004.html
+http://lists.virus.org/full-disclosure-0508/msg00376.html
+http://lists.virus.org/full-disclosure-0702/msg00225.html
+http://lists.virus.org/macsec-0405/msg00000.html
+http://lists.virus.org/vulnwatch-0201/msg00008.html

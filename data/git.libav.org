@@ -1,0 +1,16 @@
+http://git.libav.org/?p=libav.git;a=blob;f=Changelog;hb=refs/tags/v0.8.12
+http://git.libav.org/?p=libav.git;a=blob;f=Changelog;hb=refs/tags/v9.11
+http://git.libav.org/?p=libav.git;a=commit;h=386741f887714d3e46c9e8fe577e326a7964037b
+http://git.libav.org/?p=libav.git;a=commit;h=58b2e0f0f2fc96c1158e04f8aba95cbe6157a1a3
+http://git.libav.org/?p=libav.git;a=commit;h=635bcfccd439480003b74a665b5aa7c872c1ad6b
+http://git.libav.org/?p=libav.git;a=commit;h=6e24b9488e67849a28e64a8056e05f83cf439229
+http://git.libav.org/?p=libav.git;a=commit;h=71db86d53b5c6872cea31bf714a1a38ec78feaba
+http://git.libav.org/?p=libav.git;a=commit;h=8b94df0f2047e9728cb872adc9e64557b7a5152f
+http://git.libav.org/?p=libav.git;a=commit;h=a02e8df973f5478ec82f4c507f5b5b191a5ecb6b
+http://git.libav.org/?p=libav.git;a=commit;h=b57d262412204e54a7ef8fa1b23ff4dcede622e5
+http://git.libav.org/?p=libav.git;a=commit;h=c0cbe36b18ab3eb13a53fe684ec1f63a00df2c86
+http://git.libav.org/?p=libav.git;a=commit;h=c509f4f74713b035a06f79cb4d00e708f5226bc5
+http://git.libav.org/?p=libav.git;a=commit;h=ce7aee9b733134649a6ce2fa743e51733f33e67e
+http://git.libav.org/?p=libav.git;a=commitdiff;h=204cb29b3c84a74cbcd059d353c70c8bdc567d98
+http://git.libav.org/?p=libav.git;a=commitdiff;h=2d1c0dea5f6b91bec7f5fa53ec050913d851e366
+http://git.libav.org/?p=libav.git;a=commitdiff;h=5a396bb3a66a61a68b80f2369d0249729bf85e04

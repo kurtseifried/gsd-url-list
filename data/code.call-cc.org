@@ -1,0 +1,6 @@
+http://code.call-cc.org/cgi-bin/gitweb.cgi?p=chicken-core.git;a=blob;f=NEWS;h=c21c7cf9d1faf4f78736890ac7ca1d4b82d72ddd;hb=c6750af99ada7fa4815ee834e4e705bcfac9c137
+http://code.call-cc.org/cgi-bin/gitweb.cgi?p=chicken-core.git;a=commit;h=1d06ce7e21c7e903ca5dca11fda6fcf2cc52de5e
+http://code.call-cc.org/cgi-bin/gitweb.cgi?p=chicken-core.git;a=commit;h=edd4926bb4f4c97760a0e03b0d0e8210398fe967
+http://code.call-cc.org/cgi-bin/gitweb.cgi?p=chicken-core.git;a=commitdiff;h=556108092774086b6c86c2e27daf3f740ffec091
+http://code.call-cc.org/cgi-bin/gitweb.cgi?p=chicken-core.git;a=commitdiff;h=766056cd5f26b1d529405705449cb534609c113f
+http://code.call-cc.org/cgi-bin/gitweb.cgi?p=chicken-core.git;a=commitdiff;h=9e2022652258e8a30e5cedbf0abc9cd85a0f6af7

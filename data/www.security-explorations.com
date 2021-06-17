@@ -1,0 +1,9 @@
+http://www.security-explorations.com/en/SE-2012-01-details.html
+http://www.security-explorations.com/materials/SE-2012-01-IBM-2.pdf
+http://www.security-explorations.com/materials/SE-2012-01-IBM-3.pdf
+http://www.security-explorations.com/materials/SE-2012-01-IBM-4.pdf
+http://www.security-explorations.com/materials/SE-2012-01-IBM-5.pdf
+http://www.security-explorations.com/n2press.htm
+http://www.security-explorations.com/n2srp.htm
+http://www.security-explorations.com/n2vendors.htm
+http://www.security-explorations.com/report_toc.pdf

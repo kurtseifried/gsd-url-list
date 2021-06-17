@@ -1,0 +1,8 @@
+http://bugs.squid-cache.org/show_bug.cgi?id=2858
+http://bugs.squid-cache.org/show_bug.cgi?id=3009
+http://bugs.squid-cache.org/show_bug.cgi?id=3021
+http://bugs.squid-cache.org/show_bug.cgi?id=3237#c12
+http://bugs.squid-cache.org/show_bug.cgi?id=4066
+http://bugs.squid-cache.org/show_bug.cgi?id=4437
+http://bugs.squid-cache.org/show_bug.cgi?id=4455
+http://bugs.squid-cache.org/show_bug.cgi?id=4501

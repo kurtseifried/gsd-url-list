@@ -1,0 +1,1 @@
+http://gamasutra.com/view/news/340907/A_nowfixed_Origin_vulnerability_potentially_opened_the_client_to_hackers.php

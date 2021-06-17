@@ -1,0 +1,14 @@
+http://www.nai.com/nai_labs/asp_set/advisory/06_ypbindsetme_adv.asp
+http://www.nai.com/nai_labs/asp_set/advisory/17_inn_avd.asp
+http://www.nai.com/nai_labs/asp_set/advisory/25_windows_nt_dos_adv.asp
+http://www.nai.com/nai_labs/asp_set/advisory/39_Trend.asp
+http://www.nai.com/nai_labs/asp_set/advisory/41initialized.asp
+http://www.nai.com/nai_labs/asp_set/advisory/43_Advisory.asp
+http://www.nai.com/research/covert/advisories/043.asp
+http://www.nai.com/research/covert/advisories/044.asp
+http://www.nai.com/research/covert/advisories/045.asp
+http://www.nai.com/research/covert/advisories/047.asp
+http://www.nai.com/research/covert/advisories/048.asp
+http://www.nai.com/research/covert/advisories/049.asp
+http://www.nai.com/research/covert/advisories/050.asp
+http://www.nai.com/us/promos/mcafee/epo_vulnerabilities.asp

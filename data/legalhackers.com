@@ -1,0 +1,11 @@
+http://legalhackers.com/advisories/Adobe-ColdFusion-11-XXE-Exploit-CVE-2016-4264.txt
+http://legalhackers.com/advisories/CakePHP-IP-Spoofing-Vulnerability.txt
+http://legalhackers.com/advisories/MySQL-Exploit-Remote-Root-Code-Execution-Privesc-CVE-2016-6662.html
+http://legalhackers.com/advisories/MySQL-Maria-Percona-RootPrivEsc-CVE-2016-6664-5617-Exploit.html
+http://legalhackers.com/advisories/Tomcat-DebPkgs-Root-Privilege-Escalation-Exploit-CVE-2016-1240.html
+http://legalhackers.com/advisories/Tomcat-RedHat-Pkgs-Root-PrivEsc-Exploit-CVE-2016-5425.html
+http://legalhackers.com/advisories/nagios-check_dhcp.txt
+http://legalhackers.com/advisories/vBulletin-SSRF-Vulnerability-Exploit.txt
+http://legalhackers.com/advisories/zabbix181api-sql.txt
+http://legalhackers.com/advisories/zend-framework-XXE-vuln.txt
+http://legalhackers.com/poc/zabbix181api.pl-poc

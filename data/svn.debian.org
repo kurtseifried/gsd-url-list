@@ -1,0 +1,16 @@
+http://svn.debian.org/viewsvn/pkg-glibc/glibc-package/trunk/debian/patches/any/submitted-nis-shadow.diff?revision=4062&amp;amp;view=markup
+http://svn.debian.org/viewsvn/pkg-glibc/glibc-package/trunk/debian/patches/any/submitted-nis-shadow.diff?revision=4062&amp;view=markup
+http://svn.debian.org/wsvn/debian-tex/?op=comp&amp;amp;compare%5B%5D=%2Ftex-common%2Ftrunk@4781&amp;amp;compare%5B%5D=%2Ftex-common%2Ftrunk@4812
+http://svn.debian.org/wsvn/debian-tex/?op=comp&amp;compare[]=%2Ftex-common%2Ftrunk@4781&amp;compare[]=%2Ftex-common%2Ftrunk@4812
+http://svn.debian.org/wsvn/debian-tex/tex-common/trunk/?op=log
+http://svn.debian.org/wsvn/devscripts/trunk/scripts/uscan.pl?op=diff&amp;amp;rev=1984&amp;amp;sc=1
+http://svn.debian.org/wsvn/devscripts/trunk/scripts/uscan.pl?op=diff&amp;rev=1984&amp;sc=1
+http://svn.debian.org/wsvn/devscripts/trunk/scripts/uscan.pl?op=log&amp;amp;rev=0&amp;amp;sc=1&amp;amp;isdir=0
+http://svn.debian.org/wsvn/devscripts/trunk/scripts/uscan.pl?op=log&amp;rev=0&amp;sc=1&amp;isdir=0
+http://svn.debian.org/wsvn/kernel/patch-tracking/CVE-2004-0997?op=file&amp;amp;rev=0&amp;amp;sc=0
+http://svn.debian.org/wsvn/kernel/patch-tracking/CVE-2004-0997?op=file&amp;rev=0&amp;sc=0
+http://svn.debian.org/wsvn/kernel/patch-tracking/CVE-2005-0528?op=file&amp;rev=0&amp;sc=0
+http://svn.debian.org/wsvn/pcsclite/?sc=1&amp;amp;rev=4208
+http://svn.debian.org/wsvn/pcsclite/?sc=1&amp;amp;rev=4334
+http://svn.debian.org/wsvn/pcsclite/?sc=1&amp;rev=4208
+http://svn.debian.org/wsvn/pcsclite/?sc=1&amp;rev=4334

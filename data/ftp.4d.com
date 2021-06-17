@@ -1,0 +1,2 @@
+ftp://ftp.4d.com/ACI_PRODUCT_REFERENCE_LIBRARY/4D_PRODUCT_DOCUMENTATION/PDF_Docs_by_4D_Product_A-Z/4D_WebSTAR/Software_Change_History.txt
+ftp://ftp.4d.com/ACI_PRODUCT_REFERENCE_LIBRARY/4D_PRODUCT_DOCUMENTATION/PDF_Docs_by_4D_Product_A-Z/4D_WebSTAR/Software_Change_History_535.txt

@@ -1,0 +1,2 @@
+http://gitweb.samba.org/?p=rsync.git;a=commit;h=83b94efa6b60a3ff5eee4c5f7812c617a90a03f6
+http://gitweb.samba.org/?p=samba.git;a=commit;h=bd269443e311d96ef495a9db47d1b95eb83bb8f4

@@ -1,0 +1,1 @@
+http://buzz.typo3.org/teams/security/article/advice-on-core-security-issue-regarding-filedenypattern/

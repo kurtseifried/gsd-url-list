@@ -1,0 +1,4 @@
+http://rt.perl.org/rt3/Public/Bug/Display.html?id=48156
+http://rt.perl.org/rt3/Public/Bug/Display.html?id=69973
+http://rt.perl.org/rt3/Public/Bug/Display.html?id=87336
+http://rt.perl.org/rt3/Ticket/Attachment/617489/295383/

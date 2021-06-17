@@ -1,0 +1,10 @@
+http://git.gplhost.com/gitweb/?p=dtc.git;a=blob;f=debian/changelog;h=dec9970db76b82295e9003ca34cecab8d629da4f;hb=65a7a1b166ea3c4325efd4da80a78498c829aa5a
+http://git.gplhost.com/gitweb/?p=dtc.git;a=blob;f=debian/changelog;hb=3eb6ef5cea6c571aae5e49e1930de778eca280c3
+http://git.gplhost.com/gitweb/?p=dtc.git;a=commit;h=89da9c519b04cda1b23e6290d2b0a6cea1bae31e
+http://git.gplhost.com/gitweb/?p=dtc.git;a=commit;h=9b75112fc12fead5740b1aaf0df562b5a9045ec0
+http://git.gplhost.com/gitweb/?p=dtc.git;a=commit;h=adffff7efb3687ff465ee0552a944dd3109f3cb0
+http://git.gplhost.com/gitweb/?p=dtc.git;a=commit;h=c97ab4ae43945de36534c40004d713b3b10113db
+http://git.gplhost.com/gitweb/?p=dtc.git;a=commit;h=e94e8b9cc354bfcaeb284d5331b815256bb46162
+http://git.gplhost.com/gitweb/?p=dtc.git;a=commit;h=f8e3b2d7cc2da313addc05394568ab9599499285
+http://git.gplhost.com/gitweb/?p=dtc.git;a=commitdiff;h=056e1d1849ff3aa183a410e2aab1c1c3e969247d
+http://git.gplhost.com/gitweb/?p=dtc.git;a=commitdiff;h=541d8457a6989a1a925bb866ed972a5f07c2de64

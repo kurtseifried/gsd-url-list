@@ -1,0 +1,13 @@
+http://www.apacheweek.com/features/security-13
+http://www.apacheweek.com/features/security-20
+http://www.apacheweek.com/issues/00-01-07#status
+http://www.apacheweek.com/issues/00-10-13
+http://www.apacheweek.com/issues/01-05-25
+http://www.apacheweek.com/issues/01-09-28#security
+http://www.apacheweek.com/issues/01-10-05#security
+http://www.apacheweek.com/issues/02-02-01#security
+http://www.apacheweek.com/issues/02-03-01#security
+http://www.apacheweek.com/issues/02-03-29#apache1324
+http://www.apacheweek.com/issues/02-10-04
+http://www.apacheweek.com/issues/03-01-24#security
+http://www.apacheweek.com/issues/04-03-12

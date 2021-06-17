@@ -1,0 +1,2 @@
+http://releng.netbsd.org/cgi-bin/req-2-0.cgi?show=1988
+http://releng.netbsd.org/cgi-bin/req-3.cgi?show=727

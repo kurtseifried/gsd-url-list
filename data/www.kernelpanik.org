@@ -1,0 +1,4 @@
+http://www.kernelpanik.org/docs/kernelpanik/bmachines.txt
+http://www.kernelpanik.org/docs/kernelpanik/cutenews.txt
+http://www.kernelpanik.org/docs/kernelpanik/panews.txt
+http://www.kernelpanik.org/docs/kernelpanik/wordpressadv.txt

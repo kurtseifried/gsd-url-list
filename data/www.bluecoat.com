@@ -1,0 +1,9 @@
+http://www.bluecoat.com/support/knowledge/advisory_connect_denial_ignore.html
+http://www.bluecoat.com/support/knowledge/advisory_host_header_stack_overflow.html
+http://www.bluecoat.com/support/knowledge/advisory_private_key_compromise.html
+http://www.bluecoat.com/support/knowledge/advisory_reporter_711_vulnerabilities.html
+http://www.bluecoat.com/support/knowledge/openSSL_RSA_Signature_forgery.html
+http://www.bluecoat.com/support/security-advisories/dns_cache_poisoning
+http://www.bluecoat.com/support/securityadvisories/advisory_cross-site_scripting_vulnerability
+http://www.bluecoat.com/support/securityadvisories/advisory_openssl_rsa_key_reconstruction_vulnerability
+http://www.bluecoat.com/support/securityadvisories/icap_patience

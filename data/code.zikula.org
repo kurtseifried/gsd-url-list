@@ -1,0 +1,3 @@
+http://code.zikula.org/core/ticket/1979
+http://code.zikula.org/core/ticket/2009
+http://code.zikula.org/core12/browser/tags/Zikula-1.2.5/src/docs/CHANGELOG

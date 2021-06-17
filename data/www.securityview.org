@@ -1,0 +1,3 @@
+http://www.securityview.org/confirmed-bug-in-firefox-1503.html
+http://www.securityview.org/dutch-student-finds-a-bug-in-upnp.html
+http://www.securityview.org/how-does-the-upnp-flaw-works.html

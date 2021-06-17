@@ -1,0 +1,4 @@
+http://www.mulliner.org/nfc/feed/collin_mulliner_25c3_attacking_nfc_phones.pdf
+http://www.mulliner.org/nfc/feed/collin_mulliner_eusecwest08_attacking_nfc_phones.pdf
+http://www.mulliner.org/pocketpc/CollinMulliner_defcon14_pocketpcphones.pdf
+http://www.mulliner.org/security/advisories/nokia6131nfc_uri_spoofing_and_dos_advisory.txt

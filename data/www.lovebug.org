@@ -1,0 +1,3 @@
+http://www.lovebug.org/argosoft_advisory.txt
+http://www.lovebug.org/imd_advisory.txt
+http://www.lovebug.org/pgina_dos.txt

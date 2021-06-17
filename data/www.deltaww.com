@@ -1,0 +1,2 @@
+http://www.deltaww.com/services/DownloadCenter2.aspx?secID=8&amp;amp;pid=2&amp;amp;tid=0&amp;amp;CID=06&amp;amp;itemID=060301&amp;amp;typeID=1&amp;amp;downloadID=,&amp;amp;title=--%20Select%20Product%20Series%20--&amp;amp;dataType=8;&amp;amp;check=1&amp;amp;hl=en-US
+http://www.deltaww.com/services/DownloadCenter2.aspx?secID=8&amp;pid=2&amp;tid=0&amp;CID=06&amp;itemID=060301&amp;typeID=1&amp;downloadID=,&amp;title=--%20Select%20Product%20Series%20--&amp;dataType=8;&amp;check=1&amp;hl=en-US

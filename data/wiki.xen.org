@@ -1,0 +1,8 @@
+http://wiki.xen.org/wiki/Security_Announcements#XSA-12_hypercall_set_debugreg_vulnerability
+http://wiki.xen.org/wiki/Security_Announcements#XSA-13_hypercall_physdev_get_free_pirq_vulnerability
+http://wiki.xen.org/wiki/Security_Announcements#XSA-14_XENMEM_populate_physmap_DoS_vulnerability
+http://wiki.xen.org/wiki/Security_Announcements#XSA-15_multiple_TMEM_hypercall_vulnerabilities
+http://wiki.xen.org/wiki/Security_Announcements#XSA-16_PHYSDEVOP_map_pirq_index_vulnerability
+http://wiki.xen.org/wiki/Security_Announcements#XSA-17_Qemu_VT100_emulation_vulnerability
+http://wiki.xen.org/wiki/Security_Announcements#XSA-18_grant_table_entry_swaps_have_inadequate_bounds_checking
+http://wiki.xen.org/wiki/Security_Announcements#XSA-1_Host_crash_due_to_failure_to_correctly_validate_PV_kernel_execution_state.

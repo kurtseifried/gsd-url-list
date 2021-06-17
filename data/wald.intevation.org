@@ -1,0 +1,4 @@
+http://wald.intevation.org/scm/viewvc.php?view=rev&amp;amp;root=openvas&amp;amp;revision=14437
+http://wald.intevation.org/scm/viewvc.php?view=rev&amp;root=openvas&amp;revision=14437
+http://wald.intevation.org/tracker/index.php?func=detail&amp;aid=327&amp;group_id=14&amp;atid=138
+http://wald.intevation.org/tracker/index.php?func=detail&amp;amp;aid=327&amp;amp;group_id=14&amp;amp;atid=138

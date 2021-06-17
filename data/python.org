@@ -1,0 +1,5 @@
+http://python.org/download/releases/2.6.8/
+http://python.org/download/releases/2.7.3/
+http://python.org/download/releases/3.1.5/
+http://python.org/download/releases/3.2.3/
+http://python.org/security/PSF-2005-001/patch-2.2.txt

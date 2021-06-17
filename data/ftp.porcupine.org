@@ -1,0 +1,4 @@
+ftp://ftp.porcupine.org/mirrors/postfix-release/experimental/postfix-2.6-20080814.HISTORY
+ftp://ftp.porcupine.org/mirrors/postfix-release/official/postfix-2.3.15.HISTORY
+ftp://ftp.porcupine.org/mirrors/postfix-release/official/postfix-2.4.8.HISTORY
+ftp://ftp.porcupine.org/mirrors/postfix-release/official/postfix-2.5.4.HISTORY

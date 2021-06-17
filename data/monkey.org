@@ -1,0 +1,2 @@
+http://monkey.org/openbsd/archive/tech/0112/msg00015.html
+http://monkey.org/~provos/libevent/

@@ -1,0 +1,1 @@
+http://www.metasploit.org/projects/Framework/exploits.html#distcc_exec

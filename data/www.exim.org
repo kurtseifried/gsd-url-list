@@ -1,0 +1,10 @@
+http://www.exim.org/lurker/message/20101207.215955.bb32d4f2.en.html
+http://www.exim.org/mail-archives/exim-users/Week-of-Mon-20050103/msg00028.html
+http://www.exim.org/pipermail/exim-announce/2003q3/000094.html
+http://www.exim.org/pipermail/exim-users/Week-of-Mon-20021202/046978.html
+http://www.exim.org/pipermail/exim-users/Week-of-Mon-20030811/057720.html
+http://www.exim.org/pipermail/exim-users/Week-of-Mon-20030811/057809.html
+http://www.exim.org/static/doc/CVE-2016-1531.txt
+http://www.exim.org/static/doc/CVE-2016-9963.txt
+http://www.exim.org/viewvc/pcre?view=revision&amp;amp;revision=1513
+http://www.exim.org/viewvc/pcre?view=revision&amp;revision=1513

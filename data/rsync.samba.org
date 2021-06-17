@@ -1,0 +1,4 @@
+http://rsync.samba.org/
+http://rsync.samba.org/ftp/rsync/security/rsync-3.0.1-xattr-alloc.diff
+http://rsync.samba.org/ftp/rsync/src/rsync-3.0.8-NEWS
+http://rsync.samba.org/security.html#s3_0_0

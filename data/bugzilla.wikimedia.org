@@ -1,0 +1,2 @@
+http://bugzilla.wikimedia.org/show_bug.cgi?id=6055
+http://bugzilla.wikimedia.org/show_bug.cgi?id=8819

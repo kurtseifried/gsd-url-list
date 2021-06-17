@@ -1,0 +1,3 @@
+http://www.swi-prolog.org/bugzilla/show_bug.cgi?id=7#c4
+http://www.swi-prolog.org/git/pl.git/commit/a9a6fc8a2a9cf3b9154b490a4b1ffaa8be4d723c
+http://www.swi-prolog.org/git/pl.git/commit/b2c88972e7515ada025e97e7d3ce3e34f81cf33e

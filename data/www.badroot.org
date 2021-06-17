@@ -1,0 +1,3 @@
+http://www.badroot.org/advisories/SA0x05
+http://www.badroot.org/advisories/SA0x06
+http://www.badroot.org/advisories/SA0x07

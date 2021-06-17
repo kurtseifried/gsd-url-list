@@ -1,0 +1,1 @@
+http://ftp.de.debian.org/debian/pool/main/h/hsolink/hsolink_1.0.118.orig.tar.gz

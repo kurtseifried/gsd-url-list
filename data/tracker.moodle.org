@@ -1,0 +1,10 @@
+http://tracker.moodle.org/browse/MDL-10341
+http://tracker.moodle.org/browse/MDL-16658
+http://tracker.moodle.org/browse/MDL-18552
+http://tracker.moodle.org/browse/MDL-21688
+http://tracker.moodle.org/browse/MDL-22040
+http://tracker.moodle.org/browse/MDL-22042
+http://tracker.moodle.org/browse/MDL-22631
+http://tracker.moodle.org/browse/MDL-24808
+http://tracker.moodle.org/secure/IssueNavigator.jspa?mode=hide&amp;amp;requestId=10252
+http://tracker.moodle.org/secure/IssueNavigator.jspa?mode=hide&amp;requestId=10252

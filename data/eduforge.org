@@ -1,0 +1,3 @@
+http://eduforge.org/forum/forum.php?forum_id=1227
+http://eduforge.org/frs/shownotes.php?release_id=546
+http://eduforge.org/frs/shownotes.php?release_id=547

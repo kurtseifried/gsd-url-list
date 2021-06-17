@@ -1,0 +1,17 @@
+http://perl5.git.perl.org/perl.git/blob/HEAD:/pod/perl5177delta.pod
+http://perl5.git.perl.org/perl.git/blobdiff/a0b94c2432b1d8c20653453a0f6970cb10f59aec..84601d63a7e34958da47dad1e61e27cb3bd467d1:/cpan/CGI/lib/CGI.pm
+http://perl5.git.perl.org/perl.git/commit/0abd0d78a73da1c4d13b1c700526b7e5d03b32d4
+http://perl5.git.perl.org/perl.git/commit/0c2990d652e985784f095bba4bc356481a66aa06
+http://perl5.git.perl.org/perl.git/commit/1735f6f53ca19f99c6e9e39496c486af323ba6a8
+http://perl5.git.perl.org/perl.git/commit/1af4051e077438976a4c12a0622feaf6715bec77
+http://perl5.git.perl.org/perl.git/commit/2709980d5a193ce6f3a16f0d19879a6560dcde44
+http://perl5.git.perl.org/perl.git/commit/539689e74a3bcb04d29e4cd9396de91a81045b99
+http://perl5.git.perl.org/perl.git/commit/84601d63a7e34958da47dad1e61e27cb3bd467d1
+http://perl5.git.perl.org/perl.git/commit/cee96d52c39b1e7b36e1c62d38bcd8d86e9a41ab
+http://perl5.git.perl.org/perl.git/commitdiff/08e3451d7
+http://perl5.git.perl.org/perl.git/commitdiff/22b433eff9a1ffa2454e18405a56650f07b385b5
+http://perl5.git.perl.org/perl.git/commitdiff/6e79fe5
+http://perl5.git.perl.org/perl.git/commitdiff/9d83adc
+http://perl5.git.perl.org/perl.git/commitdiff/ae37b791a73a9e78dedb89fb2429d2628cf58076
+http://perl5.git.perl.org/perl.git/commitdiff/d59e31f
+http://perl5.git.perl.org/perl.git/commitdiff/e46d973584785af1f445c4dedbee4243419cb860#patch5

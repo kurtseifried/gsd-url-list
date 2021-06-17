@@ -1,0 +1,10 @@
+http://security.samsungmobile.com/securityUpdate.smsb
+http://security.samsungmobile.com/smrupdate.html#SMR-APR-2017
+http://security.samsungmobile.com/smrupdate.html#SMR-AUG-2016
+http://security.samsungmobile.com/smrupdate.html#SMR-DEC-2016
+http://security.samsungmobile.com/smrupdate.html#SMR-FEB-2016
+http://security.samsungmobile.com/smrupdate.html#SMR-JAN-2016
+http://security.samsungmobile.com/smrupdate.html#SMR-JAN-2017
+http://security.samsungmobile.com/smrupdate.html#SMR-NOV-2016
+http://security.samsungmobile.com/smrupdate.html#SMR-OCT-2015
+http://security.samsungmobile.com/smrupdate.html#SMR-SEP-2016

@@ -1,0 +1,10 @@
+http://www.openswan.org/CVE-2009-0790/CVE-2009-0790.txt
+http://www.openswan.org/download/CVE-2010-3302/CVE-2010-3302.txt
+http://www.openswan.org/download/CVE-2010-3302/openswan-2.6.25-CVE-2010-3302.patch
+http://www.openswan.org/download/CVE-2010-3308/CVE-2010-3308.txt
+http://www.openswan.org/download/CVE-2010-3308/openswan-2.6.26-2.6.28-CVE-2010-330x.patch
+http://www.openswan.org/download/CVE-2011-3380/CVE-2011-3380.txt
+http://www.openswan.org/download/CVE-2011-4073/CVE-2011-4073.txt
+http://www.openswan.org/niscc2/
+http://www.openswan.org/support/vuln/IDEF0785/
+http://www.openswan.org/support/vuln/can-2004-0590/

@@ -1,0 +1,13 @@
+http://silcnet.org/docs/changelog/SILC%20Client%201.1.8
+http://silcnet.org/docs/changelog/SILC%20Toolkit%201.1.10
+http://silcnet.org/docs/changelog/SILC%20Toolkit%201.1.6
+http://silcnet.org/docs/changelog/SILC%20Toolkit%201.1.8
+http://silcnet.org/docs/changelog/SILC%20Toolkit%201.1.9
+http://silcnet.org/docs/changelog/changes.txt
+http://silcnet.org/docs/release/SILC%20Client%201.1.8
+http://silcnet.org/docs/release/SILC%20Server%201.1.1
+http://silcnet.org/general/news/?item=client_20080320_1
+http://silcnet.org/general/news/?item=server_20080320_1
+http://silcnet.org/general/news/?item=toolkit_20080320_1
+http://silcnet.org/general/news/news_client.php
+http://silcnet.org/general/news/news_toolkit.php

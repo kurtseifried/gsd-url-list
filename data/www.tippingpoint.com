@@ -1,0 +1,16 @@
+http://www.tippingpoint.com/security/advisories/TSRT-06-01.html
+http://www.tippingpoint.com/security/advisories/TSRT-06-02.html
+http://www.tippingpoint.com/security/advisories/TSRT-06-03.html
+http://www.tippingpoint.com/security/advisories/TSRT-06-04.html
+http://www.tippingpoint.com/security/advisories/TSRT-06-07.html
+http://www.tippingpoint.com/security/advisories/TSRT-06-08.html
+http://www.tippingpoint.com/security/advisories/TSRT-06-09.html
+http://www.tippingpoint.com/security/advisories/TSRT-06-10.html
+http://www.tippingpoint.com/security/advisories/TSRT-06-11.html
+http://www.tippingpoint.com/security/advisories/TSRT-06-12.html
+http://www.tippingpoint.com/security/advisories/TSRT-06-14.html
+http://www.tippingpoint.com/security/advisories/TSRT-06-15.html
+http://www.tippingpoint.com/security/advisories/TSRT-07-01.html
+http://www.tippingpoint.com/security/advisories/TSRT-07-02.html
+http://www.tippingpoint.com/security/advisories/TSRT-07-03.html
+http://www.tippingpoint.com/security/advisories/TSRT-07-04.html

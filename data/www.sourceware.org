@@ -1,0 +1,1 @@
+http://www.sourceware.org/ml/libc-hacker/2007-07/msg00001.html

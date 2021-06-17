@@ -1,0 +1,15 @@
+http://www.gossamer-threads.com/forum/Gossamer_Links_3.0.1_Released_P280986/
+http://www.gossamer-threads.com/lists/apache/announce/391406
+http://www.gossamer-threads.com/lists/apache/dev/401638
+http://www.gossamer-threads.com/lists/apache/dev/403775
+http://www.gossamer-threads.com/lists/fulldisc/full-disclosure/46702
+http://www.gossamer-threads.com/lists/gnupg/devel/37623
+http://www.gossamer-threads.com/lists/linux/kernel/981012?page=last
+http://www.gossamer-threads.com/lists/modperl/modperl-cvs/99477#99477
+http://www.gossamer-threads.com/lists/modperl/modperl/92739
+http://www.gossamer-threads.com/lists/modperl/modperl/99475#99475
+http://www.gossamer-threads.com/lists/perl/porters/233695#233695
+http://www.gossamer-threads.com/lists/perl/porters/326387
+http://www.gossamer-threads.com/lists/quagga/users/31952
+http://www.gossamer-threads.com/lists/spamassassin/devel/62649
+http://www.gossamer-threads.com/lists/spf/devel/27053?page=last

@@ -1,0 +1,3 @@
+http://www.h-labs.org/blog/2007/11/11/eggblog_v3_1_0_xss_issues.html
+http://www.h-labs.org/blog/2007/12/05/falt4_cms_security_report_advisory.html
+http://www.h-labs.org/blog/2007/12/24/tikiwiki_1_9_8_3_tiki_special_chars_php_xss_vulnerability.html

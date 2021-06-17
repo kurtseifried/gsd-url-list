@@ -1,0 +1,13 @@
+http://sources.redhat.com/bugzilla/show_bug.cgi?id=10600
+http://sources.redhat.com/bugzilla/show_bug.cgi?id=1069
+http://sources.redhat.com/bugzilla/show_bug.cgi?id=10750
+http://sources.redhat.com/bugzilla/show_bug.cgi?id=11904
+http://sources.redhat.com/cgi-bin/cvsweb.cgi/~checkout~/tests/ptrace-tests/tests/late-ptrace-may-attach-check.c?cvsroot=systemtap
+http://sources.redhat.com/git/gitweb.cgi?p=systemtap.git;a=blob;f=NEWS;hb=304d73b1fea24af791f2a129fb141c5009eae6a8
+http://sources.redhat.com/git/gitweb.cgi?p=systemtap.git;a=commit;h=b7565b41228bea196cefa3a7d43ab67f8f9152e2
+http://sources.redhat.com/git/gitweb.cgi?p=systemtap.git;a=commitdiff;h=4ecaadf545a729bb3e5f01f6f019716d49815d9a
+http://sources.redhat.com/git/gitweb.cgi?p=systemtap.git;a=commitdiff;h=ed51cfa24ca27746ab09b59280b94117dd58cba3
+http://sources.redhat.com/gnats/gnatsweb/advisory-jun-26-2001.html
+http://sources.redhat.com/ml/bug-glibc/2001-11/msg00109.html
+http://sources.redhat.com/ml/bug-gnu-utils/1999-06/msg00183.html
+http://sources.redhat.com/ml/systemtap/2010-q4/msg00230.html

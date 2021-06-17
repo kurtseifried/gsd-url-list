@@ -1,0 +1,4 @@
+http://www.mozdev.org/source/browse/fireftp/src/content/js/connection/controlSocket.js.in.diff?r1=1.58;r2=1.59;f=h
+http://www.mozdev.org/source/browse/fireftp/src/content/js/connection/controlSocket.js.in.diff?r1=1.74;r2=1.75;f=h
+http://www.mozdev.org/source/browse/fireftp/src/content/js/connection/controlSocket.js.in.diff?r1=1.75;r2=1.76;f=h
+http://www.mozdev.org/source/browse/fireftp/src/content/js/connection/sftp.js.diff?r1=1.8;r2=1.9;f=h

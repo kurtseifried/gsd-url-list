@@ -1,0 +1,3 @@
+http://mail.gnu.org/archive/html/bug-anubis/2004-02/msg00000.html
+http://mail.gnu.org/archive/html/bug-fileutils/2002-03/msg00028.html
+http://mail.gnu.org/archive/html/phpgroupware-users/2003-07/msg00035.html

@@ -1,0 +1,13 @@
+http://projects.puppetlabs.com/issues/12457
+http://projects.puppetlabs.com/issues/12458
+http://projects.puppetlabs.com/issues/12459
+http://projects.puppetlabs.com/issues/12460
+http://projects.puppetlabs.com/issues/13260
+http://projects.puppetlabs.com/issues/13511
+http://projects.puppetlabs.com/issues/13518
+http://projects.puppetlabs.com/issues/13552
+http://projects.puppetlabs.com/issues/13553
+http://projects.puppetlabs.com/issues/13606
+http://projects.puppetlabs.com/projects/1/wiki/Release_Notes#2.6.14
+http://projects.puppetlabs.com/projects/1/wiki/Release_Notes#2.6.15
+http://projects.puppetlabs.com/projects/1/wiki/Release_Notes#2.7.13

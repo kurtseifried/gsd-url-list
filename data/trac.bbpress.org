@@ -1,0 +1,2 @@
+http://trac.bbpress.org/changeset/717
+http://trac.bbpress.org/ticket/592

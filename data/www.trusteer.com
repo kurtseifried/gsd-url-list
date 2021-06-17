@@ -1,0 +1,10 @@
+http://www.trusteer.com/docs/OpenBSD_DNS_Cache_Poisoning_and_Multiple_OS_Predictable_IP_ID_Vulnerability.pdf
+http://www.trusteer.com/docs/PowerDNS_recursor_DNS_Cache_Poisoning.pdf
+http://www.trusteer.com/docs/bind8dns.html
+http://www.trusteer.com/docs/bind9dns.html
+http://www.trusteer.com/docs/bind9dns_s.html
+http://www.trusteer.com/docs/powerdnsrecursor.html
+http://www.trusteer.com/docs/windowsdns.html
+http://www.trusteer.com/docs/windowsresolver.html
+http://www.trusteer.com/files/In-session-phishing-advisory-2.pdf
+http://www.trusteer.com/sites/default/files/Cross_domain_Math_Random_leakage_in_FF_3.6.4-3.6.8.pdf

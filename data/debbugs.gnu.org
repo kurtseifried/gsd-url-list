@@ -1,0 +1,4 @@
+http://debbugs.gnu.org/cgi/bugreport.cgi?bug=12155
+http://debbugs.gnu.org/cgi/bugreport.cgi?bug=16872
+http://debbugs.gnu.org/cgi/bugreport.cgi?bug=17428#8
+http://debbugs.gnu.org/cgi/bugreport.cgi?bug=19563

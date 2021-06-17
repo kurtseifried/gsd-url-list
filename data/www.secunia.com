@@ -1,0 +1,14 @@
+http://www.secunia.com/advisories/10225/
+http://www.secunia.com/advisories/10420/
+http://www.secunia.com/advisories/10732/
+http://www.secunia.com/advisories/10734/
+http://www.secunia.com/advisories/10749/
+http://www.secunia.com/advisories/10758/
+http://www.secunia.com/advisories/10761/
+http://www.secunia.com/advisories/10762/
+http://www.secunia.com/advisories/10763/
+http://www.secunia.com/advisories/12756
+http://www.secunia.com/advisories/8786/
+http://www.secunia.com/advisories/9232/
+http://www.secunia.com/advisories/9482
+http://www.secunia.com/blog/366

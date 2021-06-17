@@ -1,0 +1,2 @@
+http://dev.tangocms.org/issues/show/140
+http://dev.tangocms.org/repositories/diff/tangocms?rev=2372

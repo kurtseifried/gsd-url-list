@@ -1,0 +1,3 @@
+http://newhack.org/advisories/AuraCMS-2.2-RemoteAddAdmin.txt
+http://newhack.org/advisories/FreeWebShop-2.2.1.txt
+http://newhack.org/advisories/GreenBeastCMS.txt

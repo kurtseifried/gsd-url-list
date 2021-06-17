@@ -1,0 +1,1 @@
+http://wpbookingcalendar.com/changelog/

@@ -1,0 +1,2 @@
+http://issues.civicrm.org/jira/browse/CRM-12747
+http://issues.civicrm.org/jira/browse/CRM-12765

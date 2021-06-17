@@ -1,0 +1,2 @@
+http://cornerstone.web-app.org/cgi-bin/index.cgi?action=downloadinfo&amp;amp;cat=updates&amp;amp;id=1
+http://cornerstone.web-app.org/cgi-bin/index.cgi?action=downloadinfo&amp;cat=updates&amp;id=1

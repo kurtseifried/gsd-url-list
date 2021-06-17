@@ -1,0 +1,2 @@
+http://redmine.ulysses.fr/issues/250
+http://redmine.ulysses.fr/projects/galette/repository/revisions/8c13ec159ba

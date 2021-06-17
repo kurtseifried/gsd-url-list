@@ -1,0 +1,1 @@
+http://git.quassel-irc.org/?p=quassel.git;a=commitdiff;h=a4ca568cdf68cf4a0343eb161518dc8e50cea87d

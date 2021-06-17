@@ -1,0 +1,1 @@
+http://userweb.kernel.org/~akpm/mmotm/broken-out/hfs-fix-a-potential-buffer-overflow.patch

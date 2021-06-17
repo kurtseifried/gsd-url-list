@@ -1,0 +1,5 @@
+ftp://ftp.vim.org/pub/vim/patches/6.2.429
+ftp://ftp.vim.org/pub/vim/patches/6.3/6.3.059
+ftp://ftp.vim.org/pub/vim/patches/7.1/7.1.039
+ftp://ftp.vim.org/pub/vim/patches/7.3/7.3.034
+http://ftp.vim.org/pub/vim/patches/7.2/7.2.010

@@ -1,0 +1,9 @@
+http://www.ghostscript.com/cgi-bin/findgit.cgi?00d4606c3baf813b7b1c176823b2729bf51002a2
+http://www.ghostscript.com/cgi-bin/findgit.cgi?1e5479084bc9852854feb1ba9bf68b52cd127e02
+http://www.ghostscript.com/cgi-bin/findgit.cgi?309eca4e0a31ea70dcc844812691439312dad091
+http://www.ghostscript.com/cgi-bin/findgit.cgi?4bef1a1d32e29b68855616020dbff574b9cda08f
+http://www.ghostscript.com/cgi-bin/findgit.cgi?520cc26d18c9ee245b56e9e91f9d4fcae02be5f0
+http://www.ghostscript.com/cgi-bin/findgit.cgi?da632ca08f240590d2dec786722ed08486ce1be6
+http://www.ghostscript.com/cgi-bin/findgit.cgi?daf85701dab05f17e924a48a81edc9195b4a04e8
+http://www.ghostscript.com/pipermail/gs-code-review/2002-February/001900.html
+http://www.ghostscript.com/pipermail/gs-code-review/2002-January/001801.html

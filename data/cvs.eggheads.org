@@ -1,0 +1,2 @@
+http://cvs.eggheads.org/viewvc/viewvc.cgi/eggdrop1.6/doc/Changes1.6?revision=1.20&amp;amp;view=markup
+http://cvs.eggheads.org/viewvc/viewvc.cgi/eggdrop1.6/doc/Changes1.6?revision=1.20&amp;view=markup

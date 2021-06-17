@@ -1,0 +1,3 @@
+http://www.hackgen.org/advisories/hackgen-2004-002.txt
+http://www.hackgen.org/advisories/hackgen-2005-003.txt
+http://www.hackgen.org/advisories/hackgen-2005-004.txt

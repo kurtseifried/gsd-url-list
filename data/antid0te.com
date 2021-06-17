@@ -1,0 +1,1 @@
+http://antid0te.com/syscan_2013/SyScan2013_Mountain_Lion_iOS_Vulnerabilities_Garage_Sale_Whitepaper.pdf

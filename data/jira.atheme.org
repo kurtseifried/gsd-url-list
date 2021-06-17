@@ -1,0 +1,2 @@
+http://jira.atheme.org/browse/AUDPLUG-394
+http://jira.atheme.org/browse/SRV-166

@@ -1,0 +1,6 @@
+http://voipsa.org/blog/2007/12/17/trixbox-contains-phone-home-code-to-retrieve-arbitrary-commands-to-execute/
+http://voipsa.org/pipermail/voipsec_voipsa.org/2007-December/002522.html
+http://voipsa.org/pipermail/voipsec_voipsa.org/2007-December/002528.html
+http://voipsa.org/pipermail/voipsec_voipsa.org/2007-December/002533.html
+http://voipsa.org/pipermail/voipsec_voipsa.org/2007-March/002275.html
+http://voipsa.org/pipermail/voipsec_voipsa.org/2009-April/002946.html

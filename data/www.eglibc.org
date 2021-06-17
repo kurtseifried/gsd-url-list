@@ -1,0 +1,2 @@
+http://www.eglibc.org/cgi-bin/viewvc.cgi/trunk/libc/ChangeLog?view=markup&amp;amp;pathrev=10032
+http://www.eglibc.org/cgi-bin/viewvc.cgi/trunk/libc/ChangeLog?view=markup&amp;pathrev=10032

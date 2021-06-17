@@ -1,0 +1,15 @@
+http://www.ssh.com/company/news/2006/english/security/article/775/
+http://www.ssh.com/company/news/2006/english/security/article/776/
+http://www.ssh.com/company/news/2006/english/security/article/786/
+http://www.ssh.com/company/news/article/953/
+http://www.ssh.com/company/newsroom/article/201/
+http://www.ssh.com/company/newsroom/article/286/
+http://www.ssh.com/company/newsroom/article/287/
+http://www.ssh.com/company/newsroom/article/476/
+http://www.ssh.com/company/newsroom/article/520/
+http://www.ssh.com/company/newsroom/article/653/
+http://www.ssh.com/company/newsroom/article/694/
+http://www.ssh.com/documents/33/SSH_Tectia_Server_5.4.0_zOS_releasenotes.txt
+http://www.ssh.com/products/ssh/advisories/authentication.cfm
+http://www.ssh.com/products/ssh/exploit.cfm
+http://www.ssh.com/products/ssh/patches/secureRPCvulnerability.html

@@ -1,0 +1,5 @@
+http://research.openflare.org/advisories/OF-2014-07/spiceworks_xss.txt
+http://research.openflare.org/advisories/OF-2014-09/mayan-edbs-storedxss.txt
+http://research.openflare.org/advisories/OF-2014-11/usercake_csrf.txt
+http://research.openflare.org/poc/OF-2014-07/spiceworks_crafted_ticket.mp4
+http://research.openflare.org/poc/maya-edms/maya-edms_multiple_xss.avi

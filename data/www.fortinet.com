@@ -1,0 +1,9 @@
+http://www.fortinet.com/FortiGuardCenter/FSA-2006-07.html
+http://www.fortinet.com/FortiGuardCenter/VU226364.html
+http://www.fortinet.com/FortiGuardCenter/advisory/FG-2006-15.html
+http://www.fortinet.com/FortiGuardCenter/advisory/FG-2006-18.html
+http://www.fortinet.com/FortiGuardCenter/advisory/FG-2006-20.html
+http://www.fortinet.com/FortiGuardCenter/advisory/FG-2006-21.html
+http://www.fortinet.com/FortiGuardCenter/advisory/FG-2006-22.html
+http://www.fortinet.com/FortiGuardCenter/advisory/FG-2006-30.html
+http://www.fortinet.com/FortiGuardCenter/advisory/FGA-2007-01.html

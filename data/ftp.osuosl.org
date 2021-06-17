@@ -1,0 +1,17 @@
+http://ftp.osuosl.org/pub/linux/kernel/v2.6/ChangeLog-2.6.19
+http://ftp.osuosl.org/pub/linux/kernel/v2.6/ChangeLog-2.6.21
+http://ftp.osuosl.org/pub/linux/kernel/v2.6/ChangeLog-2.6.22
+http://ftp.osuosl.org/pub/linux/kernel/v2.6/ChangeLog-2.6.26
+http://ftp.osuosl.org/pub/linux/kernel/v2.6/ChangeLog-2.6.28
+http://ftp.osuosl.org/pub/linux/kernel/v2.6/ChangeLog-2.6.29
+http://ftp.osuosl.org/pub/linux/kernel/v2.6/ChangeLog-2.6.33
+http://ftp.osuosl.org/pub/linux/kernel/v2.6/ChangeLog-2.6.34
+http://ftp.osuosl.org/pub/linux/kernel/v2.6/ChangeLog-2.6.36
+http://ftp.osuosl.org/pub/linux/kernel/v2.6/ChangeLog-2.6.37
+http://ftp.osuosl.org/pub/linux/kernel/v2.6/ChangeLog-2.6.38
+http://ftp.osuosl.org/pub/linux/kernel/v2.6/ChangeLog-2.6.39
+http://ftp.osuosl.org/pub/linux/kernel/v2.6/ChangeLog-2.6.39.1
+http://ftp.osuosl.org/pub/linux/kernel/v2.6/ChangeLog-2.6.39.2
+http://ftp.osuosl.org/pub/linux/kernel/v2.6/ChangeLog-2.6.39.3
+http://ftp.osuosl.org/pub/linux/kernel/v2.6/ChangeLog-2.6.39.4
+http://ftp.osuosl.org/pub/linux/kernel/v3.0/ChangeLog-3.0

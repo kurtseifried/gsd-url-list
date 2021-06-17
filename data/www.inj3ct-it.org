@@ -1,0 +1,9 @@
+http://www.inj3ct-it.org/exploit/MailMachine%20Pro%202.2.4.txt
+http://www.inj3ct-it.org/exploit/Multi_Host.txt
+http://www.inj3ct-it.org/exploit/adultscript.txt
+http://www.inj3ct-it.org/exploit/ipreg0.3.txt
+http://www.inj3ct-it.org/exploit/megacheatz.1.1.txt
+http://www.inj3ct-it.org/exploit/scribe.txt
+http://www.inj3ct-it.org/exploit/socialengine2.txt
+http://www.inj3ct-it.org/exploit/syner.txt
+http://www.inj3ct-it.org/exploit/xml2owl-0.1.1.rce.txt

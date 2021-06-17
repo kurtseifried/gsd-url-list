@@ -1,0 +1,13 @@
+http://ez.no/community/news/ez_publish_security_fixes_3_9_3_and_3_8_9
+http://ez.no/de/content/download/321164/3192243/version/1/file/16396.diff
+http://ez.no/de/content/download/321165/3192248/version/1/file/16397.diff
+http://ez.no/de/content/download/321166/3192253/version/1/file/16398.diff
+http://ez.no/de/content/download/321443/3196351/version/1/file/combined_patch_42.diff
+http://ez.no/de/developer/security/security_advisories/ez_publish_4_2/ezsa_2010_001_remote_vulnerability_in_ez_search
+http://ez.no/developer/security/security_advisories/ez_publish_4_0/ezsa_2008_003_insufficient_form_handling_made_privilege_escalation_possible
+http://ez.no/download/ez_publish/changelogs/ez_publish_3_8/changelog_3_6_x_3_7_x_to_3_8_0
+http://ez.no/download/ez_publish/changelogs/ez_publish_3_8/changelog_3_8_0_to_3_8_1
+http://ez.no/download/ez_publish/changelogs/ez_publish_3_8/changelog_3_8_4_to_3_8_5
+http://ez.no/download/ez_publish/changelogs/ez_publish_3_8/changelog_3_8_8_to_3_8_9
+http://ez.no/download/ez_publish/changelogs/ez_publish_3_9/changelog_3_8_0_to_3_9_0
+http://ez.no/download/ez_publish/changelogs/ez_publish_3_9/changelog_3_9_2_to_3_9_3

@@ -1,0 +1,4 @@
+http://www.python.org/download/releases/2.5.1/NEWS.txt
+http://www.python.org/download/releases/2.5.2/NEWS.txt
+http://www.python.org/download/releases/2.6/NEWS.txt
+http://www.python.org/security/PSF-2005-001/

@@ -1,0 +1,15 @@
+http://mailman.nginx.org/pipermail/nginx-announce/2012/000086.html
+http://mailman.nginx.org/pipermail/nginx-announce/2013/000112.html
+http://mailman.nginx.org/pipermail/nginx-announce/2013/000114.html
+http://mailman.nginx.org/pipermail/nginx-announce/2013/000125.html
+http://mailman.nginx.org/pipermail/nginx-announce/2014/000132.html
+http://mailman.nginx.org/pipermail/nginx-announce/2014/000135.html
+http://mailman.nginx.org/pipermail/nginx-announce/2014/000144.html
+http://mailman.nginx.org/pipermail/nginx-announce/2014/000147.html
+http://mailman.nginx.org/pipermail/nginx-announce/2016/000179.html
+http://mailman.nginx.org/pipermail/nginx-announce/2017/000200.html
+http://mailman.nginx.org/pipermail/nginx-announce/2018/000220.html
+http://mailman.nginx.org/pipermail/nginx-announce/2018/000221.html
+http://mailman.nginx.org/pipermail/nginx-announce/2021/000300.html
+http://mailman.nginx.org/pipermail/nginx/2016-January/049700.html
+http://mailman.nginx.org/pipermail/unit/2019-February/000113.html

@@ -1,0 +1,2 @@
+http://www.nongnu.org/oath-toolkit/NEWS.html
+http://www.nongnu.org/samizdat/release-notes/samizdat-0.6.2.html

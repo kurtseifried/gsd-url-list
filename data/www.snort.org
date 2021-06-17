@@ -1,0 +1,7 @@
+http://www.snort.org/arc_news/
+http://www.snort.org/docs/advisory-2007-02-19.html
+http://www.snort.org/docs/change_logs/2.4.3/Changelog.txt
+http://www.snort.org/docs/release_notes/release_notes_2613.txt
+http://www.snort.org/got_source/source.html
+http://www.snort.org/pub-bin/snortnews.cgi
+http://www.snort.org/pub-bin/snortnews.cgi#431

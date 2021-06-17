@@ -1,0 +1,9 @@
+http://gitorious.org/bareftp/bareftp/blobs/15489abdb4c698cf832e95184bfe769a1ba70238/ChangeLog
+http://gitorious.org/colord/master/commit/1fadd90afcb4bbc47513466ee9bb1e4a8632ac3b
+http://gitorious.org/colord/master/commit/36549e0ed255e7dfa7852d08a75dd5f00cbd270e
+http://gitorious.org/fetchmail/fetchmail/blobs/legacy_63/fetchmail-SA-2011-01.txt
+http://gitorious.org/mahara/mahara/commit/f07be6020e70fa8f53cd77fdcd63e7fd7ff8aaea
+http://gitorious.org/sticky-notes/sticky-notes/commit/d97475f07520d61af3d20fbaeb2e9a974c190308
+http://gitorious.org/testlink-ga/testlink-code/commit/252788c2373e73173172ada9af661e0721599891
+http://gitorious.org/testlink-ga/testlink-code/commit/2d4ac941314f8bda80e265c9de8bacf17d1cd3e6
+http://gitorious.org/testlink-ga/testlink-code/commit/c8751a3c9ad8970b49d1bf882203efacd10af087

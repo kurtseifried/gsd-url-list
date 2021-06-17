@@ -1,0 +1,4 @@
+http://bugs.opensolaris.org/view_bug.do?bug_id=6709252
+http://bugs.opensolaris.org/view_bug.do?bug_id=6711995
+http://bugs.opensolaris.org/view_bug.do?bug_id=6731600
+http://bugs.opensolaris.org/view_bug.do?bug_id=6839026

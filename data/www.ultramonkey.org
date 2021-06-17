@@ -1,0 +1,2 @@
+http://www.ultramonkey.org/bugs/cve-patch/CAN-2003-0643.patch
+http://www.ultramonkey.org/bugs/cve/CAN-2003-0643.shtml

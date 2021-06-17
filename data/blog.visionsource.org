@@ -1,0 +1,1 @@
+http://blog.visionsource.org/2010/01/28/opencart-csrf-vulnerability/

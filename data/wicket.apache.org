@@ -1,0 +1,6 @@
+http://wicket.apache.org/2011/08/23/cve-2011-2712.html
+http://wicket.apache.org/2012/03/22/wicket-cve-2012-0047.html
+http://wicket.apache.org/2012/03/22/wicket-cve-2012-1089.html
+http://wicket.apache.org/2012/09/06/cve-2012-3373.html
+http://wicket.apache.org/news/2016/03/01/cve-2015-5347.html
+http://wicket.apache.org/news/2016/03/02/cve-2015-7520.html

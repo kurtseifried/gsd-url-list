@@ -1,0 +1,2 @@
+http://bugs.ledger-cli.org/show_bug.cgi?id=1222
+http://bugs.ledger-cli.org/show_bug.cgi?id=1224

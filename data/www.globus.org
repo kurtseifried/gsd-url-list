@@ -1,0 +1,5 @@
+http://www.globus.org/mail_archive/security-announce/2006/08/msg00000.html
+http://www.globus.org/mail_archive/security-announce/2006/08/msg00001.html
+http://www.globus.org/mail_archive/security-announce/2007/05/msg00000.html
+http://www.globus.org/mail_archive/security-announce/2008/04/msg00000.html
+http://www.globus.org/toolkit/advisories.html

@@ -1,0 +1,6 @@
+http://www.w3.org/2008/06/xmldsigcore-errata.html#e03
+http://www.w3.org/Jigsaw/RelNotes.html#2.2.1
+http://www.w3.org/Jigsaw/RelNotes.html#2.2.4
+http://www.w3.org/QA/2009/07/hmac_truncation_in_xml_signatu.html
+http://www.w3.org/Security/Faq/wwwsf4.html
+http://www.w3.org/Security/Faq/wwwsf8.html#Q87

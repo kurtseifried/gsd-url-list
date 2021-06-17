@@ -1,0 +1,2 @@
+http://commons.apache.org/compress/security.html
+http://commons.apache.org/proper/commons-beanutils/javadocs/v1.9.2/RELEASE-NOTES.txt

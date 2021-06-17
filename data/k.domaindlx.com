@@ -1,0 +1,16 @@
+http://k.domaindlx.com/shellcore/advisories.asp?bug_report=display&amp;amp;infamous_group=64
+http://k.domaindlx.com/shellcore/advisories.asp?bug_report=display&amp;amp;infamous_group=65
+http://k.domaindlx.com/shellcore/advisories.asp?bug_report=display&amp;amp;infamous_group=66
+http://k.domaindlx.com/shellcore/advisories.asp?bug_report=display&amp;amp;infamous_group=72
+http://k.domaindlx.com/shellcore/advisories.asp?bug_report=display&amp;amp;infamous_group=84
+http://k.domaindlx.com/shellcore/advisories.asp?bug_report=display&amp;amp;infamous_group=87
+http://k.domaindlx.com/shellcore/advisories.asp?bug_report=display&amp;amp;infamous_group=93
+http://k.domaindlx.com/shellcore/advisories.asp?bug_report=display&amp;amp;infamous_group=94
+http://k.domaindlx.com/shellcore/advisories.asp?bug_report=display&amp;infamous_group=64
+http://k.domaindlx.com/shellcore/advisories.asp?bug_report=display&amp;infamous_group=65
+http://k.domaindlx.com/shellcore/advisories.asp?bug_report=display&amp;infamous_group=66
+http://k.domaindlx.com/shellcore/advisories.asp?bug_report=display&amp;infamous_group=72
+http://k.domaindlx.com/shellcore/advisories.asp?bug_report=display&amp;infamous_group=84
+http://k.domaindlx.com/shellcore/advisories.asp?bug_report=display&amp;infamous_group=87
+http://k.domaindlx.com/shellcore/advisories.asp?bug_report=display&amp;infamous_group=93
+http://k.domaindlx.com/shellcore/advisories.asp?bug_report=display&amp;infamous_group=94

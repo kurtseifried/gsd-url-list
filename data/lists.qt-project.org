@@ -1,0 +1,7 @@
+http://lists.qt-project.org/pipermail/announce/2012-November/000014.html
+http://lists.qt-project.org/pipermail/announce/2013-December/000036.html
+http://lists.qt-project.org/pipermail/announce/2013-February/000023.html
+http://lists.qt-project.org/pipermail/announce/2013-January/000020.html
+http://lists.qt-project.org/pipermail/announce/2014-April/000045.html
+http://lists.qt-project.org/pipermail/announce/2015-April/000067.html
+http://lists.qt-project.org/pipermail/announce/2015-February/000059.html

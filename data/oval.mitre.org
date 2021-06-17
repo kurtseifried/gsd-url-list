@@ -1,0 +1,4 @@
+http://oval.mitre.org/repository/data/getDef?id=oval:org.mitre.oval:def:1024
+http://oval.mitre.org/repository/data/getDef?id=oval:org.mitre.oval:def:16935
+http://oval.mitre.org/repository/data/getDef?id=oval:org.mitre.oval:def:6914
+http://oval.mitre.org/repository/data/getDef?id=oval:org.mitre.oval:def:8888

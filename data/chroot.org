@@ -1,0 +1,4 @@
+http://chroot.org/exploits/chroot_uu_007
+http://chroot.org/exploits/chroot_uu_008
+http://chroot.org/exploits/chroot_uu_009
+http://chroot.org/exploits/chroot_uu_010

@@ -1,0 +1,15 @@
+http://acid-root.new.fr/advisories/09290806.txt
+http://acid-root.new.fr/advisories/10060904.txt
+http://acid-root.new.fr/poc/08060901.txt
+http://acid-root.new.fr/poc/09060902.txt
+http://acid-root.new.fr/poc/10060903.txt
+http://acid-root.new.fr/poc/12060927.txt
+http://acid-root.new.fr/poc/13061007.txt
+http://acid-root.new.fr/poc/14061118.txt
+http://acid-root.new.fr/poc/15061124.txt
+http://acid-root.new.fr/poc/16061221.txt
+http://acid-root.new.fr/poc/17061224.txt
+http://acid-root.new.fr/poc/18070102.txt
+http://acid-root.new.fr/poc/19070104.txt
+http://acid-root.new.fr/poc/20070107.txt
+http://acid-root.new.fr/poc/21070125.txt

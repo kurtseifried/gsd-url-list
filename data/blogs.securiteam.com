@@ -1,0 +1,14 @@
+http://blogs.securiteam.com/?author=28
+http://blogs.securiteam.com/?p=451
+http://blogs.securiteam.com/?p=508
+http://blogs.securiteam.com/?p=535
+http://blogs.securiteam.com/?p=557
+http://blogs.securiteam.com/?p=559
+http://blogs.securiteam.com/?p=586
+http://blogs.securiteam.com/?p=717
+http://blogs.securiteam.com/?p=759
+http://blogs.securiteam.com/?p=763
+http://blogs.securiteam.com/index.php/archives/1150
+http://blogs.securiteam.com/index.php/archives/347
+http://blogs.securiteam.com/index.php/archives/554
+http://blogs.securiteam.com/index.php/archives/624

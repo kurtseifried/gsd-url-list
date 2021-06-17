@@ -1,0 +1,2 @@
+http://dev.mvblog.org/cgi-bin/trac.cgi/ticket/54
+http://dev.mvblog.org/cgi-bin/trac.cgi/ticket/55

@@ -1,0 +1,13 @@
+http://trac.osgeo.org/mapserver/attachment/ticket/2256/ms-bug-2256-4.8.patch
+http://trac.osgeo.org/mapserver/browser/tags/rel-5-4-2/mapserver/HISTORY.TXT
+http://trac.osgeo.org/mapserver/ticket/2252
+http://trac.osgeo.org/mapserver/ticket/2256
+http://trac.osgeo.org/mapserver/ticket/2939
+http://trac.osgeo.org/mapserver/ticket/2941
+http://trac.osgeo.org/mapserver/ticket/2942
+http://trac.osgeo.org/mapserver/ticket/2943
+http://trac.osgeo.org/mapserver/ticket/2944
+http://trac.osgeo.org/mapserver/ticket/3484
+http://trac.osgeo.org/mapserver/ticket/3485
+http://trac.osgeo.org/mapserver/ticket/3903
+http://trac.osgeo.org/mapserver/ticket/3939

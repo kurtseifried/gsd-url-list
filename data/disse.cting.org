@@ -1,0 +1,3 @@
+http://disse.cting.org/2013/08/05/joomla-core-3_1_5_reflected-xss-vulnerability/
+http://disse.cting.org/2014/07/30/vmturbo-operation-manager-remote-command-execution/
+http://disse.cting.org/blog/2012/06/22/fckeditor-reflected-xss-vulnerability/

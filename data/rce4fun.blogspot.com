@@ -1,0 +1,1 @@
+http://rce4fun.blogspot.com/2019/08/comodo-antivirus-sandbox-race-condition.html

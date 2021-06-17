@@ -1,0 +1,16 @@
+http://support.lenovo.com/us/en/product_security/LEN-12739
+http://support.lenovo.com/us/en/product_security/LEN-15552
+http://support.lenovo.com/us/en/product_security/lsu_privilege
+http://support.lenovo.com/us/en/product_security/superfish
+http://support.lenovo.com/us/en/product_security/tsm_weak_pw
+http://support.lenovo.com/us/en/solutions/LEN-18247
+http://support.lenovo.com/us/en/solutions/LEN-22133
+http://support.lenovo.com/us/en/solutions/LEN-24163
+http://support.lenovo.com/us/en/solutions/LEN-24799
+http://support.lenovo.com/us/en/solutions/LEN-25654
+http://support.lenovo.com/us/en/solutions/LEN-25662
+http://support.lenovo.com/us/en/solutions/LEN-26250
+http://support.lenovo.com/us/en/solutions/LEN-26626
+http://support.lenovo.com/us/en/solutions/LEN-26771
+http://support.lenovo.com/us/en/solutions/LEN-26976
+http://support.lenovo.com/us/en/solutions/LEN-27096

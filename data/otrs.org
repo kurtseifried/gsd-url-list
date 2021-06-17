@@ -1,0 +1,9 @@
+http://otrs.org/advisory/OSA-2005-01-en/
+http://otrs.org/advisory/OSA-2008-01-en/
+http://otrs.org/advisory/OSA-2010-01-en/
+http://otrs.org/advisory/OSA-2010-02-en/
+http://otrs.org/advisory/OSA-2010-03-en/
+http://otrs.org/advisory/OSA-2011-01-en/
+http://otrs.org/advisory/OSA-2011-02-en/
+http://otrs.org/advisory/OSA-2011-03-en/
+http://otrs.org/releases/2.4.7/

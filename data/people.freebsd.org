@@ -1,0 +1,5 @@
+http://people.freebsd.org/~cperciva/rtld.patch
+http://people.freebsd.org/~kientzle/libarchive/
+http://people.freebsd.org/~niels/issues/nbsmtp-20050726.txt
+http://people.freebsd.org/~niels/issues/newspost-20050114.txt
+http://people.freebsd.org/~niels/ports/korean/helvis/issues.txt

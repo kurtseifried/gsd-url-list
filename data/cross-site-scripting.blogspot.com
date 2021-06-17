@@ -1,0 +1,12 @@
+http://cross-site-scripting.blogspot.com/2010/05/brekeke-pbx-2448-cross-site-request.html
+http://cross-site-scripting.blogspot.com/2010/05/datatrack-system-35-persistent-xss.html
+http://cross-site-scripting.blogspot.com/2010/05/pacific-timesheet-674-cross-site.html
+http://cross-site-scripting.blogspot.com/2010/05/uniform-server-565-xsrf.html
+http://cross-site-scripting.blogspot.com/2010/06/tcexam-101006-arbitrary-upload.html
+http://cross-site-scripting.blogspot.com/2010/07/bit-weaver-27-local-file-inclusion.html
+http://cross-site-scripting.blogspot.com/2010/07/cms-made-simple-18-local-file-inclusion.html
+http://cross-site-scripting.blogspot.com/2010/07/news-office-2018-reflected-xss.html
+http://cross-site-scripting.blogspot.com/2010/07/nubuilder-100420-local-file-inclusion.html
+http://cross-site-scripting.blogspot.com/2010/07/nubuilder-100420-reflected-xss.html
+http://cross-site-scripting.blogspot.com/2010/07/orbis-102-reflected-xss.html
+http://cross-site-scripting.blogspot.com/2010/07/runcms-21-magpie-rss-module-reflected.html

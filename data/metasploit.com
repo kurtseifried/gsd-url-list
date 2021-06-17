@@ -1,0 +1,11 @@
+http://metasploit.com/archive/framework/msg00469.html
+http://metasploit.com/projects/Framework/exploits.html#ie_iscomponentinstalled
+http://metasploit.com/projects/Framework/modules/exploits/mercantec_softcart.pm
+http://metasploit.com/projects/Framework/modules/exploits/solaris_lpd_exec.pm
+http://metasploit.com/research/arkeia_agent/
+http://metasploit.com/research/vulns/google_proxystylesheet/
+http://metasploit.com/research/vulns/lyris_listmanager/
+http://metasploit.com/research/vulns/pgp_slackspace/
+http://metasploit.com/svn/framework3/trunk/modules/exploits/linux/http/ddwrt_cgibin_exec.rb
+http://metasploit.com/svn/framework3/trunk/modules/exploits/windows/dcerpc/msdns_zonename.rb
+http://metasploit.com/users/hdm/tools/debian-openssl/

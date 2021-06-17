@@ -1,0 +1,6 @@
+http://docs.joomla.org/Vulnerable_Extensions_List
+http://docs.joomla.org/Vulnerable_Extensions_List#Barter_Sites_1.3
+http://docs.joomla.org/Vulnerable_Extensions_List#New_format_Feed_Starts_Here
+http://docs.joomla.org/Vulnerable_Extensions_List#Simple_File_Upload_1.3
+http://docs.joomla.org/Vulnerable_Extensions_List#Techfolio_1.0
+http://docs.joomla.org/Vulnerable_Extensions_List#Vik_Real_Estate_1.0

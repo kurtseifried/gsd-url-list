@@ -1,0 +1,3 @@
+http://www.phenoelit.org/blog/archives/2013/02/05/mysql_madness_and_rails/index.html
+http://www.phenoelit.org/blog/archives/2013/02/index.html
+http://www.phenoelit.org/stuff/ffcrm.txt

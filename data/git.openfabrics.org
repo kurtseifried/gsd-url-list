@@ -1,0 +1,4 @@
+http://git.openfabrics.org/git?p=ofed_1_5/linux-2.6.git;a=commit;h=04bb801a31825d1559c4670253e1bea1291a1af8
+http://git.openfabrics.org/git?p=~shefty/ibacm.git;a=commit;h=c7d28b35d64333c262de3ec972c426423dadccf9
+http://git.openfabrics.org/git?p=~shefty/ibacm.git;a=commit;h=d204fca2b6298d7799e918141ea8e11e7ad43cec
+http://git.openfabrics.org/git?p=~shefty/librdmacm.git;a=commitdiff;h=4b5c1aa734e0e734fc2ba3cd41d0ddf02170af6d

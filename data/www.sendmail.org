@@ -1,0 +1,11 @@
+http://www.sendmail.org/8.11.html
+http://www.sendmail.org/8.12.10.html
+http://www.sendmail.org/8.12.5.html
+http://www.sendmail.org/8.12.7.html
+http://www.sendmail.org/8.12.8.html
+http://www.sendmail.org/LockingAdvisory.txt
+http://www.sendmail.org/dnsmap1.html
+http://www.sendmail.org/releases/8.13.2
+http://www.sendmail.org/releases/8.13.8.html
+http://www.sendmail.org/releases/8.14.4
+http://www.sendmail.org/smrsh.adv.txt

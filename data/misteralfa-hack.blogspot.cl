@@ -1,0 +1,11 @@
+http://misteralfa-hack.blogspot.cl/2017/05/apps-industrial-ot-over-server-anti-web.html
+http://misteralfa-hack.blogspot.cl/2017/12/ba-system-improper-access-control.html
+http://misteralfa-hack.blogspot.cl/2017/12/red-lion-guru-mode-cve-2017-14855.html
+http://misteralfa-hack.blogspot.cl/2018/01/brickstream-recuento-y-seguimiento-de.html
+http://misteralfa-hack.blogspot.cl/2018/01/seatelcobham-donde-esta-mi-barco.html
+http://misteralfa-hack.blogspot.cl/2018/01/seatelcobham-terminales-satelitales.html
+http://misteralfa-hack.blogspot.cl/2018/02/otomron-login-bypass.html
+http://misteralfa-hack.blogspot.cl/2018/02/steelcase-sala-por-favor-y-todos-tus.html
+http://misteralfa-hack.blogspot.cl/2018/04/tbk-vision-dvr-login-bypass.html
+http://misteralfa-hack.blogspot.cl/2018/04/update-dvr-login-bypass-cve-2018-9995.html
+http://misteralfa-hack.blogspot.cl/2018/05/0day-dvr-multivendor.html

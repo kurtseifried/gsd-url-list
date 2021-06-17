@@ -1,0 +1,2 @@
+http://sailsjs.org/documentation/concepts/security/cors
+http://sailsjs.org/documentation/reference/configuration/sails-config-cors

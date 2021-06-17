@@ -1,0 +1,1 @@
+http://cvs.gna.org/cvsweb/wikini/actions/usersettings.php.diff?r1=1.14.2.1;r2=1.14.2.2;cvsroot=wikini;f=h

@@ -1,0 +1,3 @@
+http://www.excluded.org/advisories/advisory05.txt
+http://www.excluded.org/advisories/advisory10.txt
+http://www.excluded.org/advisories/advisory13.txt

@@ -1,0 +1,8 @@
+http://www.strongswan.org/blog/2012/05/31/strongswan-4.6.4-released-%28cve-2012-2388%29.html
+http://www.strongswan.org/blog/2013/04/30/strongswan-5.0.4-released-%28cve-2013-2944%29.html
+http://www.strongswan.org/blog/2013/04/30/strongswan-5.0.4-released-(cve-2013-2944).html
+http://www.strongswan.org/blog/2013/11/01/strongswan-denial-of-service-vulnerability-%28cve-2013-6075%29.html
+http://www.strongswan.org/blog/2013/11/01/strongswan-denial-of-service-vulnerability-%28cve-2013-6076%29.html
+http://www.strongswan.org/blog/2014/04/14/strongswan-authentication-bypass-vulnerability-%28cve-2014-2338%29.html
+http://www.strongswan.org/blog/2014/05/05/strongswan-denial-of-service-vulnerability-%28cve-2014-2891%29.html
+http://www.strongswan.org/blog/2014/05/05/strongswan-denial-of-service-vulnerability-(cve-2014-2891).html

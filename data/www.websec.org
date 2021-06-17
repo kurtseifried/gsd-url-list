@@ -1,0 +1,2 @@
+http://www.websec.org/adv/axis2400.txt.html
+http://www.websec.org/adv/linbit.txt.html

@@ -1,0 +1,3 @@
+http://www.seifried.org/security/advisories/kssa-003.html
+http://www.seifried.org/security/advisories/kssa-005.html
+http://www.seifried.org/security/advisories/kssa-010.html

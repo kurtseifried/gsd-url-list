@@ -1,0 +1,2 @@
+http://www.apache-ssl.org/advisory-20040206.txt
+http://www.apache-ssl.org/advisory-cve-2008-0555.txt

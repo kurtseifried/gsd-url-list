@@ -1,0 +1,10 @@
+http://my.opera.com/MichalBucko/blog/firefox-2-0-0-5-uri-encoding-allows-phishing
+http://my.opera.com/atomo64/blog/show.dml/443167
+http://my.opera.com/community/forums/topic.dml?id=144635
+http://my.opera.com/community/forums/topic.dml?id=241988&amp;amp;t=1222404671&amp;amp;page=1
+http://my.opera.com/community/forums/topic.dml?id=241988&amp;t=1222404671&amp;page=1
+http://my.opera.com/desktopteam/blog/2010/04/28/opera-10-53-rc1-for-windows-and-mac
+http://my.opera.com/securitygroup/blog/2010/03/09/the-malformed-content-length-header-security-issue
+http://my.opera.com/securitygroup/blog/2011/09/28/the-beast-ssl-tls-issue
+http://my.opera.com/securitygroup/blog/2013/03/20/on-the-precariousness-of-rc4
+http://my.opera.com/yngve/blog/2008/06/27/nobody-checks-the-padlock-debunked-by-opera-users

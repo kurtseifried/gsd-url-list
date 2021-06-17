@@ -1,0 +1,2 @@
+http://qa.openoffice.org/issues/show_bug.cgi?id=53491
+http://qa.openoffice.org/issues/show_bug.cgi?id=59032

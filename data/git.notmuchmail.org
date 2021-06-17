@@ -1,0 +1,1 @@
+http://git.notmuchmail.org/git/notmuch/blobdiff/3f2050ac221a4c940c12442f156f12fff11600c6..ae438ccd8c77831158c7c30f19710d798ee4a6b4:/emacs/notmuch-mua.el

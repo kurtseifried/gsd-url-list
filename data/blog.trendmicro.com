@@ -1,0 +1,15 @@
+http://blog.trendmicro.com/flaw-in-3rd-party-app-weakens-windows-mobile/
+http://blog.trendmicro.com/information-on-reported-vulnerabilities-in-trend-micro-password-manager/
+http://blog.trendmicro.com/trend-micro-finds-more-windows-mobile-flaws/
+http://blog.trendmicro.com/trendlabs-security-intelligence/a-look-at-the-open-type-font-manager-vulnerability-from-the-hacking-team-leak/
+http://blog.trendmicro.com/trendlabs-security-intelligence/an-analysis-of-a-windows-kernel-mode-vulnerability-cve-2014-4113/
+http://blog.trendmicro.com/trendlabs-security-intelligence/an-analysis-of-windows-zero-day-vulnerability-cve-2014-4114-aka-sandworm/
+http://blog.trendmicro.com/trendlabs-security-intelligence/cve-2015-0016-escaping-the-internet-explorer-sandbox/
+http://blog.trendmicro.com/trendlabs-security-intelligence/cve-2017-5638-apache-struts-vulnerability-remote-code-execution/
+http://blog.trendmicro.com/trendlabs-security-intelligence/new-adobe-flash-zero-day-used-in-pawn-storm-campaign/
+http://blog.trendmicro.com/trendlabs-security-intelligence/new-zero-day-vulnerability-cve-2015-5123-in-adobe-flash-emerges-from-hacking-team-leak/
+http://blog.trendmicro.com/trendlabs-security-intelligence/one-bit-rule-system-analyzing-cve-2016-7255-exploit-wild/
+http://blog.trendmicro.com/trendlabs-security-intelligence/os-x-zero-days-on-the-rise-a-2015-midyear-review-on-advanced-attack-surfaces/
+http://blog.trendmicro.com/trendlabs-security-intelligence/trend-micro-discovers-apache-vulnerability-that-allows-one-click-modification-of-android-apps/
+http://blog.trendmicro.com/trendlabs-security-intelligence/two-new-android-bugs-mess-up-messaging-may-lead-to-multiple-send-charges/
+http://blog.trendmicro.com/trendlabs-security-intelligence/unpatched-flash-player-flaws-more-pocs-found-in-hacking-team-leak/

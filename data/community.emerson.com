@@ -1,0 +1,1 @@
+http://community.emerson.com/process/emerson-exchange/operateandmanage/deltav/deltav_security/b/securitynotificationblog/archive/2015/04/16/dsn15003-2-ams-device-management-sql-injection-vulnerability

@@ -1,0 +1,13 @@
+http://framework.zend.com/security/advisory/ZF2012-01
+http://framework.zend.com/security/advisory/ZF2012-02
+http://framework.zend.com/security/advisory/ZF2012-03
+http://framework.zend.com/security/advisory/ZF2012-05
+http://framework.zend.com/security/advisory/ZF2014-01
+http://framework.zend.com/security/advisory/ZF2014-02
+http://framework.zend.com/security/advisory/ZF2014-04
+http://framework.zend.com/security/advisory/ZF2014-06
+http://framework.zend.com/security/advisory/ZF2015-01
+http://framework.zend.com/security/advisory/ZF2015-04
+http://framework.zend.com/security/advisory/ZF2015-06
+http://framework.zend.com/security/advisory/ZF2015-07
+http://framework.zend.com/security/advisory/ZF2015-08

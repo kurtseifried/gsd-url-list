@@ -1,0 +1,9 @@
+http://biyosecurity.be/bugs/adpforum2.txt
+http://biyosecurity.be/bugs/dvguestbook.txt
+http://biyosecurity.be/bugs/easycms.txt
+http://biyosecurity.be/bugs/mphorum.txt
+http://biyosecurity.be/bugs/n8cms.txt
+http://biyosecurity.be/bugs/oxynews.txt
+http://biyosecurity.be/bugs/patm.txt
+http://biyosecurity.be/bugs/phpuploadcenter2.txt
+http://biyosecurity.be/bugs/wmnews.txt

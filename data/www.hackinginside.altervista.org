@@ -1,0 +1,1 @@
+http://www.hackinginside.altervista.org/bug/skalinks_1_5_csrf.txt

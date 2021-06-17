@@ -1,0 +1,5 @@
+http://www.namazu.org/security.html
+http://www.namazu.org/security.html#
+http://www.namazu.org/security.html#cross-site-scripting
+http://www.namazu.org/security.html.en
+http://www.namazu.org/security.html.en#xss-tab

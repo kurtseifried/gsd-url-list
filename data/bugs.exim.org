@@ -1,0 +1,6 @@
+http://bugs.exim.org/show_bug.cgi?id=1044
+http://bugs.exim.org/show_bug.cgi?id=1106
+http://bugs.exim.org/show_bug.cgi?id=1546
+http://bugs.exim.org/show_bug.cgi?id=787
+http://bugs.exim.org/show_bug.cgi?id=988
+http://bugs.exim.org/show_bug.cgi?id=989

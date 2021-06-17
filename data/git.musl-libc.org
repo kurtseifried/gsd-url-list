@@ -1,0 +1,3 @@
+http://git.musl-libc.org/cgit/musl/commit/?id=45ca5d3fcb6f874bf5ba55d0e9651cef68515395
+http://git.musl-libc.org/cgit/musl/commit/?id=b3d9e0b94ea73c68ef4169ec82c898ce59a4e30a
+http://git.musl-libc.org/cgit/musl/tree/WHATSNEW

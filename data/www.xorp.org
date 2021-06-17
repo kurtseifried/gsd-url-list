@@ -1,0 +1,1 @@
+http://www.xorp.org/advisories/XORP_SA_06:01.ospf.txt

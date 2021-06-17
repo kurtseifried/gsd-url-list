@@ -1,0 +1,6 @@
+http://www.gnutls.org/security.html
+http://www.gnutls.org/security.html#GNUTLS-SA-2013-1
+http://www.gnutls.org/security.html#GNUTLS-SA-2013-2
+http://www.gnutls.org/security.html#GNUTLS-SA-2013-3
+http://www.gnutls.org/security.html#GNUTLS-SA-2015-3
+http://www.gnutls.org/security.html#GNUTLS-SA-2015-4

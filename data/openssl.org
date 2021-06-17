@@ -1,0 +1,7 @@
+http://openssl.org/news/patch-CVE-2007-3108.txt
+http://openssl.org/news/secadv/20151203.txt
+http://openssl.org/news/secadv/20160301.txt
+http://openssl.org/news/secadv_20101116.txt
+http://openssl.org/news/secadv_20101202.txt
+http://openssl.org/news/secadv_20110906.txt
+http://openssl.org/news/secadv_20150709.txt

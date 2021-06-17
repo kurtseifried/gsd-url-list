@@ -1,0 +1,15 @@
+http://st2tea.blogspot.com/2011/12/websvn-cross-site-scripting.html
+http://st2tea.blogspot.com/2012/01/cross-site-scripting-twiki.html
+http://st2tea.blogspot.com/2012/01/fusetalk-forums-v32-cross-site.html
+http://st2tea.blogspot.com/2012/01/otterware-statit4-cross-site-scripting.html
+http://st2tea.blogspot.com/2012/01/ubb-forum756-cross-site-scripting.html
+http://st2tea.blogspot.com/2012/01/viewgit-cross-site-scripting.html
+http://st2tea.blogspot.com/2012/01/xclick-cart-cross-site-scripting.html
+http://st2tea.blogspot.com/2012/02/foswiki-cross-site-scripting.html
+http://st2tea.blogspot.com/2012/02/jamroom-cross-site-scripting.html
+http://st2tea.blogspot.com/2012/02/smw-enterprise-wiki-156-cross-site.html
+http://st2tea.blogspot.com/2012/02/tiki-wiki-cms-groupware-frame-injection.html
+http://st2tea.blogspot.com/2012/02/wonderdesk-cross-site-scripting.html
+http://st2tea.blogspot.com/2012/02/xwiki-cross-site-scripting.html
+http://st2tea.blogspot.com/2012/02/zimbra-cross-site-scripting.html
+http://st2tea.blogspot.com/2012/03/kayako-fusion-cross-site-scripting.html

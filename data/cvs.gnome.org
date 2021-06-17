@@ -1,0 +1,4 @@
+http://cvs.gnome.org/bonsai/cvsblame.cgi?file=gdm2/NEWS&amp;amp;rev=&amp;amp;root=/cvs/gnome
+http://cvs.gnome.org/bonsai/cvsblame.cgi?file=gdm2/NEWS&amp;rev=&amp;root=/cvs/gnome
+http://cvs.gnome.org/viewcvs/gdm2/daemon/slave.c?r1=1.260&amp;amp;r2=1.261
+http://cvs.gnome.org/viewcvs/gdm2/daemon/slave.c?r1=1.260&amp;r2=1.261

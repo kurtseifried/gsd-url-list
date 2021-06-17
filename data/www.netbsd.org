@@ -1,0 +1,2 @@
+http://www.netbsd.org/cgi-bin/query-pr-single.pl?number=32804
+http://www.netbsd.org/cgi-bin/query-pr-single.pl?number=32805

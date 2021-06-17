@@ -1,0 +1,2 @@
+http://fastcompression.blogspot.fr/2014/06/debunking-lz4-20-years-old-bug-myth.html
+http://fastcompression.blogspot.fr/2014/07/software-vulnerabilities-how-it-works.html

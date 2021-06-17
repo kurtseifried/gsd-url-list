@@ -1,0 +1,1 @@
+http://binaries.openttd.org/releases/0.7.5/changelog.txt

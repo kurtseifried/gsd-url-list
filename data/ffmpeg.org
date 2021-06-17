@@ -1,0 +1,5 @@
+http://ffmpeg.org/
+http://ffmpeg.org/security.html
+http://ffmpeg.org/trac/ffmpeg/ticket/757
+http://ffmpeg.org/trac/ffmpeg/ticket/758
+http://ffmpeg.org/trac/ffmpeg/ticket/780

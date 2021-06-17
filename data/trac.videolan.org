@@ -1,0 +1,6 @@
+http://trac.videolan.org/vlc/changeset/09572892df7e72c0d4e598c0b5e076cf330d8b0a
+http://trac.videolan.org/vlc/changeset/18481
+http://trac.videolan.org/vlc/changeset/22023
+http://trac.videolan.org/vlc/changeset/23839
+http://trac.videolan.org/vlc/ticket/1578
+http://trac.videolan.org/vlc/ticket/8024

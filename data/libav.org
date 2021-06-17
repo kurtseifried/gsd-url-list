@@ -1,0 +1,8 @@
+http://libav.org/
+http://libav.org/news.html
+http://libav.org/releases/libav-0.5.6.changelog
+http://libav.org/releases/libav-0.6.4.changelog
+http://libav.org/releases/libav-0.7.3.changelog
+http://libav.org/releases/libav-0.7.7.changelog
+http://libav.org/releases/libav-0.8.4.changelog
+http://libav.org/releases/libav-0.8.5.changelog

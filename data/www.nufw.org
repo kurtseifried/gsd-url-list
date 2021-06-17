@@ -1,0 +1,4 @@
+http://www.nufw.org/+NUFW-1-16-minor-security-fix+.html
+http://www.nufw.org/+NuFW-1-21-minor-security-fix+.html
+http://www.nufw.org/+NuFW-2-2-4,201+.html
+http://www.nufw.org/+NuFW-2-2-7,207+.html

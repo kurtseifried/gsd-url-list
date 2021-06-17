@@ -1,0 +1,9 @@
+http://www.mavitunasecurity.com/XSS-vulnerability-in-Redmine/
+http://www.mavitunasecurity.com/XSS-vulnerability-in-Tracks/
+http://www.mavitunasecurity.com/XSS-vulnerability-in-Twiki/
+http://www.mavitunasecurity.com/local-file-inclusion-vulnerability-in-tomatocart/
+http://www.mavitunasecurity.com/open-redirection-vulnerability-in-orchard/
+http://www.mavitunasecurity.com/sql-injection-vulnerability-in-openemr/
+http://www.mavitunasecurity.com/xss-and-sql-injection-vulnerabilities-in-symphony-cms/
+http://www.mavitunasecurity.com/xss-vulnerability-in-joomla-163/
+http://www.mavitunasecurity.com/xss-vulnerability-in-twiki5

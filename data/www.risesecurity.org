@@ -1,0 +1,2 @@
+http://www.risesecurity.org/advisory/RISE-2006001.txt
+http://www.risesecurity.org/advisory/RISE-2007003/

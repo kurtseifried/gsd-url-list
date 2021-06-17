@@ -1,0 +1,11 @@
+http://git.gnupg.org/cgi-bin/gitweb.cgi?p=gnupg.git;a=commit;h=014b2103fcb12f261135e3954f26e9e07b39e342
+http://git.gnupg.org/cgi-bin/gitweb.cgi?p=gnupg.git;a=commit;h=11fdfcf82bd8d2b5bc38292a29876e10770f4b0a
+http://git.gnupg.org/cgi-bin/gitweb.cgi?p=gnupg.git;a=commit;h=2183683bd633818dd031b090b5530951de76f392
+http://git.gnupg.org/cgi-bin/gitweb.cgi?p=gnupg.git;a=commit;h=f0f71a721ccd7ab9e40b8b6b028b59632c0cc648
+http://git.gnupg.org/cgi-bin/gitweb.cgi?p=gnupg.git;a=commitdiff;h=f0b33b6fb8e0586e9584a7a409dcc31263776a67
+http://git.gnupg.org/cgi-bin/gitweb.cgi?p=gpgme.git;a=commit;h=2cbd76f7911fc215845e89b50d6af5ff4a83dd77
+http://git.gnupg.org/cgi-bin/gitweb.cgi?p=libksba.git;a=commit;h=07116a314f4dcd4d96990bbd74db95a03a9f650a
+http://git.gnupg.org/cgi-bin/gitweb.cgi?p=libksba.git;a=commit;h=243d12fdec66a4360fbb3e307a046b39b5b4ffc3
+http://git.gnupg.org/cgi-bin/gitweb.cgi?p=libksba.git;a=commit;h=6be61daac047d8e6aa941eb103f8e71a1d4e3c75
+http://git.gnupg.org/cgi-bin/gitweb.cgi?p=libksba.git;a=commit;h=a7eed17a0b2a1c09ef986f3b4b323cd31cea2b64
+http://git.gnupg.org/cgi-bin/gitweb.cgi?p=libksba.git;a=commit;h=aea7b6032865740478ca4b706850a5217f1c3887

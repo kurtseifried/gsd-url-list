@@ -1,0 +1,3 @@
+http://bugs.typo3.org/view.php?id=1250
+http://bugs.typo3.org/view.php?id=16362
+http://bugs.typo3.org/view.php?id=2248

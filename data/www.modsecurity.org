@@ -1,0 +1,3 @@
+http://www.modsecurity.org/
+http://www.modsecurity.org/blog/archives/2007/03/modsecurity_asc.html
+http://www.modsecurity.org/download/CHANGES

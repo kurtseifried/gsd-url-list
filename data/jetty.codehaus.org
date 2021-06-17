@@ -1,0 +1,2 @@
+http://jetty.codehaus.org/jetty/jetty-6/xref/org/mortbay/jetty/handler/ResourceHandler.html
+http://jetty.codehaus.org/jetty/jetty-6/xref/org/mortbay/jetty/servlet/DefaultServlet.html

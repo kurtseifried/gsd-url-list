@@ -1,0 +1,2 @@
+ftp://ftp.ruby-lang.org/pub/ruby/1.8/ruby-1.8.2-webrick-dos-1.patch
+ftp://ftp.ruby-lang.org/pub/ruby/1.8/ruby-1.8.2-xmlrpc-dos-1.patch

@@ -1,0 +1,10 @@
+http://lists.samba.org/archive/distcc/2004q3/002550.html
+http://lists.samba.org/archive/distcc/2004q3/002562.html
+http://lists.samba.org/archive/linux-cifs-client/2009-April/004322.html
+http://lists.samba.org/archive/linux-cifs-client/2010-April/005741.html
+http://lists.samba.org/archive/linux-cifs-client/2010-April/005742.html
+http://lists.samba.org/archive/linux-cifs-client/2010-April/005746.html
+http://lists.samba.org/archive/linux-cifs-client/2010-April/005757.html
+http://lists.samba.org/archive/rsync/2011-January/025988.html
+http://lists.samba.org/archive/samba-announce/2010/000211.html
+http://lists.samba.org/archive/samba-technical/2002-June/022075.html

@@ -1,0 +1,5 @@
+http://strongswan.org/blog/2013/08/01/strongswan-5.1.0-released.html
+http://strongswan.org/blog/2013/08/01/strongswan-denial-of-service-vulnerability-%28cve-2013-5018%29.html
+http://strongswan.org/blog/2015/01/05/strongswan-5.2.2-released.html
+http://strongswan.org/blog/2015/01/05/strongswan-denial-of-service-vulnerability-%28cve-2014-9221%29.html
+http://strongswan.org/blog/2015/01/05/strongswan-denial-of-service-vulnerability-(cve-2014-9221).html

@@ -1,0 +1,2 @@
+http://evilfingers.com/advisory/Firefox_User_Interface_Null_Pointer_Dereference_Dispatcher_Crash_n_Remote_DoS.php
+http://evilfingers.com/advisory/google_chrome_poc.php

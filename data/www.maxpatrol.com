@@ -1,0 +1,9 @@
+http://www.maxpatrol.com/advdetails.asp?id=10
+http://www.maxpatrol.com/advdetails.asp?id=11
+http://www.maxpatrol.com/advdetails.asp?id=12
+http://www.maxpatrol.com/advdetails.asp?id=13
+http://www.maxpatrol.com/advdetails.asp?id=14
+http://www.maxpatrol.com/advdetails.asp?id=15
+http://www.maxpatrol.com/advdetails.asp?id=5
+http://www.maxpatrol.com/advdetails.asp?id=7
+http://www.maxpatrol.com/mp_advisory.asp

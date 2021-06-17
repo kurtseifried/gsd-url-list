@@ -1,0 +1,6 @@
+http://yollubunlar.org/hunkaray-okul-portali-v1.1-tr-sql-injection-vuln-44.html
+http://yollubunlar.org/husrev-forums-v201powerboard-sql-injection-exploit-3503.html
+http://yollubunlar.org/joomla-j-reactions-component-rfi-75.html
+http://yollubunlar.org/our-de-france-pool-101-remote-file-include-43.html
+http://yollubunlar.org/phpmyquote-020-version-multiple-sql-and-xss-vulnerabilities-3501.html
+http://yollubunlar.org/proxy-anket-v301-sql-injection-vulnerable-3502.html

@@ -1,0 +1,7 @@
+http://www.opensyscom.fr/Actualites/drupal-modules-drag-a-drop-gallery-arbitrary-file-upload-vulnerability.html
+http://www.opensyscom.fr/Actualites/serendipity-xss-vulnerability.html
+http://www.opensyscom.fr/Actualites/wordpress-plugins-fcchat-widget-shell-upload-vulnerability.html
+http://www.opensyscom.fr/Actualites/wordpress-plugins-mm-forms-community-shell-upload-vulnerability.html
+http://www.opensyscom.fr/Actualites/wordpress-plugins-nmedia-wordpress-member-conversation-shell-upload-vulnerability.html
+http://www.opensyscom.fr/Actualites/wordpress-plugins-plugin-newsletter-remote-file-disclosure-vulnerability.html
+http://www.opensyscom.fr/Actualites/wordpress-plugins-rbx-gallery-multiple-arbitrary-file-upload-vulnerability.html

@@ -1,0 +1,4 @@
+http://evergreen-ils.org/downloads/ChangeLog-2.5.8-2.5.9
+http://evergreen-ils.org/downloads/ChangeLog-2.6.6-2.6.7
+http://evergreen-ils.org/downloads/ChangeLog-2.7.3-2.7.4
+http://evergreen-ils.org/security-releases-evergreen-2-7-4-2-6-7-and-2-5-9/

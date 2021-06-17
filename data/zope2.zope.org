@@ -1,0 +1,1 @@
+http://zope2.zope.org/news/security-vulnerability-announcement-cve-2011-3587

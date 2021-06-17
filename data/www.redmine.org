@@ -1,0 +1,14 @@
+http://www.redmine.org/boards/2/topics/29343
+http://www.redmine.org/issues/10390
+http://www.redmine.org/news/101
+http://www.redmine.org/news/102
+http://www.redmine.org/news/103
+http://www.redmine.org/news/49
+http://www.redmine.org/news/53
+http://www.redmine.org/projects/redmine/wiki/Changelog
+http://www.redmine.org/projects/redmine/wiki/Changelog_2_4
+http://www.redmine.org/projects/redmine/wiki/Security_Advisories
+http://www.redmine.org/versions/42
+http://www.redmine.org/wiki/redmine/Changelog
+http://www.redmine.org/wiki/redmine/Changelog#v086-2009-11-04
+http://www.redmine.org/wiki/redmine/Changelog#v087-2009-11-15

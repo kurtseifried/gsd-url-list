@@ -1,0 +1,1 @@
+ftp://ftp.scientificlinux.org/linux/scientific/6x/SRPMS/vendor/hplip-3.12.4-4.el6.src.rpm

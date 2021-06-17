@@ -1,0 +1,1 @@
+http://bugs6.perl.org/rt2/Ticket/Display.html?id=17744

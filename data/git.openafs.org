@@ -1,0 +1,2 @@
+http://git.openafs.org/?p=openafs.git;a=commitdiff;h=2ef863720da4d9f368aaca0461c672a3008195ca
+http://git.openafs.org/?p=openafs.git;a=commitdiff;h=396240cf070a806b91fea81131d034e1399af1e0

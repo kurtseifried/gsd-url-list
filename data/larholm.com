@@ -1,0 +1,11 @@
+http://larholm.com/2007/04/06/0day-vulnerability-in-firebug/
+http://larholm.com/2007/04/06/more-0day-in-firebug/
+http://larholm.com/2007/04/06/more-0day-in-firebug/#comment-6
+http://larholm.com/2007/05/25/firefox-0day-local-file-reading/
+http://larholm.com/2007/06/04/unpatched-input-validation-flaw-in-firefox-2004/
+http://larholm.com/2007/06/11/phpmailer-0day-remote-execution/
+http://larholm.com/2007/06/12/safari-for-windows-0day-exploit-in-2-hours
+http://larholm.com/2007/06/14/safari-301-released/
+http://larholm.com/2007/07/10/internet-explorer-0day-exploit/
+http://larholm.com/2007/07/23/seamonkey-suite-affected-by-url-vulnerability/
+http://larholm.com/2007/07/25/mozilla-protocol-abuse/

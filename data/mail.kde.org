@@ -1,0 +1,5 @@
+http://mail.kde.org/pipermail/freenx-knx/2005-February/000734.html
+http://mail.kde.org/pipermail/kmail-devel/2005-February/015490.html
+http://mail.kde.org/pipermail/taglib-devel/2012-March/002186.html
+http://mail.kde.org/pipermail/taglib-devel/2012-March/002187.html
+http://mail.kde.org/pipermail/taglib-devel/2012-March/002191.html

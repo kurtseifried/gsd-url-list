@@ -1,0 +1,1 @@
+http://blacksecurity.org/exploits/38/FILECOPA_V1.01_and_Below_Pre_Authentication_Remote_Overflow/111.html

@@ -1,0 +1,10 @@
+http://www.argeniss.com/research/ARGENISS-ADV-010601.txt
+http://www.argeniss.com/research/ARGENISS-ADV-030501.txt
+http://www.argeniss.com/research/ARGENISS-ADV-040602.txt
+http://www.argeniss.com/research/ARGENISS-ADV-040603.txt
+http://www.argeniss.com/research/Churrasco.zip
+http://www.argeniss.com/research/MSBugPaper.pdf
+http://www.argeniss.com/research/OraDBMS_CDC_SUBSCRIBEExploit.txt
+http://www.argeniss.com/research/OraDBMS_CDC_SUBSCRIBEWorkaround.sql
+http://www.argeniss.com/research/SSExploit.c
+http://www.argeniss.com/research/TokenKidnapping.pdf

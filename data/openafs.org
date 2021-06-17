@@ -1,0 +1,4 @@
+http://openafs.org/pages/security/OPENAFS-SA-2014-001.txt
+http://openafs.org/pages/security/OPENAFS-SA-2018-001.txt
+http://openafs.org/pages/security/OPENAFS-SA-2018-002.txt
+http://openafs.org/pages/security/OPENAFS-SA-2018-003.txt

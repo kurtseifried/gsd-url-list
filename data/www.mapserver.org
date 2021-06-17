@@ -1,0 +1,5 @@
+http://www.mapserver.org/development/changelog/changelog-6-0-6.html#changelog-6-0-6
+http://www.mapserver.org/development/changelog/changelog-6-2-4.html#changelog-6-2-4
+http://www.mapserver.org/development/changelog/changelog-6-4.html#changelog-6-4-1
+http://www.mapserver.org/development/changelog/changelog-6-4.html#changelog-6-4-5
+http://www.mapserver.org/development/changelog/changelog-7-0.html#changelog-7-0-4

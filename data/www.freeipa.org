@@ -1,0 +1,7 @@
+http://www.freeipa.org/page/CVE-2008-3274
+http://www.freeipa.org/page/CVE-2012-5484
+http://www.freeipa.org/page/CVE-2013-0199
+http://www.freeipa.org/page/Downloads
+http://www.freeipa.org/page/News
+http://www.freeipa.org/page/Releases/3.1.2
+http://www.freeipa.org/page/Releases/4.1.1

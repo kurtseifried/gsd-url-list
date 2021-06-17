@@ -1,0 +1,2 @@
+http://www.sapdb.org/7.4/new_relinfo.txt
+http://www.sapdb.org/sap_db_alert.htm

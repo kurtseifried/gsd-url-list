@@ -1,0 +1,6 @@
+http://lampsecurity.org/Pixie-CMS-Multiple-Vulnerabilities
+http://lampsecurity.org/drupal-6-taxonomy-manager-xss-vulnerability
+http://lampsecurity.org/drupal-date-xss-vulnerability
+http://lampsecurity.org/drupal-nodeque-xss-vulnerability
+http://lampsecurity.org/drupal-views-xss-vulnerability
+http://lampsecurity.org/node/28

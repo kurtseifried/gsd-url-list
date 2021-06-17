@@ -1,0 +1,13 @@
+http://www.defensecode.com/advisories/DC-2017-01-003_WordPress_Dbox_3D_Slider_Lite_Plugin_Advisory.pdf
+http://www.defensecode.com/advisories/DC-2017-01-007_WordPress_Easy_Modal_Plugin_Advisory.pdf
+http://www.defensecode.com/advisories/DC-2017-01-014_WordPress_Tribulant_Slideshow_Gallery_Plugin_Advisory.pdf
+http://www.defensecode.com/advisories/DC-2017-05-006_WordPress_Podlove_Podcast_Publisher_Plugin_Advisory.pdf
+http://www.defensecode.com/advisories/DC-2017-05-007_WordPress_PressForward_Plugin_Advisory.pdf
+http://www.defensecode.com/advisories/DC-2018-01-001_WordPress_Soundy_Background_Music_Plugin_Advisory.pdf
+http://www.defensecode.com/advisories/DC-2018-01-002_WordPress_Soundy_Audio_Playlist_Plugin_Advisory.pdf
+http://www.defensecode.com/advisories/DC-2018-01-004_WordPress_Smooth_Slider_Plugin_Advisory.pdf
+http://www.defensecode.com/advisories/DC-2018-01-005_WordPress_Testimonial_Slider_Plugin_Advisory.pdf
+http://www.defensecode.com/advisories/DC-2018-01-011_SugarCRM_Community_Edition_Advisory.pdf
+http://www.defensecode.com/advisories/DC-2018-02-001-PureVPN-Windows-Privilege-Escalation.pdf
+http://www.defensecode.com/advisories/DC-2018-05-006_WordPress_Snazzy_Maps_Plugin_Advisory.pdf
+http://www.defensecode.com/advisories/DC-2018-05-008_WordPress_Gwolle_Guestbook_Plugin_Advisory.pdf

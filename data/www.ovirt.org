@@ -1,0 +1,2 @@
+http://www.ovirt.org/OVirt_3.5_Release_Notes
+http://www.ovirt.org/Security_advisories

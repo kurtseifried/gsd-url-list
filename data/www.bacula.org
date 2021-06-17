@@ -1,0 +1,2 @@
+http://www.bacula.org/en/?page=news
+http://www.bacula.org/git/cgit.cgi/bacula/commit/?id=67debcecd3d530c429e817e1d778e79dcd1db905

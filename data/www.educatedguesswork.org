@@ -1,0 +1,3 @@
+http://www.educatedguesswork.org/2009/11/understanding_the_tls_renegoti.html
+http://www.educatedguesswork.org/2011/09/security_impact_of_the_rizzodu.html
+http://www.educatedguesswork.org/2011/10/ssltls_and_computational_dos.html

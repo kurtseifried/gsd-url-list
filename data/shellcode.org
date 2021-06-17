@@ -1,0 +1,3 @@
+http://shellcode.org/Advisories/XITALK.txt
+http://shellcode.org/Advisories/XONIX.txt
+http://shellcode.org/pipermail/debian-audit/2004-December/000078.html

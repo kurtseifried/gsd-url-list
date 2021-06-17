@@ -1,0 +1,1 @@
+http://svn.codehaus.org/jetty/jetty/trunk/VERSION.txt

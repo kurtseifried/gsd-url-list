@@ -1,0 +1,2 @@
+http://www.doctrine-project.org/2015/08/31/security_misconfiguration_vulnerability_in_various_doctrine_projects.html
+http://www.doctrine-project.org/blog/doctrine-security-fix

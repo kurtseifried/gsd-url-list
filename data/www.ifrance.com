@@ -1,0 +1,10 @@
+http://www.ifrance.com/kitetoua/tuto/5holes1.txt
+http://www.ifrance.com/kitetoua/tuto/5holes4.txt
+http://www.ifrance.com/kitetoua/tuto/5holes5.txt
+http://www.ifrance.com/kitetoua/tuto/ASPNuke.txt
+http://www.ifrance.com/kitetoua/tuto/LokwaBB.txt
+http://www.ifrance.com/kitetoua/tuto/PWG.txt
+http://www.ifrance.com/kitetoua/tuto/Teekai.txt
+http://www.ifrance.com/kitetoua/tuto/W-Agora.txt
+http://www.ifrance.com/kitetoua/tuto/powerboards.txt
+http://www.ifrance.com/kitetoua/tuto/x_holes.txt

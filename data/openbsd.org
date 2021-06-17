@@ -1,0 +1,11 @@
+http://openbsd.org/errata.html#httpd2
+http://openbsd.org/errata.html#openssl2
+http://openbsd.org/errata.html#systrace
+http://openbsd.org/errata34.html
+http://openbsd.org/errata39.html#022_route6
+http://openbsd.org/errata40.html#012_route6
+http://openbsd.org/errata40.html#015_file
+http://openbsd.org/errata43.html#010_bgpd
+http://openbsd.org/errata44.html#010_bgpd
+http://openbsd.org/errata45.html#010_openssl
+http://openbsd.org/errata46.html#004_openssl

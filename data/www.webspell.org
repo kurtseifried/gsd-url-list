@@ -1,0 +1,13 @@
+http://www.webspell.org/
+http://www.webspell.org/index.php?site=files&amp;amp;cat=21
+http://www.webspell.org/index.php?site=files&amp;amp;file=25
+http://www.webspell.org/index.php?site=files&amp;amp;file=30
+http://www.webspell.org/index.php?site=files&amp;cat=21
+http://www.webspell.org/index.php?site=files&amp;file=25
+http://www.webspell.org/index.php?site=files&amp;file=30
+http://www.webspell.org/index.php?site=news_comments&amp;amp;newsID=126&amp;amp;lang=uk
+http://www.webspell.org/index.php?site=news_comments&amp;amp;newsID=130
+http://www.webspell.org/index.php?site=news_comments&amp;amp;newsID=49&amp;amp;lang=en
+http://www.webspell.org/index.php?site=news_comments&amp;newsID=126&amp;lang=uk
+http://www.webspell.org/index.php?site=news_comments&amp;newsID=130
+http://www.webspell.org/index.php?site=news_comments&amp;newsID=49&amp;lang=en

@@ -1,0 +1,5 @@
+http://forge.typo3.org/issues/35532
+http://forge.typo3.org/projects/extension-jftcaforms/repository/diff?rev=51637&amp;amp;rev_to=51568
+http://forge.typo3.org/projects/extension-jftcaforms/repository/diff?rev=51637&amp;rev_to=51568
+http://forge.typo3.org/projects/extension-sr_feuser_register/repository/entry/trunk/ChangeLog
+http://forge.typo3.org/projects/extension-sr_feuser_register/repository/revisions/58720

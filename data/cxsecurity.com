@@ -1,0 +1,11 @@
+http://cxsecurity.com/issue/WLB-2011090012
+http://cxsecurity.com/issue/WLB-2013040083
+http://cxsecurity.com/issue/WLB-2013040105
+http://cxsecurity.com/issue/WLB-2013070028
+http://cxsecurity.com/issue/WLB-2013080065
+http://cxsecurity.com/issue/WLB-2013110059
+http://cxsecurity.com/issue/WLB-2013110149
+http://cxsecurity.com/issue/WLB-2014010087
+http://cxsecurity.com/issue/WLB-2015050095
+http://cxsecurity.com/issue/WLB-2015050162
+http://cxsecurity.com/research/103

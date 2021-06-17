@@ -1,0 +1,2 @@
+http://imager.perl.org/a/65.html
+http://imager.perl.org/i/release064/Imager_0_64

@@ -1,0 +1,2 @@
+http://munin-monitoring.org/changeset/4825
+http://munin-monitoring.org/ticket/1397

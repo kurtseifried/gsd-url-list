@@ -1,0 +1,2 @@
+http://git.libssh.org/projects/libssh.git/commit/?h=v0-5&amp;amp;id=4d8420f3282ed07fc99fc5e930c17df27ef1e9b2
+http://git.libssh.org/projects/libssh.git/commit/?h=v0-5&amp;id=4d8420f3282ed07fc99fc5e930c17df27ef1e9b2

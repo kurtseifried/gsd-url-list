@@ -1,0 +1,2 @@
+http://www.your.org/dnscache/
+http://www.your.org/dnscache/djbdns.pdf

@@ -1,0 +1,15 @@
+http://mail-archives.us.apache.org/mod_mbox/www-announce/201404.mbox/%3C534CE273.9020601@apache.org%3E
+http://mail-archives.us.apache.org/mod_mbox/www-announce/201412.mbox/%3C54A1A7C7.2070804@apache.org%3E
+http://mail-archives.us.apache.org/mod_mbox/www-announce/201507.mbox/%3CCABF6JR37mWzDmXDqRQwRUXiojBZrhidndnsY1ZgmcZv-o7-a+g@mail.gmail.com%3E
+http://mail-archives.us.apache.org/mod_mbox/www-announce/201509.mbox/%3CCABF6JR2j5vesvnjbm6sDPB_zAGj3kNgzzHEpLUh6dWG6t8mC2w@mail.gmail.com%3E
+http://mail-archives.us.apache.org/mod_mbox/www-announce/201605.mbox/%3C83a03bcf-f86b-4688-37b5-615c080291d8@apache.org%3E
+http://mail-archives.us.apache.org/mod_mbox/www-announce/201707.mbox/%3CCAOOKt53EgrybaD%2BiSn-nBbvFdse-szhg%3DhMoDZuvUvyMme-Z%3Dg%40mail.gmail.com%3E
+http://mail-archives.us.apache.org/mod_mbox/www-announce/201709.mbox/%3CCAOOKt53AOScg04zUh0%2BR_fcXD0C9s5mQ-OzdgYdnHz49u1KmXw@mail.gmail.com%3E
+http://mail-archives.us.apache.org/mod_mbox/www-announce/201710.mbox/%3CCAOOKt51UO_6Vy%3Dj8W%3Dx1pMbLW9VJfZyFWz7pAnXJC_OAdSZubA%40mail.gmail.com%3E
+http://mail-archives.us.apache.org/mod_mbox/www-announce/201807.mbox/%3C20180721101944.GA45239@minotaur.apache.org%3E
+http://mail-archives.us.apache.org/mod_mbox/www-announce/201807.mbox/%3C20180722090435.GA60759%40minotaur.apache.org%3E
+http://mail-archives.us.apache.org/mod_mbox/www-announce/201807.mbox/%3C20180722090623.GA92700%40minotaur.apache.org%3E
+http://mail-archives.us.apache.org/mod_mbox/www-announce/201807.mbox/%3C20180722091057.GA70283@minotaur.apache.org%3E
+http://mail-archives.us.apache.org/mod_mbox/www-announce/201808.mbox/%3C0c616b4d-4e81-e7f8-b81d-1bb4c575aa33%40apache.org%3E
+http://mail-archives.us.apache.org/mod_mbox/www-announce/201903.mbox/%3CCAECwjAV1buZwg%2BMcV9EAQ19MeAWztPVJYD4zGK8kQdADFYij1w%40mail.gmail.com%3E
+http://mail-archives.us.apache.org/mod_mbox/www-announce/201909.mbox/%3CCAECwjAXU4%3DkAo5DeUJw7Kvk67sgCmajAN7LGZQNjbjZ8gv%3DBdw%40mail.gmail.com%3E

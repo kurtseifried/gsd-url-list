@@ -1,0 +1,8 @@
+http://bugs.kde.org/show_bug.cgi?id=102328
+http://bugs.kde.org/show_bug.cgi?id=138499
+http://bugs.kde.org/show_bug.cgi?id=143637
+http://bugs.kde.org/show_bug.cgi?id=226449
+http://bugs.kde.org/show_bug.cgi?id=53343
+http://bugs.kde.org/show_bug.cgi?id=56808
+http://bugs.kde.org/show_bug.cgi?id=96020
+http://bugs.kde.org/show_bug.cgi?id=97608

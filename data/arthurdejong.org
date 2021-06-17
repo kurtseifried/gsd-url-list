@@ -1,0 +1,4 @@
+http://arthurdejong.org/git/nss-pam-ldapd/commit/?id=7867b93f9a7c76b96f1571cddc1de0811134bb81
+http://arthurdejong.org/git/nss-pam-ldapd/commit/?id=abf03bc54032beeff95b1b8634cc005137e11f32
+http://arthurdejong.org/git/nss-pam-ldapd/commit/?id=f266f05f20afe73e89c3946a7bd60bd7c5948e1b
+http://arthurdejong.org/nss-pam-ldapd/news.html#20110309

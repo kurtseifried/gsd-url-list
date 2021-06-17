@@ -1,0 +1,13 @@
+http://www.igniterealtime.org/builds/openfire/docs/latest/changelog.html
+http://www.igniterealtime.org/community/message/163752
+http://www.igniterealtime.org/community/message/190280
+http://www.igniterealtime.org/fisheye/changelog/svn-org?cs=10031
+http://www.igniterealtime.org/issues/browse/JM-1049
+http://www.igniterealtime.org/issues/browse/JM-1289
+http://www.igniterealtime.org/issues/browse/JM-1488
+http://www.igniterealtime.org/issues/browse/JM-1489
+http://www.igniterealtime.org/issues/browse/JM-1506
+http://www.igniterealtime.org/issues/browse/JM-1531
+http://www.igniterealtime.org/issues/browse/JM-1532
+http://www.igniterealtime.org/issues/browse/JM-430
+http://www.igniterealtime.org/issues/browse/JM-629

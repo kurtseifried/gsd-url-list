@@ -1,0 +1,17 @@
+http://doc.silverstripe.org/framework/en/trunk/changelogs//2.3.10
+http://doc.silverstripe.org/framework/en/trunk/changelogs//2.4.4
+http://doc.silverstripe.org/framework/en/trunk/changelogs/2.3.12
+http://doc.silverstripe.org/framework/en/trunk/changelogs/2.3.13
+http://doc.silverstripe.org/framework/en/trunk/changelogs/2.4.6
+http://doc.silverstripe.org/framework/en/trunk/changelogs/2.4.7
+http://doc.silverstripe.org/sapphire/en/trunk/changelogs//2.3.10
+http://doc.silverstripe.org/sapphire/en/trunk/changelogs//2.3.6
+http://doc.silverstripe.org/sapphire/en/trunk/changelogs//2.3.7
+http://doc.silverstripe.org/sapphire/en/trunk/changelogs//2.3.8
+http://doc.silverstripe.org/sapphire/en/trunk/changelogs//2.3.9
+http://doc.silverstripe.org/sapphire/en/trunk/changelogs//2.4.1
+http://doc.silverstripe.org/sapphire/en/trunk/changelogs//2.4.2
+http://doc.silverstripe.org/sapphire/en/trunk/changelogs//2.4.3
+http://doc.silverstripe.org/sapphire/en/trunk/changelogs//2.4.4
+http://doc.silverstripe.org/sapphire/en/trunk/changelogs/2.3.12
+http://doc.silverstripe.org/sapphire/en/trunk/changelogs/2.4.6

@@ -1,0 +1,5 @@
+http://mail.zope.org/pipermail/zope-announce/2006-August/002005.html
+http://mail.zope.org/pipermail/zope-announce/2006-July/001984.html
+http://mail.zope.org/pipermail/zope-announce/2009-August/002220.html
+http://mail.zope.org/pipermail/zope-dev/2009-July/037195.html
+http://mail.zope.org/pipermail/zope/2008-August/174025.html

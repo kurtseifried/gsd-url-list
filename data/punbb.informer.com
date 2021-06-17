@@ -1,0 +1,13 @@
+http://punbb.informer.com/
+http://punbb.informer.com/download/changelogs/1.2.16_to_1.2.17.txt
+http://punbb.informer.com/download/changelogs/1.2.17_to_1.2.19.txt
+http://punbb.informer.com/download/changelogs/1.2.19_to_1.2.20.txt
+http://punbb.informer.com/forums/topic/19539/punbb-1219/
+http://punbb.informer.com/forums/topic/19682/punbb-1220-and-13rc-hotfix-released/
+http://punbb.informer.com/forums/topic/20475/punbb-132/
+http://punbb.informer.com/forums/topic/21669/punbb-134/
+http://punbb.informer.com/forums/topic/24427/multiple-xss-vulnerabilities/
+http://punbb.informer.com/forums/topic/24430/punbb-136/
+http://punbb.informer.com/wiki/punbb13/bugs#possible_xss_in_login
+http://punbb.informer.com/wiki/punbb13/bugs#potential_sql-injections_at_adminusers.php_page
+http://punbb.informer.com/wiki/punbb13/bugs#potential_sql-injections_in_adminsettings.php_via_configuration_values

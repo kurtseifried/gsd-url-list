@@ -1,0 +1,2 @@
+http://docs.cloudstack.apache.org/projects/cloudstack-release-notes/en/4.3.2/about.html
+http://docs.cloudstack.apache.org/projects/cloudstack-release-notes/en/4.4.2/fixed_issues.html#issues-fixed-in-release

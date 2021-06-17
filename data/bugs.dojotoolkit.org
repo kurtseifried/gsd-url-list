@@ -1,0 +1,1 @@
+http://bugs.dojotoolkit.org/ticket/10773

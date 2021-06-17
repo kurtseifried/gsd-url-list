@@ -1,0 +1,5 @@
+http://www.suspekt.org/2008/08/17/mt_srand-and-not-so-random-numbers/
+http://www.suspekt.org/2008/08/18/mysql-and-sql-column-truncation-vulnerabilities/
+http://www.suspekt.org/2009/11/28/shocking-news-in-php-exploitation/
+http://www.suspekt.org/2009/12/09/advisory-032009-piwik-cookie-unserialize-vulnerability/
+http://www.suspekt.org/downloads/POC2009-ShockingNewsInPHPExploitation.pdf

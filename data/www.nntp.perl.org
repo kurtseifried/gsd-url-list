@@ -1,0 +1,8 @@
+http://www.nntp.perl.org/group/perl.perl4lib/2014/01/msg3073.html
+http://www.nntp.perl.org/group/perl.perl5.changes/2010/11/msg28043.html
+http://www.nntp.perl.org/group/perl.perl5.porters/2006/09/msg116250.html
+http://www.nntp.perl.org/group/perl.perl5.porters/2012/10/msg193886.html
+http://www.nntp.perl.org/group/perl.perl5.porters/2013/03/msg199755.html
+http://www.nntp.perl.org/group/perl.perl5.porters/2014/09/msg220118.html
+http://www.nntp.perl.org/group/perl.perl5.porters/2016/07/msg238271.html
+http://www.nntp.perl.org/group/perl.qpsmtpd/2006/03/msg4810.html

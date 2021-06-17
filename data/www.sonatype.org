@@ -1,0 +1,3 @@
+http://www.sonatype.org/advisories/archive/2014-01-13-Nexus
+http://www.sonatype.org/advisories/archive/2014-03-03-Nexus
+http://www.sonatype.org/advisories/archive/2014-12-23-Nexus/

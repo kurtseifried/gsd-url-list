@@ -1,0 +1,4 @@
+http://htmlpurifier.org/news/2010/0531-4.1.1-released
+http://htmlpurifier.org/news/2010/0915-4.2.0-released
+http://htmlpurifier.org/security/2010/css-quoting
+http://htmlpurifier.org/svnroot/htmlpurifier/tags/2.0.1/NEWS

@@ -1,0 +1,5 @@
+http://vigilance.fr/vulnerability/Dotclear-file-upload-via-swfupload-swf-11396
+http://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-EFER-8585
+http://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-knfsd-9666
+http://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-proc-net-udp-8586
+http://vigilance.fr/vulnerability/Windows-denials-of-service-of-win32k-sys-9607

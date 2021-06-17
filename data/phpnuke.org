@@ -1,0 +1,3 @@
+http://phpnuke.org/download.php?dcategory=Fixes
+http://phpnuke.org/modules.php?name=News&amp;amp;file=article&amp;amp;sid=7434
+http://phpnuke.org/modules.php?name=News&amp;file=article&amp;sid=7434

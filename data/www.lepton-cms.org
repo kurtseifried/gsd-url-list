@@ -1,0 +1,2 @@
+http://www.lepton-cms.org/media/changelog/changelog_1.1.4.txt
+http://www.lepton-cms.org/posts/security-release-lepton-1.1.4-52.php

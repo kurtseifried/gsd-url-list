@@ -1,0 +1,2 @@
+http://www.iacr.org/cryptodb/archive/2002/FSE/3091/3091.pdf
+http://www.iacr.org/cryptodb/data/paper.php?pubkey=3091

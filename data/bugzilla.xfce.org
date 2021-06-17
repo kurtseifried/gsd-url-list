@@ -1,0 +1,2 @@
+http://bugzilla.xfce.org/show_bug.cgi?id=4805
+http://bugzilla.xfce.org/show_bug.cgi?id=5927

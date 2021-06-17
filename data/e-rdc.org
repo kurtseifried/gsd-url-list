@@ -1,0 +1,12 @@
+http://e-rdc.org/v1/news.php?readmore=101
+http://e-rdc.org/v1/news.php?readmore=102
+http://e-rdc.org/v1/news.php?readmore=108
+http://e-rdc.org/v1/news.php?readmore=126
+http://e-rdc.org/v1/news.php?readmore=129
+http://e-rdc.org/v1/news.php?readmore=130
+http://e-rdc.org/v1/news.php?readmore=131
+http://e-rdc.org/v1/news.php?readmore=132
+http://e-rdc.org/v1/news.php?readmore=137
+http://e-rdc.org/v1/news.php?readmore=142
+http://e-rdc.org/v1/news.php?readmore=91
+http://e-rdc.org/v1/news.php?readmore=98

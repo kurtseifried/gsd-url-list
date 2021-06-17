@@ -1,0 +1,5 @@
+http://people.apache.org/~covener/2.2.x-mod_memcache-poolmgmt.diff
+http://people.apache.org/~jorton/CAN-2005-2700.diff
+http://people.apache.org/~jorton/mod_rewrite-CVE-2013-1862.patch
+http://people.apache.org/~markt/patches/2011-08-12-cve2011-2729-tc5.patch
+http://people.apache.org/~snoopdave/roller-2.3.1-rc1/apache-roller-src-2.3.1-rc1-incubating.tar.gz

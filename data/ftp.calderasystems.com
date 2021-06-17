@@ -1,0 +1,14 @@
+ftp://ftp.calderasystems.com/pub/OpenLinux/security/CSSA-1999-001.0.txt
+ftp://ftp.calderasystems.com/pub/OpenLinux/security/CSSA-1999-005.0.txt
+ftp://ftp.calderasystems.com/pub/OpenLinux/security/CSSA-1999-008.0.txt
+ftp://ftp.calderasystems.com/pub/OpenLinux/security/CSSA-1999-014.0.txt
+ftp://ftp.calderasystems.com/pub/OpenLinux/security/CSSA-1999-015.0.txt
+ftp://ftp.calderasystems.com/pub/OpenLinux/security/CSSA-1999-021.0.txt
+ftp://ftp.calderasystems.com/pub/OpenLinux/security/CSSA-1999-029.1.txt
+ftp://ftp.calderasystems.com/pub/OpenLinux/security/CSSA-1999-033.0.txt
+ftp://ftp.calderasystems.com/pub/OpenLinux/security/CSSA-1999-036.0.txt
+ftp://ftp.calderasystems.com/pub/OpenLinux/security/CSSA-1999-038.0.txt
+ftp://ftp.calderasystems.com/pub/OpenLinux/security/CSSA-2000-009.0.txt
+ftp://ftp.calderasystems.com/pub/OpenLinux/security/CSSA-2000-013.0.txt
+ftp://ftp.calderasystems.com/pub/OpenLinux/security/CSSA-2000-015.0.txt
+ftp://ftp.calderasystems.com/pub/OpenLinux/security/CSSA-2000-016.0.txt

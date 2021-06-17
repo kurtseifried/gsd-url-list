@@ -1,0 +1,9 @@
+http://geronimo.apache.org/2007/08/13/apache-geronimo-v20-release-delayed-due-to-security-issue.html
+http://geronimo.apache.org/2007/08/21/apache-geronimo-201-released.html
+http://geronimo.apache.org/2007/09/07/mejb-security-alert.html
+http://geronimo.apache.org/2007/10/18/potential-vulnerability-in-apache-tomcat-webdav-servlet.html
+http://geronimo.apache.org/2010/07/21/apache-geronimo-v216-released.html
+http://geronimo.apache.org/21x-security-report.html
+http://geronimo.apache.org/21x-security-report.html#2.1.xSecurityReport-214
+http://geronimo.apache.org/22x-security-report.html
+http://geronimo.apache.org/30x-security-report.html

@@ -1,0 +1,2 @@
+http://downloads.wordpress.org/plugin/adrotate.3.6.8.zip
+http://downloads.wordpress.org/plugin/compfight.1.5.zip

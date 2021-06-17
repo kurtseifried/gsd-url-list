@@ -1,0 +1,1 @@
+http://oss.codepoet.no/revelation/issue/61/file-format-magic-string-version-mismatch

@@ -1,0 +1,7 @@
+http://www.devtarget.org/adobe-advisory-05-2007.txt
+http://www.devtarget.org/areca-advisory-07-2007.txt
+http://www.devtarget.org/ip3-advisory-02-2007.txt
+http://www.devtarget.org/rrdbrowse-advisory-03-2007.txt
+http://www.devtarget.org/speedport700-advisory-05-2007.txt
+http://www.devtarget.org/tmvwall381v3_exp.c
+http://www.devtarget.org/trendmicro-advisory-01-2007.txt

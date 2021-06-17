@@ -1,0 +1,5 @@
+http://git.infradead.org/?p=mtd-2.6.git;a=commitdiff;h=9ed437c50d89eabae763dd422579f73fdebf288d
+http://git.infradead.org/users/dwmw2/openconnect.git/commitdiff/14cae65318d3ef1f7d449e463b72b6934e82f1c2
+http://git.infradead.org/users/dwmw2/openconnect.git/commitdiff/26f752c3dbf69227679fc6bebb4ae071aecec491
+http://git.infradead.org/users/steved/libtirpc.git/commitdiff/a9f437119d79a438cb12e510f3cadd4060102c9f
+http://git.infradead.org/users/tgr/libnl.git/commit/3e18948f17148e6a3c4255bdeaaf01ef6081ceeb

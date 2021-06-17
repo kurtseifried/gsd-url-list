@@ -1,0 +1,1 @@
+http://www.syscp.org/wiki/Security/SyscpOrgAbilityToInjectAndExecuteAnyCodeAsRootInSysCP

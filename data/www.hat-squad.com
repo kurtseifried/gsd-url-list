@@ -1,0 +1,10 @@
+http://www.hat-squad.com/en/000071.html
+http://www.hat-squad.com/en/000075.html
+http://www.hat-squad.com/en/000077.html
+http://www.hat-squad.com/en/000102.html
+http://www.hat-squad.com/en/000142.html
+http://www.hat-squad.com/en/000160.html
+http://www.hat-squad.com/en/000164.html
+http://www.hat-squad.com/en/000165.html
+http://www.hat-squad.com/en/000170.html
+http://www.hat-squad.com/en/000171.html

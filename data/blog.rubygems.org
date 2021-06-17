@@ -1,0 +1,9 @@
+http://blog.rubygems.org/2013/09/09/CVE-2013-4287.html
+http://blog.rubygems.org/2013/09/24/CVE-2013-4363.html
+http://blog.rubygems.org/2015/05/14/CVE-2015-3900.html
+http://blog.rubygems.org/2015/06/08/2.2.5-released.html
+http://blog.rubygems.org/2015/06/08/2.4.8-released.html
+http://blog.rubygems.org/2017/08/27/2.6.13-released.html
+http://blog.rubygems.org/2017/10/09/2.6.14-released.html
+http://blog.rubygems.org/2017/10/09/unsafe-object-deserialization-vulnerability.html
+http://blog.rubygems.org/2018/02/15/2.7.6-released.html

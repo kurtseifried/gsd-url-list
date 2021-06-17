@@ -1,0 +1,15 @@
+http://www.autosectools.com/Advisories/Andy%27s.PHP.Knowledgebase.Project.0.95.4_SQL.Injection_161.html
+http://www.autosectools.com/Advisories/Limny.3.0.0_Local.File.Inclusion_99.html
+http://www.autosectools.com/Advisories/PivotX.2.2.2_Reflected.Cross-site.Scripting_76.html
+http://www.autosectools.com/Advisories/WikiWig.5.01_Persistent-Reflected.Cross-site.Scripting_139.html
+http://www.autosectools.com/Advisories/WordPress.RSS.Feed.Reader.for.WordPress.0.1_Reflected.Cross-site.Scripting_82.html
+http://www.autosectools.com/Advisories/WordPress.WP.Custom.Pages.0.5.0.1_Local.File.Inclusion_169.html
+http://www.autosectools.com/Advisories/eXtplorer.2.1.RC3_Cross-site.Request.Forgery_174.html
+http://www.autosectools.com/Advisories/eyeOS.2.3_Local.File.Inclusion_173.html
+http://www.autosectools.com/Advisories/eyeOS.2.3_Reflected.Cross-site.Scripting_172.html
+http://www.autosectools.com/Advisory/V-CMS-1.0-Arbitrary-Upload-236
+http://www.autosectools.com/Advisory/V-CMS-1.0-Reflected-Cross-site-Scripting-234
+http://www.autosectools.com/Advisory/V-CMS-1.0-SQL-Injection-235
+http://www.autosectools.com/Advisory/eGroupware-1.8.001-Reflected-Cross-site-Scripting-178
+http://www.autosectools.com/Advisory/eGroupware-1.8.001-SQL-Injection-179
+http://www.autosectools.com/Advisory/eGroupware-1.8.001.20110421-Local-File-Inclusion-224

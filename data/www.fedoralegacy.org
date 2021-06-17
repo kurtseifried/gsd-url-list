@@ -1,0 +1,4 @@
+http://www.fedoralegacy.org/updates/FC1/2005-11-14-FLSA_2005_152794__Updated_rp_pppoe_package_fixes_security_issue.html
+http://www.fedoralegacy.org/updates/FC2/2005-11-14-FLSA_2005_123013
+http://www.fedoralegacy.org/updates/FC2/2005-11-14-FLSA_2005_158801__Updated_bzip2_packages_fix_security_issues.html
+http://www.fedoralegacy.org/updates/FC2/2005-11-28-FLSA_2005_166943__Updated_php_packages_fix_security_issues.html

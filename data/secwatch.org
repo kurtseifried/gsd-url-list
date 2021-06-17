@@ -1,0 +1,8 @@
+http://secwatch.org/advisories/1007857
+http://secwatch.org/advisories/1015085/
+http://secwatch.org/advisories/1015206/
+http://secwatch.org/advisories/1016194/
+http://secwatch.org/advisories/1018567/
+http://secwatch.org/advisories/secwatch/20050530_yapig.txt
+http://secwatch.org/advisories/secwatch/20050604_flatnuke.txt
+http://secwatch.org/advisories/secwatch/20050813_Mig.txt

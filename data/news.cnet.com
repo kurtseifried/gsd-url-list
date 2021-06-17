@@ -1,0 +1,14 @@
+http://news.cnet.com/8301-1009_3-10199652-83.html
+http://news.cnet.com/8301-1009_3-10278472-83.html
+http://news.cnet.com/8301-1009_3-20066419-83.html
+http://news.cnet.com/8301-1035_3-20114556-94/
+http://news.cnet.com/8301-10784_3-9970757-7.html
+http://news.cnet.com/8301-27080_3-10293389-245.html
+http://news.cnet.com/8301-27080_3-10395891-245.html
+http://news.cnet.com/8301-27080_3-10435232-245.html
+http://news.cnet.com/8301-27080_3-20001126-245.html
+http://news.cnet.com/8301-27080_3-20011664-245.html
+http://news.cnet.com/8301-27080_3-20021730-245.html
+http://news.cnet.com/8301-27080_3-20021874-245.html
+http://news.cnet.com/8301-27080_3-20028919-245.html
+http://news.cnet.com/news/0-1005-200-1773077.html?tag=st.ne.fd.lthd.1005-200-1773077

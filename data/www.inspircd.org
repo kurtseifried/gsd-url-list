@@ -1,0 +1,4 @@
+http://www.inspircd.org/2015/04/16/v2019-released.html
+http://www.inspircd.org/2016/09/03/v2023-released.html
+http://www.inspircd.org/bugtrack/view_bug.php?bug_id=438
+http://www.inspircd.org/forum/showthread.php?t=2945

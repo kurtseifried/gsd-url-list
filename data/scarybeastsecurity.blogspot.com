@@ -1,0 +1,14 @@
+http://scarybeastsecurity.blogspot.com/2008/11/cookie-forcing.html
+http://scarybeastsecurity.blogspot.com/2008/11/firefox-cross-domain-image-theft-and.html
+http://scarybeastsecurity.blogspot.com/2009/01/bypassing-syscall-filtering.html
+http://scarybeastsecurity.blogspot.com/2009/02/linux-kernel-minor-seccomp.html
+http://scarybeastsecurity.blogspot.com/2009/02/linux-kernel-minor-signal-vulnerability.html
+http://scarybeastsecurity.blogspot.com/2009/03/littlecms-vulnerabilities.html
+http://scarybeastsecurity.blogspot.com/2009/06/apples-safari-4-fixes-local-file-theft.html
+http://scarybeastsecurity.blogspot.com/2009/09/patching-ffmpeg-into-shape.html
+http://scarybeastsecurity.blogspot.com/2009/12/generic-cross-browser-cross-domain.html
+http://scarybeastsecurity.blogspot.com/2011/02/i-got-accidental-code-execution-via.html
+http://scarybeastsecurity.blogspot.com/2011/02/some-less-obvious-benefits-of-hsts.html
+http://scarybeastsecurity.blogspot.com/2011/03/multi-browser-heap-address-leak-in-xslt.html
+http://scarybeastsecurity.blogspot.com/2011/05/libxml-vulnerability-and-interesting.html
+http://scarybeastsecurity.blogspot.com/2012/03/some-random-observations-on-linux-aslr.html

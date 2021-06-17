@@ -1,0 +1,1 @@
+http://git.mozilla.org/?p=bugzilla/bugzilla.git;a=commit;h=0e390970ba51b14a5dc780be7c6f0d6d7baa67e3

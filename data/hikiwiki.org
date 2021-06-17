@@ -1,0 +1,4 @@
+http://hikiwiki.org/en/advisory20050804.html
+http://hikiwiki.org/en/advisory20060703.html
+http://hikiwiki.org/en/advisory20070624.html
+http://hikiwiki.org/hiki-0_8_6.patch

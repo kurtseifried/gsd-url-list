@@ -1,0 +1,1 @@
+ftp://ftp.graphicsmagick.org/pub/GraphicsMagick/snapshots/ChangeLog.txt

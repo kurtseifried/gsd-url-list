@@ -1,0 +1,10 @@
+http://hmarco.org/bugs/CVE-2013-4788.html
+http://hmarco.org/bugs/CVE-2014-1226-s3dvt_0.2.2-root-shell.html
+http://hmarco.org/bugs/CVE-2015-8370-Grub2-authentication-bypass.html
+http://hmarco.org/bugs/CVE-2016-3672-Unlimiting-the-stack-not-longer-dis
+http://hmarco.org/bugs/CVE-2016-3672-Unlimiting-the-stack-not-longer-disables-ASLR.html
+http://hmarco.org/bugs/CVE-2016-4484/CVE-2016-4484_cryptsetup_initrd_shell.html
+http://hmarco.org/bugs/glibc_ptr_mangle_weakness.html
+http://hmarco.org/bugs/google_email_app_4.2.2_denial_of_service.html
+http://hmarco.org/bugs/linux-ASLR-integer-overflow.html
+http://hmarco.org/bugs/s3dvt_0.2.2-root-shell.html

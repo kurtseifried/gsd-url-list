@@ -1,0 +1,1 @@
+http://guac-dev.org/trac/changeset/7dcefa744b4a38825619c00ae8b47e5bae6e38c0/libguac

@@ -1,0 +1,5 @@
+http://git.tuxfamily.org/chrony/chrony.git/?p=chrony/chrony.git;a=commitdiff;h=7712455d9aa33d0db0945effaa07e900b85987b1
+http://git.tuxfamily.org/chrony/chrony.git/?p=chrony/chrony.git;a=commitdiff;h=c6fdeeb6bb0b17dc28c19ae492c4a1c498e54ea3
+http://git.tuxfamily.org/chrony/chrony.git/?p=gitroot/chrony/chrony.git;a=commit;h=0b710499f994823bd938fc6895f097eefb9cc59f
+http://git.tuxfamily.org/chrony/chrony.git/?p=gitroot/chrony/chrony.git;a=commit;h=2f63cf448560fdb96b80d8488aae6a15b802a753
+http://git.tuxfamily.org/chrony/chrony.git/?p=gitroot/chrony/chrony.git;a=commit;h=7864c7a70ce00369194e734eb2842ecc5f8db531

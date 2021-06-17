@@ -1,0 +1,1 @@
+http://git2.kernel.org/?p=linux/kernel/git/torvalds/linux-2.6.git;a=commit;h=0d54ee1c7850a954026deec4cd4885f331da35cc

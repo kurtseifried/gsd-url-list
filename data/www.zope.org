@@ -1,0 +1,17 @@
+http://www.zope.org/Products/Zope/2.10.12/CHANGES.txt
+http://www.zope.org/Products/Zope/2.11.7/CHANGES.txt
+http://www.zope.org/Products/Zope/Hotfix-2006-07-05/Hotfix-20060705/README.txt
+http://www.zope.org/Products/Zope/Hotfix-2006-08-21/Hotfix-20060821/README.txt
+http://www.zope.org/Products/Zope/Hotfix-2007-03-20/announcement/view
+http://www.zope.org/Products/Zope/Hotfix-2008-08-12/Hotfix_20080812-1.1.0.tar.gz
+http://www.zope.org/Products/Zope/Hotfix-2008-08-12/README.txt
+http://www.zope.org/Products/Zope/Hotfix_06_16_2000/security_alert
+http://www.zope.org/Products/Zope/Hotfix_08_09_2000/security_alert
+http://www.zope.org/Products/Zope/Hotfix_2000-12-08/security_alert
+http://www.zope.org/Products/Zope/Hotfix_2000-12-18/security_alert
+http://www.zope.org/Products/Zope/Hotfix_2001-05-01/security_alert
+http://www.zope.org/Products/Zope/Hotfix_2002-04-15/security_alert
+http://www.zope.org/Products/Zope/Hotfix_2002-06-14/security_alert
+http://www.zope.org/Products/Zope/Hotfix_2005-10-09/security_alert
+http://www.zope.org/Products/Zope/Products/Zope/Products/Zope/Hotfix_2001-02-23
+http://www.zope.org/Products/Zope/hotfixes/

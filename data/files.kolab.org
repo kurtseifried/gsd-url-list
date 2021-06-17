@@ -1,0 +1,1 @@
+http://files.kolab.org/server/release/kolab-server-2.2.3/sources/release-notes.txt

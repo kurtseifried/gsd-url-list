@@ -1,0 +1,8 @@
+http://community.zikula.org/index.php?module=News&amp;amp;func=display&amp;amp;sid=3012&amp;amp;title=zikula-1.2.3-release-announcement
+http://community.zikula.org/index.php?module=News&amp;amp;func=display&amp;amp;sid=3041&amp;amp;title=zikula-1.2.5-released
+http://community.zikula.org/index.php?module=News&amp;amp;func=display&amp;amp;sid=3075
+http://community.zikula.org/index.php?module=News&amp;amp;func=display&amp;amp;sid=3132
+http://community.zikula.org/index.php?module=News&amp;func=display&amp;sid=3012&amp;title=zikula-1.2.3-release-announcement
+http://community.zikula.org/index.php?module=News&amp;func=display&amp;sid=3041&amp;title=zikula-1.2.5-released
+http://community.zikula.org/index.php?module=News&amp;func=display&amp;sid=3075
+http://community.zikula.org/index.php?module=News&amp;func=display&amp;sid=3132

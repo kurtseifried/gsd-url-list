@@ -1,0 +1,1 @@
+http://kqueue.org/blog/2012/03/05/memory-allocator-security-revisited/

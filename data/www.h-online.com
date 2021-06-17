@@ -1,0 +1,11 @@
+http://www.h-online.com/open/news/item/Mozilla-fixes-critical-bugs-with-Firefox-3-5-5-852070.html
+http://www.h-online.com/open/news/item/When-a-smart-card-can-root-your-computer-1154829.html
+http://www.h-online.com/security/First-Zero-Day-Exploit-for-Firefox-3-5--/news/113761
+http://www.h-online.com/security/Kaspersky-confirm-and-close-DoS-vulnerability--/news/114077
+http://www.h-online.com/security/Pwn2Own-2009-Safari-IE-8-and-Firefox-exploited--/news/112889
+http://www.h-online.com/security/news/item/Alleged-critical-vulnerability-in-Sun-Java-System-Web-Server-839598.html
+http://www.h-online.com/security/news/item/Bug-in-Plesk-administration-software-is-being-actively-exploited-1446587.html
+http://www.h-online.com/security/news/item/Critical-PHP-vulnerability-being-fixed-1427316.html
+http://www.h-online.com/security/news/item/NIST-certified-USB-Flash-drives-with-hardware-encryption-cracked-895308.html
+http://www.h-online.com/security/news/item/Ubuntu-closes-root-hole-1034618.html
+http://www.h-online.com/security/news/item/Zero-day-exploit-for-Firefox-3-6-936124.html

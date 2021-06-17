@@ -1,0 +1,7 @@
+http://lists.alioth.debian.org/pipermail/kernel-svn-changes/2005-August/002597.html
+http://lists.alioth.debian.org/pipermail/pcsclite-cvs-commit/2010-November/004923.html
+http://lists.alioth.debian.org/pipermail/sane-devel/2017-February/035054.html
+http://lists.alioth.debian.org/pipermail/sane-devel/2017-February/035059.html
+http://lists.alioth.debian.org/pipermail/secure-testing-announce/2005-August/000003.html
+http://lists.alioth.debian.org/pipermail/secure-testing-commits/2017-December/059967.html
+http://lists.alioth.debian.org/pipermail/secure-testing-team/2008-June/001672.html

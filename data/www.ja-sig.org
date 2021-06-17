@@ -1,0 +1,2 @@
+http://www.ja-sig.org/issues/browse/PHPCAS-52
+http://www.ja-sig.org/wiki/display/CASC/phpCAS+ChangeLog

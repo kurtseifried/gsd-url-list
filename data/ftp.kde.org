@@ -1,0 +1,5 @@
+ftp://ftp.kde.org/pub/kde/security_patches/kdebase-workspace-4.3.5-CVE-2010-0436.diff
+ftp://ftp.kde.org/pub/kde/security_patches/post-3.4.0-kdewebdev-kommander.diff
+ftp://ftp.kde.org/pub/kde/security_patches/post-3.4.2-kdebase-kcheckpass.diff
+ftp://ftp.kde.org/pub/kde/security_patches/post-3.4.3-kdelibs-kjs.diff
+ftp://ftp.kde.org/pub/kde/security_patches/post-kde-3.5.5-kinit.diff

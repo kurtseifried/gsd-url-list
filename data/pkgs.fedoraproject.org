@@ -1,0 +1,7 @@
+http://pkgs.fedoraproject.org/cgit/a2ps.git/plain/a2ps-4.13-security.patch
+http://pkgs.fedoraproject.org/cgit/kernel.git/commit/?h=f22&amp;amp;id=520b64102de2f184036024b2a53de2b67463bd78
+http://pkgs.fedoraproject.org/cgit/kernel.git/commit/?h=f22&amp;id=520b64102de2f184036024b2a53de2b67463bd78
+http://pkgs.fedoraproject.org/cgit/openssh.git/commit/?id=4f4687ce8045418f678c323bb22c837f35d7b9fa
+http://pkgs.fedoraproject.org/cgit/rpms/pulp.git/tree/pulp.spec#n317
+http://pkgs.fedoraproject.org/cgit/rpms/pulp.git/tree/pulp.spec#n620
+http://pkgs.fedoraproject.org/gitweb/?p=policycoreutils.git;a=blob;f=policycoreutils-rhat.patch;h=d4db5bc06027de23d12a4b3f18fa6f9b1517df27;hb=HEAD#l2197

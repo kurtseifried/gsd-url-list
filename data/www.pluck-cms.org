@@ -1,0 +1,3 @@
+http://www.pluck-cms.org/index.php?file=kop11.php
+http://www.pluck-cms.org/releasenotes.php#4.5.2
+http://www.pluck-cms.org/releasenotes.php#4.5.3

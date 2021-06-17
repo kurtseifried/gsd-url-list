@@ -1,0 +1,5 @@
+http://git.ffmpeg.org/?p=ffmpeg.git;a=commit;h=13184036a6b1b1d4b61c91118c0896e9ad4634c3
+http://git.ffmpeg.org/?p=ffmpeg.git;a=commit;h=366d919016a679d3955f6fe5278fa7ce4f47b81e
+http://git.ffmpeg.org/?p=ffmpeg.git;a=commit;h=3dde66752d59dfdd0f3727efd66e7202b3c75078
+http://git.ffmpeg.org/?p=ffmpeg;a=commit;h=16c592155f117ccd7b86006c45aacc692a81c23b
+http://git.ffmpeg.org/?p=ffmpeg;a=commitdiff;h=72e715fb798f2cb79fd24a6d2eaeafb7c6eeda17

@@ -1,0 +1,6 @@
+ftp://ftp.debian.org/debian/pool/main/c/camlimages/camlimages_2.2.0-4+lenny2.diff.gz
+ftp://ftp.debian.org/debian/pool/main/c/camlimages/camlimages_2.20-8+etch2.diff.gz
+ftp://ftp.debian.org/debian/pool/main/c/camlimages/camlimages_3.0.1-3.diff.gz
+http://ftp.debian.org/debian/dists/stable-proposed-updates/squirrelmail_1.2.6-2_i386.changes
+http://ftp.debian.org/debian/pool/main/b/backintime/backintime_0.9.26-3.diff.gz
+http://ftp.debian.org/debian/pool/main/l/linux-ftpd/linux-ftpd_0.17-22.diff.gz

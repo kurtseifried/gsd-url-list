@@ -1,0 +1,4 @@
+http://news.samba.org/releases/3.0.37/
+http://news.samba.org/releases/3.2.15/
+http://news.samba.org/releases/3.3.8/
+http://news.samba.org/releases/3.4.2/

@@ -1,0 +1,10 @@
+http://community.ca.com/blogs/casecurityresponseblog/archive/2008/04/04/ca-alert-notification-server-multiple-vulnerabilities.aspx
+http://community.ca.com/blogs/casecurityresponseblog/archive/2008/04/16/ca-dsm-gui-cm-ctrls-activex-control-vulnerability.aspx
+http://community.ca.com/blogs/casecurityresponseblog/archive/2008/09/25.aspx
+http://community.ca.com/blogs/casecurityresponseblog/archive/2008/12/10.aspx
+http://community.ca.com/blogs/casecurityresponseblog/archive/2008/3/28.aspx
+http://community.ca.com/blogs/casecurityresponseblog/archive/2009/01/07.aspx
+http://community.ca.com/blogs/casecurityresponseblog/archive/2009/01/23.aspx
+http://community.ca.com/blogs/casecurityresponseblog/archive/2009/01/26/ca20090126-01-ca-anti-virus-engine-detection-evasion-multiple-vulnerabilities.aspx
+http://community.ca.com/blogs/casecurityresponseblog/archive/2009/06/15/ca20090615-01-ca-arcserve-backup-message-engine-denial-of-service-vulnerabilities.aspx
+http://community.ca.com/blogs/casecurityresponseblog/archive/2009/06/15/ca20090615-02-ca-service-desk-tomcat-cross-site-scripting-vulnerability.aspx

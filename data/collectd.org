@@ -1,0 +1,2 @@
+http://collectd.org/news.shtml
+http://collectd.org/news.shtml#news86

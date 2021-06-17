@@ -1,0 +1,14 @@
+http://forums.winamp.com/showthread.php?s=&amp;amp;threadid=202007
+http://forums.winamp.com/showthread.php?s=&amp;amp;threadid=238648
+http://forums.winamp.com/showthread.php?s=&amp;threadid=202007
+http://forums.winamp.com/showthread.php?s=&amp;threadid=238648
+http://forums.winamp.com/showthread.php?t=322995
+http://forums.winamp.com/showthread.php?t=324322
+http://forums.winamp.com/showthread.php?t=332010
+http://forums.winamp.com/showthread.php?t=345684
+http://forums.winamp.com/showthread.php?t=364291
+http://forums.winamp.com/showthread.php?threadid=159785
+http://forums.winamp.com/showthread.php?threadid=238648
+http://forums.winamp.com/showthread.php?threadid=248100
+http://forums.winamp.com/showthread.php?threadid=295505
+http://forums.winamp.com/showthread.php?threadid=315355

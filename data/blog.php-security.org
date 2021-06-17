@@ -1,0 +1,3 @@
+http://blog.php-security.org/archives/58-Suhosin-caught-another-remote-code-execution-vulnerability.html
+http://blog.php-security.org/archives/80-Watching-the-PHP-CVS.html
+http://blog.php-security.org/archives/82-Suhosin-0.9.20-and-crypt-Thread-Safety-Vulnerability.html

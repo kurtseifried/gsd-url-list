@@ -1,0 +1,1 @@
+http://www.securify.nl/advisory/SFY20140401/adobe_reader_for_android_exposes_insecure_javascript_interfaces.html

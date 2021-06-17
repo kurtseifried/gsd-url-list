@@ -1,0 +1,3 @@
+http://bugs.xine-project.org/show_bug.cgi?id=205
+http://bugs.xine-project.org/show_bug.cgi?id=224
+http://bugs.xine-project.org/show_bug.cgi?id=38

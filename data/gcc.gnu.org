@@ -1,0 +1,16 @@
+http://gcc.gnu.org/bugzilla/show_bug.cgi?id=15905
+http://gcc.gnu.org/bugzilla/show_bug.cgi?id=26763
+http://gcc.gnu.org/bugzilla/show_bug.cgi?id=28359
+http://gcc.gnu.org/bugzilla/show_bug.cgi?id=38417
+http://gcc.gnu.org/bugzilla/show_bug.cgi?id=41633
+http://gcc.gnu.org/bugzilla/show_bug.cgi?id=54411
+http://gcc.gnu.org/ml/gcc-bugs/2002-05/msg00198.html
+http://gcc.gnu.org/ml/gcc-bugs/2006-04/msg01297.html
+http://gcc.gnu.org/ml/gcc-bugs/2006-04/msg01298.html
+http://gcc.gnu.org/ml/gcc-patches/2008-03/msg00417.html
+http://gcc.gnu.org/ml/gcc-patches/2008-03/msg00428.html
+http://gcc.gnu.org/ml/gcc-patches/2008-03/msg00432.html
+http://gcc.gnu.org/ml/gcc-patches/2008-03/msg00499.html
+http://gcc.gnu.org/ml/gcc-patches/2012-08/msg01986.html
+http://gcc.gnu.org/viewcvs/branches/gcc-4_1-branch/gcc/fold-const.c?r1=110549&amp;amp;r2=112698&amp;amp;pathrev=112698&amp;amp;diff_format=h
+http://gcc.gnu.org/viewcvs/branches/gcc-4_1-branch/gcc/fold-const.c?r1=110549&amp;r2=112698&amp;pathrev=112698&amp;diff_format=h

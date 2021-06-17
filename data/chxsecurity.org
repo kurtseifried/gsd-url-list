@@ -1,0 +1,3 @@
+http://chxsecurity.org/advisories/adv-1-mid.txt
+http://chxsecurity.org/advisories/adv-2-mid.txt
+http://chxsecurity.org/advisories/adv-3-full.txt

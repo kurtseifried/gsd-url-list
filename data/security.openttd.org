@@ -1,0 +1,11 @@
+http://security.openttd.org/en/CVE-2010-0401
+http://security.openttd.org/en/CVE-2010-0402
+http://security.openttd.org/en/CVE-2010-0406
+http://security.openttd.org/en/CVE-2010-2534
+http://security.openttd.org/en/CVE-2010-4168
+http://security.openttd.org/en/CVE-2011-3341
+http://security.openttd.org/en/CVE-2011-3342
+http://security.openttd.org/en/CVE-2011-3343
+http://security.openttd.org/en/CVE-2012-0049
+http://security.openttd.org/en/CVE-2012-3436
+http://security.openttd.org/en/patch/28.patch

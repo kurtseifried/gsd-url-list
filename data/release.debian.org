@@ -1,0 +1,2 @@
+http://release.debian.org/proposed-updates/stable_diffs/openexr_1.6.1-3%2Blenny3.debdiff
+http://release.debian.org/proposed-updates/stable_diffs/squirrelmail_1.4.15-4+lenny2.debdiff

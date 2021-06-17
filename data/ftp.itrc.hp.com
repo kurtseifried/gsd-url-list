@@ -1,0 +1,13 @@
+ftp://ftp.itrc.hp.com/openvms_patches/alpha/V7.3-2/AXP_DNVOSIECO03-V732.txt
+ftp://ftp.itrc.hp.com/openvms_patches/alpha/V7.3-2/AXP_DNVOSIMUP01-V0703-2.txt
+ftp://ftp.itrc.hp.com/openvms_patches/alpha/V7.3-2/VMS732_MP-V0100.txt
+ftp://ftp.itrc.hp.com/openvms_patches/alpha/V7.3-2/VMS732_SYS_MUP-V1900.txt
+ftp://ftp.itrc.hp.com/openvms_patches/alpha/V8.2/AXP_DNVOSIECO02-V82.txt
+ftp://ftp.itrc.hp.com/openvms_patches/alpha/V8.2/VMS82A_SYS_MUP-V1700.txt
+ftp://ftp.itrc.hp.com/openvms_patches/alpha/V8.3/AXP_DNVOSIECO03-V83.txt
+ftp://ftp.itrc.hp.com/openvms_patches/alpha/V8.3/VMS83A_SYS_MUP-V1700.txt
+ftp://ftp.itrc.hp.com/openvms_patches/i64/V8.2-1/VMS821I_SYS-V0400.txt
+ftp://ftp.itrc.hp.com/openvms_patches/i64/V8.3-1H1/VMS831H1I_SYS_MUP-V1100.txt
+ftp://ftp.itrc.hp.com/openvms_patches/i64/V8.3/VMS83I_SYS-V0200.txt
+ftp://ftp.itrc.hp.com/openvms_patches/i64/V8.3/VMS83I_SYS_MUP-V1400.txt
+ftp://ftp.itrc.hp.com/openvms_patches/vax/V7.3/VAX_DNVOSIMUP01-V0703.txt

@@ -1,0 +1,1 @@
+http://unixpunx.org/txt/exploits_archive/packetstorm/0310-advisories/wuftpd-skey.txt

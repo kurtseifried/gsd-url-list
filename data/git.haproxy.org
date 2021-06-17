@@ -1,0 +1,8 @@
+http://git.haproxy.org/?p=haproxy-1.5.git;a=commit;h=7ec765568883b2d4e5a2796adbeb492a22ec9bd4
+http://git.haproxy.org/?p=haproxy-1.5.git;a=commitdiff;h=b4d05093bc89f71377230228007e69a1434c1a0c
+http://git.haproxy.org/?p=haproxy-1.6.git;a=commit;h=60f01f8c89e4fb2723d5a9f2046286e699567e0b
+http://git.haproxy.org/?p=haproxy-1.8.git;a=commit;h=cd117685f0cff4f2f5577ef6a21eaae96ebd9f28
+http://git.haproxy.org/?p=haproxy.git;a=commit;h=3f0e1ec70173593f4c2b3681b26c04a4ed5fc588
+http://git.haproxy.org/?p=haproxy.git;a=commit;h=58df5aea0a0c926b2238f65908f5e9f83d1cca25
+http://git.haproxy.org/?p=haproxy.git;a=commit;h=8ef706502aa2000531d36e4ac56dbdc7c30f718d
+http://git.haproxy.org/?p=haproxy.git;a=commit;h=efbbdf72992cd20458259962346044cafd9331c0

@@ -1,0 +1,10 @@
+http://www.reddit.com/r/Android/comments/1k6f03/due_to_a_serious_encryptionrng_flaw_in_android/cblvum5
+http://www.reddit.com/r/Python/comments/17rfh7/warning_dont_use_pip_in_an_untrusted_network_a/
+http://www.reddit.com/r/apple/comments/37e8c1/malicious_text_message/
+http://www.reddit.com/r/apple/comments/37enow/about_the_latest_iphone_security_vulnerability/
+http://www.reddit.com/r/explainlikeimfive/comments/37edde/eli5_how_that_text_you_can_send_to_friends_turns/
+http://www.reddit.com/r/netsec/comments/1eb9iw
+http://www.reddit.com/r/netsec/comments/1eqh66/0day_windows_kernel_epathobj_vulnerability/
+http://www.reddit.com/r/netsec/comments/2ihen0/new_class_of_vulnerability_in_perl_web/
+http://www.reddit.com/r/netsec/comments/2ocxac/apple_coregraphics_framework_on_os_x_1010_is/
+http://www.reddit.com/r/programming/comments/65843/time_to_upgrade_libxml2

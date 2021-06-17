@@ -1,0 +1,12 @@
+http://www.plainblack.com/bugs/tracker/dataform-security-bug
+http://www.plainblack.com/bugs/tracker/secondary-admin-can-create-user-with-admin-privilege
+http://www.plainblack.com/bugs/tracker/security-update-cross-site-scripting-vulnerability
+http://www.plainblack.com/downloads/builds/7.3.5-beta/WebGUI/docs/changelog/7.x.x.txt
+http://www.plainblack.com/getwebgui/advisories/security-defect-discovered-in-7.x-versions
+http://www.plainblack.com/getwebgui/advisories/security-exploit-found-in-6.x-versions
+http://www.plainblack.com/getwebgui/advisories/security-exploit-patch-for-6.3-and-above
+http://www.plainblack.com/getwebgui/advisories/webgui-6.8.6-gamma-released
+http://www.plainblack.com/getwebgui/advisories/webgui-7_3_4-beta-released#BUeIjcWiQasypsJxD-YwgQ
+http://www.plainblack.com/getwebgui/advisories/webgui-7_4_18-stable-released/
+http://www.plainblack.com/getwebgui/advisories/webgui-7_4_24-stable-released
+http://www.plainblack.com/getwebgui/advisories/webgui-7_4_35-stable-released

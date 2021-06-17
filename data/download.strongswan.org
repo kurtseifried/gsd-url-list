@@ -1,0 +1,17 @@
+http://download.strongswan.org/CHANGES2.txt
+http://download.strongswan.org/CHANGES4.txt
+http://download.strongswan.org/CHANGES42.txt
+http://download.strongswan.org/patches/03_invalid_ike_state_patch/strongswan-4.x.x_invalid_ike_state.patch
+http://download.strongswan.org/patches/03_invalid_ike_state_patch/strongswan-4.x.x_invalid_ike_state.readme
+http://download.strongswan.org/patches/04_swapped_ts_check_patch/strongswan-4.x.x._swapped_ts_check.patch
+http://download.strongswan.org/patches/04_swapped_ts_check_patch/strongswan-4.x.x._swapped_ts_check.readme
+http://download.strongswan.org/patches/07_asn1_length_patch/strongswan-4.3.x_asn1_length.patch
+http://download.strongswan.org/patches/07_asn1_length_patch/strongswan-4.x.x_asn1_length.patch
+http://download.strongswan.org/patches/08_snprintf_patch/strongswan-4.3.3_snprintf.patch
+http://download.strongswan.org/patches/08_snprintf_patch/strongswan-4.3.4_snprintf.patch
+http://download.strongswan.org/patches/08_snprintf_patch/strongswan-4.3.5_snprintf.patch
+http://download.strongswan.org/patches/08_snprintf_patch/strongswan-4.3.6_snprintf.patch
+http://download.strongswan.org/patches/08_snprintf_patch/strongswan-4.4.0_snprintf.patch
+http://download.strongswan.org/patches/10_openssl_ecdsa_signature_patch/strongswan-4.3.5-5.0.3_openssl_ecdsa_signature.patch
+http://download.strongswan.org/security/CVE-2013-2054/CVE-2013-2054.txt
+http://download.strongswan.org/security/CVE-2013-6075/strongswan-4.3.3-5.1.0_id_dn_match.patch

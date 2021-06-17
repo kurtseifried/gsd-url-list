@@ -1,0 +1,2 @@
+http://www.libpng.org/pub/png/libpng.html
+http://www.libpng.org/pub/png/src/libpng-1.5.10-README.txt

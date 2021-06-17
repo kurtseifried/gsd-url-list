@@ -1,0 +1,2 @@
+http://www.ijg.org/
+http://www.ijg.org/files/jpegsrc.v9d.tar.gz

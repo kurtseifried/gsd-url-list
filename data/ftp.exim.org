@@ -1,0 +1,2 @@
+ftp://ftp.exim.org/pub/exim/ChangeLogs/ChangeLog-4.70
+ftp://ftp.exim.org/pub/exim/ChangeLogs/ChangeLog-4.74

@@ -1,0 +1,2 @@
+http://xmpp.org/resources/security-notices/server-dialback/
+http://xmpp.org/resources/security-notices/uncontrolled-resource-consumption-with-highly-compressed-xmpp-stanzas/

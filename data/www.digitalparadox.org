@@ -1,0 +1,10 @@
+http://www.digitalparadox.org/advisories/bkdev.txt
+http://www.digitalparadox.org/advisories/dup.txt
+http://www.digitalparadox.org/advisories/duppro.txt
+http://www.digitalparadox.org/advisories/fishc.txt
+http://www.digitalparadox.org/advisories/inal.txt
+http://www.digitalparadox.org/advisories/phpbbp.txt
+http://www.digitalparadox.org/advisories/pnuke.txt
+http://www.digitalparadox.org/advisories/rga.txt
+http://www.digitalparadox.org/viewadvisories.ah?view=45
+http://www.digitalparadox.org/viewadvisories.ah?view=46

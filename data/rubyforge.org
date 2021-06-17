@@ -1,0 +1,10 @@
+http://rubyforge.org/frs/shownotes.php?release_id=41108
+http://rubyforge.org/frs/shownotes.php?release_id=41440
+http://rubyforge.org/frs/shownotes.php?release_id=9074
+http://rubyforge.org/pipermail/mongrel-users/2006-October/001946.html
+http://rubyforge.org/pipermail/mongrel-users/2007-December/004733.html
+http://rubyforge.org/pipermail/mongrel-users/2007-December/004736.html
+http://rubyforge.org/pipermail/mongrel-users/2007-December/004742.html
+http://rubyforge.org/pipermail/mongrel-users/2007-December/004743.html
+http://rubyforge.org/pipermail/sup-talk/2013-August/004993.html
+http://rubyforge.org/pipermail/sup-talk/2013-October/004996.html

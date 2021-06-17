@@ -1,0 +1,4 @@
+http://www.freelists.org/archives/oracle-l/12-2006/msg00004.html
+http://www.freelists.org/post/dokuwiki/Fwd-DokuWiki-Full-path-disclosure
+http://www.freelists.org/post/dokuwiki/Fwd-Dokuwiki-maybe-security-issue-Null-byte-poisoning-in-LDAP-authentication
+http://www.freelists.org/post/dokuwiki/Hotfix-Release-20110525a-Rincewind

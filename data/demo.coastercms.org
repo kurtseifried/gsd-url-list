@@ -1,0 +1,3 @@
+http://demo.coastercms.org/admin/home
+http://demo.coastercms.org/admin/login
+http://demo.coastercms.org/homepage/blog

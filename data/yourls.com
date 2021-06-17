@@ -1,0 +1,1 @@
+http://yourls.com

@@ -1,0 +1,9 @@
+http://www.wooyun.org/bug.php?action=view&amp;amp;id=1006
+http://www.wooyun.org/bug.php?action=view&amp;amp;id=189
+http://www.wooyun.org/bug.php?action=view&amp;id=1006
+http://www.wooyun.org/bug.php?action=view&amp;id=189
+http://www.wooyun.org/bugs/wooyun-2010-01382
+http://www.wooyun.org/bugs/wooyun-2010-01383
+http://www.wooyun.org/bugs/wooyun-2010-03185
+http://www.wooyun.org/bugs/wooyun-2010-07166
+http://www.wooyun.org/bugs/wooyun-2010-0885

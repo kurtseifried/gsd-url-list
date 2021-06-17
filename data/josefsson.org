@@ -1,0 +1,5 @@
+http://josefsson.org/cgi-bin/viewcvs.cgi/gnutls/tests/certder.c?view=markup
+http://josefsson.org/cgi-bin/viewcvs.cgi/libtasn1/NEWS?root=gnupg-mirror&amp;amp;view=markup
+http://josefsson.org/cgi-bin/viewcvs.cgi/libtasn1/NEWS?root=gnupg-mirror&amp;view=markup
+http://josefsson.org/gnutls/releases/libtasn1/libtasn1-0.2.18-from-0.2.17.patch
+http://josefsson.org/ktelnet/kerberos-telnet.html

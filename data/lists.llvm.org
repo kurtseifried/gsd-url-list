@@ -1,0 +1,2 @@
+http://lists.llvm.org/pipermail/llvm-commits/
+http://lists.llvm.org/pipermail/llvm-dev/2020-June/142109.html

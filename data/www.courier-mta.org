@@ -1,0 +1,4 @@
+http://www.courier-mta.org/?changelog.html
+http://www.courier-mta.org/authlib/changelog.html
+http://www.courier-mta.org/beta/patches/verp-fix/README.txt
+http://www.courier-mta.org/maildrop/changelog.html
