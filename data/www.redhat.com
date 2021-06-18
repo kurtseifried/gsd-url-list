@@ -2314,3 +2314,10 @@ http://www.redhat.com/support/errata/rh50-errata-general.html#ncftp
 http://www.redhat.com/support/errata/rh50-errata-general.html#perl
 http://www.redhat.com/support/errata/rh51-errata-general.html#apache
 http://www.redhat.com/support/errata/rh51-errata-general.html#linuxconf
+https://www.redhat.com/security/data/metrics/cpe-dictionary.xml
+https://www.redhat.com/security/data/metrics/cve-metadata-from-bugzilla.xml
+https://www.redhat.com/security/data/metrics/cve_dates.txt
+https://www.redhat.com/security/data/metrics/cvemapcwe.txt
+https://www.redhat.com/security/data/metrics/release_dates.txt
+https://www.redhat.com/security/data/metrics/rhsamapcpe.txt
+https://www.redhat.com/security/data/metrics/rpm-to-cve.xml

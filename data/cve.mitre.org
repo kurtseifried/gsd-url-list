@@ -3,3 +3,5 @@ http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2002-0013
 http://cve.mitre.org/cve/identifiers/syntaxchange.html
 http://cve.mitre.org/cve/identifiers/tech-guidance.html#extraction_or_parsing
 http://cve.mitre.org/data/board/archives/2014-01/msg00000.html
+https://cve.mitre.org/cve/request_id.html
+https://cve.mitre.org/data/downloads/allitems.csv
