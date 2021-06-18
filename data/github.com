@@ -60,3 +60,5 @@ http://github.com/zephyrproject-rtos/zephyr/security/advisories/GHSA-hg2w-62p6-g
 http://github.com/zephyrproject-rtos/zephyr/security/advisories/GHSA-hx4p-j86p-2mhr
 http://github.com/zephyrproject-rtos/zephyr/security/advisories/GHSA-mm57-9hqw-qh44
 http://github.com/zephyrproject-rtos/zephyr/security/advisories/GHSA-vf79-hqwm-w4xc
+https://github.com/madhuakula/kubernetes-goat
+https://github.com/pavel-kirienko/cpu-load-side-channel
