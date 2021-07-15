@@ -42770,6 +42770,14 @@ https://www.debian.org/security/2021/dsa-4931.da.html
 https://www.debian.org/security/2021/dsa-4931.en.html
 https://www.debian.org/security/2021/dsa-4931.fr.html
 https://www.debian.org/security/2021/dsa-4931.ru.html
+https://www.debian.org/security/2021/dsa-4932
+https://www.debian.org/security/2021/dsa-4933
+https://www.debian.org/security/2021/dsa-4934
+https://www.debian.org/security/2021/dsa-4935
+https://www.debian.org/security/2021/dsa-4936
+https://www.debian.org/security/2021/dsa-4937
+https://www.debian.org/security/2021/dsa-4938
+https://www.debian.org/security/2021/dsa-4939
 https://www.debian.org/security/2021/index.da.html
 https://www.debian.org/security/2021/index.en.html
 https://www.debian.org/security/2021/index.es.html
