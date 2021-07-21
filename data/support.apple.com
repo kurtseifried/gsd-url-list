@@ -171,3 +171,4 @@ http://support.apple.com/kb/HT6449
 http://support.apple.com/kb/HT6495
 http://support.apple.com/kb/HT6596
 http://support.apple.com/kb/ht4339
+https://support.apple.com/en-ca/HT201222
