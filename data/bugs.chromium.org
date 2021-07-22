@@ -6,3 +6,6 @@ http://bugs.chromium.org/40445
 http://bugs.chromium.org/40487
 http://bugs.chromium.org/40575
 http://bugs.chromium.org/40635
+https://bugs.chromium.org/p/fuchsia/issues/list?q=security&can=2
+https://bugs.chromium.org/p/project-zero/issues/list
+https://bugs.chromium.org/p/project-zero/issues/list?q=security&can=1
