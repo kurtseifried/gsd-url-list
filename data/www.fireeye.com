@@ -4,3 +4,4 @@ http://www.fireeye.com/blog/technical/cyber-exploits/2013/11/ms-windows-local-pr
 http://www.fireeye.com/blog/technical/cyber-exploits/2014/02/new-ie-zero-day-found-in-watering-hole-attack-2.html
 http://www.fireeye.com/blog/uncategorized/2014/02/operation-snowman-deputydog-actor-compromises-us-veterans-of-foreign-wars-website.html
 http://www.fireeye.com/blog/uncategorized/2014/04/new-zero-day-exploit-targeting-internet-explorer-versions-9-through-11-identified-in-targeted-attacks.html
+https://www.fireeye.com/blog/threat-research/2021/05/shining-a-light-on-darkside-ransomware-operations.html

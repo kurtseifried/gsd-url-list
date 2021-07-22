@@ -54,3 +54,5 @@ http://www.blackberry.com/knowledgecenterpublic/livelink.exe/fetch/2000/8021/792
 http://www.blackberry.com/knowledgecenterpublic/livelink.exe/fetch/2000/8021/7925/8142/Known_%20Issues_-_HexView_advisory_on_BlackBerry_buffer_overflow,_DoS,_and_data_loss.html?nodeid=737173&amp;vernum=0
 http://www.blackberry.com/knowledgecenterpublic/livelink.exe/fetch/2000/8021/8149/8052/Support_-_Corrupt_Word_file_may_cause_buffer_overflow_in_the_BlackBerry_Attachment_Service.html?nodeid=1181753&amp;amp;vernum=2
 http://www.blackberry.com/knowledgecenterpublic/livelink.exe/fetch/2000/8021/8149/8052/Support_-_Corrupt_Word_file_may_cause_buffer_overflow_in_the_BlackBerry_Attachment_Service.html?nodeid=1181753&amp;vernum=2
+https://www.blackberry.com/us/en/pdfviewer?file=/content/dam/blackberry-com/asset/enterprise/pdf/direct/report-bb-2021-threat-report.pdf
+https://www.blackberry.com/us/en/pdfviewer?file=/content/dam/blackberry-com/asset/enterprise/pdf/direct/report-bb-decade-of-the-rats.pdf

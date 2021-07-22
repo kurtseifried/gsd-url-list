@@ -35,3 +35,4 @@ http://www.trendmicro.com/vinfo/secadvisories/default6.asp?VName=Vulnerability+i
 http://www.trendmicro.com/vinfo/secadvisories/default6.asp?VName=Vulnerability+in+Resco+Photo+Viewer+6%2E01+Enabling+Code+Injection+and+Arbitrary+Code+Execution
 http://www.trendmicro.com/vinfo/secadvisories/default6.asp?VName=Vulnerability+in+VSAPI+ARJ+parsing+could+allow+Remote+Code+execution
 http://www.trendmicro.com/vinfo/virusencyclo/default5.asp?VName=TROJ%5FMDROPPER%2EBH
+https://www.trendmicro.com/en_gb/research/21/f/bash-ransomware-darkradiation-targets-red-hat--and-debian-based-linux-distributions.html
