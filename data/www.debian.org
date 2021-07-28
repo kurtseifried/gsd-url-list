@@ -42781,6 +42781,8 @@ https://www.debian.org/security/2021/dsa-4939
 https://www.debian.org/security/2021/dsa-4940
 https://www.debian.org/security/2021/dsa-4941
 https://www.debian.org/security/2021/dsa-4942
+https://www.debian.org/security/2021/dsa-4943
+https://www.debian.org/security/2021/dsa-4944
 https://www.debian.org/security/2021/index.da.html
 https://www.debian.org/security/2021/index.en.html
 https://www.debian.org/security/2021/index.es.html
