@@ -1,0 +1,2 @@
+rulename,ruleregex,url_process,data_processing
+debian,^https://www.debian.org/.*,www.debian.org.py,www.debian.org-processing.py
