@@ -1,0 +1,3 @@
+rulename,ruleregex,notes
+MITRE CVE,https://cve.mitre.org/.*,Potential copyright claims
+MITRE CWE,https://cwe.mitre.org/.*,Potential copyright claims

@@ -1,2 +1,2 @@
-rulename,ruleregex,url_process,data_processing
-debian,^https://www.debian.org/.*,www.debian.org.py,www.debian.org-processing.py
+rulename,ruleregex,url_process,data_processing,notes
+debian,^https://www.debian.org/.*,www.debian.org.py,www.debian.org-processing.pym,Debian is ocnsidered a trusted source
