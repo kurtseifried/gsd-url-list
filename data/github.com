@@ -73,6 +73,7 @@ https://github.com/ciscocxsecurity/unix-privesc-check
 https://github.com/fboldewin/FastCashMalwareDissected/blob/master/Operation%20Fast%20Cash%20-%20Hidden%20Cobra%E2%80%98s%20AIX%20PowerPC%20malware%20dissected.pdf
 https://github.com/madhuakula/kubernetes-goat
 https://github.com/pavel-kirienko/cpu-load-side-channel
+https://github.com/pypa/warehouse/pull/9552
 https://github.com/rebootuser/LinEnum
 https://github.com/rek7/fireELF
 https://github.com/ripmeep/memory-injector
