@@ -37,8 +37,6 @@ http://www.debian.org/security/2000/20001217a
 http://www.debian.org/security/2000/20001219
 http://www.debian.org/security/2000/20001225
 http://www.debian.org/security/2000/20001225b
-http://www.debian.org/security/2001/dsa-007
-http://www.debian.org/security/2001/dsa-009
 http://www.debian.org/security/2001/dsa-011
 http://www.debian.org/security/2001/dsa-012
 http://www.debian.org/security/2001/dsa-013
