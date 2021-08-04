@@ -1,0 +1,2 @@
+http://packetstorm.icx.fr/9903-exploits/X11R6.txt
+http://packetstorm.icx.fr/new-exploits/cfingerd.txt

@@ -118,10 +118,12 @@ http://www.securityfocus.com/archive/1/12217
 http://www.securityfocus.com/archive/1/12231
 http://www.securityfocus.com/archive/1/12284
 http://www.securityfocus.com/archive/1/12433
+http://www.securityfocus.com/archive/1/12566/2003-04-12/2003-04-18/2
 http://www.securityfocus.com/archive/1/12580
 http://www.securityfocus.com/archive/1/12618
 http://www.securityfocus.com/archive/1/12640
 http://www.securityfocus.com/archive/1/12699
+http://www.securityfocus.com/archive/1/12713
 http://www.securityfocus.com/archive/1/12730
 http://www.securityfocus.com/archive/1/12744
 http://www.securityfocus.com/archive/1/12842
@@ -947,6 +949,7 @@ http://www.securityfocus.com/archive/1/365865
 http://www.securityfocus.com/archive/1/36608
 http://www.securityfocus.com/archive/1/366309
 http://www.securityfocus.com/archive/1/367485
+http://www.securityfocus.com/archive/1/36847/1999-11-27/1999-12-03/2
 http://www.securityfocus.com/archive/1/368492
 http://www.securityfocus.com/archive/1/368652
 http://www.securityfocus.com/archive/1/368666
@@ -63253,3 +63256,4 @@ http://www.securityfocus.com/templates/archive.pike?list=1&amp;msg=s8d1f3e3.036@
 http://www.securityfocus.com/templates/archive.pike?list=1&amp;msg=web-5645555@post2.rnci.com
 http://www.securityfocus.com/templates/archive.pike?mid=143604&amp;list=1&amp;fromthread=0&amp;end=2000-11-11&amp;threads=0&amp;start=2000-11-05&amp;
 http://www.securityfocus.com/templates/archive.pike?mid=150957&amp;amp;end=2001-02-03&amp;amp;fromthread=1&amp;amp;start=2001-01-28&amp;amp;threads=0&amp;amp;list=1&amp;amp;
+http://www.securityfocus.com/vdb/bottom.html?vid=2503

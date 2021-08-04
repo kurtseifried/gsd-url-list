@@ -112,4 +112,5 @@ http://attrition.org/pipermail/vim/2010-August/002388.html
 http://attrition.org/pipermail/vim/2010-August/002391.html
 http://attrition.org/pipermail/vim/2012-May/002556.html
 http://attrition.org/pipermail/vim/2013-May/002682.html
+http://attrition.org/security/advisory/ksrt/ksrt.001.svgalib.zgv
 http://attrition.org/security/advisory/misc/infowar/iw_sec_01.txt

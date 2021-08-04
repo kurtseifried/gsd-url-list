@@ -52,6 +52,8 @@ http://www.oracle.com/technetwork/topics/security/cpuapr2012-366314.html
 http://www.oracle.com/technetwork/topics/security/cpuapr2013-1899555.html
 http://www.oracle.com/technetwork/topics/security/cpuapr2014-1972952.html
 http://www.oracle.com/technetwork/topics/security/cpuapr2015-2365600.html
+http://www.oracle.com/technetwork/topics/security/cpuapr2015-2365600.html#AppendixMSQL
+http://www.oracle.com/technetwork/topics/security/cpuapr2016-2881694.html
 http://www.oracle.com/technetwork/topics/security/cpujan2006-082403.html
 http://www.oracle.com/technetwork/topics/security/cpujan2007-101493.html
 http://www.oracle.com/technetwork/topics/security/cpujan2008-086860.html

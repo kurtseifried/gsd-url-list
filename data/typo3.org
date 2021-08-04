@@ -157,11 +157,13 @@ http://typo3.org/teams/security/security-bulletins/typo3-20081222-2
 http://typo3.org/teams/security/security-bulletins/typo3-20081222-3/
 http://typo3.org/teams/security/security-bulletins/typo3-20081222-4
 http://typo3.org/teams/security/security-bulletins/typo3-20081222-4/
+http://typo3.org/teams/security/security-bulletins/typo3-core/typo3-core-sa-2011-001/
 http://typo3.org/teams/security/security-bulletins/typo3-core/typo3-core-sa-2011-004/
 http://typo3.org/teams/security/security-bulletins/typo3-core/typo3-core-sa-2012-001/
 http://typo3.org/teams/security/security-bulletins/typo3-core/typo3-core-sa-2012-002/
 http://typo3.org/teams/security/security-bulletins/typo3-core/typo3-core-sa-2012-004/
 http://typo3.org/teams/security/security-bulletins/typo3-core/typo3-core-sa-2012-005/
+http://typo3.org/teams/security/security-bulletins/typo3-core/typo3-core-sa-2013-001/
 http://typo3.org/teams/security/security-bulletins/typo3-core/typo3-core-sa-2013-004
 http://typo3.org/teams/security/security-bulletins/typo3-core/typo3-core-sa-2013-004/
 http://typo3.org/teams/security/security-bulletins/typo3-core/typo3-core-sa-2014-001/
@@ -239,10 +241,12 @@ http://typo3.org/teams/security/security-bulletins/typo3-sa-2009-020/
 http://typo3.org/teams/security/security-bulletins/typo3-sa-2009-021/
 http://typo3.org/teams/security/security-bulletins/typo3-sa-2010-001/
 http://typo3.org/teams/security/security-bulletins/typo3-sa-2010-002/
+http://typo3.org/teams/security/security-bulletins/typo3-sa-2010-004/
 http://typo3.org/teams/security/security-bulletins/typo3-sa-2010-005/
 http://typo3.org/teams/security/security-bulletins/typo3-sa-2010-006/
 http://typo3.org/teams/security/security-bulletins/typo3-sa-2010-007/
 http://typo3.org/teams/security/security-bulletins/typo3-sa-2010-008/
+http://typo3.org/teams/security/security-bulletins/typo3-sa-2010-012/
 http://typo3.org/teams/security/security-bulletins/typo3-sa-2010-015/
 http://typo3.org/teams/security/security-bulletins/typo3-sa-2010-018/
 http://typo3.org/teams/security/security-bulletins/typo3-sa-2010-019
@@ -250,3 +254,5 @@ http://typo3.org/teams/security/security-bulletins/typo3-sa-2010-020/
 http://typo3.org/teams/security/security-bulletins/typo3-sa-2010-021
 http://typo3.org/teams/security/security-bulletins/typo3-sa-2011-003/
 http://typo3.org/teams/security/security-bulletins/typo3-sa-2011-008/
+https://typo3.org/news/article/announcing-typo3-45-lts-regular-end-of-life-eol/
+https://typo3.org/teams/security/security-bulletins/typo3-core/typo3-core-sa-2015-001/

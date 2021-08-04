@@ -3551,6 +3551,7 @@ http://www.debian.org/security/2017/dsa-4010
 http://www.debian.org/security/2017/dsa-4011
 http://www.debian.org/security/2017/dsa-4012
 http://www.debian.org/security/2017/dsa-4013
+https://www.debian.org/releases/jessie/amd64/release-notes/ch-upgrading.en.html
 https://www.debian.org/robots.txt
 https://www.debian.org/security/
 https://www.debian.org/security/1997/
@@ -40525,6 +40526,7 @@ https://www.debian.org/security/2019/index.nl.html
 https://www.debian.org/security/2019/index.pt.html
 https://www.debian.org/security/2019/index.ru.html
 https://www.debian.org/security/2019/index.sv.html
+https://www.debian.org/security/2020-GRUB-UEFI-SecureBoot
 https://www.debian.org/security/2020-GRUB-UEFI-SecureBoot/index.en.html
 https://www.debian.org/security/2020-GRUB-UEFI-SecureBoot/index.es.html
 https://www.debian.org/security/2020-GRUB-UEFI-SecureBoot/index.fr.html
@@ -41966,6 +41968,7 @@ https://www.debian.org/security/2020/index.nl.html
 https://www.debian.org/security/2020/index.pt.html
 https://www.debian.org/security/2020/index.ru.html
 https://www.debian.org/security/2020/index.sv.html
+https://www.debian.org/security/2021-GRUB-UEFI-SecureBoot
 https://www.debian.org/security/2021-GRUB-UEFI-SecureBoot/index.en.html
 https://www.debian.org/security/2021-GRUB-UEFI-SecureBoot/index.es.html
 https://www.debian.org/security/2021-GRUB-UEFI-SecureBoot/index.fr.html

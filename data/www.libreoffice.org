@@ -13,3 +13,6 @@ http://www.libreoffice.org/advisories/CVE-2012-0037/
 http://www.libreoffice.org/advisories/cve-2012-1149/
 http://www.libreoffice.org/advisories/cve-2012-2334/
 http://www.libreoffice.org/advisories/cve-2012-4233/
+https://www.libreoffice.org/about-us/security/advisories/CVE-2019-9854/
+https://www.libreoffice.org/about-us/security/advisories/cve-2015-4551/
+https://www.libreoffice.org/about-us/security/advisories/cve-2017-3157/

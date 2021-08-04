@@ -165,3 +165,8 @@ http://wordpress.org/support/topic/security-vulnerability-cve-2013-7240-director
 http://wordpress.org/support/topic/vulnerability-5
 http://wordpress.org/support/topic/wordpress-advanced-text-widget-plugin-cross-site-scripting-vulnerabilities
 http://wordpress.org/support/topic/wp-cron-dashboard-115-security-vulnerability-notification-xss
+https://wordpress.org/news/2014/08/wordpress-3-9-2/
+https://wordpress.org/news/2014/11/wordpress-4-0-1/
+https://wordpress.org/news/2015/04/wordpress-4-1-2/
+https://wordpress.org/news/2015/04/wordpress-4-2-1/
+https://wordpress.org/news/2018/04/wordpress-4-9-5-security-and-maintenance-release/

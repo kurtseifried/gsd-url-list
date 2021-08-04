@@ -1,1 +1,2 @@
 http://wiki.samba.org/index.php/CTDB2releaseNotes#ctdb_2.5
+https://wiki.samba.org/index.php/CVE-2018-1057

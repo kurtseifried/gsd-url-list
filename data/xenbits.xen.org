@@ -25,6 +25,7 @@ http://xenbits.xen.org/xsa/advisory-120.html
 http://xenbits.xen.org/xsa/advisory-121.html
 http://xenbits.xen.org/xsa/advisory-122.html
 http://xenbits.xen.org/xsa/advisory-123.html
+http://xenbits.xen.org/xsa/advisory-124.html
 http://xenbits.xen.org/xsa/advisory-125.html
 http://xenbits.xen.org/xsa/advisory-126.html
 http://xenbits.xen.org/xsa/advisory-127.html

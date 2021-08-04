@@ -67,6 +67,7 @@ https://github.com/CiscoCXSecurity/linikatz/issues
 https://github.com/CiscoCXSecurity/sudo-parser
 https://github.com/Jonnycake/SimpleSite/commit/c948cd6317c5c5cf469053208ea508e7955f8f22
 https://github.com/MalwareSamples/Linux-Malware-Samples
+https://github.com/Supervisor/supervisor/issues/964
 https://github.com/TH3xACE/SUDO_KILLER
 https://github.com/alichtman/malware-techniques
 https://github.com/ciscocxsecurity/unix-privesc-check
@@ -79,4 +80,5 @@ https://github.com/rek7/fireELF
 https://github.com/ripmeep/memory-injector
 https://github.com/timb-machine/linux-malware
 https://github.com/willshiao/node-bash-obfuscate
+https://github.com/x-stream/xstream/security/advisories/GHSA-mw36-7c6c-q4q2
 https://github.com/zMarch/Orc

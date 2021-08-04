@@ -1,4 +1,9 @@
 http://www.insecure.org/sploits/Internet_explorer_4.0.hack.html
 http://www.insecure.org/sploits/irix.xfsdump.html
+http://www.insecure.org/sploits/linux.doom.gpm.killmouse.html
+http://www.insecure.org/sploits/linux.tftpd.dotdotbug.html
 http://www.insecure.org/sploits/netmanage.chameleon.overflows.html
+http://www.insecure.org/sploits/php.cgi.ncaa.overflow.pattern_restrict.html
+http://www.insecure.org/sploits/redhat.amd.nodev.html
+http://www.insecure.org/sploits/sendmail.8.8.4.hardlink.dead.letter.html
 http://www.insecure.org/sploits/sunos.dev.tcx0.write.wierd.shit.to.device.bug.html

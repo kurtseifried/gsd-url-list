@@ -1,2 +1,6 @@
+http://en.wikipedia.org/wiki/HTTP_Strict_Transport_Security
 http://en.wikipedia.org/wiki/Talk:Itheora
 https://en.wikipedia.org/wiki/Linux_malware
+https://en.wikipedia.org/wiki/List_of_Intel_graphics_processing_units#Gen8
+https://en.wikipedia.org/wiki/List_of_Intel_graphics_processing_units#Gen9
+https://en.wikipedia.org/wiki/Mozilla_software_rebranded_by_Debian

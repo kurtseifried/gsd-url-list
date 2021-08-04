@@ -446,3 +446,6 @@ http://www.kernel.org/pub/linux/kernel/v4.x/ChangeLog-4.9.7
 http://www.kernel.org/pub/linux/kernel/v4.x/ChangeLog-4.9.9
 http://www.kernel.org/pub/software/scm/git/docs/RelNotes-1.5.6.4.txt
 http://www.kernel.org/pub/software/scm/git/docs/RelNotes-1.7.2.1.txt
+https://www.kernel.org/doc/html/latest/admin-guide/hw-vuln/mds.html
+https://www.kernel.org/doc/html/latest/admin-guide/hw-vuln/multihit.html
+https://www.kernel.org/doc/html/latest/admin-guide/hw-vuln/tsx_async_abort.html

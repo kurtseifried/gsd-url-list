@@ -21,6 +21,9 @@ https://web.archive.org/web/20090120112751/http://trac.imagemagick.org/changeset
 https://web.archive.org/web/20111223190840/http://secunia.com/advisories/42507/
 https://web.archive.org/web/20120228033302/http://www.x90c.org/advisories/avast_internet_security_5.0_memory_corruption_advisory.txt
 https://web.archive.org/web/20121014055829/http://www.cloudscan.me/2012/09/cve-2012-1500-ghs-5375-ghs-5642.html
+https://web.archive.org/web/20121023150138/http://www.ethereal.com/appnotes/enpa-sa-00004.html
+https://web.archive.org/web/20121023150224/http://www.ethereal.com/appnotes/enpa-sa-00003.html
+https://web.archive.org/web/20121023150245/http://www.ethereal.com/appnotes/enpa-sa-00010.html
 https://web.archive.org/web/20121227103629/http://empathy.hardchats.org/htp4/HTP-4.txt
 https://web.archive.org/web/20130317232013/http://blog.tempest.com.br/joao-paulo-campello/polycom-web-management-interface-os-command-injection.html
 https://web.archive.org/web/20130320033016/http://blog.tempest.com.br/joao-paulo-campello/path-traversal-on-polycom-web-management-interface.html

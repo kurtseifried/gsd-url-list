@@ -822,3 +822,6 @@ http://drupal.org/node/974668
 http://drupal.org/node/974672
 http://drupal.org/node/975094
 http://drupal.org/node/999380
+https://drupal.org/SA-CORE-2013-003
+https://drupal.org/SA-CORE-2014-001
+https://drupal.org/SA-CORE-2014-002

@@ -29,6 +29,7 @@ http://www.f-secure.com/security/fsc-2007-6.shtml
 http://www.f-secure.com/security/fsc-2008-1.shtml
 http://www.f-secure.com/security/fsc-2008-2.shtml
 http://www.f-secure.com/security/fsc-2008-3.shtml
+http://www.f-secure.com/v-descs/bliss.shtml
 http://www.f-secure.com/weblog/archives/00001923.html
 http://www.f-secure.com/weblog/archives/00001949.html
 http://www.f-secure.com/weblog/archives/00001986.html

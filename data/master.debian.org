@@ -1,0 +1,2 @@
+http://master.debian.org/~joey/NMU/openssl_0.9.6c-0.potato.7.patch
+http://master.debian.org/~joey/NMU/openssl_0.9.6c-2.woody.4.patch

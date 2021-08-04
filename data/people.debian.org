@@ -1,2 +1,5 @@
 http://people.debian.org/~nion/nmu-diff/paramiko-1.6.4-1_1.6.4-1.1.patch
 http://people.debian.org/~terpstra/message/20060906.155339.0c0732a4.en.html
+https://people.debian.org/~jmm/squid/
+https://people.debian.org/~peloy/samba/
+https://people.debian.org/~vorlon/samba/

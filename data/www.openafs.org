@@ -13,8 +13,10 @@ http://www.openafs.org/pages/security/OPENAFS-SA-2016-001.txt
 http://www.openafs.org/pipermail/openafs-announce/2007/000185.html
 http://www.openafs.org/pipermail/openafs-announce/2007/000186.html
 http://www.openafs.org/pipermail/openafs-announce/2007/000187.html
+http://www.openafs.org/security
 http://www.openafs.org/security/OPENAFS-SA-2007-003.txt
 http://www.openafs.org/security/OPENAFS-SA-2009-001.txt
 http://www.openafs.org/security/OPENAFS-SA-2009-002.txt
+http://www.openafs.org/security/OPENAFS-SA-2013-003.txt
 http://www.openafs.org/security/openafs-sa-2009-001.patch
 http://www.openafs.org/security/openafs-sa-2009-002.patch

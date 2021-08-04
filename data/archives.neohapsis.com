@@ -29,6 +29,7 @@ http://archives.neohapsis.com/archives/bugtraq/1998_3/0742.html
 http://archives.neohapsis.com/archives/bugtraq/1998_4/0764.html
 http://archives.neohapsis.com/archives/bugtraq/1999-q3/0381.html
 http://archives.neohapsis.com/archives/bugtraq/1999_1/0056.html
+http://archives.neohapsis.com/archives/bugtraq/1999_1/1166.html
 http://archives.neohapsis.com/archives/bugtraq/1999_2/0439.html
 http://archives.neohapsis.com/archives/bugtraq/2000-02/0034.html
 http://archives.neohapsis.com/archives/bugtraq/2000-02/0045.html
@@ -965,6 +966,7 @@ http://archives.neohapsis.com/archives/bugtraq/2002-02/0051.html
 http://archives.neohapsis.com/archives/bugtraq/2002-02/0162.html
 http://archives.neohapsis.com/archives/bugtraq/2002-02/0183.html
 http://archives.neohapsis.com/archives/bugtraq/2002-02/0187.html
+http://archives.neohapsis.com/archives/bugtraq/2002-02/0313.html
 http://archives.neohapsis.com/archives/bugtraq/2002-03/0004.html
 http://archives.neohapsis.com/archives/bugtraq/2002-03/0048.html
 http://archives.neohapsis.com/archives/bugtraq/2002-03/0050.html

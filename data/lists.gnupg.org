@@ -26,3 +26,4 @@ http://lists.gnupg.org/pipermail/gnutls-dev/2006-September/001205.html
 http://lists.gnupg.org/pipermail/gnutls-dev/2006-September/001212.html
 http://lists.gnupg.org/pipermail/gpa-dev/2005-June/002291.html
 http://lists.gnupg.org/pipermail/gpa-dev/2005-June/002294.html
+https://lists.gnupg.org/pipermail/gnupg-announce/2018q2/000425.html

@@ -47,6 +47,7 @@ http://lists.suse.com/archive/suse-security-announce/2007-Mar/0008.html
 http://lists.suse.com/archive/suse-security-announce/2007-May/0001.html
 http://lists.suse.com/archive/suse-security-announce/2007-May/0005.html
 http://lists.suse.com/archive/suse-security-announce/2007-May/0006.html
+http://lists.suse.com/archive/suse-security/1999-Sep/0052.html
 http://lists.suse.com/archives/suse-security-announce/2000-Nov/0004.html
 http://lists.suse.com/archives/suse-security-announce/2000-Nov/0005.html
 http://lists.suse.com/archives/suse-security-announce/2001-Apr/0000.html

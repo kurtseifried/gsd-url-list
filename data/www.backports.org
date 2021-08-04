@@ -1,1 +1,3 @@
+http://www.backports.org/backports.org/pool/main/f/firebird2.0/
 http://www.backports.org/changelog.html
+http://www.backports.org/dokuwiki/doku.php?id=instructions

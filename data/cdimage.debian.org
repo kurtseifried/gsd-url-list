@@ -1,0 +1,1 @@
+https://cdimage.debian.org/cdimage/jessie_di_rc1

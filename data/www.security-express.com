@@ -1,3 +1,5 @@
+http://www.security-express.com/archives/bugtraq/1997_2/0238.html
+http://www.security-express.com/archives/bugtraq/1997_2/0252.html
 http://www.security-express.com/archives/bugtraq/1999-q4/0122.html
 http://www.security-express.com/archives/bugtraq/2000-01/0085.html
 http://www.security-express.com/archives/bugtraq/2001-01/0424.html

@@ -1,0 +1,2 @@
+https://salsa.debian.org/hmh/intel-microcode/-/blob/master/debian/README.Debian
+https://salsa.debian.org/webmaster-team/webwml

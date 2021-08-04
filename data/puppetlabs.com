@@ -1,4 +1,5 @@
 http://puppetlabs.com/blog/important-security-announcement-altnames-vulnerability/
+http://puppetlabs.com/security/cve/cve-2011-3872/
 http://puppetlabs.com/security/cve/cve-2012-0891
 http://puppetlabs.com/security/cve/cve-2012-1053/
 http://puppetlabs.com/security/cve/cve-2012-1054/

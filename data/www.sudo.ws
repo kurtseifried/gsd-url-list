@@ -33,3 +33,5 @@ http://www.sudo.ws/sudo/alerts/sudoedit.html
 http://www.sudo.ws/sudo/alerts/sudoedit_escalate2.html
 http://www.sudo.ws/sudo/alerts/tty_tickets.html
 http://www.sudo.ws/sudo/stable.html
+https://www.sudo.ws/alerts/minus_1_uid.html
+https://www.sudo.ws/alerts/pwfeedback.html

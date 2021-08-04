@@ -1,2 +1,10 @@
 http://lists.insecure.org/lists/bugtraq/1994/Jul/0038.html
+http://lists.insecure.org/lists/bugtraq/1997/Jul/0043.html
+http://lists.insecure.org/lists/bugtraq/1997/Jul/0161.html
+http://lists.insecure.org/lists/bugtraq/1997/Jun/0128.html
+http://lists.insecure.org/lists/bugtraq/1999/Jul/0002.html
+http://lists.insecure.org/lists/bugtraq/1999/Mar/0216.html
+http://lists.insecure.org/lists/bugtraq/1999/Nov/0313.html
+http://lists.insecure.org/lists/bugtraq/1999/Oct/0176.html
+http://lists.insecure.org/lists/bugtraq/1999/Sep/0337.html
 http://lists.insecure.org/lists/bugtraq/2002/Sep/0128.html

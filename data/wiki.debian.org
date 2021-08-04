@@ -1,0 +1,6 @@
+https://wiki.debian.org/
+https://wiki.debian.org/LTS/Development#Add_squeeze-lts_to_your_sources.list
+https://wiki.debian.org/LTS/Development#Check_for_unsupported_packages
+https://wiki.debian.org/LTS/Development#Upload_Packages
+https://wiki.debian.org/SELinux/Issues/BindPortRandomization
+https://wiki.debian.org/mmap_min_addr

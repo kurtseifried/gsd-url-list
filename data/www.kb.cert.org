@@ -487,6 +487,7 @@ http://www.kb.cert.org/vuls/id/195385
 http://www.kb.cert.org/vuls/id/195644
 http://www.kb.cert.org/vuls/id/196240
 http://www.kb.cert.org/vuls/id/196617
+http://www.kb.cert.org/vuls/id/196945
 http://www.kb.cert.org/vuls/id/197057
 http://www.kb.cert.org/vuls/id/197142
 http://www.kb.cert.org/vuls/id/197145
@@ -1123,6 +1124,7 @@ http://www.kb.cert.org/vuls/id/324668
 http://www.kb.cert.org/vuls/id/324841
 http://www.kb.cert.org/vuls/id/324929
 http://www.kb.cert.org/vuls/id/325361
+http://www.kb.cert.org/vuls/id/325431
 http://www.kb.cert.org/vuls/id/325603
 http://www.kb.cert.org/vuls/id/325625
 http://www.kb.cert.org/vuls/id/325636
@@ -1132,6 +1134,7 @@ http://www.kb.cert.org/vuls/id/326412
 http://www.kb.cert.org/vuls/id/326549
 http://www.kb.cert.org/vuls/id/326746
 http://www.kb.cert.org/vuls/id/326830
+http://www.kb.cert.org/vuls/id/327037
 http://www.kb.cert.org/vuls/id/327281
 http://www.kb.cert.org/vuls/id/327473
 http://www.kb.cert.org/vuls/id/327633
@@ -1386,6 +1389,7 @@ http://www.kb.cert.org/vuls/id/377644
 http://www.kb.cert.org/vuls/id/377804
 http://www.kb.cert.org/vuls/id/377812
 http://www.kb.cert.org/vuls/id/377915
+http://www.kb.cert.org/vuls/id/378049
 http://www.kb.cert.org/vuls/id/378160
 http://www.kb.cert.org/vuls/id/37828
 http://www.kb.cert.org/vuls/id/378604
@@ -1687,6 +1691,7 @@ http://www.kb.cert.org/vuls/id/441529
 http://www.kb.cert.org/vuls/id/441697
 http://www.kb.cert.org/vuls/id/441785
 http://www.kb.cert.org/vuls/id/441873
+http://www.kb.cert.org/vuls/id/441956
 http://www.kb.cert.org/vuls/id/442049
 http://www.kb.cert.org/vuls/id/442497
 http://www.kb.cert.org/vuls/id/442569
@@ -2971,6 +2976,7 @@ http://www.kb.cert.org/vuls/id/709939
 http://www.kb.cert.org/vuls/id/710097
 http://www.kb.cert.org/vuls/id/710185
 http://www.kb.cert.org/vuls/id/710273
+http://www.kb.cert.org/vuls/id/710316
 http://www.kb.cert.org/vuls/id/710347
 http://www.kb.cert.org/vuls/id/710889
 http://www.kb.cert.org/vuls/id/711329
@@ -4059,6 +4065,7 @@ http://www.kb.cert.org/vuls/id/946729
 http://www.kb.cert.org/vuls/id/946820
 http://www.kb.cert.org/vuls/id/947254
 http://www.kb.cert.org/vuls/id/947785
+http://www.kb.cert.org/vuls/id/948033
 http://www.kb.cert.org/vuls/id/948096
 http://www.kb.cert.org/vuls/id/948137
 http://www.kb.cert.org/vuls/id/948155

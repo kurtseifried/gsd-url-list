@@ -1,0 +1,2 @@
+https://trac.torproject.org/projects/tor/ticket/5934
+https://trac.torproject.org/projects/tor/ticket/6007

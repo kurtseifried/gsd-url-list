@@ -1,3 +1,4 @@
+https://security-tracker.debian.org
 https://security-tracker.debian.org/tracker/CVE-1999-0006
 https://security-tracker.debian.org/tracker/CVE-1999-0192
 https://security-tracker.debian.org/tracker/CVE-1999-0373
@@ -12041,6 +12042,10 @@ https://security-tracker.debian.org/tracker/CVE-2020-1983
 https://security-tracker.debian.org/tracker/CVE-2020-24368
 https://security-tracker.debian.org/tracker/CVE-2020-24379
 https://security-tracker.debian.org/tracker/CVE-2020-24386
+https://security-tracker.debian.org/tracker/CVE-2020-24489
+https://security-tracker.debian.org/tracker/CVE-2020-24511
+https://security-tracker.debian.org/tracker/CVE-2020-24512
+https://security-tracker.debian.org/tracker/CVE-2020-24513
 https://security-tracker.debian.org/tracker/CVE-2020-24606
 https://security-tracker.debian.org/tracker/CVE-2020-24654
 https://security-tracker.debian.org/tracker/CVE-2020-24660
@@ -12218,6 +12223,7 @@ https://security-tracker.debian.org/tracker/CVE-2020-29661
 https://security-tracker.debian.org/tracker/CVE-2020-29668
 https://security-tracker.debian.org/tracker/CVE-2020-35111
 https://security-tracker.debian.org/tracker/CVE-2020-35113
+https://security-tracker.debian.org/tracker/CVE-2020-35452
 https://security-tracker.debian.org/tracker/CVE-2020-35475
 https://security-tracker.debian.org/tracker/CVE-2020-35477
 https://security-tracker.debian.org/tracker/CVE-2020-35479
@@ -12239,6 +12245,7 @@ https://security-tracker.debian.org/tracker/CVE-2020-36227
 https://security-tracker.debian.org/tracker/CVE-2020-36228
 https://security-tracker.debian.org/tracker/CVE-2020-36229
 https://security-tracker.debian.org/tracker/CVE-2020-36230
+https://security-tracker.debian.org/tracker/CVE-2020-36311
 https://security-tracker.debian.org/tracker/CVE-2020-36328
 https://security-tracker.debian.org/tracker/CVE-2020-36329
 https://security-tracker.debian.org/tracker/CVE-2020-36330
@@ -12580,6 +12587,7 @@ https://security-tracker.debian.org/tracker/CVE-2021-20225
 https://security-tracker.debian.org/tracker/CVE-2021-20233
 https://security-tracker.debian.org/tracker/CVE-2021-20270
 https://security-tracker.debian.org/tracker/CVE-2021-20277
+https://security-tracker.debian.org/tracker/CVE-2021-20305
 https://security-tracker.debian.org/tracker/CVE-2021-21106
 https://security-tracker.debian.org/tracker/CVE-2021-21107
 https://security-tracker.debian.org/tracker/CVE-2021-21108
@@ -12713,6 +12721,8 @@ https://security-tracker.debian.org/tracker/CVE-2021-21381
 https://security-tracker.debian.org/tracker/CVE-2021-21409
 https://security-tracker.debian.org/tracker/CVE-2021-2163
 https://security-tracker.debian.org/tracker/CVE-2021-21702
+https://security-tracker.debian.org/tracker/CVE-2021-21704
+https://security-tracker.debian.org/tracker/CVE-2021-21705
 https://security-tracker.debian.org/tracker/CVE-2021-21772
 https://security-tracker.debian.org/tracker/CVE-2021-22204
 https://security-tracker.debian.org/tracker/CVE-2021-22876
@@ -12722,6 +12732,7 @@ https://security-tracker.debian.org/tracker/CVE-2021-22884
 https://security-tracker.debian.org/tracker/CVE-2021-22885
 https://security-tracker.debian.org/tracker/CVE-2021-22890
 https://security-tracker.debian.org/tracker/CVE-2021-22904
+https://security-tracker.debian.org/tracker/CVE-2021-22918
 https://security-tracker.debian.org/tracker/CVE-2021-23017
 https://security-tracker.debian.org/tracker/CVE-2021-23158
 https://security-tracker.debian.org/tracker/CVE-2021-23165
@@ -12763,6 +12774,8 @@ https://security-tracker.debian.org/tracker/CVE-2021-26259
 https://security-tracker.debian.org/tracker/CVE-2021-26313
 https://security-tracker.debian.org/tracker/CVE-2021-26675
 https://security-tracker.debian.org/tracker/CVE-2021-26676
+https://security-tracker.debian.org/tracker/CVE-2021-26690
+https://security-tracker.debian.org/tracker/CVE-2021-26691
 https://security-tracker.debian.org/tracker/CVE-2021-26910
 https://security-tracker.debian.org/tracker/CVE-2021-26933
 https://security-tracker.debian.org/tracker/CVE-2021-26937
@@ -12791,6 +12804,9 @@ https://security-tracker.debian.org/tracker/CVE-2021-29949
 https://security-tracker.debian.org/tracker/CVE-2021-29956
 https://security-tracker.debian.org/tracker/CVE-2021-29957
 https://security-tracker.debian.org/tracker/CVE-2021-29967
+https://security-tracker.debian.org/tracker/CVE-2021-29969
+https://security-tracker.debian.org/tracker/CVE-2021-29970
+https://security-tracker.debian.org/tracker/CVE-2021-29976
 https://security-tracker.debian.org/tracker/CVE-2021-30152
 https://security-tracker.debian.org/tracker/CVE-2021-30154
 https://security-tracker.debian.org/tracker/CVE-2021-30155
@@ -12812,9 +12828,12 @@ https://security-tracker.debian.org/tracker/CVE-2021-30517
 https://security-tracker.debian.org/tracker/CVE-2021-30518
 https://security-tracker.debian.org/tracker/CVE-2021-30519
 https://security-tracker.debian.org/tracker/CVE-2021-30520
+https://security-tracker.debian.org/tracker/CVE-2021-30547
+https://security-tracker.debian.org/tracker/CVE-2021-30641
 https://security-tracker.debian.org/tracker/CVE-2021-3114
 https://security-tracker.debian.org/tracker/CVE-2021-31535
 https://security-tracker.debian.org/tracker/CVE-2021-3156
+https://security-tracker.debian.org/tracker/CVE-2021-31618
 https://security-tracker.debian.org/tracker/CVE-2021-31806
 https://security-tracker.debian.org/tracker/CVE-2021-31807
 https://security-tracker.debian.org/tracker/CVE-2021-31808
@@ -12831,12 +12850,23 @@ https://security-tracker.debian.org/tracker/CVE-2021-32920
 https://security-tracker.debian.org/tracker/CVE-2021-32921
 https://security-tracker.debian.org/tracker/CVE-2021-33038
 https://security-tracker.debian.org/tracker/CVE-2021-3347
+https://security-tracker.debian.org/tracker/CVE-2021-33909
+https://security-tracker.debian.org/tracker/CVE-2021-33910
 https://security-tracker.debian.org/tracker/CVE-2021-3449
+https://security-tracker.debian.org/tracker/CVE-2021-34548
+https://security-tracker.debian.org/tracker/CVE-2021-34549
+https://security-tracker.debian.org/tracker/CVE-2021-34550
+https://security-tracker.debian.org/tracker/CVE-2021-34693
 https://security-tracker.debian.org/tracker/CVE-2021-3472
 https://security-tracker.debian.org/tracker/CVE-2021-3497
 https://security-tracker.debian.org/tracker/CVE-2021-3498
 https://security-tracker.debian.org/tracker/CVE-2021-3504
 https://security-tracker.debian.org/tracker/CVE-2021-3520
+https://security-tracker.debian.org/tracker/CVE-2021-35472
+https://security-tracker.debian.org/tracker/CVE-2021-3570
+https://security-tracker.debian.org/tracker/CVE-2021-3580
+https://security-tracker.debian.org/tracker/CVE-2021-3609
+https://security-tracker.debian.org/tracker/CVE-2021-36222
 https://security-tracker.debian.org/tracker/CVS-2008-5317
 https://security-tracker.debian.org/tracker/ansible
 https://security-tracker.debian.org/tracker/ant
@@ -13003,6 +13033,7 @@ https://security-tracker.debian.org/tracker/libssh
 https://security-tracker.debian.org/tracker/libssh2
 https://security-tracker.debian.org/tracker/libtasn1-6
 https://security-tracker.debian.org/tracker/libu2f-host
+https://security-tracker.debian.org/tracker/libuv1
 https://security-tracker.debian.org/tracker/libvirt
 https://security-tracker.debian.org/tracker/libvncserver
 https://security-tracker.debian.org/tracker/libvorbis
@@ -13019,6 +13050,7 @@ https://security-tracker.debian.org/tracker/libzstd
 https://security-tracker.debian.org/tracker/lilypond
 https://security-tracker.debian.org/tracker/linux
 https://security-tracker.debian.org/tracker/linux-tools
+https://security-tracker.debian.org/tracker/linuxptp
 https://security-tracker.debian.org/tracker/lucene-solr
 https://security-tracker.debian.org/tracker/lxml
 https://security-tracker.debian.org/tracker/lz4
@@ -13043,6 +13075,7 @@ https://security-tracker.debian.org/tracker/neomutt
 https://security-tracker.debian.org/tracker/net-snmp
 https://security-tracker.debian.org/tracker/netatalk
 https://security-tracker.debian.org/tracker/netqmail
+https://security-tracker.debian.org/tracker/nettle
 https://security-tracker.debian.org/tracker/netty
 https://security-tracker.debian.org/tracker/network-manager-ssh
 https://security-tracker.debian.org/tracker/network-manager-vpnc

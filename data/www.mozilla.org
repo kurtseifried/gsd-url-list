@@ -1004,3 +1004,5 @@ http://www.mozilla.org/security/announce/mfsa2005-59.html
 http://www.mozilla.org/security/announce/mfsa2006-03.html
 http://www.mozilla.org/security/history-title.html
 http://www.mozilla.org/security/shell.html
+https://www.mozilla.org/en-US/firefox/60.0esr/releasenotes/
+https://www.mozilla.org/en-US/firefox/78.0esr/releasenotes/

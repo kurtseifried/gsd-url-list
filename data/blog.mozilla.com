@@ -12,3 +12,4 @@ http://blog.mozilla.com/security/2010/03/31/plugging-the-css-history-leak/
 http://blog.mozilla.com/security/2010/10/26/critical-vulnerability-in-firefox-3-5-and-firefox-3-6/
 http://blog.mozilla.com/security/2011/06/16/webgl-graphics-memory-stealing-issue/
 http://blog.mozilla.com/security/2011/09/27/attack-against-tls-protected-communications/
+http://blog.mozilla.com/security/2011/11/03/revoking-trust-in-digicert-sdn-bhd-intermediate-certificate-authority/
