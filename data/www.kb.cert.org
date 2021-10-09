@@ -1,3 +1,4 @@
+https://www.kb.cert.org/vuls/bypublished/desc/
 http://www.kb.cert.org/vuls/id/100780
 http://www.kb.cert.org/vuls/id/100937
 http://www.kb.cert.org/vuls/id/100961
