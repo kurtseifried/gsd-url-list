@@ -1,4 +1,3 @@
-rulename,ruleregex,notes,alternative
-MITRE CVE,https://cve.mitre.org/.*,Potential copyright claims,Use NVD instead (Title 17 of the United States Code)
-MITRE CWE,https://cwe.mitre.org/.*,Potential copyright claims,
-MITRE CVE,http://github.com/cveproject/.*,Potential copyright claims,Use NVD instead (Title 17 of the United States Code)
+rulename,ruleregex,notes,alternative,alternative_url
+MITRE CVE,https://cve.mitre.org/cgi-bin/cvename.cgi?name=.*,Potential copyright claims,Use NVD instead (Title 17 of the United States Code),https://nvd.nist.gov/vuln/detail/.*
+MITRE CVE,http://github.com/cveproject/.*,Potential copyright claims,Use NVD instead (Title 17 of the United States Code),https://nvd.nist.gov/vuln/detail/.*
