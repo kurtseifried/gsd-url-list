@@ -1,0 +1,2 @@
+"re.match","re.sub","re.sub_replace","block/supported/url_only/equivalent_to/unknown","continue/stop","notes","rulename"
+"^https://cve.org/.*","","","block","stop","MITRE CVE Website, Use NVD instead (Title 17 of the United States Code)","Possible copyright issues - use NVD"

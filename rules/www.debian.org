@@ -1,4 +1,4 @@
-"re.match","re.sub","re.sub_replace","block/supported/equivalent_to/unknown","continue/stop","notes","rulename"
+"re.match","re.sub","re.sub_replace","block/supported/url_only/equivalent_to/unknown","continue/stop","notes","rulename"
 "^http:","^http:","https:","unknown","continue","convert everything to https","convert to https"
 "^https://www.debian.org/security/[1-2][0-9][0-9][0-9]/dsa-[0-9]*\.[a-z][a-z]\.html$","\.[a-z][a-z]\.html$","","equivalent_to","continue","Translations like https://www.debian.org/security/2014/dsa-2906.da.html","DSA remove translation from url"
 "^https://www.debian.org/security/[1-2][0-9][0-9][0-9]/dsa-[0-9]*$","","","supported","stop","DSAs like https://www.debian.org/security/2014/dsa-2906.html","DSA"
