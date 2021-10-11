@@ -1861,3 +1861,5 @@ http://tools.cisco.com/security/center/viewIpsSignature.x?signatureId=23040&amp;
 http://tools.cisco.com/security/center/viewIpsSignature.x?signatureId=23040&amp;signatureSubId=0&amp;softwareVersion=6.0&amp;releaseVersion=S456
 http://tools.cisco.com/security/center/viewIpsSignature.x?signatureId=36606&amp;amp;signatureSubId=0
 http://tools.cisco.com/security/center/viewIpsSignature.x?signatureId=36606&amp;signatureSubId=0
+https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-httpd-pathtrv-LAzg68cZ
+https://tools.cisco.com/security/center/publicationListing.x
