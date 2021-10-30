@@ -3,3 +3,4 @@ http://karaf.apache.org/security/cve-2018-11786.txt
 http://karaf.apache.org/security/cve-2018-11787.txt
 http://karaf.apache.org/security/cve-2018-11788.txt
 http://karaf.apache.org/security/cve-2020-11980.txt
+https://karaf.apache.org/security/cve-2016-8750.txt

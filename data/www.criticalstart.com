@@ -1,0 +1,10 @@
+https://www.criticalstart.com/2019/02/information-disclosure-in-jforum-2-1-x-syntax/
+https://www.criticalstart.com/2019/07/manageengine-privilege-escalation/
+https://www.criticalstart.com/authentication-bypass-vulnerability-discovered-in-infinias-eidc32-webserver/
+https://www.criticalstart.com/critical-vulnerabilities-discovered-in-mofi-routers/
+https://www.criticalstart.com/f5-big-ip-remote-code-execution-exploit/
+https://www.criticalstart.com/hard-coded-administrator-password-discovered-in-opsramp/
+https://www.criticalstart.com/multiple-vulnerabilities-discovered-in-aviatrix/
+https://www.criticalstart.com/multiple-vulnerabilities-discovered-in-tiff-server-from-aquaforest/
+https://www.criticalstart.com/resources/
+https://www.criticalstart.com/vulnerabilities-discovered-in-cipace-enterprise-platform/

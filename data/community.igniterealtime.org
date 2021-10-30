@@ -1,2 +1,4 @@
 http://community.igniterealtime.org/blogs/ignite/2014/04/17/asmack-400-rc1-has-been-released
 http://community.igniterealtime.org/thread/52317
+https://community.igniterealtime.org/blogs/ignite/2015/04/22/openfire-3100-released
+https://community.igniterealtime.org/blogs/ignite/2016/11/22/smack-security-advisory-2016-11-22

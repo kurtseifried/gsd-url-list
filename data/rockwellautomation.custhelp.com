@@ -3,3 +3,15 @@ http://rockwellautomation.custhelp.com/app/answers/detail/a_id/448424
 http://rockwellautomation.custhelp.com/app/answers/detail/a_id/469937
 http://rockwellautomation.custhelp.com/cgi-bin/rockwellautomation.cfg/php/enduser/std_adp.php?p_faqid=57729
 http://rockwellautomation.custhelp.com/cgi-bin/rockwellautomation.cfg/php/enduser/std_adp.php?p_faqid=69735
+https://rockwellautomation.custhelp.com/app/answers/answer_view/a_id/1129798
+https://rockwellautomation.custhelp.com/app/answers/answer_view/a_id/1129877/loc/en_US#__highlight
+https://rockwellautomation.custhelp.com/app/answers/detail/a_id/1066697
+https://rockwellautomation.custhelp.com/app/answers/detail/a_id/1070883
+https://rockwellautomation.custhelp.com/app/answers/detail/a_id/1073133
+https://rockwellautomation.custhelp.com/app/answers/detail/a_id/1126944
+https://rockwellautomation.custhelp.com/app/answers/detail/a_id/511407
+https://rockwellautomation.custhelp.com/app/answers/detail/a_id/537599
+https://rockwellautomation.custhelp.com/app/answers/detail/a_id/646323
+https://rockwellautomation.custhelp.com/app/answers/detail/a_id/646324
+https://rockwellautomation.custhelp.com/app/answers/detail/a_id/700915
+https://rockwellautomation.custhelp.com/app/answers/detail/a_id/939382

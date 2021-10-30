@@ -1,1 +1,2 @@
 http://mpc-hc.org/2013/09/29/1.7.0-released
+https://mpc-hc.org/changelog/

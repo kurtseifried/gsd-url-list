@@ -1,0 +1,4 @@
+https://jira.mariadb.org/browse/MDEV-10465
+https://jira.mariadb.org/browse/MDEV-24040
+https://jira.mariadb.org/browse/MDEV-25179
+https://jira.mariadb.org/browse/MDEV-7937

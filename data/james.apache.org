@@ -1,1 +1,2 @@
 http://james.apache.org/changelog.html
+https://james.apache.org/hupa/index.html

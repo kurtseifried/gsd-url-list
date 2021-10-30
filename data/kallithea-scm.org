@@ -1,0 +1,5 @@
+https://kallithea-scm.org/repos/kallithea/changeset/a8f2986afc18c9221bf99f88b06e60ab83c86c55
+https://kallithea-scm.org/security/cve-2015-0260.html
+https://kallithea-scm.org/security/cve-2015-0276.html
+https://kallithea-scm.org/security/cve-2015-1864.html
+https://kallithea-scm.org/security/cve-2015-5285.html

@@ -1,0 +1,1 @@
+https://git.drupalcode.org/project/svg_sanitizer/commit/e1b0666

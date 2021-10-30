@@ -1,0 +1,10 @@
+https://vel.joomla.org/articles/2140-introducing-csv-injection
+https://vel.joomla.org/live-vel/1952-smart-related-articles-1-1-sql-injection
+https://vel.joomla.org/resolved/1897-aweb-cart-watching-system-2-6-0
+https://vel.joomla.org/resolved/2136-acymailing-5-9-5-csv-injection
+https://vel.joomla.org/resolved/2146-js-jobs-1-2-0-xss-cross-site-scripting
+https://vel.joomla.org/resolved/2150-jdownloads-3-2-58-xss-cross-site-scripting
+https://vel.joomla.org/resolved/2155-gridbox-com-gridbox-multiple-vulnerabilities
+https://vel.joomla.org/resolved/2260-kunena-5-0-x-5-1-14-xss-cross-site-scripting
+https://vel.joomla.org/vel-blog/2020-joomanager-2-0-0-other
+https://vel.joomla.org/vel-blog/2046-jbuildozer-1-4-1-sql-injection

@@ -1,0 +1,17 @@
+https://patchstack.com/database/vulnerability/add-search-to-menu/wordpress-ivory-search-plugin-4-6-6-reflected-cross-site-scripting-xss-vulnerability
+https://patchstack.com/database/vulnerability/ag-custom-admin/wordpress-absolutely-glamorous-custom-admin-plugin-6-8-authenticated-stored-cross-site-scripting-xss-vulnerability
+https://patchstack.com/database/vulnerability/icegram/wordpress-icegram-plugin-2-0-2-authenticated-stored-cross-site-scripting-xss-vulnerability
+https://patchstack.com/database/vulnerability/iq-block-country-/wordpress-iq-block-country-plugin-1-2-11-authenticated-persistent-cross-site-scripting-xss-vulnerability
+https://patchstack.com/database/vulnerability/media-file-renamer/wordpress-media-file-renamer-plugin-5-1-9-multiple-cross-site-request-forgery-csrf-vulnerabilities
+https://patchstack.com/database/vulnerability/ulisting/wordpress-ulisting-plugin-2-0-3-unauthenticated-sql-injection-sqli-vulnerability
+https://patchstack.com/database/vulnerability/ulisting/wordpress-ulisting-plugin-2-0-5-authenticated-insecure-direct-object-references-idor-vulnerability
+https://patchstack.com/database/vulnerability/ulisting/wordpress-ulisting-plugin-2-0-5-authenticated-reflected-cross-site-scripting-xss-vulnerability
+https://patchstack.com/database/vulnerability/ulisting/wordpress-ulisting-plugin-2-0-5-modify-user-roles-via-cross-site-request-forgery-csrf-vulnerability
+https://patchstack.com/database/vulnerability/ulisting/wordpress-ulisting-plugin-2-0-5-multiple-cross-site-request-forgery-csrf-vulnerabilities
+https://patchstack.com/database/vulnerability/ulisting/wordpress-ulisting-plugin-2-0-5-settings-update-via-cross-site-request-forgery-csrf-vulnerability
+https://patchstack.com/database/vulnerability/ulisting/wordpress-ulisting-plugin-2-0-5-unauthenticated-privilege-escalation-vulnerability
+https://patchstack.com/database/vulnerability/wordpress-popular-posts/wordpress-popular-posts-plugin-5-3-3-authenticated-persistent-cross-site-scripting-xss-vulnerability
+https://patchstack.com/database/vulnerability/wp-google-maps-pro/wordpress-wp-google-maps-pro-premium-plugin-8-1-11-multiple-authenticated-persistent-cross-site-scripting-xss-vulnerabilities
+https://patchstack.com/database/vulnerability/wp-google-maps/wordpress-wp-google-maps-plugin-8-1-12-multiple-authenticated-persistent-cross-site-scripting-xss-vulnerabilities
+https://patchstack.com/database/vulnerability/yith-maintenance-mode/wordpress-yith-maintenance-mode-plugin-1-3-7-authenticated-stored-cross-site-scripting-xss-vulnerability
+https://patchstack.com/database/vulnerability/yith-maintenance-mode/wordpress-yith-maintenance-mode-plugin-1-3-8-multiple-authenticated-stored-cross-site-scripting-xss-vulnerabilities

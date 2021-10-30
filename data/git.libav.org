@@ -25,3 +25,9 @@ https://git.libav.org/?p=libav.git;a=blob;f=Changelog;hb=refs/tags/v11.6
 https://git.libav.org/?p=libav.git;a=blob;f=Changelog;hb=refs/tags/v11.7
 https://git.libav.org/?p=libav.git;a=blob;f=Changelog;hb=refs/tags/v11.8
 https://git.libav.org/?p=libav.git;a=blob;f=Changelog;hb=refs/tags/v11.9
+https://git.libav.org/?p=libav.git;a=blobdiff;f=libavcodec/aacsbr.c;h=7d156e525b40b197c38db17acf16730845b91e56;hp=dbfb1677813ce6c531e4362d0be7ccf9fdfdd28e;hb=a50a5ff29ec5a8243499769e2bb9b5509ce9fd52;hpb=f55e3ff5891daf3d538b4d9176371960200d68fa
+https://git.libav.org/?p=libav.git;a=commit;h=0ac8ff618c5e6d878c547a8877e714ed728950ce
+https://git.libav.org/?p=libav.git;a=commit;h=136f55207521f0b03194ef5b55ba70f1635d6aee
+https://git.libav.org/?p=libav.git;a=commit;h=7e01d48cfd168c3dfc663f03a3b6a98e0ecba328
+https://git.libav.org/?p=libav.git;a=commit;h=fb1473080223a634b8ac2cca48a632d037a0a69d
+https://git.libav.org/?p=libav.git;a=commitdiff;h=0a49a62f998747cfa564d98d36a459fe70d3299b

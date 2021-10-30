@@ -1,0 +1,9 @@
+https://support.primekey.com/news/posts/40
+https://support.primekey.com/news/posts/51
+https://support.primekey.com/news/posts/52
+https://support.primekey.com/news/posts/53
+https://support.primekey.com/news/posts/54
+https://support.primekey.com/news/posts/ejbca-security-advisory-deserialization-bug
+https://support.primekey.com/news/posts/ejbca-security-advisory-protocol-access-control-bypass
+https://support.primekey.com/news/posts/ejbca-security-advisory-revocation-check-not-performed-on-est-client-certificate
+https://support.primekey.com/news/primekey-announcements

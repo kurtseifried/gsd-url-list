@@ -1,1 +1,4 @@
 http://www.projectforge.org/pf-en/News
+https://www.projectforge.org/jira/browse/PF-185
+https://www.projectforge.org/jira/browse/PF-483
+https://www.projectforge.org/jira/browse/PF-485

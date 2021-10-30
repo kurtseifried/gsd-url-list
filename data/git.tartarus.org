@@ -1,0 +1,2 @@
+https://git.tartarus.org/?p=simon/putty.git;a=commit;h=1dc5659aa62848f0aeb5de7bd3839fecc7debefa
+https://git.tartarus.org/?p=simon/putty.git;a=commitdiff;h=4ff22863d895cb7ebfced4cf923a012a614adaa8

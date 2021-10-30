@@ -1,2 +1,13 @@
 http://itunes.apple.com/us/app/citi-mobile-sm/id301724680
 http://itunes.apple.com/us/app/paypal/id283646709
+https://itunes.apple.com/app/japan-connected-free-wi-fi/id810838196
+https://itunes.apple.com/en/app/japan-connected-free-wi-fi/id810838196?mt=8
+https://itunes.apple.com/ms/app/vlc-for-mobile/id650377962?mt=8
+https://itunes.apple.com/us/app/bc-reveal/id852676494
+https://itunes.apple.com/us/app/dell-secureworks/id533072046
+https://itunes.apple.com/us/app/documents-pro/id374142847
+https://itunes.apple.com/us/app/fountain-trust-mobile-banking/id891343006
+https://itunes.apple.com/us/app/kinepasu-apuridekantan-bian/id637453055?mt=8
+https://itunes.apple.com/us/app/mycar-controls/id1126511815
+https://itunes.apple.com/us/app/starbucks/id331177714?mt=8
+https://itunes.apple.com/us/app/tumblr/id305343404

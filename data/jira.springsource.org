@@ -1,0 +1,4 @@
+https://jira.springsource.org/browse/SPR-10806
+https://jira.springsource.org/browse/SPR-11078?page=com.atlassian.jira.plugin.system.issuetabpanels:worklog-tabpanel
+https://jira.springsource.org/browse/SPR-11426
+https://jira.springsource.org/browse/SPR-9983

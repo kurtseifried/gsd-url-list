@@ -1,0 +1,7 @@
+https://issues.jasig.org/browse/CAS-1429
+https://issues.jasig.org/browse/CASC-228
+https://issues.jasig.org/browse/PHPCAS-61
+https://issues.jasig.org/browse/PHPCAS-67
+https://issues.jasig.org/browse/PHPCAS-80
+https://issues.jasig.org/browse/UP-4105
+https://issues.jasig.org/browse/UP-4106

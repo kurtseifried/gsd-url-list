@@ -1,1 +1,2 @@
 http://xmlgraphics.apache.org/security.html
+https://xmlgraphics.apache.org/security.html

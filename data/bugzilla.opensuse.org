@@ -1,0 +1,9 @@
+https://bugzilla.opensuse.org/show_bug.cgi?id=1071709
+https://bugzilla.opensuse.org/show_bug.cgi?id=1072312
+https://bugzilla.opensuse.org/show_bug.cgi?id=1088027
+https://bugzilla.opensuse.org/show_bug.cgi?id=1176034
+https://bugzilla.opensuse.org/show_bug.cgi?id=1176733
+https://bugzilla.opensuse.org/show_bug.cgi?id=1182095
+https://bugzilla.opensuse.org/show_bug.cgi?id=1185405
+https://bugzilla.opensuse.org/show_bug.cgi?id=924208
+https://bugzilla.opensuse.org/show_bug.cgi?id=964548

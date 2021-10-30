@@ -20,12 +20,15 @@ http://packages.debian.org/changelogs/pool/main/u/unbound/unbound_1.4.6-1/change
 http://packages.debian.org/changelogs/pool/main/w/wesnoth/wesnoth_1.4.7-4/changelog
 http://packages.debian.org/changelogs/pool/main/w/wesnoth/wesnoth_1.5.12-1/changelog
 http://packages.debian.org/changelogs/pool/non-free/c/crafty/crafty_19.15-1/changelog.txt
+https://packages.debian.org/bullseye/avahi-daemon
+https://packages.debian.org/buster/avahi-daemon
 https://packages.debian.org/changelogs/pool/main/l/linux-2.6/linux-2.6_2.6.32-34/changelog
 https://packages.debian.org/frozen/editors/fte
 https://packages.debian.org/frozen/editors/fte-console
 https://packages.debian.org/frozen/net/ssh
 https://packages.debian.org/frozen/net/ssh-askpass
 https://packages.debian.org/frozen/web/junkbuster
+https://packages.debian.org/sid/avahi-daemon
 https://packages.debian.org/src:
 https://packages.debian.org/src:Konquerer
 https://packages.debian.org/src:PHP3

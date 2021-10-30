@@ -20,3 +20,11 @@ http://www.openafs.org/security/OPENAFS-SA-2009-002.txt
 http://www.openafs.org/security/OPENAFS-SA-2013-003.txt
 http://www.openafs.org/security/openafs-sa-2009-001.patch
 http://www.openafs.org/security/openafs-sa-2009-002.patch
+https://www.openafs.org/dl/1.6.16/RELNOTES-1.6.16
+https://www.openafs.org/dl/openafs/1.6.13/RELNOTES-1.6.13
+https://www.openafs.org/dl/openafs/1.6.15/RELNOTES-1.6.15
+https://www.openafs.org/dl/openafs/1.6.17/RELNOTES-1.6.17
+https://www.openafs.org/pages/security/OPENAFS-SA-2015-007.txt
+https://www.openafs.org/pages/security/OPENAFS-SA-2016-002.txt
+https://www.openafs.org/pages/security/OPENAFS-SA-2016-003.txt
+https://www.openafs.org/pages/security/OPENAFS-SA-2017-001.txt

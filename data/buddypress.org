@@ -1,2 +1,5 @@
 http://buddypress.org/2012/03/buddypress-1-5-5/
 http://buddypress.org/2014/02/buddypress-1-9-2
+https://buddypress.org/2014/02/buddypress-1-9-2/
+https://buddypress.org/2020/01/buddypress-5-1-2/
+https://buddypress.org/2021/03/buddypress-7-2-1-security-release/

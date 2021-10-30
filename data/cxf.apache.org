@@ -37,3 +37,7 @@ http://cxf.apache.org/security-advisories.data/CVE-2020-13954.txt.asc?version=1&
 http://cxf.apache.org/security-advisories.data/CVE-2020-1954.txt.asc?version=1&amp;amp;modificationDate=1585730169000&amp;amp;api=v2
 http://cxf.apache.org/security-advisories.data/CVE-2020-1954.txt.asc?version=1&amp;modificationDate=1585730169000&amp;api=v2
 http://cxf.apache.org/security-advisories.data/CVE-2021-30468.txt.asc
+https://cxf.apache.org/security-advisories.data/CVE-2013-2160.txt.asc
+https://cxf.apache.org/security-advisories.data/CVE-2014-0109.txt.asc?version=1&amp;amp;modificationDate=1398873370740&amp;amp;api=v2
+https://cxf.apache.org/security-advisories.data/CVE-2015-5175.txt.asc?version=1&amp;amp;modificationDate=1440598018000&amp;amp;api=v2
+https://cxf.apache.org/security-advisories.data/CVE-2021-22696.txt.asc

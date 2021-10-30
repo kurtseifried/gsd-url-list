@@ -1,0 +1,10 @@
+https://jira.onap.org/browse/OJSI-10
+https://jira.onap.org/browse/OJSI-199
+https://jira.onap.org/browse/OJSI-27
+https://jira.onap.org/browse/OJSI-41
+https://jira.onap.org/browse/OJSI-42
+https://jira.onap.org/browse/OJSI-43
+https://jira.onap.org/browse/OJSI-63
+https://jira.onap.org/browse/OJSI-65
+https://jira.onap.org/browse/OJSI-92
+https://jira.onap.org/browse/OJSI-93

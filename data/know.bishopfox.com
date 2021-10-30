@@ -1,0 +1,13 @@
+https://know.bishopfox.com/advisories
+https://know.bishopfox.com/advisories/big-monitoring-fabric
+https://know.bishopfox.com/advisories/connectwise-control
+https://know.bishopfox.com/advisories/digdash-version-2018
+https://know.bishopfox.com/advisories/dolibarr-version-9-0-1-vulnerabilities
+https://know.bishopfox.com/advisories/dradis-pro-3-4-1
+https://know.bishopfox.com/advisories/intersystems-cache-2017-2-2-865-0-vulnerabilities
+https://know.bishopfox.com/advisories/news/2019/02/openmrs-insecure-object-deserialization
+https://know.bishopfox.com/advisories/oob-to-rce-exploitation-of-the-hobbes-functional-interpreter
+https://know.bishopfox.com/advisories/openemr-5-0-16-remote-code-execution-cross-site-scripting
+https://know.bishopfox.com/advisories/solismed-critical
+https://know.bishopfox.com/advisories/twisted-version-19.10.0
+https://know.bishopfox.com/research/cve-2019-18935-remote-code-execution-in-telerik-ui

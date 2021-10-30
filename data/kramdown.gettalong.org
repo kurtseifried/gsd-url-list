@@ -1,0 +1,2 @@
+https://kramdown.gettalong.org
+https://kramdown.gettalong.org/news.html

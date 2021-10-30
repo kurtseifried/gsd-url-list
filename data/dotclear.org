@@ -6,3 +6,5 @@ http://dotclear.org/blog/post/2014/05/16/Dotclear-2.6.3
 http://dotclear.org/blog/post/2014/08/18/Dotclear-2.6.4
 http://dotclear.org/blog/post/2015/09/23/Dotclear-2.8.1
 http://dotclear.org/blog/post/2015/10/25/Dotclear-2.8.2
+https://dotclear.org/blog/post/2016/11/01/Dotclear-2.10.3
+https://dotclear.org/blog/post/2016/12/28/Dotclear-2.11

@@ -1,0 +1,3 @@
+https://support.code42.com/Release_Notes
+https://support.code42.com/Terms_and_conditions/Code42_customer_support_resources/Code42_security_advisories
+https://support.code42.com/Terms_and_conditions/Code42_customer_support_resources/Code42_security_advisories/Arbitrary_code_execution_on_local_Windows_devices

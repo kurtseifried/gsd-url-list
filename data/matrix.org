@@ -1,0 +1,10 @@
+https://matrix.org/blog/2018/05/01/security-update-synapse-0-28-1/
+https://matrix.org/blog/2018/06/14/security-update-synapse-0-31-2/
+https://matrix.org/blog/2018/09/06/critical-security-update-synapse-0-33-3-1/
+https://matrix.org/blog/2019/01/10/critical-security-update-synapse-0-34-0-1-synapse-0-34-1-1/
+https://matrix.org/blog/2019/01/15/further-details-on-critical-security-update-in-synapse-affecting-all-versions-prior-to-0-34-1-cve-2019-5885/
+https://matrix.org/blog/2019/04/18/security-update-sydent-1-0-2/
+https://matrix.org/blog/2019/05/03/security-updates-sydent-1-0-3-synapse-0-99-3-1-and-riot-android-0-9-0-0-8-99-0-8-28-a/
+https://matrix.org/blog/2020/10/15/synapse-1-21-2-released-and-security-advisory
+https://matrix.org/blog/2021/06/14/adventures-in-fuzzing-libolm
+https://matrix.org/blog/2021/09/13/vulnerability-disclosure-key-sharing

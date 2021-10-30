@@ -1,0 +1,17 @@
+https://www.incibe-cert.es/en/early-warning/ics-advisories/4cct-vulnerable-denial-service-attack
+https://www.incibe-cert.es/en/early-warning/ics-advisories/4cct-vulnerable-improper-authentication
+https://www.incibe-cert.es/en/early-warning/ics-advisories/circutor-sge-plc1000-improper-authentication
+https://www.incibe-cert.es/en/early-warning/ics-advisories/circutor-sge-plc1000-os-command-injection
+https://www.incibe-cert.es/en/early-warning/ics-advisories/information-exposure-ingepac-da-au
+https://www.incibe-cert.es/en/early-warning/ics-advisories/primion-digitek-secure-8-sql-injection-vulnerability
+https://www.incibe-cert.es/en/early-warning/ics-advisories/sitel-capprx-cleartext-transmission-sensitive-information
+https://www.incibe-cert.es/en/early-warning/ics-advisories/sitel-capprx-hardcoded-credentials
+https://www.incibe-cert.es/en/early-warning/ics-advisories/sitel-capprx-information-exposure
+https://www.incibe-cert.es/en/early-warning/ics-advisories/sitel-capprx-vulnerable-denial-service-attack
+https://www.incibe-cert.es/en/early-warning/security-advisories/cross-site-scripting-xss-flaws-found-tiki-wiki-cms-software
+https://www.incibe-cert.es/en/early-warning/security-advisories/gesio-sql-injection-vulnerability
+https://www.incibe-cert.es/en/early-warning/security-advisories/integria-ims-incorrect-authorization
+https://www.incibe-cert.es/en/early-warning/security-advisories/integria-ims-remote-code-execution
+https://www.incibe-cert.es/en/early-warning/security-advisories/integria-ims-vulnerable-cross-site-scripting-xss
+https://www.incibe-cert.es/en/early-warning/security-advisories/openkm-document-management-community-vulnerable-cross-site
+https://www.incibe-cert.es/en/early-warning/vulnerabilities/cve-2019-11021

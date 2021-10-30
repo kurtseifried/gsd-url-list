@@ -1,0 +1,16 @@
+https://securitydocs.business.xerox.com
+https://securitydocs.business.xerox.com/wp-content/uploads/2016/10/cert_Mini_Security_Bulletin_XRX16Q_for_ConnectKey_R16-05_v1-1-2.pdf
+https://securitydocs.business.xerox.com/wp-content/uploads/2018/07/cert_Security_Mini_Bulletin_XRX18Y_for_ConnectKey_EC78xx_v1.0.pdf
+https://securitydocs.business.xerox.com/wp-content/uploads/2018/12/cert_Security_Mini_Bulletin_XRX18AL_for_ALB80xx-C80xx_v1.1.pdf
+https://securitydocs.business.xerox.com/wp-content/uploads/2019/04/cert_Security_Mini_Bulletin_XRX19C_for_CQ8700_CQ8900_CQ93xx.pdf
+https://securitydocs.business.xerox.com/wp-content/uploads/2019/09/cert_Security_Mini_Bulletin_XRX19V_for_AltaLinkB80xx-C80xx-1.pdf
+https://securitydocs.business.xerox.com/wp-content/uploads/2019/09/cert_Security_Mini_Bulletin_XRX19Y_for_WorkCentre-EC7836-EC7856.pdf
+https://securitydocs.business.xerox.com/wp-content/uploads/2020/02/cert_Security_Mini_Bulletin_XRX20D_for_ConnectKey.pdf
+https://securitydocs.business.xerox.com/wp-content/uploads/2020/06/cert_Security_Mini_Bulletin_XRX20K_for_PH6510_WC6515_VLB4xx_C4xx_B6XX_B70xx_C5xx_C6xx_C7xxx.pdf
+https://securitydocs.business.xerox.com/wp-content/uploads/2020/06/cert_Security_Mini_Bulletin_XRX20L_for_ConnectKey-1.pdf
+https://securitydocs.business.xerox.com/wp-content/uploads/2020/09/cert_Security_Mini_Bulletin_XRX20R_for_ALB80xx-C80xx-2.pdf
+https://securitydocs.business.xerox.com/wp-content/uploads/2020/12/cert_Security_Mini_Bulletin_XRX20X_for_ALB80xx-C80xxv.pdf
+https://securitydocs.business.xerox.com/wp-content/uploads/2021/03/cert_Security_Mini_Bulletin_XRX19AI_for_ALB80xx-C80xx_v1.1.pdf
+https://securitydocs.business.xerox.com/wp-content/uploads/2021/03/cert_Security_Mini_Bulletin_XRX20I_for_ALB80xx-C80xx_v1.1.pdf
+https://securitydocs.business.xerox.com/wp-content/uploads/2021/03/cert_Security_Mini_Bulletin_XRX20I_for_ALB80xx-C80xx_v1.2.pdf
+https://securitydocs.business.xerox.com/wp-content/uploads/2021/03/cert_Security_Mini_Bulletin_XRX21D_for_PH6510_WC6515_VersaLink-1.pdf

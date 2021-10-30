@@ -1,0 +1,1 @@
+https://wixtoolset.org/development/wips/6075-dtf-zip-slip/

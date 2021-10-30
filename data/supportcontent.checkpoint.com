@@ -1,0 +1,9 @@
+https://supportcontent.checkpoint.com/solutions?id=sk134312
+https://supportcontent.checkpoint.com/solutions?id=sk142952
+https://supportcontent.checkpoint.com/solutions?id=sk163578
+https://supportcontent.checkpoint.com/solutions?id=sk168081
+https://supportcontent.checkpoint.com/solutions?id=sk170117
+https://supportcontent.checkpoint.com/solutions?id=sk170512
+https://supportcontent.checkpoint.com/solutions?id=sk173513
+https://supportcontent.checkpoint.com/solutions?id=sk175806
+https://supportcontent.checkpoint.com/solutions?id=sk175968

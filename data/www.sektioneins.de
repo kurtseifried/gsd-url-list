@@ -4,3 +4,7 @@ http://www.sektioneins.de/advisories/SE-2008-04.txt
 http://www.sektioneins.de/advisories/SE-2008-05.txt
 http://www.sektioneins.de/advisories/SE-2008-06.txt
 http://www.sektioneins.de/en/advisories/advisory-032009-piwik-cookie-unserialize-vulnerability/
+https://www.sektioneins.de/advisories/advisory-012013-php-openssl_x509_parse-memory-corruption-vulnerability.html
+https://www.sektioneins.de/en/advisories/advisory-012014-drupal-pre-auth-sql-injection-vulnerability.html
+https://www.sektioneins.de/en/blog/14-07-04-phpinfo-infoleak.html
+https://www.sektioneins.de/en/blog/14-11-03-drupal-sql-injection-vulnerability-PoC.html

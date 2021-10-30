@@ -1,0 +1,16 @@
+https://labs.nettitude.com/blog/carbon-black-security-advisories-cve-2016-9570-cve-2016-9568-and-cve-2016-9569/
+https://labs.nettitude.com/blog/cve-2015-7596-through-cve-2015-7598-cve-2015-7961-through-cve-2015-7967-safenet-authentication-service-agent-vulnerabilities/
+https://labs.nettitude.com/blog/cve-2017-7351-redcap-7-0-0-7-0-10-sql-injection/
+https://labs.nettitude.com/blog/cve-2017-8116-teltonika-router-unauthenticated-remote-code-execution/
+https://labs.nettitude.com/blog/cve-2018-13442-solarwinds-npm-sql-injection/
+https://labs.nettitude.com/blog/cve-2018-6851-to-cve-2018-6857-sophos-privilege-escalation-vulnerabilities/
+https://labs.nettitude.com/blog/cve-2018-8955-bitdefender-gravityzone-arbitrary-code-execution/
+https://labs.nettitude.com/blog/cve-2019-13021-22-23-jetselect-network-segregation-application/
+https://labs.nettitude.com/blog/cve-2019-16384-85-cyblesoft-thinfinity-virtualui-path-traversal-http-header-injection/
+https://labs.nettitude.com/blog/cve-2019-7315-genie-access-wip3bvaf-ip-camera-directory-traversal/
+https://labs.nettitude.com/blog/cve-2020-14418-madcodehook-library-local-privilege-escalation/
+https://labs.nettitude.com/blog/cve-2020-24550-open-redirect-in-episerver-find/
+https://labs.nettitude.com/blog/cve-2020-26153-event-espresso-core-cross-site-scripting/
+https://labs.nettitude.com/blog/escaping-avast-sandbox-using-single-ioctl-cve-2016-4025/
+https://labs.nettitude.com/blog/solarwinds-cve-2018-12897-dameware-mini-remote-control-local-seh-buffer-overflow/
+https://labs.nettitude.com/wp-content/uploads/2016/03/160125-1-Gemalto-IDSS-Security-Bulletin-SAS-Agents-Privilege-Escalation.pdf

@@ -1,0 +1,2 @@
+https://alpinelinux.org/posts/Alpine-3.8.1-released.html
+https://alpinelinux.org/posts/Docker-image-vulnerability-CVE-2019-5021.html

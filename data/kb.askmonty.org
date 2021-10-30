@@ -1,1 +1,5 @@
 http://kb.askmonty.org/en/mariadb-5162-release-notes/
+https://kb.askmonty.org/en/mariadb-5166-release-notes/
+https://kb.askmonty.org/en/mariadb-5213-release-notes/
+https://kb.askmonty.org/en/mariadb-5311-release-notes/
+https://kb.askmonty.org/en/mariadb-5528a-release-notes/

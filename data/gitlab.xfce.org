@@ -1,0 +1,4 @@
+https://gitlab.xfce.org/xfce/thunar/-/commit/1b85b96ebf7cb9bf6a3ddf1acee7643643fdf92d
+https://gitlab.xfce.org/xfce/thunar/-/commit/3b54d9d7dbd7fd16235e2141c43a7f18718f5664
+https://gitlab.xfce.org/xfce/thunar/-/commit/9165a61f95e43cc0b5abf9b98eee2818a0191e0b
+https://gitlab.xfce.org/xfce/thunar/-/tags

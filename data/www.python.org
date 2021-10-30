@@ -2,3 +2,6 @@ http://www.python.org/download/releases/2.5.1/NEWS.txt
 http://www.python.org/download/releases/2.5.2/NEWS.txt
 http://www.python.org/download/releases/2.6/NEWS.txt
 http://www.python.org/security/PSF-2005-001/
+https://www.python.org/dev/peps/pep-0476/
+https://www.python.org/downloads/release/python-279/
+https://www.python.org/news/security/

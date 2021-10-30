@@ -7,3 +7,4 @@ http://www.asterisk.org/node/48338
 http://www.asterisk.org/node/48466
 http://www.asterisk.org/node/51797
 http://www.asterisk.org/node/95
+https://www.asterisk.org/downloads/security-advisories

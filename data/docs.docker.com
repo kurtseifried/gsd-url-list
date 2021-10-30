@@ -1,0 +1,9 @@
+https://docs.docker.com/docker-for-mac/release-notes/#docker-desktop-community-2500
+https://docs.docker.com/docker-for-windows/edge-release-notes/
+https://docs.docker.com/docker-for-windows/release-notes/
+https://docs.docker.com/engine/release-notes/
+https://docs.docker.com/engine/release-notes/#18094
+https://docs.docker.com/engine/release-notes/#20103
+https://docs.docker.com/notary/changelog/
+https://docs.docker.com/release-notes/
+https://docs.docker.com/v1.3/release-notes/

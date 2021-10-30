@@ -1,2 +1,16 @@
+https://salsa.debian.org/apt-team/apt/-/commit/dceb1e49e4b8e4dadaf056be34088b415939cda6
+https://salsa.debian.org/apt-team/apt/commit/29658a3a74af49e2a24e17bdebb20e1612aac3ec
+https://salsa.debian.org/apt-team/apt/commit/aebd4278bacc728ab00ebe31556983e140f60e47
+https://salsa.debian.org/debian/cron/commit/26814a26
+https://salsa.debian.org/debian/cron/commit/40791b93
+https://salsa.debian.org/debian/cron/commit/f2525567
+https://salsa.debian.org/debian/net-snmp/-/commit/fad8725402752746daf0a751dcff19eb6aeab52e
+https://salsa.debian.org/debian/w3m/commit/18dcbadf2771cdb0c18509b14e4e73505b242753
+https://salsa.debian.org/freedombox-team/freedombox/-/issues/1935
 https://salsa.debian.org/hmh/intel-microcode/-/blob/master/debian/README.Debian
+https://salsa.debian.org/kernel-team/kernel-sec/blob/f6273af2d956a87296b6b60379d0a186c9be4bbc/active/CVE-2019-15239
+https://salsa.debian.org/kernel-team/kernel-sec/blob/master/retired/CVE-2019-12382
+https://salsa.debian.org/kernel-team/linux/commit/baefcdc2f29923e7325ce4e1a72c3ff0a9800f32
+https://salsa.debian.org/rousseau/PCSC/-/commit/697fe05967af7ea215bcd5d5774be587780c9e22
+https://salsa.debian.org/sympa-team/sympa/-/merge_requests/1
 https://salsa.debian.org/webmaster-team/webwml

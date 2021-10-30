@@ -1,0 +1,7 @@
+https://bugs.tryton.org/issue2476
+https://bugs.tryton.org/issue3446
+https://bugs.tryton.org/issue4155
+https://bugs.tryton.org/issue5167
+https://bugs.tryton.org/issue5795
+https://bugs.tryton.org/issue5808
+https://bugs.tryton.org/issue7792

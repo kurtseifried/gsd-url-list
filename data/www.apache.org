@@ -25,3 +25,6 @@ http://www.apache.org/dist/jackrabbit/2.10.1/RELEASE-NOTES.txt
 http://www.apache.org/dist/jackrabbit/RELEASE-NOTES-1.5.2.txt
 http://www.apache.org/dist/poi/release/RELEASE-NOTES.txt
 http://www.apache.org/info/security_bulletin_1.2.5.html
+https://www.apache.org/dist/openmeetings/3.1.1/CHANGELOG
+https://www.apache.org/dist/openmeetings/3.1.2/CHANGELOG
+https://www.apache.org/security/asf-httpoxy-response.txt

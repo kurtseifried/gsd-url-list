@@ -1,0 +1,10 @@
+https://help.forcepoint.com/security/CVE/CVE-2018-16529.html
+https://help.forcepoint.com/security/CVE/CVE-2019-6139.html
+https://help.forcepoint.com/security/CVE/CVE-2019-6140.html
+https://help.forcepoint.com/security/CVE/CVE-2019-6143.html
+https://help.forcepoint.com/security/CVE/CVE-2019-6144.html
+https://help.forcepoint.com/security/CVE/CVE-2019-6145.html
+https://help.forcepoint.com/security/CVE/CVE-2019-6146.html
+https://help.forcepoint.com/security/CVE/CVE-2019-6147.html
+https://help.forcepoint.com/security/CVE/CVE-2020-6590.html
+https://help.forcepoint.com/security/CVE/CVE-2021-41530.html

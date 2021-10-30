@@ -1,1 +1,7 @@
 http://portals.apache.org/pluto/security.html
+https://portals.apache.org/jetspeed-2/security-reports.html#CVE-2016-0709
+https://portals.apache.org/jetspeed-2/security-reports.html#CVE-2016-0710
+https://portals.apache.org/jetspeed-2/security-reports.html#CVE-2016-0711
+https://portals.apache.org/jetspeed-2/security-reports.html#CVE-2016-0712
+https://portals.apache.org/jetspeed-2/security-reports.html#CVE-2016-2171
+https://portals.apache.org/pluto/security.html

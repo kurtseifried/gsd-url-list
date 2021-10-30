@@ -25,3 +25,4 @@ http://www.websense.com/support/article/t-kbarticle/Release-Notes-for-Websense-E
 http://www.websense.com/support/article/t-kbarticle/Web-Security-Vulnerability-Microsoft-ISA-Server-Integrations
 http://www.websense.com/support/article/t-kbarticle/Why-doesn-t-my-Websense-installation-categorize-URLs-and-Permit-Block-in-accordance-with-the-Site-Lookup-Tool-s-categorization
 http://www.websense.com/support/article/t-kbarticle/v7-Apache-Tomcat-security-vulnerabilities-1258048503850
+https://www.websense.com/content/mywebsense-hotfixes.aspx?patchid=894&amp;amp;prodidx=20&amp;amp;osidx=0&amp;amp;intidx=0&amp;amp;versionidx=0

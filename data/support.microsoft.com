@@ -177,3 +177,11 @@ http://support.microsoft.com/support/kb/articles/q214/8/02.asp
 http://support.microsoft.com/support/kb/articles/q222/1/59.asp
 http://support.microsoft.com/support/kb/articles/q231/3/68.asp
 http://support.microsoft.com/support/kb/articles/q316/8/38.asp
+https://support.microsoft.com/en-us/help/2389418/secure-loading-of-libraries-to-prevent-dll-preloading-attacks
+https://support.microsoft.com/en-us/help/3197835/description-of-the-security-update-for-windows-xp-and-windows-server
+https://support.microsoft.com/en-us/help/4022747/security-update-for-windows-xp-and-windows-server-2003
+https://support.microsoft.com/en-us/help/4024323/security-update-of-windows-xp-and-windows-server-2003
+https://support.microsoft.com/en-us/help/4025218/security-update-for-windows-xp-and-windows-server-2003
+https://support.microsoft.com/kb/2971850
+https://support.microsoft.com/kb/2972621
+https://support.microsoft.com/kb/3187742

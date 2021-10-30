@@ -1,0 +1,17 @@
+https://www.sevenlayers.com/index.php/231-adive-framework-2-0-7-xss
+https://www.sevenlayers.com/index.php/236-flightpath-4-8-3-xss
+https://www.sevenlayers.com/index.php/237-fuelcms-1-4-4-xss
+https://www.sevenlayers.com/index.php/238-fuelcms-1-4-4-csrf
+https://www.sevenlayers.com/index.php/239-librenms-v1-54-xss
+https://www.sevenlayers.com/index.php/240-myt-project-management-1-5-1-csrf
+https://www.sevenlayers.com/index.php/243-cloudberry-backup-local-privilege-escalation
+https://www.sevenlayers.com/index.php/246-sentrifugo-3-2-csrf
+https://www.sevenlayers.com/index.php/247-afterlogic-aurora-v8-3-9-build-a3-xss-session-hijack
+https://www.sevenlayers.com/index.php/261-online-grading-system-1-0-csrf
+https://www.sevenlayers.com/index.php/262-online-grading-system-1-0-sqli
+https://www.sevenlayers.com/index.php/263-restaurant-management-system-csrf
+https://www.sevenlayers.com/index.php/264-restaurant-management-system-1-0-xss-session-hijack
+https://www.sevenlayers.com/index.php/265-restaurant-management-system-1-0-arbitrary-file-upload
+https://www.sevenlayers.com/index.php/266-hotel-and-lodge-management-system-1-0-sqli
+https://www.sevenlayers.com/index.php/282-online-invoicing-system-2-6-xss-session-hijack
+https://www.sevenlayers.com/index.php/364-soplanning-v1-46-01-xss-session-hijack

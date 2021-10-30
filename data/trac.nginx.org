@@ -1,3 +1,5 @@
 http://trac.nginx.org/nginx/changeset/4268/nginx
 http://trac.nginx.org/nginx/changeset/4530/nginx
 http://trac.nginx.org/nginx/changeset/4531/nginx
+https://trac.nginx.org/nginx/ticket/1257
+https://trac.nginx.org/nginx/ticket/1368

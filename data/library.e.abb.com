@@ -1,0 +1,3 @@
+https://library.e.abb.com/public/7a88a74b12bb492ea138b1f2365d00f6/ABBVU-PGGA-33888_ABB_SoftwareVulnerabilityHandlingAdvisory_Rev_A.pdf?x-sign=MJfu9cHtRUUubpLAYzyWFTmW5W+mg3kZ/nm7F/Jw5HlFTQf4eNyfLAgE8HozRJEC
+https://library.e.abb.com/public/93e52dbfd6ab4f64aa435973ccf1b6e2/9ADB005557_ABB_SoftwareVulnerabilityHandlingAdvisory_DMPro.pdf
+https://library.e.abb.com/public/ee46f3ff5823400f991ebd9bd43a297e/2CMT2020-005913%20Security%20Advisory%20CS141.pdf

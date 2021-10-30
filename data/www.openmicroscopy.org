@@ -1,2 +1,16 @@
 http://www.openmicroscopy.org/2018/07/26/omero-5-4-7.html
 http://www.openmicroscopy.org/security/advisories/2018-SV1-post-password/
+https://www.openmicroscopy.org/2018/07/26/omero-5-4-7.html
+https://www.openmicroscopy.org/security/advisories/2014-SV3-csrf/
+https://www.openmicroscopy.org/security/advisories/2017-SV5-filename-2/
+https://www.openmicroscopy.org/security/advisories/2018-SV2-script-name-uuid/
+https://www.openmicroscopy.org/security/advisories/2018-SV3-modify-user-password/
+https://www.openmicroscopy.org/security/advisories/2019-SV1/
+https://www.openmicroscopy.org/security/advisories/2019-SV2/
+https://www.openmicroscopy.org/security/advisories/2019-SV3/
+https://www.openmicroscopy.org/security/advisories/2019-SV4/
+https://www.openmicroscopy.org/security/advisories/2019-SV5/
+https://www.openmicroscopy.org/security/advisories/2019-SV6/
+https://www.openmicroscopy.org/security/advisories/2021-SV1/
+https://www.openmicroscopy.org/security/advisories/2021-SV2/
+https://www.openmicroscopy.org/security/advisories/2021-SV3/

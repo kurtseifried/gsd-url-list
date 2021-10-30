@@ -7,3 +7,11 @@ http://www.acunetix.com/blog/web-security-zone/wordpress-pingback-vulnerability/
 http://www.acunetix.com/blog/websecuritynews/acusensor-curl-and-zen-cart/
 http://www.acunetix.com/blog/websecuritynews/cubecart-4-session-management-bypass-leads-to-administrator-access/
 http://www.acunetix.com/blog/websecuritynews/php-multipartform-data-denial-of-service/
+https://www.acunetix.com/blog/releases/acunetix-10-build-includes-security-checks-in-cors-configurations/
+https://www.acunetix.com/vulnerabilities/web/joomla-core-1-5-x-arbitrary-file-upload-1-5-0-1-5-15/
+https://www.acunetix.com/vulnerabilities/web/joomla-core-1-5-x-information-disclosure-1-5-0-1-5-15/
+https://www.acunetix.com/vulnerabilities/web/joomla-core-1-5-x-security-bypass-1-5-0-1-5-15/
+https://www.acunetix.com/vulnerabilities/web/joomla-core-1-5-x-session-fixation-1-5-0-1-5-15/
+https://www.acunetix.com/vulnerabilities/web/long-password-denial-of-service/#:~:text=By%20sending%20a%20very%20long,a%20vulnerable%20password%20hashing%20implementation
+https://www.acunetix.com/vulnerabilities/web/wordpress-plugin-webarx-cross-site-scripting-1-3-0/
+https://www.acunetix.com/vulnerabilities/web/wordpress-w3-total-cache-plugin-predictable-cache-filenames/

@@ -1,0 +1,2 @@
+https://forum.openwrt.org/t/rpcd-vulnerability-reported-on-vultdb/16497/3
+https://forum.openwrt.org/viewtopic.php?id=62266

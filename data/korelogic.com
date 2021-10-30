@@ -1,0 +1,14 @@
+https://korelogic.com/Resources/Advisories/KL-001-2017-022.txt
+https://korelogic.com/Resources/Advisories/KL-001-2018-006.txt
+https://korelogic.com/Resources/Advisories/KL-001-2020-002.txt
+https://korelogic.com/Resources/Advisories/KL-001-2020-003.txt
+https://korelogic.com/Resources/Advisories/KL-001-2020-004.txt
+https://korelogic.com/Resources/Advisories/KL-001-2020-005.txt
+https://korelogic.com/Resources/Advisories/KL-001-2020-006.txt
+https://korelogic.com/Resources/Advisories/KL-001-2020-007.txt
+https://korelogic.com/Resources/Advisories/KL-001-2020-008.txt
+https://korelogic.com/Resources/Advisories/KL-001-2020-009.txt
+https://korelogic.com/Resources/Advisories/KL-001-2021-008.txt
+https://korelogic.com/Resources/Advisories/KL-001-2021-009.txt
+https://korelogic.com/Resources/Advisories/KL-001-2021-010.txt
+https://korelogic.com/advisories.html

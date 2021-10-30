@@ -1,0 +1,15 @@
+https://kb.bluecoat.com/index?page=content&amp;amp;id=SA45
+https://kb.bluecoat.com/index?page=content&amp;amp;id=SA46
+https://kb.bluecoat.com/index?page=content&amp;amp;id=SA47
+https://kb.bluecoat.com/index?page=content&amp;amp;id=SA48
+https://kb.bluecoat.com/index?page=content&amp;amp;id=SA50
+https://kb.bluecoat.com/index?page=content&amp;amp;id=SA53&amp;amp;actp=LIST
+https://kb.bluecoat.com/index?page=content&amp;amp;id=SA55
+https://kb.bluecoat.com/index?page=content&amp;amp;id=SA56
+https://kb.bluecoat.com/index?page=content&amp;amp;id=SA60
+https://kb.bluecoat.com/index?page=content&amp;amp;id=SA62
+https://kb.bluecoat.com/index?page=content&amp;amp;id=SA75
+https://kb.bluecoat.com/index?page=content&amp;amp;id=SA77
+https://kb.bluecoat.com/index?page=content&amp;amp;id=SA78&amp;amp;actp=LIST
+https://kb.bluecoat.com/index?page=content&amp;amp;id=SA80
+https://kb.bluecoat.com/index?page=content&amp;amp;id=SA82

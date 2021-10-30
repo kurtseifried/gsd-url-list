@@ -4,3 +4,15 @@ http://launchpadlibrarian.net/19619929/vm-builder_0.9-0ubuntu3.1.debdiff
 http://launchpadlibrarian.net/72471990/rampart_1.3.0-1ubuntu2_1.3.0-1ubuntu3.diff.gz
 http://launchpadlibrarian.net/72472626/eucalyptus_2.0.1%2Bbzr1256-0ubuntu5_2.0.1%2Bbzr1256-0ubuntu6.diff.gz
 http://launchpadlibrarian.net/75126628/apt_0.8.13.2ubuntu2_0.8.13.2ubuntu4.1.diff.gz
+https://launchpadlibrarian.net/211525251/bug-1471161-quotas-master.patch
+https://launchpadlibrarian.net/217268516/CVE-2015-5271_puppet-swift.patch
+https://launchpadlibrarian.net/228152582/dhcp.c.patch
+https://launchpadlibrarian.net/235300093/0005-overlayfs-Be-more-careful-about-copying-up-sxid-file.patch
+https://launchpadlibrarian.net/235300225/0006-overlayfs-Propogate-nosuid-from-lower-and-upper-moun.patch
+https://launchpadlibrarian.net/435112680/32_crash_in_gpsinfo
+https://launchpadlibrarian.net/474887364/bson-fix-overflow.patch
+https://launchpadlibrarian.net/74204969/LWSA-2011-002.txt
+https://launchpadlibrarian.net/88098106/selinux_0.10~10.04.1.debdiff
+https://launchpadlibrarian.net/92454212/php5_5.3.2-1ubuntu4.13.diff.gz
+https://launchpadlibrarian.net/96471251/lightdm.secure-cleanup.debdiff
+https://launchpadlibrarian.net/96474113/gdm-guest-session.secure-cleanup.debdiff

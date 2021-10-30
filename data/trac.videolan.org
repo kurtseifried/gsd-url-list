@@ -4,3 +4,13 @@ http://trac.videolan.org/vlc/changeset/22023
 http://trac.videolan.org/vlc/changeset/23839
 http://trac.videolan.org/vlc/ticket/1578
 http://trac.videolan.org/vlc/ticket/8024
+https://trac.videolan.org/vlc/attachment/ticket/13389/windbglog.txt
+https://trac.videolan.org/vlc/attachment/ticket/13390/windbglog.txt
+https://trac.videolan.org/vlc/changeset/23197
+https://trac.videolan.org/vlc/ticket/10482
+https://trac.videolan.org/vlc/ticket/13389
+https://trac.videolan.org/vlc/ticket/13390
+https://trac.videolan.org/vlc/ticket/1371
+https://trac.videolan.org/vlc/ticket/18467
+https://trac.videolan.org/vlc/ticket/22240
+https://trac.videolan.org/vlc/ticket/22474

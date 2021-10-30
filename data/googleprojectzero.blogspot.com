@@ -3,3 +3,11 @@ http://googleprojectzero.blogspot.com/2014/09/exploiting-cve-2014-0556-in-flash.
 http://googleprojectzero.blogspot.com/2015/01/exploiting-nvmap-to-escape-chrome.html
 http://googleprojectzero.blogspot.com/2015/03/exploiting-dram-rowhammer-bug-to-gain.html
 http://googleprojectzero.blogspot.com/2015/11/hack-galaxy-hunting-bugs-in-samsung.html
+https://googleprojectzero.blogspot.com/2015/03/exploiting-dram-rowhammer-bug-to-gain.html
+https://googleprojectzero.blogspot.com/2016/12/bitunmap-attacking-android-ashmem.html
+https://googleprojectzero.blogspot.com/2017/04/over-air-exploiting-broadcoms-wi-fi_4.html
+https://googleprojectzero.blogspot.com/2017/04/pandavirtualization-exploiting-xen.html
+https://googleprojectzero.blogspot.com/2017/05/exploiting-linux-kernel-via-packet.html
+https://googleprojectzero.blogspot.com/2018/01/reading-privileged-memory-with-side.html
+https://googleprojectzero.blogspot.com/2018/12/adventures-in-video-conferencing-part-3.html
+https://googleprojectzero.blogspot.com/p/rca-cve-2020-15999.html

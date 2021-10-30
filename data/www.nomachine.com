@@ -1,3 +1,11 @@
 http://www.nomachine.com/news_read.php?idnews=190
 http://www.nomachine.com/tr/view.php?id=TR01E01622
 http://www.nomachine.com/tr/view.php?id=TR08I02575
+https://www.nomachine.com/SU02P00194
+https://www.nomachine.com/SU02P00195
+https://www.nomachine.com/SU08O00185
+https://www.nomachine.com/TR02P08408
+https://www.nomachine.com/TR06P08619
+https://www.nomachine.com/TR10P08887
+https://www.nomachine.com/TR11P08975
+https://www.nomachine.com/forums/topic/security-advisory-nomachine-privileges-escalation-vulnerability

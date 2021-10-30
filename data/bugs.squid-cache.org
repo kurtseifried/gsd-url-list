@@ -6,3 +6,7 @@ http://bugs.squid-cache.org/show_bug.cgi?id=4066
 http://bugs.squid-cache.org/show_bug.cgi?id=4437
 http://bugs.squid-cache.org/show_bug.cgi?id=4455
 http://bugs.squid-cache.org/show_bug.cgi?id=4501
+https://bugs.squid-cache.org/show_bug.cgi?id=4937
+https://bugs.squid-cache.org/show_bug.cgi?id=4957
+https://bugs.squid-cache.org/show_bug.cgi?id=5104
+https://bugs.squid-cache.org/show_bug.cgi?id=5106

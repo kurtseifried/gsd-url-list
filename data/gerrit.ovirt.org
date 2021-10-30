@@ -4,3 +4,13 @@ http://gerrit.ovirt.org/#/c/7209/
 http://gerrit.ovirt.org/#/c/7249/
 http://gerrit.ovirt.org/gitweb?p=ovirt-engine.git;a=commit;h=e8c72daec4efa8be0fcd8ea55c41e855ddd8eedf
 http://gerrit.ovirt.org/gitweb?p=vdsm.git;a=commit;h=5fe1615b7949999fc9abd896bde63bf24f8431d6
+https://gerrit.ovirt.org/#/c/84861/
+https://gerrit.ovirt.org/#/c/84875/
+https://gerrit.ovirt.org/#/c/86635/
+https://gerrit.ovirt.org/#/c/87265/2/frontend/webadmin/modules/webadmin/src/main/java/org/ovirt/engine/ui/webadmin/widget/host/HostNetworkInterfaceListViewItem.java
+https://gerrit.ovirt.org/#/c/91653/
+https://gerrit.ovirt.org/#/c/93195/
+https://gerrit.ovirt.org/#/q/I40c88ad48f8f7c2b8e06802137870b0c198b5129
+https://gerrit.ovirt.org/c/87265/
+https://gerrit.ovirt.org/gitweb?p=ovirt-engine.git;a=commitdiff;h=f4a5d0cc772127dbfe40789e26c4633ceea07d14;hp=e6e8704ac9eb115624ff66e2965877d8e63a45f4
+https://gerrit.ovirt.org/gitweb?p=ovirt-node.git;a=blob;f=src/ovirtnode/ovirtfunctions.py;h=caef7ef019ca12b49aa3c030792538956fb4caad;hb=e11e02cd9256c854dd0419515097637d6829b4f1#l1091

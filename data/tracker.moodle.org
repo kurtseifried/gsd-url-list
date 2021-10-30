@@ -8,3 +8,4 @@ http://tracker.moodle.org/browse/MDL-22631
 http://tracker.moodle.org/browse/MDL-24808
 http://tracker.moodle.org/secure/IssueNavigator.jspa?mode=hide&amp;amp;requestId=10252
 http://tracker.moodle.org/secure/IssueNavigator.jspa?mode=hide&amp;requestId=10252
+https://tracker.moodle.org/browse/MDL-56298

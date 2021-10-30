@@ -1,0 +1,12 @@
+https://labs.bishopfox.com/advisories
+https://labs.bishopfox.com/advisories/cran-version-4.0.2
+https://labs.bishopfox.com/advisories/ecatcher-desktop-version-6.6.4
+https://labs.bishopfox.com/advisories/froala-editor-v3.2.6
+https://labs.bishopfox.com/advisories/immuta-version-2.8.2
+https://labs.bishopfox.com/advisories/librehealth-version-2.0.0-0
+https://labs.bishopfox.com/advisories/mautic-version-3.2.2
+https://labs.bishopfox.com/advisories/openclinic-version-0.8.2
+https://labs.bishopfox.com/advisories/retroarch-for-windows-version-1.9.0
+https://labs.bishopfox.com/advisories/secureauth-version-9.3
+https://labs.bishopfox.com/advisories/tinymce-version-5.2.1
+https://labs.bishopfox.com/advisories/winston-privacy-version-1.5.4

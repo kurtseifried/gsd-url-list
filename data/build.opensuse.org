@@ -1,0 +1,6 @@
+https://build.opensuse.org/request/show/149348#diff_headline_coreutils-i18n-patch_diff_action_0_submit_0_19
+https://build.opensuse.org/request/show/174356
+https://build.opensuse.org/request/show/361096
+https://build.opensuse.org/request/show/388020
+https://build.opensuse.org/request/show/63070
+https://build.opensuse.org/request/show/80346

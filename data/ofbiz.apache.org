@@ -1,2 +1,3 @@
 http://ofbiz.apache.org/download.html#security
 http://ofbiz.apache.org/download.html#vulnerabilities
+https://ofbiz.apache.org/security.html

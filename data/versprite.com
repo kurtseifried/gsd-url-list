@@ -1,0 +1,14 @@
+https://versprite.com/advisories/accupos/
+https://versprite.com/advisories/airmail-3-for-mac-2/
+https://versprite.com/advisories/airmail-3-for-mac-3/
+https://versprite.com/advisories/airmail-3-for-mac-4/
+https://versprite.com/advisories/airmail-3-for-mac/
+https://versprite.com/advisories/mackeeper/
+https://versprite.com/advisories/posim-evo-for-windows-2/
+https://versprite.com/advisories/posim-evo-for-windows/
+https://versprite.com/advisories/razer-synapse-3-1/
+https://versprite.com/advisories/razer-synapse-3-cve-2021-30493/
+https://versprite.com/blog/application-security/into-the-jar-jsonpickle-exploitation/
+https://versprite.com/blog/security-research/razer-synapse-3-security-vulnerability-analysis-report/
+https://versprite.com/blog/security-research/windows-registry/
+https://versprite.com/security-resources/

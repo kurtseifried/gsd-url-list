@@ -6,3 +6,6 @@ http://libav.org/releases/libav-0.7.3.changelog
 http://libav.org/releases/libav-0.7.7.changelog
 http://libav.org/releases/libav-0.8.4.changelog
 http://libav.org/releases/libav-0.8.5.changelog
+https://libav.org/news/#2014-06-27
+https://libav.org/releases/libav-11.5.changelog
+https://libav.org/releases/libav-11.7.changelog

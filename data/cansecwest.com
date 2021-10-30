@@ -3,3 +3,4 @@ http://cansecwest.com/csw11/Network%20Application%20FW%20vs.%20Contemporary%20Th
 http://cansecwest.com/index.html
 http://cansecwest.com/post/2007-04-20-14:54:00.First_Mac_Hacked_Cancel_Or_Allow
 http://cansecwest.com/slides/2013/PrivateCore%20CSW%202013.pdf
+https://cansecwest.com/post/2020-03-09-22:00:00_2020_Speakers

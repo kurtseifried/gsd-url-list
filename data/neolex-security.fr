@@ -1,1 +1,2 @@
 http://neolex-security.fr/article/obtenir-un-shell-root-par-les-ports-uart-sur-une-camera-ip-floureon/
+https://neolex-security.fr/blog/8/

@@ -1,2 +1,8 @@
 http://civicrm.org/advisory/civi-sa-2013-003
 http://civicrm.org/advisory/civi-sa-2013-003-custom-search-permissions
+https://civicrm.org/advisory/civi-sa-2013-002-openflashchart-xss
+https://civicrm.org/advisory/civi-sa-2013-004-limited-sql-injection-quick-search-api
+https://civicrm.org/advisory/civi-sa-2013-009-sql-injection-vulnerability
+https://civicrm.org/advisory/civi-sa-2018-07-remote-code-execution-in-quickform
+https://civicrm.org/advisory/civi-sa-2020-03
+https://civicrm.org/advisory/civi-sa-2020-11-csrf-ckeditor-configuration-form

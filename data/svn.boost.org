@@ -1,2 +1,5 @@
 http://svn.boost.org/trac/boost/changeset/42674
 http://svn.boost.org/trac/boost/changeset/42745
+https://svn.boost.org/trac/boost/changeset/78326
+https://svn.boost.org/trac/boost/ticket/6701
+https://svn.boost.org/trac/boost/ticket/7743

@@ -1,5 +1,16 @@
+https://www.qualys.com/2015/07/23/cve-2015-3245-cve-2015-3246/cve-2015-3245-cve-2015-3246.txt
+https://www.qualys.com/2015/10/02/opensmtpd-audit-report.txt
+https://www.qualys.com/2016/12/06/qsa-2016-12-06/qsa-2016-12-06.pdf
+https://www.qualys.com/2017/01/12/qsa-2017-01-12/qsa-2017-01-12.pdf
+https://www.qualys.com/2017/02/22/qsa-2017-02-22/qsa-2017-02-22.pdf
+https://www.qualys.com/2017/02/28/qsa-2017-02-28/qsa-2017-02-28.pdf
+https://www.qualys.com/2017/03/12/qsa-2017-03-12/qsa-2017-03-12.pdf
+https://www.qualys.com/2017/03/26/qsa-2017-03-26/qsa-2017-03-26.pdf
 https://www.qualys.com/2017/06/19/stack-clash/stack-clash.txt
+https://www.qualys.com/2017/09/26/cve-2017-1000253/cve-2017-1000253.txt
+https://www.qualys.com/2018/05/17/procps-ng-audit-report-advisory.txt
 https://www.qualys.com/2019/01/09/system-down/system-down.txt
 https://www.qualys.com/2021/05/04/21nails/21nails.txt
 https://www.qualys.com/2021/07/20/cve-2021-33909/sequoia-local-privilege-escalation-linux.txt
 https://www.qualys.com/2021/07/20/cve-2021-33910/denial-of-service-systemd.txt
+https://www.qualys.com/research/security-advisories/GHOST-CVE-2015-0235.txt

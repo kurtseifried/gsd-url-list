@@ -1,0 +1,2 @@
+https://developer.wordpress.org/reference/functions/wp_create_nonce/
+https://developer.wordpress.org/reference/functions/wp_verify_nonce/

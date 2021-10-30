@@ -1,1 +1,14 @@
 http://gnunet.org/libextractor/
+https://gnunet.org/bugs/view.php?id=5399
+https://gnunet.org/bugs/view.php?id=5405
+https://gnunet.org/bugs/view.php?id=5493
+https://gnunet.org/bugs/view.php?id=5494
+https://gnunet.org/git/libextractor.git/commit/?id=24c8d489797499c0331f4d1039e357ece1ae98a7
+https://gnunet.org/git/libextractor.git/commit/?id=489c4a540bb2c4744471441425b8932b97a153e7
+https://gnunet.org/git/libextractor.git/commit/?id=7cc63b001ceaf81143795321379c835486d0c92e
+https://gnunet.org/git/libextractor.git/commit/?id=ad19e7fe0adc99d5710eff1ed48d91a7b75a950e
+https://gnunet.org/git/libextractor.git/commit/?id=b405d707b36e0654900cba78e89f49779efea110
+https://gnunet.org/git/libextractor.git/commit/?id=f033468cd36e2b8bf92d747fbd683b2ace8da394
+https://gnunet.org/git/libextractor.git/tree/ChangeLog
+https://gnunet.org/svn/GNUnet/ChangeLog
+https://gnunet.org/svn/libmicrohttpd/ChangeLog

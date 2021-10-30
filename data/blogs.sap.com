@@ -1,0 +1,10 @@
+https://blogs.sap.com/2017/04/11/sap-security-patch-day-april-2017/
+https://blogs.sap.com/2017/06/13/sap-security-patch-day-june2017/
+https://blogs.sap.com/2017/07/11/sap-security-patch-day-july-2017/
+https://blogs.sap.com/2017/09/12/sap-security-patch-day-september-2017/
+https://blogs.sap.com/2017/12/12/sap-security-patch-day-december-2017/
+https://blogs.sap.com/2018/01/09/sap-security-patch-day-january-2018/
+https://blogs.sap.com/2018/02/13/sap-security-patch-day-february-2018/
+https://blogs.sap.com/2018/03/13/sap-security-patch-day-march-2018/
+https://blogs.sap.com/2018/04/10/sap-security-patch-day-april-2018/
+https://blogs.sap.com/2018/05/08/sap-security-patch-day-may-2018/

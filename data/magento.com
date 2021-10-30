@@ -1,2 +1,13 @@
 http://magento.com/blog/technical/critical-security-advisory-remote-code-execution-rce-vulnerability
 http://magento.com/security/patches/supee-6482
+https://magento.com/security/patches/magento-2.3.1-2.2.8-and-2.1.17-security-update
+https://magento.com/security/patches/magento-2.3.2-2.2.9-and-2.1.18-security-update-13
+https://magento.com/security/patches/magento-2.3.2-2.2.9-and-2.1.18-security-update-23
+https://magento.com/security/patches/magento-2.3.2-2.2.9-and-2.1.18-security-update-24
+https://magento.com/security/patches/magento-2.3.2-2.2.9-and-2.1.18-security-update-33
+https://magento.com/security/patches/magento-2.3.3-and-2.2.10-security-update
+https://magento.com/security/patches/magento-2010-and-212-security-update
+https://magento.com/security/patches/magento-206-security-update
+https://magento.com/security/patches/supee-11219
+https://magento.com/security/patches/supee-6788
+https://magento.com/security/patches/supee-7405

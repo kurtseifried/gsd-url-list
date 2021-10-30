@@ -4,3 +4,5 @@ http://www.w3.org/Jigsaw/RelNotes.html#2.2.4
 http://www.w3.org/QA/2009/07/hmac_truncation_in_xml_signatu.html
 http://www.w3.org/Security/Faq/wwwsf4.html
 http://www.w3.org/Security/Faq/wwwsf8.html#Q87
+https://www.w3.org/Bugs/Public/show_bug.cgi?id=28961
+https://www.w3.org/TR/SVG2/intro.html#W3CCompatibility

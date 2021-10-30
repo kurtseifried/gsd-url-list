@@ -1,0 +1,12 @@
+https://www.httpcs.com/advisories
+https://www.httpcs.com/advisory/httpcs1
+https://www.httpcs.com/advisory/httpcs127
+https://www.httpcs.com/advisory/httpcs2
+https://www.httpcs.com/advisory/httpcs23
+https://www.httpcs.com/advisory/httpcs24
+https://www.httpcs.com/advisory/httpcs25
+https://www.httpcs.com/advisory/httpcs26
+https://www.httpcs.com/advisory/httpcs3
+https://www.httpcs.com/advisory/httpcs4
+https://www.httpcs.com/advisory/httpcs6
+https://www.httpcs.com/advisory/httpcs7

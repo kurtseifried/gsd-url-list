@@ -29466,3 +29466,7 @@ http://secunia.com/secunia_research/2014-8/
 http://secunia.com/secunia_research/2015-3/
 http://secunia.com/secunia_research/2015-5/
 http://secunia.com/vulnerability_scanning/corporate/release-history/
+https://secunia.com/advisories/71201/
+https://secunia.com/secunia_research/2016-17/
+https://secunia.com/secunia_research/2016-9/
+https://secunia.com/secunia_research/2017-3/

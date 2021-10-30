@@ -7,3 +7,6 @@ http://www.ghostscript.com/cgi-bin/findgit.cgi?da632ca08f240590d2dec786722ed0848
 http://www.ghostscript.com/cgi-bin/findgit.cgi?daf85701dab05f17e924a48a81edc9195b4a04e8
 http://www.ghostscript.com/pipermail/gs-code-review/2002-February/001900.html
 http://www.ghostscript.com/pipermail/gs-code-review/2002-January/001801.html
+https://www.ghostscript.com/doc/9.26/History9.htm
+https://www.ghostscript.com/doc/9.26/History9.htm#Version9.26
+https://www.ghostscript.com/doc/9.26/News.htm

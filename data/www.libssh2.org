@@ -1,1 +1,12 @@
 http://www.libssh2.org/adv_20150311.html
+https://www.libssh2.org/CVE-2016-0787.patch
+https://www.libssh2.org/CVE-2019-3855.html
+https://www.libssh2.org/CVE-2019-3856.html
+https://www.libssh2.org/CVE-2019-3857.html
+https://www.libssh2.org/CVE-2019-3858.html
+https://www.libssh2.org/CVE-2019-3859.html
+https://www.libssh2.org/CVE-2019-3860.html
+https://www.libssh2.org/CVE-2019-3861.html
+https://www.libssh2.org/CVE-2019-3862.html
+https://www.libssh2.org/CVE-2019-3863.html
+https://www.libssh2.org/adv_20160223.html

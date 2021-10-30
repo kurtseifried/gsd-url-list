@@ -1,0 +1,16 @@
+https://advisory.teradici.com/security-advisories/100/
+https://advisory.teradici.com/security-advisories/102/
+https://advisory.teradici.com/security-advisories/103/
+https://advisory.teradici.com/security-advisories/55/
+https://advisory.teradici.com/security-advisories/58/
+https://advisory.teradici.com/security-advisories/59/
+https://advisory.teradici.com/security-advisories/60/
+https://advisory.teradici.com/security-advisories/63/
+https://advisory.teradici.com/security-advisories/69/
+https://advisory.teradici.com/security-advisories/70/
+https://advisory.teradici.com/security-advisories/73/
+https://advisory.teradici.com/security-advisories/74/
+https://advisory.teradici.com/security-advisories/75/
+https://advisory.teradici.com/security-advisories/77/
+https://advisory.teradici.com/security-advisories/79/
+https://advisory.teradici.com/security-advisories/80/

@@ -1,0 +1,15 @@
+https://tools.ietf.org/html/draft-gont-ntp-port-randomization-00
+https://tools.ietf.org/html/draft-ietf-6man-deprecate-atomfrag-generation-08
+https://tools.ietf.org/html/draft-ietf-oauth-security-topics-15
+https://tools.ietf.org/html/rfc4513#section-5.1.2
+https://tools.ietf.org/html/rfc5905
+https://tools.ietf.org/html/rfc6192
+https://tools.ietf.org/html/rfc6819#section-5.2.3.5
+https://tools.ietf.org/html/rfc7009#section-2.2.1
+https://tools.ietf.org/html/rfc7540#section-10.3
+https://tools.ietf.org/html/rfc7636
+https://tools.ietf.org/html/rfc7636%23section-1
+https://tools.ietf.org/html/rfc7858#section-4.1
+https://tools.ietf.org/html/rfc8021
+https://tools.ietf.org/html/rfc8252%23section-8.1
+https://tools.ietf.org/html/rfc8907

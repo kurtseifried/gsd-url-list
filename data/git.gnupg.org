@@ -9,3 +9,12 @@ http://git.gnupg.org/cgi-bin/gitweb.cgi?p=libksba.git;a=commit;h=243d12fdec66a43
 http://git.gnupg.org/cgi-bin/gitweb.cgi?p=libksba.git;a=commit;h=6be61daac047d8e6aa941eb103f8e71a1d4e3c75
 http://git.gnupg.org/cgi-bin/gitweb.cgi?p=libksba.git;a=commit;h=a7eed17a0b2a1c09ef986f3b4b323cd31cea2b64
 http://git.gnupg.org/cgi-bin/gitweb.cgi?p=libksba.git;a=commit;h=aea7b6032865740478ca4b706850a5217f1c3887
+https://git.gnupg.org/cgi-bin/gitweb.cgi?p=libgcrypt.git;a=blob_plain;f=NEWS
+https://git.gnupg.org/cgi-bin/gitweb.cgi?p=libgcrypt.git;a=commit;h=512c0c75276949f13b6373b5c04f7065af750b08
+https://git.gnupg.org/cgi-bin/gitweb.cgi?p=libgcrypt.git;a=commit;h=5a22de904a0a366ae79f03ff1e13a1232a89e26b
+https://git.gnupg.org/cgi-bin/gitweb.cgi?p=libgcrypt.git;a=commit;h=78130828e9a140a9de4dafadbc844dbb64cb709a
+https://git.gnupg.org/cgi-bin/gitweb.cgi?p=libgcrypt.git;a=commit;h=8725c99ffa41778f382ca97233183bcd687bb0ce
+https://git.gnupg.org/cgi-bin/gitweb.cgi?p=libgcrypt.git;a=commit;h=9010d1576e278a4274ad3f4aa15776c28f6ba965
+https://git.gnupg.org/cgi-bin/gitweb.cgi?p=libgcrypt.git;a=commit;h=da780c8183cccc8f533c8ace8211ac2cb2bdee7b
+https://git.gnupg.org/cgi-bin/gitweb.cgi?p=libgcrypt.git;a=commit;h=e6a3dc9900433bbc8ad362a595a3837318c28fa9
+https://git.gnupg.org/cgi-bin/gitweb.cgi?p=libgcrypt.git;a=commit;h=f9494b3f258e01b6af8bd3941ce436bcc00afc56

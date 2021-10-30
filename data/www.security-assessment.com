@@ -21,3 +21,4 @@ http://www.security-assessment.com/files/documents/advisory/Watchguard-XCS-final
 http://www.security-assessment.com/files/documents/advisory/comparestring_infoleak.pdf
 http://www.security-assessment.com/files/documents/advisory/reversesegment.pdf
 http://www.security-assessment.com/files/whitepapers/Cross_Context_Scripting_with_Firefox.pdf
+https://www.security-assessment.com/files/documents/advisory/pfsenseAdvisory.pdf

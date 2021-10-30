@@ -5,3 +5,13 @@ http://www.mediawiki.org/wiki/Manual:$wgShowExceptionDetails
 http://www.mediawiki.org/wiki/MediaWiki
 http://www.mediawiki.org/wiki/Release_notes/1.20
 http://www.mediawiki.org/wiki/Special:Code/MediaWiki/85856
+https://www.mediawiki.org/wiki/Extension:AbuseFilter
+https://www.mediawiki.org/wiki/Parsoid
+https://www.mediawiki.org/wiki/Release_notes/1.17
+https://www.mediawiki.org/wiki/Release_notes/1.18
+https://www.mediawiki.org/wiki/Release_notes/1.19
+https://www.mediawiki.org/wiki/Release_notes/1.20
+https://www.mediawiki.org/wiki/Release_notes/1.21
+https://www.mediawiki.org/wiki/Release_notes/1.21#Changes_since_1.21.8
+https://www.mediawiki.org/wiki/Release_notes/1.22#Changes_since_1.22.5
+https://www.mediawiki.org/wiki/ResourceLoader/Core_modules#mediawiki.jqueryMsg

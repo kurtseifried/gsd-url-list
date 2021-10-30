@@ -1,0 +1,3 @@
+https://brooklyn.apache.org/community/security/CVE-2016-8737.html
+https://brooklyn.apache.org/community/security/CVE-2016-8744.html
+https://brooklyn.apache.org/community/security/CVE-2017-3165.html

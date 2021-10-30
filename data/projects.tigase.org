@@ -1,0 +1,3 @@
+https://projects.tigase.org/issues/1780
+https://projects.tigase.org/projects/tigase-server/repository/revisions/2953/diff
+https://projects.tigase.org/projects/tigase-server/repository/revisions/7f5af2f8c5b97bbf9def66fbb9dd47746a7ac292

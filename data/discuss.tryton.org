@@ -1,0 +1,2 @@
+https://discuss.tryton.org/t/security-release-for-issue7792/830
+https://discuss.tryton.org/t/security-release-for-issue8189/1262

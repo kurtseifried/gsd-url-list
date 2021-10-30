@@ -15,3 +15,5 @@ http://download.strongswan.org/patches/08_snprintf_patch/strongswan-4.4.0_snprin
 http://download.strongswan.org/patches/10_openssl_ecdsa_signature_patch/strongswan-4.3.5-5.0.3_openssl_ecdsa_signature.patch
 http://download.strongswan.org/security/CVE-2013-2054/CVE-2013-2054.txt
 http://download.strongswan.org/security/CVE-2013-6075/strongswan-4.3.3-5.1.0_id_dn_match.patch
+https://download.strongswan.org/security/CVE-2018-10811/
+https://download.strongswan.org/security/CVE-2018-17540/

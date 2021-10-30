@@ -5,3 +5,6 @@ http://openafs.org/pages/security/OPENAFS-SA-2018-003.txt
 https://openafs.org/pages/security/OPENAFS-SA-2018-001.txt
 https://openafs.org/pages/security/OPENAFS-SA-2018-002.txt
 https://openafs.org/pages/security/OPENAFS-SA-2018-003.txt
+https://openafs.org/pages/security/OPENAFS-SA-2019-001.txt
+https://openafs.org/pages/security/OPENAFS-SA-2019-002.txt
+https://openafs.org/pages/security/OPENAFS-SA-2019-003.txt

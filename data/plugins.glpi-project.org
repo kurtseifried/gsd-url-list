@@ -1,0 +1,1 @@
+https://plugins.glpi-project.org/#/plugin/dashboard

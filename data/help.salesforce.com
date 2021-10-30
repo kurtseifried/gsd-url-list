@@ -1,0 +1,11 @@
+https://help.salesforce.com/apex/HTViewSolution?urlname=CVE-2019-15630-Directory-Traversal-in-MuleSoft-Runtime&amp;amp;language=en_US
+https://help.salesforce.com/apex/HTViewSolution?urlname=Sensitive-information-disclosure-vulnerability-affecting-Tableau-Server-in-certain-use-cases&amp;amp;language=en_US
+https://help.salesforce.com/articleView?id=000351827&amp;amp;language=en_US&amp;amp;type=1&amp;amp;mode=1
+https://help.salesforce.com/articleView?id=000353701&amp;amp;language=en_US&amp;amp;type=1&amp;amp;mode=1
+https://help.salesforce.com/articleView?id=000354158&amp;amp;type=1&amp;amp;mode=1
+https://help.salesforce.com/articleView?id=000355686&amp;amp;type=1&amp;amp;mode=1
+https://help.salesforce.com/articleView?id=000357382&amp;amp;type=1&amp;amp;mode=1
+https://help.salesforce.com/articleView?id=000357383&amp;amp;type=1&amp;amp;mode=1
+https://help.salesforce.com/articleView?id=000357384&amp;amp;type=1&amp;amp;mode=1
+https://help.salesforce.com/articleView?id=000357424&amp;amp;type=1&amp;amp;mode=1
+https://help.salesforce.com/articleView?id=000362693&amp;amp;type=1&amp;amp;mode=1

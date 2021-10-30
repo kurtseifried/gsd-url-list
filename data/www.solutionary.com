@@ -12,3 +12,5 @@ http://www.solutionary.com/index/SERT/Vuln-Disclosures/Sonexis-XSS-Vulnerabiliti
 http://www.solutionary.com/index/SERT/Vuln-Disclosures/Tembria-Server-Monitor-Weak-Xpto-Pwd-Storage.html
 http://www.solutionary.com/index/SERT/Vuln-Disclosures/Tembria-Server-Monitor-XSS.html
 http://www.solutionary.com/research/vulnerability-disclosures/2012/01/d-link-dir-601-tftp-directory-traversal-vulnerability
+https://www.solutionary.com/threat-intelligence/vulnerability-disclosures/2016/04/webex-productivity-tools/
+https://www.solutionary.com/threat-intelligence/vulnerability-disclosures/2017/03/citrix-xenmobile-server/

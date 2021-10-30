@@ -1,0 +1,9 @@
+https://bugs.ruby-lang.org/issues/10019
+https://bugs.ruby-lang.org/issues/13234
+https://bugs.ruby-lang.org/issues/13742
+https://bugs.ruby-lang.org/issues/13853
+https://bugs.ruby-lang.org/issues/15835
+https://bugs.ruby-lang.org/issues/9644
+https://bugs.ruby-lang.org/issues/9709
+https://bugs.ruby-lang.org/projects/ruby-trunk/repository/revisions/57660
+https://bugs.ruby-lang.org/projects/ruby-trunk/repository/revisions/59344

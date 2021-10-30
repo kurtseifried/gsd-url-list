@@ -2,3 +2,4 @@ http://www.ffmpeg.org/releases/ffmpeg-0.7.5.changelog
 http://www.ffmpeg.org/releases/ffmpeg-0.8.4.changelog
 http://www.ffmpeg.org/security.html
 http://www.ffmpeg.org/trac/ffmpeg/ticket/776
+https://www.ffmpeg.org/security.html

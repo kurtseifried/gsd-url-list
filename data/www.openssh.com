@@ -11,3 +11,11 @@ http://www.openssh.com/txt/release-7.1p2
 http://www.openssh.com/txt/release-7.2
 http://www.openssh.com/txt/sshpam.adv
 http://www.openssh.com/txt/x11fwd.adv
+https://www.openssh.com/releasenotes.html
+https://www.openssh.com/security.html
+https://www.openssh.com/txt/release-7.3
+https://www.openssh.com/txt/release-7.4
+https://www.openssh.com/txt/release-7.6
+https://www.openssh.com/txt/release-8.3
+https://www.openssh.com/txt/release-8.5
+https://www.openssh.com/txt/release-8.8

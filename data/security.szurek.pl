@@ -14,3 +14,7 @@ http://security.szurek.pl/shareaholic-7603-xss.html
 http://security.szurek.pl/wonderplugin-audio-player-20-blind-sql-injection-and-xss.html
 http://security.szurek.pl/wordpress-shopping-cart-304-unrestricted-file-upload.html
 http://security.szurek.pl/wp-symposium-1410-multiple-xss-and-sql-injection.html
+https://security.szurek.pl/admin-management-xtended-240-privilege-escalation.html
+https://security.szurek.pl/exploit-bypass-php-escapeshellarg-escapeshellcmd.html
+https://security.szurek.pl/wordpress-backup-to-dropbox-40-reflected-xss.html
+https://security.szurek.pl/wp-marketplace-240-arbitrary-file-download.html

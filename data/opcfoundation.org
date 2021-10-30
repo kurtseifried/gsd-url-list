@@ -1,0 +1,4 @@
+https://opcfoundation.org/SecurityBulletins/OPC%20Foundation%20Security%20Bulletin%20CVE-2019-19135.pdf
+https://opcfoundation.org/SecurityBulletins/OPC%20Foundation%20Security%20Bulletin%20CVE-2020-29457.pdf
+https://opcfoundation.org/SecurityBulletins/OPC%20Foundation%20Security%20Bulletin%20CVE-2020-8867.pdf
+https://opcfoundation.org/security-bulletins/

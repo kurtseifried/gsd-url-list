@@ -1,0 +1,3 @@
+https://docs.pagure.org/koji/CVE-2018-1002150/
+https://docs.pagure.org/koji/CVE-2019-17109/
+https://docs.pagure.org/pagure/changelog.html

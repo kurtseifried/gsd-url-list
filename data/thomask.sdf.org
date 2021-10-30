@@ -1,0 +1,1 @@
+https://thomask.sdf.org/blog/2019/08/07/cve-2019-14432-loom-desktop-rce-vulnerability.html

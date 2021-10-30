@@ -1,0 +1,10 @@
+https://jspwiki-wiki.apache.org/Wiki.jsp?page=CVE-2019-0224
+https://jspwiki-wiki.apache.org/Wiki.jsp?page=CVE-2019-0225
+https://jspwiki-wiki.apache.org/Wiki.jsp?page=CVE-2019-10076
+https://jspwiki-wiki.apache.org/Wiki.jsp?page=CVE-2019-10077
+https://jspwiki-wiki.apache.org/Wiki.jsp?page=CVE-2019-10078
+https://jspwiki-wiki.apache.org/Wiki.jsp?page=CVE-2019-10087
+https://jspwiki-wiki.apache.org/Wiki.jsp?page=CVE-2019-10089
+https://jspwiki-wiki.apache.org/Wiki.jsp?page=CVE-2019-10090
+https://jspwiki-wiki.apache.org/Wiki.jsp?page=CVE-2019-12404
+https://jspwiki-wiki.apache.org/Wiki.jsp?page=CVE-2019-12407

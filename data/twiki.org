@@ -23,3 +23,5 @@ http://twiki.org/cgi-bin/view/Codev/SecurityAlertTWiki4RdiffPreviewAccess
 http://twiki.org/cgi-bin/view/Codev/SecurityAuditTokenBasedCsrfFix
 http://twiki.org/cgi-bin/view/Codev/TWikiRelease04x02x03#4_2_3_Bugfix_Highlights
 http://twiki.org/p/pub/Codev/SecurityAlert-CVE-2009-1339/TWiki-4.3.0-c-diff-cve-2009-1339.txt
+https://twiki.org/cgi-bin/view/Codev/SecurityAlert-CVE-2013-1751
+https://twiki.org/cgi-bin/view/Codev/SecurityAlertExecuteCommandsWithInclude

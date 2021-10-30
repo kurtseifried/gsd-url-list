@@ -1,0 +1,11 @@
+https://n4nj0.github.io/advisories/ca-ehealth-performance-manager/
+https://n4nj0.github.io/advisories/ibm-infosphere-java-deserialization/
+https://n4nj0.github.io/advisories/nedi-multiple-vulnerabilities-i/
+https://n4nj0.github.io/advisories/oracle-glassfish-reflected-xss/
+https://n4nj0.github.io/advisories/pi-hole-multiple-vulnerabilities-i/
+https://n4nj0.github.io/advisories/webtareas-multiple-vulnerabilities-i/
+https://n4nj0.github.io/advisories/wordpress-plugin-limit-login-attempts-reloaded/
+https://n4nj0.github.io/advisories/wordpress-plugin-wp-file-manager-i/
+https://n4nj0.github.io/advisories/wordpress-plugin-wpdatatables-i/
+https://n4nj0.github.io/advisories/wordpress-plugin-wpdatatables-ii/
+https://n4nj0.github.io/advisories/wowza-streaming-engine-i/

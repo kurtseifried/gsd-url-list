@@ -1,0 +1,4 @@
+https://www.certilience.fr/2019/08/CVE-2019-15298-vulnerabilit%C3%A9-centreon-command-injection
+https://www.certilience.fr/2019/08/CVE-2019-15300-vulnerabilit%C3%A9-centreon-sql-injection
+https://www.certilience.fr/2020/03/cve-2019-20452-vulnerabilite-php-object-injection-pydio-core/
+https://www.certilience.fr/2020/03/cve-2019-20453-vulnerabilite-php-object-injection-pydio-core/

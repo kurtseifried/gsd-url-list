@@ -1,0 +1,2 @@
+https://src.fedoraproject.org/rpms/binutils/blob/rawhide/f/binutils-CVE-2021-3530.patch
+https://src.fedoraproject.org/rpms/grafana/c/fab93d67363eb0a9678d9faf160cc88237f26277

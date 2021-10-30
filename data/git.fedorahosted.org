@@ -30,3 +30,17 @@ http://git.fedorahosted.org/git/?p=sssd.git;a=commit;h=fffdae81651b460f3d2c119c5
 http://git.fedorahosted.org/git/cluster.git?p=cluster.git;a=commitdiff;h=67fee9128e54c6c3fc3eae306b5b501f3029c3be
 http://git.fedorahosted.org/git/cronie.git?p=cronie.git;a=commit;h=9e4a8fa5f9171fb724981f53879c9b20264aeb61
 http://git.fedorahosted.org/git/freeipa.git/?p=freeipa.git;a=commit;h=9932887f2af38b9701efec27707648c026ec445c
+https://git.fedorahosted.org/cgit/389/ds.git/commit/?h=389-ds-base-1.2.11&amp;amp;id=5a18c828533a670e7143327893f8171a19062286
+https://git.fedorahosted.org/cgit/389/ds.git/commit/?id=d38ae06
+https://git.fedorahosted.org/cgit/bind-dyndb-ldap.git/tree/NEWS
+https://git.fedorahosted.org/cgit/elfutils.git/commit/?id=147018e729e7c22eeabf15b82d26e4bf68a0d18e
+https://git.fedorahosted.org/cgit/freeipa.git/commit/?id=7b45e33400355df44e75576ef7f70a39d163bf8e
+https://git.fedorahosted.org/cgit/freeipa.git/commit/?id=cf74584d0f772f3f5eccc1d30c001e4212a104fd
+https://git.fedorahosted.org/cgit/linux-pam.git/commit/?id=Linux-PAM-1_1_8-32-g9dcead8
+https://git.fedorahosted.org/cgit/python-bugzilla.git/commit/?id=a782282ee479ba4cc1b8b1d89700ac630ba83eef
+https://git.fedorahosted.org/cgit/slapi-nis.git/commit/?id=6573f91c95f7a353ad3bdf2fe95b0c15932aa097
+https://git.fedorahosted.org/cgit/spacewalk.git/commit/?id=18c70164285cae0660fa3ac55c6656bb19b3b13f
+https://git.fedorahosted.org/cgit/spacewalk.git/commit/?id=1d0f4b4a78ea03d9f2d05fbd52236b1f2ab68e85
+https://git.fedorahosted.org/cgit/spacewalk.git/commit/?id=890781d7ec983e32fe83af2f7c033d087292851f
+https://git.fedorahosted.org/cgit/spacewalk.git/commit/?id=c41c87a9dc9dac771eb761dd63ada05b2f9104f9
+https://git.fedorahosted.org/cgit/virt-v2v.git/commit/?id=7e9393129116699d1228bb02b9f65b78584582c1

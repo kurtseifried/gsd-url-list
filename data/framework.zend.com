@@ -11,3 +11,12 @@ http://framework.zend.com/security/advisory/ZF2015-04
 http://framework.zend.com/security/advisory/ZF2015-06
 http://framework.zend.com/security/advisory/ZF2015-07
 http://framework.zend.com/security/advisory/ZF2015-08
+https://framework.zend.com/changelog/2.3.6
+https://framework.zend.com/security/advisory/ZF2011-02
+https://framework.zend.com/security/advisory/ZF2014-03
+https://framework.zend.com/security/advisory/ZF2015-02
+https://framework.zend.com/security/advisory/ZF2015-05
+https://framework.zend.com/security/advisory/ZF2015-10
+https://framework.zend.com/security/advisory/ZF2016-02
+https://framework.zend.com/security/advisory/ZF2016-03
+https://framework.zend.com/security/advisory/ZF2016-04

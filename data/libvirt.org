@@ -29,3 +29,13 @@ http://libvirt.org/git/?p=libvirt.git;a=commitdiff;h=fc22b2e74890873848b43fffae4
 http://libvirt.org/git/?p=libvirt.git;a=commitdiff;h=fe11d34a6d46d6641ce90dc665164fda7bb6bff8
 http://libvirt.org/news-2012.html
 http://libvirt.org/news.html
+https://libvirt.org/git/?p=libvirt.git;a=commit;h=0d968ad715475a1660779bcdd2c5b38ad63db4cf
+https://libvirt.org/git/?p=libvirt.git;a=commit;h=5d5c732d748d644ec14626bce448e84bdc4bd93e
+https://libvirt.org/git/?p=libvirt.git;a=commit;h=7aa0e8c0cb8a6293d0c6f7e3d29c13b96dec2129
+https://libvirt.org/git/?p=libvirt.git;a=commit;h=9bf9e0ae6af38c806f4672ca7b12a6b38d5a9581
+https://libvirt.org/git/?p=libvirt.git;a=commit;h=a663a860819287e041c3de672aad1d8543098ecc
+https://libvirt.org/git/?p=libvirt.git;a=commit;h=aed6a032cead4386472afb24b16196579e239580
+https://libvirt.org/git/?p=libvirt.git;a=commit;h=c3de387380f6057ee0e46cd9f2f0a092e8070875
+https://libvirt.org/git/?p=libvirt.git;a=commit;h=dfff16a7c261f8d28e3abe60a47165f845fa952f
+https://libvirt.org/git/?p=libvirt.git;a=commit;h=fbf31e1a4cd19d6f6e33e0937a009775cd7d9513
+https://libvirt.org/news-2015.html

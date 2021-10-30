@@ -3,3 +3,6 @@ http://qpid.apache.org/components/jms/security.html
 http://qpid.apache.org/releases/qpid-0.22/release-notes.html
 http://qpid.apache.org/releases/qpid-java-6.0.3/release-notes.html
 http://qpid.apache.org/releases/qpid-proton-0.12.1/release-notes.html
+https://qpid.apache.org/cves/CVE-2017-15701.html
+https://qpid.apache.org/cves/CVE-2017-15702.html
+https://qpid.apache.org/cves/CVE-2018-17187.html

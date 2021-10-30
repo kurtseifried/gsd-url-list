@@ -2,3 +2,6 @@ http://plugins.svn.wordpress.org//wp-slimstat/tags/4.1.6.1/readme.txt
 http://plugins.svn.wordpress.org/kish-guest-posting/trunk/readme.txt
 http://plugins.svn.wordpress.org/wp-amasin-the-amazon-affiliate-shop/trunk/readme.txt
 http://plugins.svn.wordpress.org/wp-ultimate-email-marketer/trunk/Readme.txt
+https://plugins.svn.wordpress.org/ag-custom-admin/trunk/changelog.txt
+https://plugins.svn.wordpress.org/gtranslate/tags/2.8.64/gtranslate.php
+https://plugins.svn.wordpress.org/z-url-preview/trunk/readme.txt

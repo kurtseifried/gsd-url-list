@@ -16,3 +16,15 @@ http://www.zdnet.com/pwn2own-down-go-all-the-browsers-7000012283/
 http://www.zdnet.com/starbucks-fixes-ios-app-bugs-7000025323/
 http://www.zdnet.com/the-starbucks-bug-not-as-awful-as-reported-7000025269/
 http://www.zdnet.com/zdnn/stories/news/0,4586,2600258,00.html
+https://www.zdnet.com/article/critical-zoom-vulnerability-triggers-remote-code-execution-without-user-input/
+https://www.zdnet.com/article/exploit-vendor-drops-tor-browser-zero-day-on-twitter/
+https://www.zdnet.com/article/hackers-are-going-after-cisco-rv320rv325-routers-using-a-new-exploit/
+https://www.zdnet.com/article/new-cold-boot-attack-affects-seven-years-of-lg-android-smartphones/
+https://www.zdnet.com/article/new-platypus-attack-can-steal-data-from-intel-cpus/
+https://www.zdnet.com/article/tesla-car-hacked-at-pwn2own-contest/
+https://www.zdnet.com/article/unpatched-kde-vulnerability-disclosed-on-twitter/
+https://www.zdnet.com/article/wifi-firmware-bug-affects-laptops-smartphones-routers-gaming-devices/
+https://www.zdnet.com/article/wordpress-deploys-forced-security-update-for-dangerous-bug-in-popular-plugin/
+https://www.zdnet.com/article/wordpress-plugs-bug-that-led-to-google-indexing-some-user-passwords/
+https://www.zdnet.com/article/wordpress-vulnerability-affects-a-third-of-most-popular-websites-online/
+https://www.zdnet.com/article/zoho-zero-day-published-on-twitter/

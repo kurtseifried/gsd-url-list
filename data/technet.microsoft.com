@@ -33,3 +33,17 @@ http://technet.microsoft.com/security/msvr/msvr12-013
 http://technet.microsoft.com/security/msvr/msvr12-014
 http://technet.microsoft.com/security/msvr/msvr12-015
 http://technet.microsoft.com/security/msvr/msvr13-004
+https://technet.microsoft.com/en-us/library/security/4021279.aspx
+https://technet.microsoft.com/library/security/2755801
+https://technet.microsoft.com/library/security/2963983
+https://technet.microsoft.com/library/security/2974294
+https://technet.microsoft.com/library/security/3009008.aspx
+https://technet.microsoft.com/library/security/3010060
+https://technet.microsoft.com/library/security/3046015
+https://technet.microsoft.com/library/security/3074162
+https://technet.microsoft.com/library/security/4022344
+https://technet.microsoft.com/library/security/4033453
+https://technet.microsoft.com/library/security/msvr11-002
+https://technet.microsoft.com/library/security/msvr12-016
+https://technet.microsoft.com/library/security/msvr12-017
+https://technet.microsoft.com/security/cc308575.aspx

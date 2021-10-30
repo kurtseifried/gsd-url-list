@@ -1,2 +1,3 @@
 http://mosquitto.org/2017/05/security-advisory-cve-2017-7650/
+https://mosquitto.org/blog/2018/02/security-advisory-cve-2017-7651-cve-2017-7652/
 https://mosquitto.org/blog/2019/02/version-1-5-6-released/

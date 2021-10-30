@@ -13,3 +13,7 @@ http://securityadvisories.dlink.com/security/publication.aspx?name=SAP10050
 http://securityadvisories.dlink.com/security/publication.aspx?name=SAP10051
 http://securityadvisories.dlink.com/security/publication.aspx?name=SAP10052
 http://securityadvisories.dlink.com/security/publication.aspx?name=SAP10055
+https://securityadvisories.dlink.com/announcement/publication.aspx?name=SAP10092
+https://securityadvisories.dlink.com/announcement/publication.aspx?name=SAP10099
+https://securityadvisories.dlink.com/announcement/publication.aspx?name=SAP10101
+https://securityadvisories.dlink.com/announcement/publication.aspx?name=SAP10111

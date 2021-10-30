@@ -159,3 +159,4 @@ http://advisories.mageia.org/MGASA-2015-0184.html
 http://advisories.mageia.org/MGASA-2015-0186.html
 http://advisories.mageia.org/MGASA-2015-0191.html
 http://advisories.mageia.org/MGASA-2015-0199.html
+https://advisories.mageia.org/MGASA-2014-0421.html

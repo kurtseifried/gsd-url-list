@@ -82,3 +82,11 @@ http://lists.horde.org/archives/sork/Week-of-Mon-20050418/002146.html
 http://lists.horde.org/archives/sork/Week-of-Mon-20050418/002147.html
 http://lists.horde.org/archives/sork/Week-of-Mon-20050418/002148.html
 http://lists.horde.org/archives/turba/Week-of-Mon-20050418/004182.html
+https://lists.horde.org/archives/announce/2017/001234.html
+https://lists.horde.org/archives/announce/2020/001285.html
+https://lists.horde.org/archives/announce/2020/001288.html
+https://lists.horde.org/archives/announce/2020/001289.html
+https://lists.horde.org/archives/announce/2020/001290.html
+https://lists.horde.org/archives/announce/2021/001298.html
+https://lists.horde.org/archives/gollem/Week-of-Mon-20200420/001990.html
+https://lists.horde.org/archives/horde/Week-of-Mon-20170403/056767.html

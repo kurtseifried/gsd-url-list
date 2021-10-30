@@ -1,0 +1,2 @@
+https://docs.bigbluebutton.org/admin/privacy.html
+https://docs.bigbluebutton.org/dev/api.html

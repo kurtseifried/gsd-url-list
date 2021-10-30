@@ -22,3 +22,4 @@ http://www.csnc.ch/static/advisory/csnc/nortel_IP_phone_forced_re-authentication
 http://www.csnc.ch/static/advisory/csnc/nortel_IP_phone_surveillance_mode_v1.0.txt
 http://www.csnc.ch/static/advisory/csnc/nortel_UNIStim_IP_softphone_buffer-overflow_v1.0.txt
 http://www.csnc.ch/static/advisory/csnc/nortel_telephony_server_denial_of_service_v1.0.txt
+https://www.csnc.ch/misc/files/advisories/CVE-2013-0805.txt

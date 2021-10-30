@@ -1,0 +1,3 @@
+https://discussions.eramba.org/t/bug-injectable-host-header-security-issue/1719
+https://discussions.eramba.org/t/bug-security-vulnerabilities-not-serious/1650
+https://discussions.eramba.org/t/bug-security-vulnerabilities-not-serious/1650/2

@@ -1,0 +1,14 @@
+https://dev.gnupg.org/T3844
+https://dev.gnupg.org/T4011
+https://dev.gnupg.org/T4012
+https://dev.gnupg.org/T4541
+https://dev.gnupg.org/T4735
+https://dev.gnupg.org/T4755
+https://dev.gnupg.org/T5050
+https://dev.gnupg.org/T5305
+https://dev.gnupg.org/T5328
+https://dev.gnupg.org/T5466
+https://dev.gnupg.org/rCe8b7f10be275bcedb5fc05ed4837a89bfd605c61
+https://dev.gnupg.org/rG8ec9573e57866dda5efb4677d4454161517484bc
+https://dev.gnupg.org/rKLEOPATRAb4bd63c1739900d94c04da03045e9445a5a5f54b
+https://dev.gnupg.org/source/kleo/browse/master/CMakeLists.txt

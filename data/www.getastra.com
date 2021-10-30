@@ -1,0 +1,13 @@
+https://www.getastra.com/blog/911/csrf-broken-access-control-in-genexis-platinum-4410/
+https://www.getastra.com/blog/911/plugin-exploit/contact-form-7-unrestricted-file-upload/
+https://www.getastra.com/blog/911/plugin-exploit/cross-site-request-forgery-in-tutor-lms-plugin/
+https://www.getastra.com/blog/911/plugin-exploit/csv-injection-in-export-users-to-csv-wordpress-plugin/
+https://www.getastra.com/blog/911/plugin-exploit/prestashops-customer-photo-gallery-module-vulnerable-to-sql-injection-attacks/
+https://www.getastra.com/blog/911/plugin-exploit/reflected-xss-vulnerability-found-in-learndash-lms-plugin/
+https://www.getastra.com/blog/911/plugin-exploit/reflected-xss-vulnerability-in-ivory-search-wp-plugin/
+https://www.getastra.com/blog/911/plugin-exploit/sql-errors-data-exposure-in-journal-opencart-theme/
+https://www.getastra.com/blog/911/plugin-exploit/stored-xss-coming-soon-page-maintenance-mode-plugin/
+https://www.getastra.com/blog/911/plugin-exploit/stored-xss-vulnerability-found-in-strong-testimonials-plugin/
+https://www.getastra.com/blog/911/plugin-exploit/stored-xss-vulnerability-found-in-wpforms-plugin/
+https://www.getastra.com/blog/911/reflected-xss-found-in-cooked-pro-recipe-plugin-for-wordpress/
+https://www.getastra.com/blog/911/stored-xss-vulnerability-nagios-log-server/

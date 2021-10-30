@@ -18,3 +18,5 @@ http://bugs.ntp.org/show_bug.cgi?id=2853
 http://bugs.ntp.org/show_bug.cgi?id=2901
 http://bugs.ntp.org/show_bug.cgi?id=2936
 http://bugs.ntp.org/show_bug.cgi?id=3565
+https://bugs.ntp.org/show_bug.cgi?id=2797
+https://bugs.ntp.org/show_bug.cgi?id=3596

@@ -1,0 +1,10 @@
+https://sumofpwn.nl/advisory/2016/cross_site_request_forgery_in_icegram_wordpress_plugin.html
+https://sumofpwn.nl/advisory/2016/cross_site_request_forgery_in_wordpress_press_this_function_allows_dos.html
+https://sumofpwn.nl/advisory/2016/cross_site_scripting_in_magic_fields_1_wordpress_plugin.html
+https://sumofpwn.nl/advisory/2016/cross_site_scripting_vulnerability_in_colorway_wordpress_theme.html
+https://sumofpwn.nl/advisory/2016/cross_site_scripting_vulnerability_in_quotes_collection_wordpress_plugin.html
+https://sumofpwn.nl/advisory/2016/cross_site_scripting_vulnerability_in_trust_form_wordpress_plugin.html
+https://sumofpwn.nl/advisory/2016/path_traversal_vulnerability_in_wordpress_core_ajax_handlers.html
+https://sumofpwn.nl/advisory/2016/persistent_cross_site_scripting_vulnerability_in_wordpress_due_to_unsafe_processing_of_file_names.html
+https://sumofpwn.nl/advisory/2016/wordpress_audio_playlist_functionality_is_affected_by_cross_site_scripting.html
+https://sumofpwn.nl/advisory/2017/seagate-media-server-path-traversal-vulnerability.html

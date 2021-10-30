@@ -386,3 +386,11 @@ http://support.avaya.com/japple/css/japple?PAGE=avaya.css.OpenPage&amp;temp.temp
 http://support.avaya.com/japple/css/japple?temp.documentID=366362&amp;amp;temp.productID=154235&amp;amp;temp.releaseID=361845&amp;amp;temp.bucketID=126655&amp;amp;PAGE=Document
 http://support.avaya.com/japple/css/japple?temp.documentID=366362&amp;temp.productID=154235&amp;temp.releaseID=361845&amp;temp.bucketID=126655&amp;PAGE=Document
 http://support.avaya.com/security/Unauthorized_SNMP/index.jhtml
+https://support.avaya.com/css/P8/documents/100058487
+https://support.avaya.com/css/P8/documents/100127892
+https://support.avaya.com/css/P8/documents/101062833
+https://support.avaya.com/css/P8/documents/101070201
+https://support.avaya.com/css/P8/documents/101072728
+https://support.avaya.com/css/P8/documents/101075574
+https://support.avaya.com/css/P8/documents/101076479
+https://support.avaya.com/css/P8/documents/101076523

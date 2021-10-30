@@ -19,3 +19,5 @@ http://www.metasploit.com/redmine/projects/framework/repository/revisions/7569/e
 http://www.metasploit.com/redmine/projects/framework/repository/revisions/7569/entry/modules/exploits/windows/http/httpdx_tolog_format.rb
 http://www.metasploit.com/redmine/projects/framework/repository/revisions/7881/entry/modules/exploits/windows/fileformat/adobe_media_newplayer.rb
 http://www.metasploit.com/redmine/projects/framework/repository/revisions/8379/changes/modules/exploits/windows/fileformat/adobe_pdf_embedded_exe.rb
+https://www.metasploit.com/redmine/projects/framework/repository/entry/modules/exploits/windows/browser/apple_quicktime_marshaled_punk.rb
+https://www.metasploit.com/svn/framework3/trunk/modules/exploits/windows/browser/ie_winhlp32.rb

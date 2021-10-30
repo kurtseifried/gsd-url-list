@@ -1,0 +1,1 @@
+https://www.netwrix.com/netwrix_reports_vulnerability_in_netwrix_account_lockout_examiner_4_1.html

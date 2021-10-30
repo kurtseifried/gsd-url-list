@@ -1,0 +1,3 @@
+https://bugs.bareos.org/view.php?id=1210
+https://bugs.bareos.org/view.php?id=1250
+https://bugs.bareos.org/view.php?id=847

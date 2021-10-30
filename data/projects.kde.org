@@ -1,0 +1,4 @@
+https://projects.kde.org/projects/kde/kdelibs/repository/revisions/65d736dab592bced4410ccfa4699de89f78c96ca/diff/kioslave/http/http.cpp
+https://projects.kde.org/projects/kde/kdelibs/repository/revisions/76f935197599a335a5fe09b78751ddb455248cf7
+https://projects.kde.org/projects/kde/kdepim/repository/revisions/dbb2f72f4745e00f53031965a9c10b2d6862bd54
+https://projects.kde.org/projects/kde/kdeplasma-addons/repository/revisions/36a1fe49cb70f717c4a6e9eeee2c9186503a8dce

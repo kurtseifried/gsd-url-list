@@ -9,3 +9,4 @@ http://www.securitylab.ru/forum/read.php?FID=21&amp;TID=40858&amp;MID=326187
 http://www.securitylab.ru/forum/read.php?FID=21&amp;amp;TID=40858&amp;amp;MID=326187
 http://www.securitylab.ru/news/301422.php
 http://www.securitylab.ru/vulnerability/source/210758.php
+https://www.securitylab.ru/news/513051.php

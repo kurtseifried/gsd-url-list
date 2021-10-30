@@ -641,3 +641,13 @@ http://svn.apache.org/viewvc?view=revision&amp;revision=958977
 http://svn.apache.org/viewvc?view=revision&amp;revision=959428
 http://svn.apache.org/viewvc?view=revision&amp;revision=r1469311
 http://svn.apache.org/viewvc?view=revision&amp;revision=r1608698
+https://svn.apache.org/repos/asf/axis/axis2/java/core/security/CVE-2010-1632.pdf
+https://svn.apache.org/repos/asf/libcloud/trunk/CHANGES
+https://svn.apache.org/repos/asf/spamassassin/branches/3.4/build/announcements/3.4.3.txt
+https://svn.apache.org/repos/asf/wink/trunk/security/CVE-2010-2245.pdf
+https://svn.apache.org/viewvc/httpd/httpd/branches/2.4.x/server/core.c?r1=1805223&amp;amp;r2=1807754&amp;amp;pathrev=1807754&amp;amp;view=patch
+https://svn.apache.org/viewvc?view=revision&amp;amp;revision=1691461
+https://svn.apache.org/viewvc?view=revision&amp;amp;revision=1743161
+https://svn.apache.org/viewvc?view=revision&amp;amp;revision=1743393
+https://svn.apache.org/viewvc?view=revision&amp;amp;revision=1744403
+https://svn.apache.org/viewvc?view=revision&amp;amp;revision=1807976

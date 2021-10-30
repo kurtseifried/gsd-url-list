@@ -27,3 +27,7 @@ http://www.videolan.org/security/sa1302.html
 http://www.videolan.org/security/sa1601.html
 http://www.videolan.org/security/sa1801.html
 http://www.videolan.org/vlc/releases/1.1.8.html
+https://www.videolan.org/security/
+https://www.videolan.org/security/sa1501.html
+https://www.videolan.org/security/sb-vlc3011.html
+https://www.videolan.org/security/sb-vlc308.html

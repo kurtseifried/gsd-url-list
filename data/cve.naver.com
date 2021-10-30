@@ -1,0 +1,12 @@
+https://cve.naver.com/detail/cve-2017-15913.html
+https://cve.naver.com/detail/cve-2018-12448.html
+https://cve.naver.com/detail/cve-2018-12449
+https://cve.naver.com/detail/cve-2018-7635.html
+https://cve.naver.com/detail/cve-2018-9859.html
+https://cve.naver.com/detail/cve-2019-13156
+https://cve.naver.com/detail/cve-2019-13157
+https://cve.naver.com/detail/cve-2020-9751
+https://cve.naver.com/detail/cve-2020-9752
+https://cve.naver.com/detail/cve-2020-9753
+https://cve.naver.com/detail/cve-2021-33591
+https://cve.naver.com/detail/cve-2021-33592

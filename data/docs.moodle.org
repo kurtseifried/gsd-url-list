@@ -5,3 +5,4 @@ http://docs.moodle.org/en/Moodle_1.9.9_release_notes
 http://docs.moodle.org/en/Release_Notes#Moodle_1.6.2
 http://docs.moodle.org/en/Release_Notes#Moodle_1.8.5
 http://docs.moodle.org/en/Release_notes#Moodle_1.6.2
+https://docs.moodle.org/38/en/Teacher_role

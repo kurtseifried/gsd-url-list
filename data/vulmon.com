@@ -1,0 +1,14 @@
+https://vulmon.com/exploitdetails?qidtp=EDB&amp;amp;qid=20759
+https://vulmon.com/exploitdetails?qidtp=EDB&amp;amp;qid=46180
+https://vulmon.com/searchpage?page=2&amp;amp;q=Shayan+S
+https://vulmon.com/vulnerabilitydetails?qid=CVE-2011-4908
+https://vulmon.com/vulnerabilitydetails?qid=CVE-2012-6277
+https://vulmon.com/vulnerabilitydetails?qid=CVE-2013-2568
+https://vulmon.com/vulnerabilitydetails?qid=CVE-2014-5468
+https://vulmon.com/vulnerabilitydetails?qid=CVE-2018-10466
+https://vulmon.com/vulnerabilitydetails?qid=CVE-2018-11027
+https://vulmon.com/vulnerabilitydetails?qid=CVE-2018-11688
+https://vulmon.com/vulnerabilitydetails?qid=CVE-2018-11689
+https://vulmon.com/vulnerabilitydetails?qid=CVE-2018-11690
+https://vulmon.com/vulnerabilitydetails?qid=CVE-2019-11226
+https://vulmon.com/vulnerabilitydetails?qid=CVE-2019-16096

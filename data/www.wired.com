@@ -10,3 +10,10 @@ http://www.wired.com/threatlevel/2009/07/kaminsky/
 http://www.wired.com/threatlevel/2010/07/siemens-scada/
 http://www.wired.com/threatlevel/2012/04/ruggedcom-backdoor/
 http://www.wired.com/threatlevel/2013/07/ipmi/
+https://www.wired.com/story/amazon-echo-alexa-skill-spying/
+https://www.wired.com/story/amazon-key-flaw-let-deliverymen-disable-your-camera/
+https://www.wired.com/story/chromecast-roku-sonos-dns-rebinding-vulnerability
+https://www.wired.com/story/chromecast-roku-sonos-dns-rebinding-vulnerability/
+https://www.wired.com/story/macos-update-undoes-apple-root-bug-patch/
+https://www.wired.com/story/tesla-model-x-hack-bluetooth/
+https://www.wired.com/story/tinder-lack-of-encryption-lets-strangers-spy-on-swipes/

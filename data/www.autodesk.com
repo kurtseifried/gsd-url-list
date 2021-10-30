@@ -1,1 +1,14 @@
 http://www.autodesk.com/trust/security-advisories/adsk-sa-2016-01
+https://www.autodesk.com/trust/security-advisories/adsk-sa-2019-0001
+https://www.autodesk.com/trust/security-advisories/adsk-sa-2019-0002
+https://www.autodesk.com/trust/security-advisories/adsk-sa-2019-0003
+https://www.autodesk.com/trust/security-advisories/adsk-sa-2019-0004
+https://www.autodesk.com/trust/security-advisories/adsk-sa-2020-0001
+https://www.autodesk.com/trust/security-advisories/adsk-sa-2020-0002
+https://www.autodesk.com/trust/security-advisories/adsk-sa-2021-0001
+https://www.autodesk.com/trust/security-advisories/adsk-sa-2021-0002
+https://www.autodesk.com/trust/security-advisories/adsk-sa-2021-0002;
+https://www.autodesk.com/trust/security-advisories/adsk-sa-2021-0003
+https://www.autodesk.com/trust/security-advisories/adsk-sa-2021-0004
+https://www.autodesk.com/trust/security-advisories/adsk-sa-2021-0008
+https://www.autodesk.com/trust/security-advisories/adsk-sa-2021-0009

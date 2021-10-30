@@ -1,1 +1,2 @@
 http://lucene.apache.org/solr/4_6_0/changes/Changes.html
+https://lucene.apache.org/solr/solrnews.html#18-august-2014-recommendation-to-update-apache-poi-in-apache-solr-480-481-and-490-installations

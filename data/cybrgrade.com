@@ -1,0 +1,2 @@
+https://cybrgrade.com/files/Report_SimplyBookIt_MD5_Hash_Replay_by_CybrGradeUKLtd.pdf
+https://cybrgrade.com/files/Report_SimplyBookIt_Privesc_by_CybrGradeUKLtd.pdf

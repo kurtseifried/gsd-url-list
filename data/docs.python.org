@@ -1,0 +1,9 @@
+https://docs.python.org/2/faq/windows.html
+https://docs.python.org/3.3/whatsnew/changelog.html
+https://docs.python.org/3.4/whatsnew/changelog.html#python-3-4-4
+https://docs.python.org/3.4/whatsnew/changelog.html#python-3-4-5
+https://docs.python.org/3.5/whatsnew/changelog.html#python-3-5-2
+https://docs.python.org/3.5/whatsnew/changelog.html#python-3-5-6-release-candidate-1
+https://docs.python.org/3.6/whatsnew/changelog.html#python-3-6-5-release-candidate-1
+https://docs.python.org/3/library/ipaddress.html
+https://docs.python.org/3/library/tarfile.html#tarfile.TarFile.extractall

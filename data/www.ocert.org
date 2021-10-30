@@ -56,3 +56,5 @@ http://www.ocert.org/analysis/2008-008/analysis.txt
 http://www.ocert.org/analysis/2008-014/analysis.txt
 http://www.ocert.org/analysis/2008-014/wordnet.patch
 http://www.ocert.org/patches/exslt_crypt.patch
+https://www.ocert.org/advisories/ocert-2014-012.html
+https://www.ocert.org/advisories/ocert-2015-009.html

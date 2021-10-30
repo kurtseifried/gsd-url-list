@@ -1,0 +1,3 @@
+https://git.lxde.org/gitweb/?p=lxde/lxterminal.git;a=commit;h=f99163c6ff8b2f57c5f37b1ce5d62cf7450d4648
+https://git.lxde.org/gitweb/?p=lxde/menu-cache.git;a=commit;h=56f66684592abf257c4004e6e1fff041c64a12ce
+https://git.lxde.org/gitweb/?p=lxde/pcmanfm.git;a=commit;h=bc8c3d871e9ecc67c47ff002b68cf049793faf08

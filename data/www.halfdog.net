@@ -11,3 +11,5 @@ http://www.halfdog.net/Security/2016/AufsPrivilegeEscalationInUserNamespaces/
 http://www.halfdog.net/Security/2016/OverlayfsOverFusePrivilegeEscalation/
 http://www.halfdog.net/Security/2016/UserNamespaceOverlayfsXattrSetgidPrivilegeEscalation/
 http://www.halfdog.net/Security/FuseTimerace/
+https://www.halfdog.net/Security/2017/LibcRealpathBufferUnderflow/
+https://www.halfdog.net/Security/2018/LogUserSessionLocalRootPrivilegeEscalation/

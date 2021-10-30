@@ -26,3 +26,12 @@ http://subversion.apache.org/security/CVE-2016-2167-advisory.txt
 http://subversion.apache.org/security/CVE-2016-2168-advisory.txt
 http://subversion.apache.org/security/CVE-2018-11782-advisory.txt
 http://subversion.apache.org/security/CVE-2019-0203-advisory.txt
+https://subversion.apache.org/security/CVE-2013-1968-advisory.txt
+https://subversion.apache.org/security/CVE-2013-2088-advisory.txt
+https://subversion.apache.org/security/CVE-2013-2112-advisory.txt
+https://subversion.apache.org/security/CVE-2013-4246-advisory.txt
+https://subversion.apache.org/security/CVE-2013-4262-advisory.txt
+https://subversion.apache.org/security/CVE-2014-3522-advisory.txt
+https://subversion.apache.org/security/CVE-2016-8734-advisory.txt
+https://subversion.apache.org/security/CVE-2017-9800-advisory.txt
+https://subversion.apache.org/security/CVE-2020-17525-advisory.txt

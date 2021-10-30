@@ -1,1 +1,15 @@
 https://auth0.com/blog/2015/03/31/critical-vulnerabilities-in-json-web-token-libraries/
+https://auth0.com/docs/cms/wordpress
+https://auth0.com/docs/security/bulletins/2020-03-31_wpauth0
+https://auth0.com/docs/security/bulletins/cve-2017-16897
+https://auth0.com/docs/security/bulletins/cve-2017-17068
+https://auth0.com/docs/security/bulletins/cve-2018-11537
+https://auth0.com/docs/security/bulletins/cve-2018-15121
+https://auth0.com/docs/security/bulletins/cve-2018-6873
+https://auth0.com/docs/security/bulletins/cve-2018-6874
+https://auth0.com/docs/security/bulletins/cve-2018-7307
+https://auth0.com/docs/security/bulletins/cve-2019-13483
+https://auth0.com/docs/security/bulletins/cve-2019-16929
+https://auth0.com/docs/security/bulletins/cve-2019-20173
+https://auth0.com/docs/security/bulletins/cve-2019-20174
+https://auth0.com/docs/security/bulletins/cve-2019-7644

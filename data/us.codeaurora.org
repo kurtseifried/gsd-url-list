@@ -1,0 +1,7 @@
+https://us.codeaurora.org/cgit/quic/la//kernel/msm-3.10/commit/?id=e20f20aaed6b6d2fd1667bad9be9ef35103a51df
+https://us.codeaurora.org/cgit/quic/la//kernel/msm-3.18/commit/id=79db14ca9f791a14be9376a0340ad3b9b9a4d603
+https://us.codeaurora.org/cgit/quic/la/kernel/msm-3.10/commit/?id=9900650540c889f761d102202bc80306ae80ab83
+https://us.codeaurora.org/cgit/quic/la/kernel/msm-3.10/commit/?id=ab3f46119ca10de87a11fe966b0723c48f27acd4
+https://us.codeaurora.org/cgit/quic/la/kernel/msm-3.18/commit/?id=2c04c0dab66013b7dfbe4d5a523c2c1d6b5b11d6
+https://us.codeaurora.org/cgit/quic/la/kernel/msm-3.18/commit/?id=775fca8289eff931f91ff6e8c36cf2034ba59e88
+https://us.codeaurora.org/cgit/quic/la/kernel/msm-3.18/commit/?id=9e8bdd63f7011dff5523ea435433834b3702398d

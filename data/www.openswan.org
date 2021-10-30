@@ -8,3 +8,4 @@ http://www.openswan.org/download/CVE-2011-4073/CVE-2011-4073.txt
 http://www.openswan.org/niscc2/
 http://www.openswan.org/support/vuln/IDEF0785/
 http://www.openswan.org/support/vuln/can-2004-0590/
+https://www.openswan.org/news/13

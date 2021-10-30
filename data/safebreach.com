@@ -1,0 +1,17 @@
+https://safebreach.com/Post/Avast-Antivirus-AVG-Antivirus-DLL-Preloading-into-PPL-and-Potential-Abuses
+https://safebreach.com/Post/Avira-Antivirus-2019-4-Services-DLL-Preloading-and-Potential-Abuses-CVE-2019-17449
+https://safebreach.com/Post/BitDefender-Antivirus-Free-2020-Privilege-Escalation-to-SYSTEM
+https://safebreach.com/Post/Check-Point-Endpoint-Security-Initial-Client-for-Windows-Privilege-Escalation-to-SYSTEM
+https://safebreach.com/Post/Comodo-Internet-Security-DLL-Preloading-and-Potential-Abuses-CVE-2019-18215
+https://safebreach.com/Post/Forcepoint-VPN-Client-for-Windows-Unquoted-Search-Path-and-Potential-Abuses-CVE-2019-6145
+https://safebreach.com/Post/HP-Touchpoint-Analytics-DLL-Search-Order-Hijacking-Potential-Abuses-CVE-2019-6333
+https://safebreach.com/Post/Maxthon-Browser-for-Windows-Unquoted-Search-Path-and-Potential-Abuses-CVE-2019-16647
+https://safebreach.com/Post/McAfee-All-Editions-MTP-AVP-MIS-Self-Defense-Bypass-and-Potential-Usages-CVE-2019-3648
+https://safebreach.com/Post/NVIDIA-GPU-Display-Drivers-for-Windows-and-GFE-Software-DLL-Preloading-and-Potential-Abuses-CVE-2019-5694-CVE-2019-5695
+https://safebreach.com/Post/Nahimic-APO-Software-Component-Driver-Deployed-with-MSI-Computers-DLL-Search-Order-Hijacking-and-Potential-Abuses-CVE-2019-19115
+https://safebreach.com/Post/Symantec-Endpoint-Protection-Self-Defense-Bypass-and-Potential-Usages-CVE-2019-12758
+https://safebreach.com/Post/TeamViewer-Windows-Client-v11-to-v14-DLL-Preloading-and-Potential-Abuses-CVE-2019-18196
+https://safebreach.com/Post/Trend-Micro-Password-Manager-Privilege-Escalation-to-SYSTEM
+https://safebreach.com/Post/Trend-Micro-Security-16-DLL-Search-Order-Hijacking-and-Potential-Abuses-CVE-2019-15628
+https://safebreach.com/Press-Post/SafeBreach-Identifies-Serious-Vulnerability-In-PC-Doctor-Software
+https://safebreach.com/blog

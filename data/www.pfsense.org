@@ -1,0 +1,7 @@
+https://www.pfsense.org/download/
+https://www.pfsense.org/security/advisories/pfSense-SA-15_02.igmp.asc
+https://www.pfsense.org/security/advisories/pfSense-SA-15_03.webgui.asc
+https://www.pfsense.org/security/advisories/pfSense-SA-15_04.webgui.asc
+https://www.pfsense.org/security/advisories/pfSense-SA-15_06.webgui.asc
+https://www.pfsense.org/security/advisories/pfSense-SA-16_01.webgui.asc
+https://www.pfsense.org/security/advisories/pfSense-SA-18_08.webgui.asc

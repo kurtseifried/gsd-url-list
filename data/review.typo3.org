@@ -1,0 +1,4 @@
+https://review.typo3.org/#/c/37013/
+https://review.typo3.org/q/%2522Resolves:+%252388764%2522+topic:security
+https://review.typo3.org/q/%2522Resolves:+%252389005%2522+topic:security
+https://review.typo3.org/q/%2522Resolves:+%252389452%2522+topic:security

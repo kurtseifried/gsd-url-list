@@ -1,0 +1,1 @@
+https://support.cambiumnetworks.com/file/3f88842a39f37b0d4ce5d43e5aa21bf1c4f9f1ca

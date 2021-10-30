@@ -12,4 +12,6 @@ http://www.webmin.com/uchanges-1.180.html
 http://www.webmin.com/uchanges.html
 http://www.webmin.com/updates.html
 http://www.webmin.com/webmin/changes.html
+https://www.webmin.com/download.html
 https://www.webmin.com/exploit.html
+https://www.webmin.com/security.html

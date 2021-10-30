@@ -1,0 +1,13 @@
+https://compass-security.com/fileadmin/Datein/Research/Advisories/CSNC-2020-004_DOM_XSS_in_Froala_WYSIWYG_HTML_Editor.txt
+https://compass-security.com/fileadmin/Research/Advisories/2020-05_CSNC-2020-005_Checkmk_Local_Privilege_Escalation.txt
+https://compass-security.com/fileadmin/Research/Advisories/2020-06_CSNC-2020-002_FusionAuth_Signature_Exclusion_Attack.txt
+https://compass-security.com/fileadmin/Research/Advisories/2020-09_CSNC-2020-008_Intland_codeBeamer_ALM_XXE.txt
+https://compass-security.com/fileadmin/Research/Advisories/2020-10_CSNC-2019-011_AdRem_NetCrunch_Server-Side_Request_Forgery_SSRF.txt
+https://compass-security.com/fileadmin/Research/Advisories/2020-11_CSNC-2019-012_AdRem_NetCrunch_Improper_Credential_Storage.txt
+https://compass-security.com/fileadmin/Research/Advisories/2020-12_CSNC-2019-013_AdRem_NetCrunch_Cross-Site_Scripting_XSS.txt
+https://compass-security.com/fileadmin/Research/Advisories/2020-13_CSNC-2019-014_AdRem_NetCrunch_Remote_Code_Execution.txt
+https://compass-security.com/fileadmin/Research/Advisories/2020-14_CSNC-2019-015_AdRem_NetCrunch_Improper_Session_Handling.txt
+https://compass-security.com/fileadmin/Research/Advisories/2020-15_CSNC-2019-016_AdRem_NetCrunch_Cross-Site_Request_Forgery_CSRF.txt
+https://compass-security.com/fileadmin/Research/Advisories/2020-16_CSNC-2019-017_AdRem_NetCrunch_Hardcoded_SSL_Private_Key.txt
+https://compass-security.com/fileadmin/Research/Advisories/2020-17_CSNC-2019-018_AdRem_NetCrunch_Credentials_Disclosure.txt
+https://compass-security.com/fileadmin/Research/Advisories/2020-18_CSNC-2020-030_Amaze_FileManager_Privilege_Escalation.txt

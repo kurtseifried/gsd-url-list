@@ -1,1 +1,3 @@
 http://bugzilla.mindrot.org/show_bug.cgi?id=839
+https://bugzilla.mindrot.org/show_bug.cgi?id=1867
+https://bugzilla.mindrot.org/show_bug.cgi?id=2097

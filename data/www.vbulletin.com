@@ -21,3 +21,7 @@ http://www.vbulletin.com/forum/showthread.php?t=166391
 http://www.vbulletin.com/forum/showthread.php?t=274882
 http://www.vbulletin.com/forum/showthread.php?t=277945
 http://www.vbulletin.com/forum/showthread.php?t=282133
+https://www.vbulletin.com/forum/forum/vbulletin-announcements/vbulletin-announcements_aa/4367744-vbulletin-5-3-0-connect-is-now-available
+https://www.vbulletin.com/forum/showthread.php/400162-vBulletin-3-x-MAPI-Plugin-1-4-3-released-with-security-patch-04-23-2012
+https://www.vbulletin.com/forum/showthread.php/400164-vBulletin-Security-Patch-for-vBulletin-4-1-2-4-1-11-for-Suite-amp-Forum-04-23-2012
+https://www.vbulletin.com/forum/showthread.php/400165-vBulletin-Security-Patch-for-vBulletin-4-1-12-for-Suite-amp-Forum-04-23-2012

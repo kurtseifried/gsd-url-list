@@ -13,3 +13,7 @@ http://www-947.ibm.com/support/entry/portal/docdisplay?lndocid=MIGR-5096529
 http://www-947.ibm.com/support/entry/portal/docdisplay?lndocid=migr-5095737
 http://www-947.ibm.com/systems/support/supportsite.wss/docdisplay?lndocid=MIGR-5083945&amp;amp;brandind=5000020
 http://www-947.ibm.com/systems/support/supportsite.wss/docdisplay?lndocid=MIGR-5083945&amp;brandind=5000020
+https://www-947.ibm.com/support/entry/myportal/docdisplay?lndocid=MIGR-5091525
+https://www-947.ibm.com/support/entry/myportal/docdisplay?lndocid=MIGR-5092001
+https://www-947.ibm.com/support/entry/portal/docdisplay?lndocid=MIGR-5098403
+https://www-947.ibm.com/support/entry/portal/docdisplay?lndocid=MIGR-5098709

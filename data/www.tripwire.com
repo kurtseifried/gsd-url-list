@@ -6,3 +6,5 @@ http://www.tripwire.com/state-of-security/vulnerability-management/vulnerabiliti
 http://www.tripwire.com/state-of-security/vulnerability-management/vulnerabilities-its-time-to-review-your-reviewboard/
 http://www.tripwire.com/state-of-security/vulnerability-management/vulnerability-who-is-watching-your-ip-camera
 http://www.tripwire.com/state-of-security/vulnerability-management/warning-this-post-contains-graphic-nvidia-content/
+https://www.tripwire.com/state-of-security/vert/googles-newest-feature-find-my-home/
+https://www.tripwire.com/state-of-security/vulnerability-management/ruckus-vulnerability/

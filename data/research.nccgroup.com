@@ -1,0 +1,14 @@
+https://research.nccgroup.com/2020/02/11/technical-advisory-playsms-pre-authentication-remote-code-execution-cve-2020-8644/
+https://research.nccgroup.com/2020/05/26/research-report-zephyr-and-mcuboot-security-assessment
+https://research.nccgroup.com/2020/08/21/technical-advisory-multiple-html-injection-vulnerabilities-in-kaios-pre-installed-mobile-applications/
+https://research.nccgroup.com/2020/08/24/technical-advisory-wolfssl-tls-1-3-client-man-in-the-middle-attack/
+https://research.nccgroup.com/2020/09/25/technical-advisory-lansweeper-privilege-escalation-via-csrf-using-http-method-interchange/
+https://research.nccgroup.com/2020/10/20/wrt160nl-cve-2020-26561-bof/
+https://research.nccgroup.com/2021/01/28/technical-advisory-linksys-wrt160nl-authenticated-command-injection-cve-2021-25310/
+https://research.nccgroup.com/2021/02/28/technical-advisory-administrative-passcode-recovery-and-authenticated-remote-buffer-overflow-vulnerabilities-in-gigaset-dx600a-handset-cve-2021-25309-cve-2021-25306/
+https://research.nccgroup.com/2021/03/08/technical-advisory-multiple-vulnerabilities-in-netgear-prosafe-plus-jgs516pe-gs116ev2-switches/
+https://research.nccgroup.com/2021/07/22/technical-advisory-stored-and-reflected-xss-vulnerability-in-nagios-log-server-cve-2021-35478cve-2021-35479/
+https://research.nccgroup.com/2021/07/26/technical-advisory-sunhillo-sureline-unauthenticated-os-command-injection-cve-2021-36380/
+https://research.nccgroup.com/2021/09/14/technical-advisory-pdftron-javascript-urls-allowed-in-webviewer-ui-cve-2021-39307/
+https://research.nccgroup.com/2021/10/06/technical-advisory-open5gs-stack-buffer-overflow-during-pfcp-session-establishment-on-upf-cve-2021-41794
+https://research.nccgroup.com/?research=Technical%20advisories

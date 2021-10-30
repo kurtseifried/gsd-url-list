@@ -15,3 +15,5 @@ http://www.justsystems.com/jp/info/js14003.html
 http://www.justsystems.com/jp/info/pd7004.html
 http://www.justsystems.com/jp/info/pd8001.html
 http://www.justsystems.com/jp/info/pd8002.html
+https://www.justsystems.com/jp/info/js17002.html
+https://www.justsystems.com/jp/info/js17003.html

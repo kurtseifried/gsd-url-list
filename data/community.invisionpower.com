@@ -4,3 +4,4 @@ http://community.invisionpower.com/topic/300051-invision-power-board-305-release
 http://community.invisionpower.com/topic/320838-ipboard-31x-security-patch-released/
 http://community.invisionpower.com/topic/371625-ipboard-31x-32x-and-33x-security-update/
 http://community.invisionpower.com/topic/399747-ipboard-33x-34x-security-update
+https://community.invisionpower.com/release-notes/40121-r22/

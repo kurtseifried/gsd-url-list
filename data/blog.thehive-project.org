@@ -1,0 +1,1 @@
+https://blog.thehive-project.org/2019/02/11/unshortenlink-ssrf-and-cortex-analyzers-1-15-2/

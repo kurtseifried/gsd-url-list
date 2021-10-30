@@ -1,3 +1,6 @@
 http://www.gnu.org/software/gnump3d/ChangeLog
 http://www.gnu.org/software/gnump3d/attacks.html#temporary-files
 http://www.gnu.org/software/gnutls/security.html
+https://www.gnu.org/software/emacs/index.html#Releases
+https://www.gnu.org/software/gcc/gcc-8/changes.html
+https://www.gnu.org/software/wget/

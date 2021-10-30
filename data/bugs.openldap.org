@@ -1,0 +1,15 @@
+https://bugs.openldap.org/show_bug.cgi?id=9202
+https://bugs.openldap.org/show_bug.cgi?id=9266
+https://bugs.openldap.org/show_bug.cgi?id=9404
+https://bugs.openldap.org/show_bug.cgi?id=9406
+https://bugs.openldap.org/show_bug.cgi?id=9407
+https://bugs.openldap.org/show_bug.cgi?id=9408
+https://bugs.openldap.org/show_bug.cgi?id=9409
+https://bugs.openldap.org/show_bug.cgi?id=9412
+https://bugs.openldap.org/show_bug.cgi?id=9413
+https://bugs.openldap.org/show_bug.cgi?id=9423
+https://bugs.openldap.org/show_bug.cgi?id=9424
+https://bugs.openldap.org/show_bug.cgi?id=9425
+https://bugs.openldap.org/show_bug.cgi?id=9427
+https://bugs.openldap.org/show_bug.cgi?id=9428
+https://bugs.openldap.org/show_bug.cgi?id=9454

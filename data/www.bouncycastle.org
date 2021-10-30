@@ -1,3 +1,5 @@
 http://www.bouncycastle.org/csharp/
 http://www.bouncycastle.org/devmailarchive/msg08195.html
 http://www.bouncycastle.org/releasenotes.html
+https://www.bouncycastle.org/latest_releases.html
+https://www.bouncycastle.org/releasenotes.html

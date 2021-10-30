@@ -1,0 +1,9 @@
+https://www.swisscom.ch
+https://www.swisscom.ch/content/dam/swisscom/de/about/nachhaltigkeit/digitale-schweiz/sicherheit/bug-bounty/files/cve-2016-10042.txt
+https://www.swisscom.ch/content/dam/swisscom/de/about/nachhaltigkeit/digitale-schweiz/sicherheit/bug-bounty/files/cve-2018-15476ff.txt
+https://www.swisscom.ch/content/dam/swisscom/de/about/nachhaltigkeit/digitale-schweiz/sicherheit/bug-bounty/files/cve-2018-16596.txt
+https://www.swisscom.ch/content/dam/swisscom/de/about/nachhaltigkeit/digitale-schweiz/sicherheit/bug-bounty/files/cve-2018-6765_myswisscomassistant.txt
+https://www.swisscom.ch/content/dam/swisscom/de/about/nachhaltigkeit/digitale-schweiz/sicherheit/bug-bounty/files/cve-2018-6766_tvmediahelper.txt
+https://www.swisscom.ch/content/dam/swisscom/de/about/nachhaltigkeit/digitale-schweiz/sicherheit/bug-bounty/files/cve-2019-19940ff.txt
+https://www.swisscom.ch/content/dam/swisscom/de/about/nachhaltigkeit/digitale-schweiz/sicherheit/bug-bounty/files/cve-2020-16134.txt
+https://www.swisscom.ch/en/residential/help/device/internet-router.html

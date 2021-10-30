@@ -1,1 +1,2 @@
 http://filezilla-project.org/index.php
+https://filezilla-project.org/versions.php?type=server

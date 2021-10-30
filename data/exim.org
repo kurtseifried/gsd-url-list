@@ -1,2 +1,4 @@
 http://exim.org/static/doc/security/CVE-2019-13917.txt
 http://exim.org/static/doc/security/CVE-2019-15846.txt
+https://exim.org/static/doc/security/CVE-2018-6789.txt
+https://exim.org/static/doc/security/CVE-2019-15846.txt

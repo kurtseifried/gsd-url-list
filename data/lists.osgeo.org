@@ -1,3 +1,4 @@
 http://lists.osgeo.org/pipermail/mapserver-users/2009-March/060600.html
 http://lists.osgeo.org/pipermail/mapserver-users/2010-July/066052.html
 http://lists.osgeo.org/pipermail/mapserver-users/2011-July/069430.html
+https://lists.osgeo.org/pipermail/mapserver-dev/2017-January/015007.html

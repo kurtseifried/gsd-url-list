@@ -27,3 +27,6 @@ http://piwigo.org/releases/2.7.3
 http://piwigo.org/releases/2.7.4
 http://piwigo.org/releases/2.8.3
 http://piwigo.org/releases/2.8.6
+https://piwigo.org/ext/extension_view.php?eid=303
+https://piwigo.org/ext/index.php?cid=null
+https://piwigo.org/forum/viewforum.php?id=23

@@ -1,0 +1,15 @@
+https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2017-April/013996.html
+https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2017-May/014349.html
+https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2017-May/014351.html
+https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2017-May/014352.html
+https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2018-July/016189.html
+https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2019-February/016697.html
+https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2021-May/018893.html
+https://lists.linuxfoundation.org/pipermail/lightning-dev/2019-September/002174.html
+https://lists.linuxfoundation.org/pipermail/lightning-dev/2020-May/002714.html
+https://lists.linuxfoundation.org/pipermail/lightning-dev/2020-October/002855.html
+https://lists.linuxfoundation.org/pipermail/lightning-dev/2020-October/002856.html
+https://lists.linuxfoundation.org/pipermail/lightning-dev/2020-October/002857.html
+https://lists.linuxfoundation.org/pipermail/lightning-dev/2020-October/002858.html
+https://lists.linuxfoundation.org/pipermail/lightning-dev/2021-October/003257.html
+https://lists.linuxfoundation.org/pipermail/lightning-dev/2021-October/003264.html

@@ -1,0 +1,2 @@
+https://bugs.freeradius.org/bugzilla/show_bug.cgi?id=35
+https://bugs.freeradius.org/bugzilla/show_bug.cgi?id=77

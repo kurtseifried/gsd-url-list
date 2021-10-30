@@ -1,0 +1,4 @@
+https://invent.kde.org/frameworks/kimageformats/commit/297ed9a2fe339bfe36916b9fce628c3242e5be0f
+https://invent.kde.org/kde/okular/-/commit/6a93a033b4f9248b3cd4d04689b8391df754e244
+https://invent.kde.org/plasma/discover/commit/94478827aab63d2e2321f0ca9ec5553718798e60
+https://invent.kde.org/utilities/ark/-/commit/0df592524fed305d6fbe74ddf8a196bc9ffdb92f

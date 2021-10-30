@@ -6,3 +6,9 @@ http://software.open-xchange.com/products/appsuite/doc/Release_Notes_for_Patch_R
 http://software.open-xchange.com/products/guard/doc/OX_Guard_Release_Notes_for_Release_2.10.0_2018-07-04.pdf
 http://software.open-xchange.com/products/guard/doc/Release_Notes_for_Patch_Release_2626_7.6.2_2015-08-03.pdf
 http://software.open-xchange.com/products/guard/doc/Release_Notes_for_Patch_Release_2777_2.0.0_2015-09-30.pdf
+https://software.open-xchange.com/OX6/6.22/doc/Release_Notes_for_Patch_Release_3518_7.6.2_2016-08-29.pdf
+https://software.open-xchange.com/OX6/6.22/doc/Release_Notes_for_Patch_Release_3522_7.8.2_2016-08-29.pdf
+https://software.open-xchange.com/OX6/doc/Release_Notes_for_Patch_Release_4790_7.8.3_2018-06-25.pdf
+https://software.open-xchange.com/products/appsuite/doc/Release_Notes_for_Patch_Release_4133_7.6.3_2017-05-15.pdf
+https://software.open-xchange.com/products/appsuite/doc/Release_Notes_for_Patch_Release_4137_1.2.2_2017-05-12.pdf
+https://software.open-xchange.com/products/appsuite/doc/Release_Notes_for_Patch_Release_4789_7.6.3_2018-06-25.pdf

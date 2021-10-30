@@ -5,3 +5,11 @@ http://pypi.python.org/pypi/ZODB3/3.8.3
 http://pypi.python.org/pypi/ZODB3/3.9.0c2
 http://pypi.python.org/pypi/keyring
 http://pypi.python.org/pypi/python-cjson/
+https://pypi.python.org/pypi/Pillow/2.3.2
+https://pypi.python.org/pypi/Pillow/2.5.2
+https://pypi.python.org/pypi/Pillow/2.5.3
+https://pypi.python.org/pypi/kerberos
+https://pypi.python.org/pypi/plone4.csrffixes
+https://pypi.python.org/pypi/pyanyapi/0.6.1
+https://pypi.python.org/pypi/roundup/1.4.20
+https://pypi.python.org/pypi/setuptools/0.9.8#changes

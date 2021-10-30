@@ -2,3 +2,5 @@ http://alioth.debian.org/frs/shownotes.php?release_id=1019
 http://alioth.debian.org/frs/shownotes.php?release_id=1031
 http://alioth.debian.org/tracker/?func=detail&amp;aid=313636
 http://alioth.debian.org/tracker/?func=detail&amp;amp;aid=313636
+https://alioth.debian.org/plugins/scmgit/cgi-bin/gitweb.cgi?p=apt/apt.git;a=blob;f=debian/changelog;hb=HEAD
+https://alioth.debian.org/tracker/index.php?func=detail&amp;amp;aid=315576

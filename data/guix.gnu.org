@@ -1,0 +1,1 @@
+https://guix.gnu.org/en/blog/2021/risk-of-local-privilege-escalation-via-guix-daemon/

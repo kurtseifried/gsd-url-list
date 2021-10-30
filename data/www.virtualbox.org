@@ -1,3 +1,6 @@
 http://www.virtualbox.org/changeset?new=trunk%2Fsrc%2Flibs%2Fxpcom18a4%2Fipc%2Fipcd%2Fdaemon%2Fsrc%2FipcdUnix.cpp%4013810
 http://www.virtualbox.org/ticket/3444
 http://www.virtualbox.org/wiki/Changelog
+https://www.virtualbox.org/changeset/44055/vbox
+https://www.virtualbox.org/changeset/50437/vbox
+https://www.virtualbox.org/changeset/50441/vbox

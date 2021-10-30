@@ -1,1 +1,2 @@
 http://hg.libsdl.org/SDL_image/
+https://hg.libsdl.org/SDL/rev/3f9b4e92c1d9

@@ -16,3 +16,7 @@ http://svnweb.freebsd.org/base?view=revision&amp;revision=254629
 http://svnweb.freebsd.org/base?view=revision&amp;revision=255442
 http://svnweb.freebsd.org/ports/head/security/openssl/files/patch-ssl-s3_pkt.c?revision=351191&amp;amp;view=markup
 http://svnweb.freebsd.org/ports/head/security/openssl/files/patch-ssl-s3_pkt.c?revision=351191&amp;view=markup
+https://svnweb.freebsd.org/base?view=revision&amp;amp;revision=275665
+https://svnweb.freebsd.org/base?view=revision&amp;amp;revision=324102
+https://svnweb.freebsd.org/base?view=revision&amp;amp;revision=333368
+https://svnweb.freebsd.org/ports?view=revision&amp;amp;revision=525916

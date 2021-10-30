@@ -178,3 +178,6 @@ http://googlechromereleases.blogspot.com/2016/06/stable-channel-update_16.html
 http://googlechromereleases.blogspot.com/2016/07/stable-channel-update-for-chrome-os_26.html
 http://googlechromereleases.blogspot.com/2016/07/stable-channel-update.html
 http://googlechromereleases.blogspot.com/2016/08/stable-channel-update-for-desktop.html
+https://googlechromereleases.blogspot.com/2016/08/stable-channel-update-for-desktop_31.html
+https://googlechromereleases.blogspot.com/2016/09/stable-channel-update-for-chrome-os_9.html
+https://googlechromereleases.blogspot.com/2016/09/stable-channel-update-for-desktop_13.html

@@ -1,0 +1,1 @@
+https://opendev.org/openstack/magnum/commit/0bb0d6486d6771ee21bbf897a091b1aa59e01b22

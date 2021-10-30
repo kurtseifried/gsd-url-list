@@ -13,3 +13,17 @@ http://dovecot.org/pipermail/dovecot-news/2016-December/000333.html
 http://dovecot.org/pipermail/dovecot/2010-February/047190.html
 http://dovecot.org/pipermail/dovecot/2011-May/059085.html
 http://dovecot.org/pipermail/dovecot/2011-May/059086.html
+https://dovecot.org/list/dovecot-news/2019-April/000406.html
+https://dovecot.org/list/dovecot-news/2019-December/000428.html
+https://dovecot.org/list/dovecot-news/2019-March/000403.html
+https://dovecot.org/pipermail/dovecot-news/2015-May/000292.html
+https://dovecot.org/pipermail/dovecot-news/2017-April/000341.html
+https://dovecot.org/pipermail/dovecot-news/2019-August/000417.html
+https://dovecot.org/pipermail/dovecot-news/2019-December/000428.html
+https://dovecot.org/pipermail/dovecot-news/2020-February/000430.html
+https://dovecot.org/pipermail/dovecot-news/2020-February/000431.html
+https://dovecot.org/pipermail/dovecot-news/2021-January/000450.html
+https://dovecot.org/pipermail/dovecot-news/2021-January/000451.html
+https://dovecot.org/pipermail/dovecot/2015-April/100618.html
+https://dovecot.org/security
+https://dovecot.org/security.html

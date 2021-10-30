@@ -4,3 +4,12 @@ http://census-labs.com/news/2009/12/02/corehttp-web-server/
 http://census-labs.com/news/2011/10/03/netvolution-referer-SQLi/
 http://census-labs.com/news/2016/01/11/gdcm-buffer-overflow-imageregionreaderreadintobuffer/
 http://census-labs.com/news/2016/01/11/gdcm-out-bounds-read-jpeglscodec-decodeextent/
+https://census-labs.com/news/2016/03/30/kamailio-seas-heap-overflow/
+https://census-labs.com/news/2017/10/02/e2openplugin-openwebif-saveconfig-remote-code-execution/
+https://census-labs.com/news/2020/01/31/multiple-null-pointer-dereference-vulnerabilities-in-newlib/
+https://census-labs.com/news/2020/10/08/samsung-hypervisor-rkp-arbitrary-zero-write/
+https://census-labs.com/news/2020/10/21/microchip-asf4-integer-overflows-in-flash_read-flash_write-and-flash_append/
+https://census-labs.com/news/2020/10/21/microchip-cryptoauthlib-atcab_genkey_base-buffer-overflow/
+https://census-labs.com/news/2020/10/21/microchip-cryptoauthlib-atcab_sign_base-buffer-overflow/
+https://census-labs.com/news/2021/02/17/canary-mail-app-missing-certificate-validation-check-on-imap-starttls/
+https://census-labs.com/news/category/advisories/

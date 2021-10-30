@@ -7,3 +7,6 @@ http://www.mavitunasecurity.com/sql-injection-vulnerability-in-openemr/
 http://www.mavitunasecurity.com/xss-and-sql-injection-vulnerabilities-in-symphony-cms/
 http://www.mavitunasecurity.com/xss-vulnerability-in-joomla-163/
 http://www.mavitunasecurity.com/xss-vulnerability-in-twiki5
+https://www.mavitunasecurity.com/xss-and-sql-injection-vulnerabilities-in-minibb/
+https://www.mavitunasecurity.com/xss-vulnerabilities-in-mintboard/
+https://www.mavitunasecurity.com/xss-vulnerabilities-in-serendipity

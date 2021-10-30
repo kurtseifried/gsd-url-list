@@ -1,0 +1,10 @@
+https://www.bleepingcomputer.com/news/security/backdoor-account-found-in-d-link-dir-620-routers/
+https://www.bleepingcomputer.com/news/security/critical-netmask-networking-bug-impacts-thousands-of-applications/
+https://www.bleepingcomputer.com/news/security/firmware-vulnerabilities-disclosed-in-supermicro-server-products/
+https://www.bleepingcomputer.com/news/security/many-vpn-providers-leak-customers-ip-address-via-webrtc-bug/
+https://www.bleepingcomputer.com/news/security/new-hacking-tool-lets-users-access-a-bunch-of-dvrs-and-their-video-feeds/
+https://www.bleepingcomputer.com/news/security/qt5-based-gui-apps-susceptible-to-remote-code-execution/
+https://www.bleepingcomputer.com/news/security/sophos-fixes-sql-injection-vulnerability-in-their-cyberoam-os/
+https://www.bleepingcomputer.com/news/security/tormoil-vulnerability-leaks-real-ip-address-from-tor-browser-users/
+https://www.bleepingcomputer.com/news/security/uc-browser-for-android-desktop-exposes-500-million-users-to-mitm-attacks/
+https://www.bleepingcomputer.com/news/software/adwcleaner-801-fixes-dll-hijacking-vulnerability/

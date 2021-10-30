@@ -1,0 +1,3 @@
+https://www.gitorious.org/gnutls/gnutls/commit/688ea6428a432c39203d00acd1af0e7684e5ddfd
+https://www.gitorious.org/gnutls/gnutls/commit/b1abfe3d182d68539900092eb42fc62cf1bb7e7c
+https://www.gitorious.org/gnutls/gnutls/commit/d3648ebb04b650e6d20a2ec1fb839256b30b9fc6

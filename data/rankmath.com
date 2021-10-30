@@ -1,0 +1,1 @@
+https://rankmath.com/changelog/

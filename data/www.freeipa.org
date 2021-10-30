@@ -5,3 +5,6 @@ http://www.freeipa.org/page/Downloads
 http://www.freeipa.org/page/News
 http://www.freeipa.org/page/Releases/3.1.2
 http://www.freeipa.org/page/Releases/4.1.1
+https://www.freeipa.org/page/Releases/4.6.7
+https://www.freeipa.org/page/Releases/4.7.4
+https://www.freeipa.org/page/Releases/4.8.3

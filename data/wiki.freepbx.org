@@ -1,0 +1,10 @@
+https://wiki.freepbx.org/display/FOP/2018-09-11+Core+Stored+XSS?src=contextnavpagetreemode
+https://wiki.freepbx.org/display/FOP/2018-09-11+DISA+SQL+Injection
+https://wiki.freepbx.org/display/FOP/2019-11-20+Remote+Admin+Authentication+Bypass
+https://wiki.freepbx.org/display/FOP/2019-12-03+Multiple+XSS+Vulnerabilities
+https://wiki.freepbx.org/display/FOP/2019-12-03+Remote+Command+Execution
+https://wiki.freepbx.org/display/FOP/2020-01-09+XSS+Injection+vulnerability+in+Call+Event+Logging+module
+https://wiki.freepbx.org/display/FOP/2020-01-09+XSS+Injection+vulnerability+in+Superfecta+Module
+https://wiki.freepbx.org/display/FOP/2020-03-12+SECURITY%3A+Potential+Rest+Phone+Apps+RCE
+https://wiki.freepbx.org/display/FOP/List+of+Securities+Vulnerabilities
+https://wiki.freepbx.org/pages/viewpage.action?pageId=175177911

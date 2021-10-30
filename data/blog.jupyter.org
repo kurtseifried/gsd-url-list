@@ -1,0 +1,2 @@
+https://blog.jupyter.org/open-redirect-vulnerability-in-jupyter-jupyterhub-adf43583f1e4
+https://blog.jupyter.org/security-fix-for-jupyterhub-gitlab-oauthenticator-7b14571d1f76

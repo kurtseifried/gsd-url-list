@@ -1,0 +1,2 @@
+https://git.entrouvert.org/lasso.git/commit/?id=076a37d7f0eb74001127481da2d355683693cde9
+https://git.entrouvert.org/lasso.git/tree/NEWS?id=v2.7.0

@@ -16,3 +16,9 @@ http://rt.openssl.org/Ticket/Display.html?id=3200&amp;amp;user=guest&amp;amp;pas
 http://rt.openssl.org/Ticket/Display.html?id=3200&amp;user=guest&amp;pass=guest
 http://rt.openssl.org/Ticket/Display.html?id=3571&amp;amp;user=guest&amp;amp;pass=guest
 http://rt.openssl.org/Ticket/Display.html?id=3571&amp;user=guest&amp;pass=guest
+https://rt.openssl.org/Ticket/Display.html?id=2167&amp;amp;user=guest&amp;amp;pass=guest
+https://rt.openssl.org/Ticket/Display.html?id=2608&amp;amp;user=guest&amp;amp;pass=guest
+https://rt.openssl.org/Ticket/Display.html?id=3265&amp;amp;user=guest&amp;amp;pass=guest
+https://rt.openssl.org/Ticket/Display.html?id=3286&amp;amp;user=guest&amp;amp;pass=guest
+https://rt.openssl.org/Ticket/Display.html?id=3708&amp;amp;user=guest&amp;amp;pass=guest
+https://rt.openssl.org/Ticket/Display.html?user=guest&amp;amp;pass=guest&amp;amp;id=3321

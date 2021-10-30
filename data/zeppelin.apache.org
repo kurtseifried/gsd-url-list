@@ -1,0 +1,2 @@
+https://zeppelin.apache.org/releases/zeppelin-release-0.7.3.html
+https://zeppelin.apache.org/releases/zeppelin-release-0.8.0.html

@@ -1,0 +1,1 @@
+https://discourse.libsdl.org/t/vulnerabilities-found-in-libsdl-1-2-15/25720

@@ -17,3 +17,4 @@ http://www.scip.ch/cgi-bin/smss/showadvf.pl?id=3809
 http://www.scip.ch/en/?vuldb.75111
 http://www.scip.ch/publikationen/advisories/scip_advisory-2893_eportfolio_%201.0_java_multiple_vulnerabilities.txt
 http://www.scip.ch/publikationen/advisories/scip_advisory-4063_manageengine_pmp_script_injection.txt
+https://www.scip.ch/en/?labs.20180405

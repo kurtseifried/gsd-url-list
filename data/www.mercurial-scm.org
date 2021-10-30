@@ -1,0 +1,16 @@
+https://www.mercurial-scm.org/pipermail/mercurial-devel/2017-November/107333.html
+https://www.mercurial-scm.org/repo/hg-committed/log?rev=modifies%28%22mercurial%2Fmpatch.c%22%29+and+4.5%3A%3A
+https://www.mercurial-scm.org/repo/hg/rev/1acfc35d478c
+https://www.mercurial-scm.org/repo/hg/rev/5405cb1a7901
+https://www.mercurial-scm.org/repo/hg/rev/77eaf9539499
+https://www.mercurial-scm.org/repo/hg/rev/90a274965de7
+https://www.mercurial-scm.org/repo/hg/rev/faa924469635
+https://www.mercurial-scm.org/wiki/WhatsNew#Mercurial_3.7.3_.282016-3-29.29
+https://www.mercurial-scm.org/wiki/WhatsNew#Mercurial_3.8_.2F_3.8.1_.282016-5-1.29
+https://www.mercurial-scm.org/wiki/WhatsNew#Mercurial_4.1.3_.282017-4-18.29
+https://www.mercurial-scm.org/wiki/WhatsNew#Mercurial_4.3_.2F_4.3.1_.282017-08-10.29
+https://www.mercurial-scm.org/wiki/WhatsNew#Mercurial_4.4.1_.282017-11-07.29
+https://www.mercurial-scm.org/wiki/WhatsNew#Mercurial_4.5.1_.2F_4.5.2_.282018-03-06.29
+https://www.mercurial-scm.org/wiki/WhatsNew#Mercurial_4.6.1_.282018-06-06.29
+https://www.mercurial-scm.org/wiki/WhatsNew#Mercurial_4.7.2_.282018-10-01.29
+https://www.mercurial-scm.org/wiki/WhatsNew#Mercurial_4.9_.282019-02-01.29

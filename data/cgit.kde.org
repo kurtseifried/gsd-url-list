@@ -1,0 +1,14 @@
+https://cgit.kde.org/ark.git/commit/?id=82fdfd24d46966a117fa625b68784735a40f9065
+https://cgit.kde.org/kauth.git/commit/?id=df875f725293af53399f5146362eb158b4f9216a
+https://cgit.kde.org/kauth.git/commit/?id=fc70fb0161c1b9144d26389434d34dd135cd3f4a
+https://cgit.kde.org/kdelibs.git/commit/?id=264e97625abe2e0334f97de17f6ffb52582888ab
+https://cgit.kde.org/kmail.git/commit/?id=2a348eccd352260f192d9b449492071bbf2b34b1
+https://cgit.kde.org/kmail.git/tag/?h=v19.12.3
+https://cgit.kde.org/konversation.git/commit/?h=1.7&amp;amp;id=6a7f59ee1b9dbc6e5cf9e5f3b306504d02b73ef0
+https://cgit.kde.org/messagelib.git/commit/messageviewer/src/messagepartthemes/default/defaultrenderer.cpp?id=34765909cdf8e55402a8567b48fb288839c61612
+https://cgit.kde.org/okular.git/commit/?id=8ff7abc14d41906ad978b6bc67e69693863b9d47
+https://cgit.kde.org/plasma-workspace.git/commit/?id=5bc696b5abcdb460c1017592e80b2d7f6ed3107c
+https://cgit.kde.org/plasma-workspace.git/commit/?id=8164beac15ea34ec0d1564f0557fe3e742bdd938
+https://cgit.kde.org/plasma-workspace.git/commit/?id=9db872df82c258315c6ebad800af59e81ffb9212
+https://cgit.kde.org/smb4k.git/commit/?id=71554140bdaede27b95dbe4c9b5a028a83c83cce
+https://cgit.kde.org/smb4k.git/commit/?id=a90289b0962663bc1d247bbbd31b9e65b2ca000e

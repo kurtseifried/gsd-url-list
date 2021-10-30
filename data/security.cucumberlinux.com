@@ -8,3 +8,4 @@ http://security.cucumberlinux.com/security/details.php?id=163
 http://security.cucumberlinux.com/security/details.php?id=166
 http://security.cucumberlinux.com/security/details.php?id=169
 http://security.cucumberlinux.com/security/details.php?id=170
+https://security.cucumberlinux.com/security/details.php?id=346

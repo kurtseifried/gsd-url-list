@@ -1,3 +1,9 @@
+https://duo.com/blog/bug-hunting-drilling-into-the-internet-of-things-iot
+https://duo.com/blog/duo-finds-saml-vulnerabilities-affecting-multiple-implementations
+https://duo.com/blog/out-of-box-exploitation-a-security-analysis-of-oem-updaters
+https://duo.com/decipher/backdoor-found-in-webmin-utility
+https://duo.com/docs/dng-notes#version-1.5.4-january-2020
+https://duo.com/docs/rdp-notes
 https://duo.com/labs/psa/
 https://duo.com/labs/psa/duo-psa-2014-001
 https://duo.com/labs/psa/duo-psa-2014-002

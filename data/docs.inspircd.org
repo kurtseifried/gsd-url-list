@@ -1,0 +1,4 @@
+https://docs.inspircd.org/security/2019-01/
+https://docs.inspircd.org/security/2019-02/
+https://docs.inspircd.org/security/2020-01/
+https://docs.inspircd.org/security/2021-01/

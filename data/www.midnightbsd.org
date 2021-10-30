@@ -1,2 +1,3 @@
 http://www.midnightbsd.org/security/adv/MIDNIGHTBSD-SA-20:01.txt
 http://www.midnightbsd.org/security/adv/MIDNIGHTBSD-SA-20:02.txt
+https://www.midnightbsd.org/notes/

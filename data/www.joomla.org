@@ -25,3 +25,4 @@ http://www.joomla.org/content/view/5180/1/
 http://www.joomla.org/content/view/5180/1/1/1/#htaccess
 http://www.joomla.org/content/view/738/66/
 http://www.joomla.org/content/view/938/78/
+https://www.joomla.org/announcements/release-news/5693-joomla-3-6-5-released.html

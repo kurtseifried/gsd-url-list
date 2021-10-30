@@ -1,0 +1,2 @@
+https://tiifp.org/tarkus/advisories/b2evolution111106_01.txt
+https://tiifp.org/tarkus/advisories/panda030707.txt

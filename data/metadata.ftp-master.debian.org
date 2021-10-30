@@ -2,3 +2,4 @@ http://metadata.ftp-master.debian.org/changelogs//main/d/dpkg/dpkg_1.15.10_chang
 http://metadata.ftp-master.debian.org/changelogs//main/u/unattended-upgrades/unattended-upgrades_0.86.1_changelog
 http://metadata.ftp-master.debian.org/changelogs/main/p/postgresql-common/postgresql-common_181+deb9u1_changelog
 http://metadata.ftp-master.debian.org/changelogs/main/s/sensible-utils/sensible-utils_0.0.11_changelog
+https://metadata.ftp-master.debian.org/changelogs/main/a/avahi/avahi_0.8-4_changelog

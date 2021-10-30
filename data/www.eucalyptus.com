@@ -9,3 +9,9 @@ http://www.eucalyptus.com/resources/security/advisories/esa-09
 http://www.eucalyptus.com/resources/security/advisories/esa-10
 http://www.eucalyptus.com/resources/security/advisories/esa-12
 http://www.eucalyptus.com/resources/security/advisories/esa-13
+https://www.eucalyptus.com/resources/security/advisories/esa-15
+https://www.eucalyptus.com/resources/security/advisories/esa-16
+https://www.eucalyptus.com/resources/security/advisories/esa-23
+https://www.eucalyptus.com/resources/security/advisories/esa-25
+https://www.eucalyptus.com/resources/security/advisories/esa-26
+https://www.eucalyptus.com/resources/security/advisories/esa-32

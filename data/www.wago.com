@@ -1,1 +1,4 @@
 http://www.wago.com/wagoweb/documentation/app_note/a1176/a117600e.pdf
+https://www.wago.com/medias/SA-WBM-2018-004.pdf?context=bWFzdGVyfHJvb3R8MjgyNzYwfGFwcGxpY2F0aW9uL3BkZnxoMWUvaDg4LzkzNjE3NTIxOTUxMDIucGRmfDU1NmJkYjEzNDY0ZGU4OWQ1OTMyMjUwNTlmZTI0MzgwNDQ1MDY1YzU3OWRmZDk1NzYzODAwMDI3ODg1NDJlZjU
+https://www.wago.com/medias/Vulnerability-in-the-WAGO-Ethernet-TCP-IP-driver.pdf?context=bWFzdGVyfHJvb3R8MjgxNDk0fGFwcGxpY2F0aW9uL3BkZnxoOTcvaDhkLzkxNTAyMjMyMjA3NjYucGRmfGRlNWQ4ODc0NTE5M2UyNTUwNTIyNDRlOWFkNWI2YjNkMzg0YTVhYzlmYTBjNzM4MDdmNmYzOTM5M2ZlMGEzNzE
+https://www.wago.com/us/

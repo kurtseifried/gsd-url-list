@@ -1,0 +1,2 @@
+https://forge.glpi-project.org/issues/5217
+https://forge.glpi-project.org/issues/5218

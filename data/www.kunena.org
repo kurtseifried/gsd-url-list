@@ -1,2 +1,5 @@
 http://www.kunena.org/blog/139-kunena-3-0-6-released
 http://www.kunena.org/docs/Kunena_3.0.6_Read_Me
+https://www.kunena.org/blog/179-kunena-5-0-4-released
+https://www.kunena.org/blog/207-kunena-5-1-14-released
+https://www.kunena.org/bugs/changelog

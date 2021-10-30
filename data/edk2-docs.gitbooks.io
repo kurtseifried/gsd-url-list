@@ -1,0 +1,11 @@
+https://edk2-docs.gitbooks.io/security-advisory/content/authvariable-timestamp-zeroing-on-append_write.html
+https://edk2-docs.gitbooks.io/security-advisory/content/buffer-overflow-in-blockio-service-for-ram-disk.html
+https://edk2-docs.gitbooks.io/security-advisory/content/dns-pack-size-check.html
+https://edk2-docs.gitbooks.io/security-advisory/content/opal-blocksid-setting-disabled-after-s3.html
+https://edk2-docs.gitbooks.io/security-advisory/content/partitiondxe-and-udf-buffer-overflow.html
+https://edk2-docs.gitbooks.io/security-advisory/content/stack-overflow-on-corrupted-bmp.html
+https://edk2-docs.gitbooks.io/security-advisory/content/sw-smi-confused-deputy-smramsavestate_c.html
+https://edk2-docs.gitbooks.io/security-advisory/content/uefi-variable-deletioncorruption.html
+https://edk2-docs.gitbooks.io/security-advisory/content/unauthenticated-firmware-chain-of-trust-bypass.html
+https://edk2-docs.gitbooks.io/security-advisory/content/unlimited-fv-recursion.html
+https://edk2-docs.gitbooks.io/security-advisory/content/xhci-stack-local-stack-overflow.html

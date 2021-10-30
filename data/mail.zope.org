@@ -3,3 +3,7 @@ http://mail.zope.org/pipermail/zope-announce/2006-July/001984.html
 http://mail.zope.org/pipermail/zope-announce/2009-August/002220.html
 http://mail.zope.org/pipermail/zope-dev/2009-July/037195.html
 http://mail.zope.org/pipermail/zope/2008-August/174025.html
+https://mail.zope.org/pipermail/zope-announce/2009-September/002221.html
+https://mail.zope.org/pipermail/zope-announce/2010-January/002229.html
+https://mail.zope.org/pipermail/zope-announce/2010-September/002247.html
+https://mail.zope.org/pipermail/zope-announce/2011-June/002260.html

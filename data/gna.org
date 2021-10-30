@@ -1,1 +1,6 @@
 http://gna.org/bugs/?15624
+https://gna.org/bugs/?23504
+https://gna.org/bugs/index.php?13031
+https://gna.org/bugs/index.php?13037
+https://gna.org/bugs/index.php?13048
+https://gna.org/forum/forum.php?forum_id=2146

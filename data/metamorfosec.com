@@ -1,0 +1,15 @@
+https://metamorfosec.com/Files/Advisories/METS-2018-001-A_XSS_Vulnerability_in_OJS_3.0.0_to_3.1.1-1.txt
+https://metamorfosec.com/Files/Advisories/METS-2018-002-A_XSS_Vulnerability_in_OMP_1.2.0_to_3.1.1-2.txt
+https://metamorfosec.com/Files/Advisories/METS-2018-003-A_XSS_Vulnerability_in_German_Spelling_Dictionary_1.3.txt
+https://metamorfosec.com/Files/Advisories/METS-2018-004-A_XSS_Vulnerability_in_Jenzabar_8.2.1_to_9.2.0.txt
+https://metamorfosec.com/Files/Advisories/METS-2019-001-Multiple_XSS_Vulnerabilities_in_ProfileDesign_CMS_v6.0.2.5.txt
+https://metamorfosec.com/Files/Advisories/METS-2019-002-Multiple_Stored_XSS_Vulnerabilities_in_the_MyThemeShop_Launcher_plugin_v1.0.8_for_WordPress.txt
+https://metamorfosec.com/Files/Advisories/METS-2019-003-Denial_of_Service_in_PS_PHPCaptcha_WP_before_v1.2.0.txt
+https://metamorfosec.com/Files/Advisories/METS-2019-004-A_XSS_Vulnerability_in_Parallax_Scroll_plugin_before_v2.1_for_WordPress.txt
+https://metamorfosec.com/Files/Advisories/METS-2019-005-A_division_by_zero_in_Hoteldruid_before_v2.3.1.txt
+https://metamorfosec.com/Files/Advisories/METS-2019-006-An_Invalid_Arguments_in_Hoteldruid_before_v2.3.1.txt
+https://metamorfosec.com/Files/Advisories/METS-2019-007-A_SQL_Injection_in_HotelDruid_before_v2.3.1.txt
+https://metamorfosec.com/Files/Advisories/METS-2019-008-A_SQL_Injection_in_HotelDruid_before_v2.3.1.txt
+https://metamorfosec.com/Files/Advisories/METS-2020-001-A_XSS_Vulnerability_in_Sell_Media_Plugin_v2.4.1_for_WordPress.txt
+https://metamorfosec.com/Files/Advisories/METS-2020-002-A_Stored_XSS_Vulnerability_in_Galileo_CMS_v0.042.txt
+https://metamorfosec.com/Files/Commits/METC-2020-002-Escape_banner_in_Galileo_CMS_v0.042.txt

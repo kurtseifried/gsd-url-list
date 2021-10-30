@@ -1,0 +1,1 @@
+https://git.schokokeks.org/freewvs.git/blob/ddc4be296c9c49987b53be064d6d2a9d12f50452/freewvsdb/plugins.freewvs

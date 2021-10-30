@@ -4,3 +4,6 @@ http://forums.cubecart.com/index.php?showtopic=39748
 http://forums.cubecart.com/index.php?showtopic=39900
 http://forums.cubecart.com/index.php?showtopic=41469
 http://forums.cubecart.com/topic/48427-cubecart-529-relased/
+https://forums.cubecart.com/topic/50277-critical-security-issue-admin-account-hijack/
+https://forums.cubecart.com/topic/52088-cubecart-614-released/
+https://forums.cubecart.com/topic/52188-cubecart-615-released/

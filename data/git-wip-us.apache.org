@@ -1,0 +1,9 @@
+https://git-wip-us.apache.org/repos/asf?p=camel.git;a=commitdiff;h=1df559649a96a1ca0368373387e542f46e4820da
+https://git-wip-us.apache.org/repos/asf?p=camel.git;a=commitdiff;h=7d19340bcdb42f7aae584d9c5003ac4f7ddaee36
+https://git-wip-us.apache.org/repos/asf?p=cxf-fediz.git;a=commit;h=0006581e9cacbeef46381a223e5671e524d416b6
+https://git-wip-us.apache.org/repos/asf?p=cxf-fediz.git;a=commit;h=f65c961ea31e3c1851daba8e7e49fc37bbf77b19
+https://git-wip-us.apache.org/repos/asf?p=cxf.git;a=commitdiff;h=845eccb6484b43ba02875c71e824db23ae4f20c0
+https://git-wip-us.apache.org/repos/asf?p=deltaspike.git;h=4e25023
+https://git-wip-us.apache.org/repos/asf?p=qpid-proton.git;h=a058585
+https://git-wip-us.apache.org/repos/asf?p=zookeeper.git;a=commitdiff;h=27ecf981a15554dc8e64a28630af7a5c9e2bdf4f
+https://git-wip-us.apache.org/repos/asf?p=zookeeper.git;a=commitdiff;h=f09154d6648eeb4ec5e1ac8a2bacbd2f8c87c14a

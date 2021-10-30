@@ -15,3 +15,7 @@ http://perl5.git.perl.org/perl.git/commitdiff/9d83adc
 http://perl5.git.perl.org/perl.git/commitdiff/ae37b791a73a9e78dedb89fb2429d2628cf58076
 http://perl5.git.perl.org/perl.git/commitdiff/d59e31f
 http://perl5.git.perl.org/perl.git/commitdiff/e46d973584785af1f445c4dedbee4243419cb860#patch5
+https://perl5.git.perl.org/perl.git/commitdiff/2be4edede4ae226e2eebd4eff28cedd2041f300f#patch1
+https://perl5.git.perl.org/perl.git/commitdiff/96c83ed78aeea1a0496dd2b2d935869a822dc8a5
+https://perl5.git.perl.org/perl.git/log/refs/tags/v5.24.3-RC1
+https://perl5.git.perl.org/perl.git/log/refs/tags/v5.26.1-RC1

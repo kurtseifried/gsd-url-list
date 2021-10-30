@@ -2,3 +2,4 @@ http://hg.tryton.org/2.4/trytond/rev/279f0031b461
 http://hg.tryton.org/tryton/rev/357d0a4d9cb8
 http://hg.tryton.org/trytond/rev/8e64d52ecea4
 http://hg.tryton.org/trytond?cmd=changeset;node=472510fdc6f8
+https://hg.tryton.org/trytond/rev/f58bbfe0aefb

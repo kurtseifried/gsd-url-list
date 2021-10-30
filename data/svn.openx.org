@@ -1,0 +1,4 @@
+https://svn.openx.org/openx/trunk/lib/templates/admin/plugin-group-view.html
+https://svn.openx.org/openx/trunk/www/admin/campaign-zone-link.php
+https://svn.openx.org/openx/trunk/www/admin/plugin-index.php
+https://svn.openx.org/openx/trunk/www/admin/plugin-settings.php

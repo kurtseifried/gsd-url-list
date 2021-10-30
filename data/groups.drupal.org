@@ -1,1 +1,3 @@
 http://groups.drupal.org/node/216314
+https://groups.drupal.org/node/402023
+https://groups.drupal.org/security/faq-2018-002

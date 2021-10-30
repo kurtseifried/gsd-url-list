@@ -2,3 +2,6 @@ http://dev.dotclear.org/2.0/changeset/2:3427
 http://dev.dotclear.org/2.0/changeset/3b0b868d58b00a1b216e0dc13c461bb3550ed3da
 http://dev.dotclear.org/2.0/changeset/445e9ff79a1fa81033591761d6a340e219d159b2
 http://dev.dotclear.org/2.0/ticket/2214
+https://dev.dotclear.org/2.0/changeset/1e44804e7c85b45f42245111c8c0de100a2ff6e3
+https://dev.dotclear.org/2.0/changeset/5536ac77e915
+https://dev.dotclear.org/2.0/ticket/2224

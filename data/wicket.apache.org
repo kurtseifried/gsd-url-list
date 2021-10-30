@@ -4,3 +4,8 @@ http://wicket.apache.org/2012/03/22/wicket-cve-2012-1089.html
 http://wicket.apache.org/2012/09/06/cve-2012-3373.html
 http://wicket.apache.org/news/2016/03/01/cve-2015-5347.html
 http://wicket.apache.org/news/2016/03/02/cve-2015-7520.html
+https://wicket.apache.org/2013/05/17/wicket-6.8.0-released.html
+https://wicket.apache.org/2014/02/06/cve-2013-2055.html
+https://wicket.apache.org/news/2013/03/03/cve-2012-5636.html
+https://wicket.apache.org/news/2014/09/22/cve-2014-3526.html
+https://wicket.apache.org/news/2016/12/31/cve-2016-6793.html

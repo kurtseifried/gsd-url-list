@@ -1,1 +1,2 @@
 http://groovy-lang.org/security.html
+https://groovy-lang.org/security.html#CVE-2020-17521

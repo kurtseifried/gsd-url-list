@@ -1,3 +1,12 @@
 http://www.dahuasecurity.com/annoucementsingle/security-advisory--admin-password-recovery-mechanism-in-some-dahua-ip-camera-and-ip-ptz-could-lead-to-security-risk_14731_221.html
 http://www.dahuasecurity.com/annoucementsingle/security-advisory--authentication-vulnerability-found-in-some-dahua-nvr_14731_211.html
 http://www.dahuasecurity.com/annoucementsingle/security-advisory--high-risk-vulnerability-found-in-dahua-ipc-hdw4300s-and-some-ip-products_14731_231.html
+https://www.dahuasecurity.com/support/cybersecurity/annoucementNotice/337
+https://www.dahuasecurity.com/support/cybersecurity/details/617
+https://www.dahuasecurity.com/support/cybersecurity/details/627?us
+https://www.dahuasecurity.com/support/cybersecurity/details/637
+https://www.dahuasecurity.com/support/cybersecurity/details/727
+https://www.dahuasecurity.com/support/cybersecurity/details/757
+https://www.dahuasecurity.com/support/cybersecurity/details/767
+https://www.dahuasecurity.com/support/cybersecurity/details/777
+https://www.dahuasecurity.com/support/cybersecurity/details/957

@@ -2,3 +2,13 @@ http://payatu.com/oob-write-heap-buffer-dwcompressionsize-ms-wim/
 http://payatu.com/quick-heal-antivirus-protection-mechanism-failure-vulnerability/
 http://payatu.com/quick-heal-internet-security-memory-corruption-vulnerability-2/
 http://payatu.com/quick-heal-internet-security-memory-corruption-vulnerability/
+https://payatu.com/advisory/dos-in-aedes-mqtt-broker
+https://payatu.com/advisory/hivemq-mqtt-broker---xss-over-mqtt
+https://payatu.com/advisory/lack-of-bluetooth-le-encryption-and-access-control-in-dr-trust-ecg-or-ekg-pen
+https://payatu.com/advisory/lack-of-medical-data-encryption-in-dr-trust-ecg-or-ekg-pen
+https://payatu.com/advisory/lack-of-medical-data-encryption-in-niscomed-patient-monitor
+https://payatu.com/advisory/unauthenticated-telnet-service-in-niscomed-patient-monitor
+https://payatu.com/advisory/unauthenticated-uart-root-shell--in-niscomed-patient-monitor
+https://payatu.com/blog/munawwar/trendNet-wireless-camera-buffer-overflow-vulnerability
+https://payatu.com/ibaton-routers-responsible-disclosure/
+https://payatu.com/yeelight-smart-ai-speaker-responsible-disclosure/

@@ -3,3 +3,10 @@ http://trac.transmissionbt.com/changeset/9829/
 http://trac.transmissionbt.com/ticket/2965
 http://trac.transmissionbt.com/wiki/Changes
 http://trac.transmissionbt.com/wiki/Changes#version-1.77
+https://trac.transmissionbt.com/changeset/13646
+https://trac.transmissionbt.com/ticket/1242
+https://trac.transmissionbt.com/ticket/2965
+https://trac.transmissionbt.com/ticket/4979
+https://trac.transmissionbt.com/ticket/5002
+https://trac.transmissionbt.com/wiki/Changes#version-2.61
+https://trac.transmissionbt.com/wiki/Changes#version-2.84

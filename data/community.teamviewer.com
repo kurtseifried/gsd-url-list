@@ -1,0 +1,13 @@
+https://community.teamviewer.com/English/discussion/111147/windows-v9-0-259145
+https://community.teamviewer.com/English/discussion/111149/windows-v10-0-259144
+https://community.teamviewer.com/English/discussion/111150/windows-v11-0-259143
+https://community.teamviewer.com/English/discussion/111151/windows-v12-0-259142
+https://community.teamviewer.com/English/discussion/111152/windows-v13-2-36222
+https://community.teamviewer.com/English/discussion/111153/windows-v14-2-56678
+https://community.teamviewer.com/English/discussion/111154/windows-v14-7-48644
+https://community.teamviewer.com/English/discussion/117794/august-updates-security-patches/p1
+https://community.teamviewer.com/t5/Announcements/Security-bulletin-CVE-2019-18196/td-p/74564
+https://community.teamviewer.com/t5/Announcements/Specification-on-CVE-2019-18988/td-p/82264
+https://community.teamviewer.com/t5/Announcements/Statement-on-CVE-2020-13699/td-p/98448
+https://community.teamviewer.com/t5/Knowledge-Base/tkb-p/Knowledgebase?threadtype=label&amp;amp;labels=Security
+https://community.teamviewer.com/t5/Knowledge-Base/tkb-p/Knowledgebase?type=label&amp;amp;labels=Security

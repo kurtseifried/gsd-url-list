@@ -1,0 +1,1 @@
+https://discuss.gradle.org/t/a-security-issue-about-gradle-rce/17726

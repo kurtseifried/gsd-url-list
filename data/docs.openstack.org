@@ -1,0 +1,5 @@
+https://docs.openstack.org/releasenotes/ironic-inspector/ocata.html#relnotes-5-0-2-7-origin-stable-ocata
+https://docs.openstack.org/releasenotes/ironic-inspector/pike.html#relnotes-6-0-3-4-stable-pike
+https://docs.openstack.org/releasenotes/ironic-inspector/queens.html#relnotes-7-2-4-stable-queens
+https://docs.openstack.org/releasenotes/ironic-inspector/rocky.html#relnotes-8-0-3-stable-rocky
+https://docs.openstack.org/releasenotes/ironic-inspector/stein.html#relnotes-8-2-1-stable-stein

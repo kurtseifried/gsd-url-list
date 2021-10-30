@@ -1,0 +1,9 @@
+https://www.playframework.com/security/vulnerability
+https://www.playframework.com/security/vulnerability/CVE-2015-2156-HttpOnlyBypass
+https://www.playframework.com/security/vulnerability/CVE-2018-13864-PathTraversal
+https://www.playframework.com/security/vulnerability/CVE-2019-17598-PlayWSHttpConnectAuthorizationHeaders
+https://www.playframework.com/security/vulnerability/CVE-2020-12480-CsrfBlacklistBypass
+https://www.playframework.com/security/vulnerability/CVE-2020-26882-JsonParseDataAmplification
+https://www.playframework.com/security/vulnerability/CVE-2020-26883-JsonParseUncontrolledRecursion
+https://www.playframework.com/security/vulnerability/CVE-2020-27196-DosViaJsonStackOverflow
+https://www.playframework.com/security/vulnerability/CVE-2020-28923-ImproperRemovalofSensitiveInformationBeforeStorageorTransfer

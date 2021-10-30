@@ -4,3 +4,11 @@ http://www.telerik.com/support/kb/aspnet-ajax/upload-%28async%29/details/insecur
 http://www.telerik.com/support/kb/aspnet-ajax/upload-%28async%29/details/unrestricted-file-upload
 http://www.telerik.com/support/whats-new/reporting/release-history/telerik-reporting-r1-2017-sp2-%28version-11-0-17-406%29
 http://www.telerik.com/support/whats-new/reporting/release-history/telerik-reporting-r1-2017-sp2-(version-11-0-17-406)
+https://www.telerik.com/forums/-620f6977edef
+https://www.telerik.com/forums/path-traversal-vulnerability-in-radchart-image-handler
+https://www.telerik.com/support/code-library/security-alert-for-the-obsolete-telerik-extensions-for-asp-net-mvc
+https://www.telerik.com/support/kb/aspnet-ajax/details/allows-javascriptserializer-deserialization
+https://www.telerik.com/support/whats-new/aspnet-ajax/release-history/ui-for-asp-net-ajax-r1-2020-%28version-2020-1-114%29
+https://www.telerik.com/support/whats-new/fiddler/release-history/fiddler-v5.0.20204
+https://www.telerik.com/support/whats-new/justdecompile/release-history/justdecompile-r2-2018-sp1
+https://www.telerik.com/support/whats-new/release-history

@@ -1,0 +1,13 @@
+https://0day4u.wordpress.com/2018/02/21/d-link-dir-600m-wireless-stored-xss/
+https://0day4u.wordpress.com/2018/02/22/schools-alert-management-script-2-0-2-authentication-bypass/
+https://0day4u.wordpress.com/2018/03/09/buffer-overflow-on-cloudme-sync-v1-11-0/
+https://0day4u.wordpress.com/2018/03/12/97/
+https://0day4u.wordpress.com/2018/03/12/car-rental-script-stored-xss/
+https://0day4u.wordpress.com/2018/03/12/hot-scripts-clone-script-classified-improper-validation-of-email-address/
+https://0day4u.wordpress.com/2018/03/12/image-sharing-script-stored-xss/
+https://0day4u.wordpress.com/2018/03/12/website-broker-script-stored-xss/
+https://0day4u.wordpress.com/2018/03/12/website-seller-script-improper-validation-of-email-address/
+https://0day4u.wordpress.com/2018/03/19/coship-rt3052-wireless-router-persistent-cross-site-scripting-xss/
+https://0day4u.wordpress.com/2018/03/19/student-profile-management-system-script-stored-xss/
+https://0day4u.wordpress.com/2018/03/19/website-seller-script-reflected-xss/
+https://0day4u.wordpress.com/2018/03/30/buffer-overflow-on-dvd-x-player-standard-5-5-3-9/

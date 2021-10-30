@@ -1,0 +1,16 @@
+https://www.esecforte.com/cross-site-scripting-via-file-upload-vulnerability-in-solarwinds-web-help-desk/
+https://www.esecforte.com/cross-site-scripting-vulnerability-in-solarwinds-web-help-desk-cve-2019-16961-responsible-vulnerability-disclosure/
+https://www.esecforte.com/cross-site-scripting-vulnerability-in-solarwinds-web-help-desk/
+https://www.esecforte.com/cross-site-scripting-vulnerability-india-responsible-vulnerability-disclosure/
+https://www.esecforte.com/cross-site-scripting-vulnerability-with-solarwinds-web-help-desk/
+https://www.esecforte.com/cve-2019-12954-solarwinds-network-performance-monitor-orion-platform-2018-npm-12-3-netpath-1-1-3-vulnerable-for-stored-xss/
+https://www.esecforte.com/endpoint-protector-india-cososys-dlp/
+https://www.esecforte.com/formula-injection-vulnerability-india-in-solarwinds-web-help-desk/
+https://www.esecforte.com/html-injection-vulnerability-in-solarwinds-web-help-desk/
+https://www.esecforte.com/manage-engine-desktopcentral-india-html-injection-vulnerability/
+https://www.esecforte.com/network-performance-monitor-india-esec-forte-technologies/
+https://www.esecforte.com/responsible-vulnerability-disclosure-cve-2019-12863-stored-html-injection-vulnerability-in-solarwinds-orion-platform-2018-4-hf3-npm-12-4-netpath-1-1-4/
+https://www.esecforte.com/responsible-vulnerability-disclosure-cve-2019-15510-manageengine-desktopcentral-v-10-vulnerable-to-html-injection/
+https://www.esecforte.com/responsible-vulnerability-disclosure-cve-2019-16268-html-injection-vulnerability-in-manageengine-remote-access-plus/
+https://www.esecforte.com/responsible-vulnerability-disclosure-cve-2019-16960-cross-site-scripting-vulnerability-in-solarwinds-web-help-desk/
+https://www.esecforte.com/server-side-request-forgery-india-ssrf-rvd-manage-engine/

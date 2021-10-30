@@ -1,0 +1,4 @@
+https://gist.githubusercontent.com/henices/db11664dd45b9f322f8514d182aef5ea/raw/d56940c8bf211992bf4f3309a85bb2b69383e511/CVE-2020-26664.txt
+https://gist.githubusercontent.com/mke1985/a21a71098f48829916dfec74eff1e24a/raw/f635b060ad03e23fd887de48a79b70040daadadb/CVE-2021-32051
+https://gist.githubusercontent.com/zeropwn/59f17727dfaba239b0ace6f33b752974/raw/9b6541a94ac5ec181a88e6c84cb3e3001025b8fd/Axway%2520SecureTransport%25205.x%2520Unauthenticated%2520XXE
+https://gist.githubusercontent.com/zeropwn/630832df151029cb8f22d5b6b9efaefb/raw/64aa3d30279acb207f787ce9c135eefd5e52643b/kde-kdesktopfile-command-injection.txt

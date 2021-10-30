@@ -1,0 +1,17 @@
+https://privacy.mi.com/trust#/security/vulnerability-management/vulnerability-announcement/detail?id=13
+https://privacy.mi.com/trust#/security/vulnerability-management/vulnerability-announcement/detail?id=14
+https://privacy.mi.com/trust#/security/vulnerability-management/vulnerability-announcement/detail?id=15
+https://privacy.mi.com/trust#/security/vulnerability-management/vulnerability-announcement/detail?id=16
+https://privacy.mi.com/trust#/security/vulnerability-management/vulnerability-announcement/detail?id=17&amp;amp;locale=zh
+https://privacy.mi.com/trust#/security/vulnerability-management/vulnerability-announcement/detail?id=18&amp;amp;locale=en
+https://privacy.mi.com/trust#/security/vulnerability-management/vulnerability-announcement/detail?id=19&amp;amp;locale=en
+https://privacy.mi.com/trust#/security/vulnerability-management/vulnerability-announcement/detail?id=20&amp;amp;locale=en
+https://privacy.mi.com/trust#/security/vulnerability-management/vulnerability-announcement/detail?id=21&amp;amp;locale=en
+https://privacy.mi.com/trust#/security/vulnerability-management/vulnerability-announcement/detail?id=22&amp;amp;locale=en
+https://privacy.mi.com/trust#/security/vulnerability-management/vulnerability-announcement/detail?id=23&amp;amp;locale=en
+https://privacy.mi.com/trust#/security/vulnerability-management/vulnerability-announcement/detail?id=24&amp;amp;locale=en
+https://privacy.mi.com/trust#/security/vulnerability-management/vulnerability-announcement/detail?id=25&amp;amp;locale=zh
+https://privacy.mi.com/trust#/security/vulnerability-management/vulnerability-announcement/detail?id=26&amp;amp;locale=zh
+https://privacy.mi.com/trust#/security/vulnerability-management/vulnerability-announcement/detail?id=27&amp;amp;locale=zh
+https://privacy.mi.com/trust#/security/vulnerability-management/vulnerability-announcement/detail?id=28&amp;amp;locale=zh
+https://privacy.mi.com/trust#/security/vulnerability-management/vulnerability-announcement/detail?id=29&amp;amp;locale=zh

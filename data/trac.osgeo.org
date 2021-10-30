@@ -11,3 +11,7 @@ http://trac.osgeo.org/mapserver/ticket/3484
 http://trac.osgeo.org/mapserver/ticket/3485
 http://trac.osgeo.org/mapserver/ticket/3903
 http://trac.osgeo.org/mapserver/ticket/3939
+https://trac.osgeo.org/mapserver/ticket/3641
+https://trac.osgeo.org/postgis/changeset/15444
+https://trac.osgeo.org/postgis/changeset/15445
+https://trac.osgeo.org/postgis/ticket/3704

@@ -1,0 +1,9 @@
+https://bugs.torproject.org/21534
+https://bugs.torproject.org/24244
+https://bugs.torproject.org/24245
+https://bugs.torproject.org/24246
+https://bugs.torproject.org/24313
+https://bugs.torproject.org/24333
+https://bugs.torproject.org/24430
+https://bugs.torproject.org/tpo/core/tor/40078
+https://bugs.torproject.org/tpo/core/tor/40316

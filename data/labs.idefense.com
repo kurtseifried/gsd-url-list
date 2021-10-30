@@ -436,3 +436,7 @@ http://labs.idefense.com/intelligence/vulnerabilities/display.php?id=919
 http://labs.idefense.com/intelligence/vulnerabilities/display.php?id=922
 http://labs.idefense.com/intelligence/vulnerabilities/display.php?id=928
 http://labs.idefense.com/intelligence/vulnerabilities/display.php?id=929
+https://labs.idefense.com/verisign/intelligence/2009/vulnerabilities/display.php?id=943
+https://labs.idefense.com/verisign/intelligence/2009/vulnerabilities/display.php?id=944
+https://labs.idefense.com/verisign/intelligence/2009/vulnerabilities/display.php?id=945
+https://labs.idefense.com/verisign/intelligence/2009/vulnerabilities/display.php?id=947

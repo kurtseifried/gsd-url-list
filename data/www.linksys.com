@@ -6,3 +6,4 @@ http://www.linksys.com/servlet/Satellite?blobcol=urldata&amp;blobheadername1=Con
 http://www.linksys.com/servlet/Satellite?blobcol=urldata&amp;blobheadername1=Content-Type&amp;blobheadername2=Content-Disposition&amp;blobheadervalue1=text%2Fplain&amp;blobheadervalue2=inline%3B+filename%3DWVC54GC-V1.0_non-RoHS-v1.25_fw_ver.txt&amp;blobkey=id&amp;blobtable=MungoBlobs&amp;blobwhere=1193776031728&amp;ssbinary=true&amp;lid=8104724130B17
 http://www.linksys.com/servlet/Satellite?c=L_Download_C2&amp;amp;childpagename=US%2FLayout&amp;amp;cid=1115417109934&amp;amp;packedargs=sku%3D1144763513196&amp;amp;pagename=Linksys%2FCommon%2FVisitorWrapper
 http://www.linksys.com/servlet/Satellite?c=L_Download_C2&amp;childpagename=US%2FLayout&amp;cid=1115417109934&amp;packedargs=sku%3D1144763513196&amp;pagename=Linksys%2FCommon%2FVisitorWrapper
+https://www.linksys.com/us/support-article?articleNum=207568

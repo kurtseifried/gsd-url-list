@@ -8,3 +8,8 @@ http://lists.samba.org/archive/linux-cifs-client/2010-April/005757.html
 http://lists.samba.org/archive/rsync/2011-January/025988.html
 http://lists.samba.org/archive/samba-announce/2010/000211.html
 http://lists.samba.org/archive/samba-technical/2002-June/022075.html
+https://lists.samba.org/archive/samba-announce/2012/000259.html
+https://lists.samba.org/archive/samba-technical/2012-June/084593.html
+https://lists.samba.org/archive/samba-technical/2013-November/096411.html
+https://lists.samba.org/archive/samba-technical/2014-July/101132.html
+https://lists.samba.org/archive/samba-technical/2020-September/135747.html

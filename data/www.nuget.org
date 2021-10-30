@@ -1,0 +1,4 @@
+https://www.nuget.org/packages/HtmlSanitizer/
+https://www.nuget.org/packages/OPCFoundation.NetStandard.Opc.Ua/
+https://www.nuget.org/packages/Sustainsys.Saml2/
+https://www.nuget.org/packages/Wire/

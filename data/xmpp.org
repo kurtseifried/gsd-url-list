@@ -1,2 +1,3 @@
 http://xmpp.org/resources/security-notices/server-dialback/
 http://xmpp.org/resources/security-notices/uncontrolled-resource-consumption-with-highly-compressed-xmpp-stanzas/
+https://xmpp.org/extensions/xep-0223.html#howitworks

@@ -81,3 +81,7 @@ https://dev.mysql.com/doc/relnotes/mysql/5.5/en/news-5-5-57.html
 https://dev.mysql.com/doc/relnotes/mysql/5.5/en/news-5-5-58.html
 https://dev.mysql.com/doc/relnotes/mysql/5.5/en/news-5-5-59.html
 https://dev.mysql.com/doc/relnotes/mysql/5.5/en/news-5-5-60.html
+https://dev.mysql.com/doc/relnotes/mysql/5.6/en/news-5-6-28.html
+https://dev.mysql.com/doc/relnotes/mysql/5.6/en/news-5-6-33.html
+https://dev.mysql.com/doc/relnotes/mysql/5.7/en/news-5-7-15.html
+https://dev.mysql.com/doc/relnotes/mysql/8.0/en/news-8-0-1.html

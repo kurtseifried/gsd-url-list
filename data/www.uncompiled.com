@@ -6,3 +6,4 @@ http://www.uncompiled.com/2010/12/pulse-cms-basic-local-file-inclusion-vulnerabi
 http://www.uncompiled.com/2011/01/seo-panel-cookie-rendered-persistent-xss-vulnerability-cve-2010-4331/
 http://www.uncompiled.com/2011/03/cve-2011-1546/
 http://www.uncompiled.com/2011/03/quick-polls-local-file-inclusion-deletion-vulnerabilities-cve-2011-1099/
+https://www.uncompiled.com/2010/11/free-simple-software-sql-injection-vulnerability-cve-2010-4298/

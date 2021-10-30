@@ -1,0 +1,2 @@
+https://dist.apache.org/repos/dist/release/apr/patches/apr-1.7.0-CVE-2021-35940.patch
+https://dist.apache.org/repos/dist/release/tika/CHANGES-1.14.txt

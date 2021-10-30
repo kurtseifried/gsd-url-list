@@ -1,1 +1,8 @@
 http://www.open-emr.org/wiki/index.php/OpenEMR_Patches
+https://www.open-emr.org/wiki/images/1/11/Openemr_insecurity.pdf
+https://www.open-emr.org/wiki/index.php/Old_Outdated_OpenEMR_Patches
+https://www.open-emr.org/wiki/index.php/OpenEMR_Downloads
+https://www.open-emr.org/wiki/index.php/OpenEMR_Patches
+https://www.open-emr.org/wiki/index.php/OpenEMR_Patches#5.0.1_Patch_.289.2F9.2F18.29
+https://www.open-emr.org/wiki/index.php/Release_Features#Version_5.0.1
+https://www.open-emr.org/wiki/index.php/Securing_OpenEMR

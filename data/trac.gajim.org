@@ -1,0 +1,7 @@
+https://trac.gajim.org/changeset/13759/src/common/latex.py
+https://trac.gajim.org/changeset/988e38ce0e0c
+https://trac.gajim.org/changeset/bc296e96ac10
+https://trac.gajim.org/query?status=closed&amp;amp;group=resolution&amp;amp;milestone=0.15.3
+https://trac.gajim.org/ticket/7031
+https://trac.gajim.org/ticket/7034
+https://trac.gajim.org/ticket/7252

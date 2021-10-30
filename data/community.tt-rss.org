@@ -1,0 +1,2 @@
+https://community.tt-rss.org/t/check-password-not-called-if-otp-is-enabled-update-asap-if-youre-using-2fa/4502
+https://community.tt-rss.org/t/heads-up-several-vulnerabilities-fixed/3799

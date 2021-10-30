@@ -1,0 +1,9 @@
+https://jetpack.com/2015/04/20/jetpack-3-4-3-coordinated-security-update/
+https://jetpack.com/2016/05/27/jetpack-4-0-3-critical-security-update/
+https://jetpack.com/2016/06/20/jetpack-4-0-4-bug-fixes/
+https://jetpack.com/2021/03/26/vulnerabilities-found-in-patreon-wordpress-plugin/
+https://jetpack.com/2021/06/01/jetpack-9-8-engage-your-audience-with-wordpress-stories/
+https://jetpack.com/2021/06/09/motor-wordpress-theme-vulnerabilities/
+https://jetpack.com/2021/07/07/multiple-vulnerabilities-in-workreap-theme/
+https://jetpack.com/2021/08/05/privilege-escalation-in-hm-multiple-roles-wordpress-plugin/
+https://jetpack.com/2021/09/14/csrf-vulnerability-found-in-software-license-manager-plugin/

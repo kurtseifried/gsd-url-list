@@ -1,0 +1,1 @@
+https://discourse.gnome.org/t/security-relevant-releases-for-gupnp-issue-cve-2021-33516/6536

@@ -1,0 +1,2 @@
+https://community.librenms.org/c/announcements
+https://community.librenms.org/t/vulnerability-report-cross-site-scripting-xss-in-the-api-access-page/15431

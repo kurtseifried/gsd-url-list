@@ -10,3 +10,5 @@ http://www2.itrc.hp.com/service/cki/docDisplay.do?docId=c00800193
 http://www2.itrc.hp.com/service/cki/docDisplay.do?docId=c00800677
 http://www2.itrc.hp.com/service/cki/docDisplay.do?docLocale=en_US&amp;amp;docId=200000081817276
 http://www2.itrc.hp.com/service/cki/docDisplay.do?docLocale=en_US&amp;docId=200000083816475
+https://www2.itrc.hp.com/service/cki/docDisplay.do?docId=c00967144
+https://www2.itrc.hp.com/service/cki/docDisplay.do?docId=c01036871

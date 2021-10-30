@@ -241,3 +241,4 @@ http://www.adobe.com/support/techdocs/332644.html
 http://www.adobe.com/support/techdocs/332989.html
 http://www.adobe.com/support/techdocs/333036.html
 http://www.adobe.com/support/techdocs/34222.htm
+https://www.adobe.com/support/security/bulletins/apsb12-02.html

@@ -1,0 +1,4 @@
+https://mapserver.org/development/changelog/changelog-7-0.html
+https://mapserver.org/development/changelog/changelog-7-2.html
+https://mapserver.org/development/changelog/changelog-7-4.html
+https://mapserver.org/development/changelog/changelog-7-6.html

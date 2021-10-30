@@ -549,3 +549,10 @@ http://www.cisco.com/web/software/282549709/56954/IPS-7-1-3-E4_readme.txt
 http://www.cisco.com/web/software/282549758/51927/IPS-6_2-4-E4-readme.txt
 http://www.cisco.com/web/software/282766937/37718/Acs-5-2-0-26-9-Readme.txt
 http://www.cisco.com/web/software/283878312/88166/ASA-851-Interim-Release-Notes.html
+https://www.cisco.com/c/dam/en/us/td/docs/telepresence/infrastructure/vcs/release_note/Cisco_VCS_Release_Note_X7-0-3.pdf
+https://www.cisco.com/c/en/us/products/collateral/collaboration-endpoints/unified-ip-phone-7940g/end_of_life_notice_c51-729487.html
+https://www.cisco.com/c/en/us/td/docs/collaboration/CWMS/1_1/b_Release_Notes.html
+https://www.cisco.com/c/en/us/td/docs/ios/15_2m_and_t/release/notes/15_2m_and_t/152-1TCAVS.html
+https://www.cisco.com/c/en/us/td/docs/ios/15_2s/release/notes/15_2s_rel_notes/15_2s_caveats_15_2_4s.html
+https://www.cisco.com/c/en/us/td/docs/switches/lan/catalyst6500/ios/12-2SX/release/notes/ol_14271/caveats_SXI_rebuilds.html
+https://www.cisco.com/en/US/docs/voice_ip_comm/cer/8_7/english/release/notes/CER0_BK_CEE780BD_00_cisco-emergency-responder-87-release_chapter_00.html

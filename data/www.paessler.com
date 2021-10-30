@@ -2,3 +2,11 @@ http://www.paessler.com/forum/viewtopic.php?p=4047&amp;amp;sid=f8c0f03a69d949833
 http://www.paessler.com/forum/viewtopic.php?p=4047&amp;sid=f8c0f03a69d9498338797c6ea3cc6733
 http://www.paessler.com/ipcheck/history
 http://www.paessler.com/support/kb/questions/prtg6history
+https://www.paessler.com/prtg/history/preview
+https://www.paessler.com/prtg/history/stable
+https://www.paessler.com/prtg/history/stable#16.2.23.3077
+https://www.paessler.com/prtg/history/stable#18.2.41.1652
+https://www.paessler.com/prtg/history/stable#18.3.44.2054
+https://www.paessler.com/prtg/history/stable#20.1.57.1745
+https://www.paessler.com/prtg/history/stable#21.1.66.1623
+https://www.paessler.com/prtg/history/stable#21.3.69.1333

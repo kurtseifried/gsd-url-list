@@ -1,0 +1,16 @@
+https://help.rapid7.com/appspider/release-notes/index.html?pid=7.2.126
+https://help.rapid7.com/appspiderenterprise/release-notes/?rid=3.8.215
+https://help.rapid7.com/insightagent/release-notes/archive/2019/05/#20190529
+https://help.rapid7.com/insightappsec/release-notes/archive/2019/07/
+https://help.rapid7.com/insightvm/en-us/release-notes/#6.5.50
+https://help.rapid7.com/insightvm/en-us/release-notes/index.html?pid=6.6.40
+https://help.rapid7.com/insightvm/en-us/release-notes/index.html?pid=6.6.49
+https://help.rapid7.com/metasploit/release-notes/?rid=4.16.0-2019091001
+https://help.rapid7.com/metasploit/release-notes/archive/2019/04/#20190416
+https://help.rapid7.com/metasploit/release-notes/archive/2020/05/#20200514
+https://help.rapid7.com/metasploit/release-notes/archive/2020/10/
+https://help.rapid7.com/nexpose/en-us/release-notes#6.5.69
+https://help.rapid7.com/nexpose/en-us/release-notes/#6.4.13
+https://help.rapid7.com/nexpose/en-us/release-notes/#6.4.50
+https://help.rapid7.com/nexpose/en-us/release-notes/archive/2017/12/#6.4.66
+https://help.rapid7.com/nexpose/en-us/release-notes/archive/2019/02/

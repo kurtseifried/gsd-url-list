@@ -1,0 +1,11 @@
+https://bz.apache.org/SpamAssassin/show_bug.cgi?id=7647
+https://bz.apache.org/SpamAssassin/show_bug.cgi?id=7648
+https://bz.apache.org/SpamAssassin/show_bug.cgi?id=7747
+https://bz.apache.org/SpamAssassin/show_bug.cgi?id=7784
+https://bz.apache.org/bugzilla/show_bug.cgi?id=57531
+https://bz.apache.org/bugzilla/show_bug.cgi?id=58765
+https://bz.apache.org/bugzilla/show_bug.cgi?id=58809
+https://bz.apache.org/bugzilla/show_bug.cgi?id=60578
+https://bz.apache.org/bugzilla/show_bug.cgi?id=60918
+https://bz.apache.org/bugzilla/show_bug.cgi?id=62039
+https://bz.apache.org/ooo/show_bug.cgi?id=127045

@@ -1,1 +1,14 @@
 http://www.cyrusimap.org/docs/cyrus-imapd/2.4.7/changes.php
+https://www.cyrusimap.org/imap/download/release-notes/2.5/index.html
+https://www.cyrusimap.org/imap/download/release-notes/2.5/x/2.5.13.html
+https://www.cyrusimap.org/imap/download/release-notes/2.5/x/2.5.14.html
+https://www.cyrusimap.org/imap/download/release-notes/2.5/x/2.5.15.html
+https://www.cyrusimap.org/imap/download/release-notes/3.0/index.html
+https://www.cyrusimap.org/imap/download/release-notes/3.0/x/3.0.10.html
+https://www.cyrusimap.org/imap/download/release-notes/3.0/x/3.0.12.html
+https://www.cyrusimap.org/imap/download/release-notes/3.0/x/3.0.13.html
+https://www.cyrusimap.org/imap/download/release-notes/3.0/x/3.0.3.html
+https://www.cyrusimap.org/imap/download/release-notes/3.0/x/3.0.4.html
+https://www.cyrusimap.org/imap/download/release-notes/3.2/x/3.2.7.html
+https://www.cyrusimap.org/imap/download/release-notes/3.4/x/3.4.1.html
+https://www.cyrusimap.org/imap/download/release-notes/index.html

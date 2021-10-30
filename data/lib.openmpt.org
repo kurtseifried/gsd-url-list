@@ -1,0 +1,9 @@
+https://lib.openmpt.org/libopenmpt/2018/02/03/security-update-0.3.6/
+https://lib.openmpt.org/libopenmpt/2018/04/08/security-updates-0.3.8-0.2-beta31-0.2.7561-beta20.5-p8-0.2.7386-beta20.3-p11/
+https://lib.openmpt.org/libopenmpt/2018/04/29/security-updates-0.3.9-0.2-beta32-0.2.7561-beta20.5-p9-0.2.7386-beta20.3-p12/
+https://lib.openmpt.org/libopenmpt/2018/07/28/security-updates-0.3.11-0.2.10635-beta34-0.2.7561-beta20.5-p10-0.2.7386-beta20.3-p13/
+https://lib.openmpt.org/libopenmpt/2018/10/21/security-updates-0.3.13-0.2.10933-beta36-0.2.7561-beta20.5-p11-0.2.7386-beta20.3-p14/
+https://lib.openmpt.org/libopenmpt/2019/01/22/security-updates-0.4.2-0.3.15-0.2.11253-beta37-0.2.7561-beta20.5-p13-0.2.7386-beta20.3-p16/
+https://lib.openmpt.org/libopenmpt/2019/02/11/security-update-0.4.3/
+https://lib.openmpt.org/libopenmpt/2019/05/27/security-update-0.4.5/
+https://lib.openmpt.org/libopenmpt/md_announce-2017-07-07.html

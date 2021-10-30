@@ -2,3 +2,10 @@ http://www.libssh.org/2012/11/20/libssh-0-5-3-security-release/
 http://www.libssh.org/2013/01/22/libssh-0-5-4-security-release/
 http://www.libssh.org/2014/03/04/libssh-0-6-3-security-release/
 http://www.libssh.org/2014/12/19/libssh-0-6-4-security-and-bugfix-release/
+https://www.libssh.org/2015/04/30/libssh-0-6-5-security-and-bugfix-release/
+https://www.libssh.org/2016/02/23/libssh-0-7-3-security-and-bugfix-release/
+https://www.libssh.org/security/advisories/CVE-2015-3146.txt
+https://www.libssh.org/security/advisories/CVE-2016-0739.txt
+https://www.libssh.org/security/advisories/CVE-2018-10933.txt
+https://www.libssh.org/security/advisories/CVE-2019-14889.txt
+https://www.libssh.org/security/advisories/CVE-2020-1730.txt

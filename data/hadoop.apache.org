@@ -1,0 +1,1 @@
+https://hadoop.apache.org/cve_list.html#cve-2018-8009-http-cve-mitre-org-cgi-bin-cvename-cgi-name-cve-2018-8009-zip-slip-impact-on-apache-hadoop

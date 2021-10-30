@@ -1,0 +1,1 @@
+https://www.opensmtpd.org/announces/release-5.7.2.txt

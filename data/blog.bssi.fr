@@ -1,0 +1,8 @@
+https://blog.bssi.fr/cve-2020-24246-leaking-source-file-using-the-web-admin-interface-of-peplink-balance/
+https://blog.bssi.fr/cve-2020-29553-cve-2020-29555-cve-2020-29556-multiple-vulnerabilities-within-cms-grav/
+https://blog.bssi.fr/cve-2021-3012-vulnerability-allowing-remote-html-javascript-code-injection-on-esri-arcgis-products/
+https://blog.bssi.fr/multiple-vulnerabilities-within-epson-eps-tse-server-8/#vulnerability-1
+https://blog.bssi.fr/multiple-vulnerabilities-within-epson-eps-tse-server-8/#vulnerability-2
+https://blog.bssi.fr/multiple-vulnerabilities-within-epson-eps-tse-server-8/#vulnerability-3
+https://blog.bssi.fr/source-code-vulnerability-disclosure-discovered-in-the-web-sesame-application-of-til-technologies/
+https://blog.bssi.fr/vulnerabilite-de-divulgation-de-code-source-identifiee-au-sein-de-lapplication-web-sesame-de-til-technologies/

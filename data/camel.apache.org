@@ -15,3 +15,8 @@ http://camel.apache.org/security-advisories.data/CVE-2017-5643.txt.asc?version=1
 http://camel.apache.org/security-advisories.data/CVE-2018-8027.txt.asc
 http://camel.apache.org/security-advisories.data/CVE-2018-8041.txt.asc?version=1&amp;amp;modificationDate=1536746339000&amp;amp;api=v2
 http://camel.apache.org/security-advisories.data/CVE-2018-8041.txt.asc?version=1&amp;modificationDate=1536746339000&amp;api=v2
+https://camel.apache.org/security-advisories.data/CVE-2015-0263.txt.asc
+https://camel.apache.org/security-advisories.data/CVE-2015-0264.txt.asc
+https://camel.apache.org/security/CVE-2020-11971.html
+https://camel.apache.org/security/CVE-2020-11972.html
+https://camel.apache.org/security/CVE-2020-11973.html

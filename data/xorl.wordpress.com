@@ -24,3 +24,4 @@ http://xorl.wordpress.com/2011/12/07/cve-2011-4077-linux-kernel-xfs-readlink-mem
 http://xorl.wordpress.com/2011/12/08/cve-2011-4132-linux-kernel-jbdjbd2-local-dos/
 http://xorl.wordpress.com/2013/05/18/cve-2013-1774-linux-kernel-edgeport-usb-serial-converter-null-pointer-dereference/
 http://xorl.wordpress.com/2013/05/22/cve-2013-2074-kde-kdelibs-password-exposure/
+https://xorl.wordpress.com/2017/12/18/linux-kernel-rdma-null-pointer-dereference/

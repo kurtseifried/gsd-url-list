@@ -61,3 +61,16 @@ http://www.kde.org/info/security/advisory-20111003-1.txt
 http://www.kde.org/info/security/advisory-20120810-1.txt
 http://www.kde.org/info/security/advisory-20140618-1.txt
 http://www.kde.org/info/security/advisory-20140730-1.txt
+https://www.kde.org/announcements/plasma-5.11.5-5.12.0-changelog.php
+https://www.kde.org/info/security/advisory-20140923-1.txt
+https://www.kde.org/info/security/advisory-20141106-1.txt
+https://www.kde.org/info/security/advisory-20150109-1.txt
+https://www.kde.org/info/security/advisory-20150122-1.txt
+https://www.kde.org/info/security/advisory-20150122-2.txt
+https://www.kde.org/info/security/advisory-20160209-1.txt
+https://www.kde.org/info/security/advisory-20160621-1.txt
+https://www.kde.org/info/security/advisory-20160724-1.txt
+https://www.kde.org/info/security/advisory-20170228-1.txt
+https://www.kde.org/info/security/advisory-20170510-1.txt
+https://www.kde.org/info/security/advisory-20170510-2.txt
+https://www.kde.org/info/security/advisory-20180503-1.txt

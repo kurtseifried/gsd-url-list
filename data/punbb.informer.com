@@ -11,3 +11,4 @@ http://punbb.informer.com/forums/topic/24430/punbb-136/
 http://punbb.informer.com/wiki/punbb13/bugs#possible_xss_in_login
 http://punbb.informer.com/wiki/punbb13/bugs#potential_sql-injections_at_adminusers.php_page
 http://punbb.informer.com/wiki/punbb13/bugs#potential_sql-injections_in_adminsettings.php_via_configuration_values
+https://punbb.informer.com/

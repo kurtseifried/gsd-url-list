@@ -7,3 +7,15 @@ http://blog.mybb.com/2014/08/04/mybb-1-6-15-released-security-maintenance-releas
 http://blog.mybb.com/2014/11/13/mybb-1-8-2-released-security-release/
 http://blog.mybb.com/2015/02/15/mybb-1-8-4-released-feature-update-security-maintenance-release/
 http://blog.mybb.com/2015/05/27/mybb-1-8-5-1-6-17-merge-system-1-8-5-release/
+https://blog.mybb.com/
+https://blog.mybb.com/2015/09/07/mybb-1-8-6-1-6-18-merge-system-1-8-6-release/
+https://blog.mybb.com/2016/03/11/mybb-1-8-7-merge-system-1-8-7-release/
+https://blog.mybb.com/2016/10/17/mybb-1-8-8-merge-system-1-8-8-release/
+https://blog.mybb.com/2017/04/04/mybb-1-8-11-merge-system-1-8-11-release/
+https://blog.mybb.com/2017/11/07/mybb-1-8-13-released-security-maintenance-release/
+https://blog.mybb.com/2018/03/15/mybb-1-8-15-released-security-maintenance-release/
+https://blog.mybb.com/2018/08/22/mybb-1-8-18-released-security-maintenance-release/
+https://blog.mybb.com/2018/09/11/mybb-1-8-19-released-security-maintenance-release/
+https://blog.mybb.com/2019/02/27/mybb-1-8-20-released-security-maintenance-release/
+https://blog.mybb.com/2019/06/10/mybb-1-8-21-released-security-maintenance-release/
+https://blog.mybb.com/2019/12/30/mybb-1-8-22-released-security-maintenance-release/

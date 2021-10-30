@@ -1,0 +1,7 @@
+https://mirrors.edge.kernel.org/pub/linux/kernel/v2.6/ChangeLog-2.6.20
+https://mirrors.edge.kernel.org/pub/linux/kernel/v2.6/ChangeLog-2.6.34
+https://mirrors.edge.kernel.org/pub/linux/kernel/v2.6/ChangeLog-2.6.37
+https://mirrors.edge.kernel.org/pub/linux/kernel/v3.x/ChangeLog-3.1
+https://mirrors.edge.kernel.org/pub/linux/kernel/v3.x/ChangeLog-3.4
+https://mirrors.edge.kernel.org/pub/linux/kernel/v4.x/ChangeLog-4.1.4
+https://mirrors.edge.kernel.org/pub/linux/kernel/v4.x/ChangeLog-4.9.6

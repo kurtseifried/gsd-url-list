@@ -2,3 +2,11 @@ http://lists.exim.org/lurker/message/20100524.175925.9a69f755.en.html
 http://lists.exim.org/lurker/message/20101209.172233.abcba158.en.html
 http://lists.exim.org/lurker/message/20101210.164935.385e04d0.en.html
 http://lists.exim.org/lurker/message/20110126.034702.4d69c278.en.html
+https://lists.exim.org/lurker/message/20110509.091632.daed0206.en.html
+https://lists.exim.org/lurker/message/20110512.102909.8136175a.en.html
+https://lists.exim.org/lurker/message/20121026.080330.74b9147b.en.html
+https://lists.exim.org/lurker/message/20140528.122536.a31d60a4.en.html
+https://lists.exim.org/lurker/message/20140722.145949.42c043f5.en.html
+https://lists.exim.org/lurker/message/20140722.152452.d6c019e8.en.html
+https://lists.exim.org/lurker/message/20171125.034842.d1d75cac.en.html
+https://lists.exim.org/lurker/message/20190927.032457.c1044d4c.en.html

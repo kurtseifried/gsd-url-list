@@ -1,0 +1,7 @@
+https://blogs.apache.org/cloudstack/entry/cve_2013_6398_cloudstack_virtual
+https://blogs.apache.org/cloudstack/entry/cve_2014_0031_cloudstack_listnetworkacl
+https://blogs.apache.org/cloudstack/entry/two_late_announced_security_advisories
+https://blogs.apache.org/foundation/entry/apache-struts-statement-on-equifax
+https://blogs.apache.org/james/entry/apache_james_server_2_3
+https://blogs.apache.org/ofbiz/entry/announce_apache_ofbiz_12_04
+https://blogs.apache.org/ofbiz/entry/announce_apache_ofbiz_13_07

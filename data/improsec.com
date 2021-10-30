@@ -1,0 +1,11 @@
+https://improsec.com
+https://improsec.com/blog/heimdal-advisory-1
+https://improsec.com/blog/heimdal-advisory-2
+https://improsec.com/blog/vulnerability-in-tsm
+https://improsec.com/en/responsible-disclosure
+https://improsec.com/tech-blog/RCE-Askey
+https://improsec.com/tech-blog/cam1
+https://improsec.com/tech-blog/how-not-do-handle-responsible-disclosure-smartdraw-2020
+https://improsec.com/tech-blog/multiple-vulnerabilities-in-easyinstall-rmm-and-deployment-software
+https://improsec.com/tech-blog/privilege-escalation-vulnerability-in-ninjarmm
+https://improsec.com/tech-blog/privilege-escalation-vulnerability-in-splashtop-streamer

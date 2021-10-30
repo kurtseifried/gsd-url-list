@@ -35,3 +35,4 @@ http://downloads.digium.com/pub/security/AST-2017-013.html
 http://downloads.digium.com/pub/security/AST-2018-006.html
 http://downloads.digium.com/pub/security/AST-2019-002.html
 http://downloads.digium.com/pub/security/AST-2019-003.html
+https://downloads.digium.com/pub/security/AST-2021-007.html

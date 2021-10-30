@@ -22,3 +22,15 @@ http://www.splunk.com/view/SP-CAAAPC3
 http://www.splunk.com/view/SP-CAAAPSV
 http://www.splunk.com/view/SP-CAAAPUE
 http://www.splunk.com/view/SP-CAAAPW8
+https://www.splunk.com/view/SP-CAAAP2F
+https://www.splunk.com/view/SP-CAAAP3K
+https://www.splunk.com/view/SP-CAAAP3M
+https://www.splunk.com/view/SP-CAAAP5T
+https://www.splunk.com/view/SP-CAAAPN9
+https://www.splunk.com/view/SP-CAAAPQ6
+https://www.splunk.com/view/SP-CAAAPQM
+https://www.splunk.com/view/SP-CAAAPSR
+https://www.splunk.com/view/SP-CAAAPYC
+https://www.splunk.com/view/SP-CAAAPZ3#InformationLeakageviaJavaScriptCVE20175607
+https://www.splunk.com/view/SP-CAAAQAD
+https://www.splunk.com/view/SP-CAAAQAF

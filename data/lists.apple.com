@@ -360,3 +360,8 @@ http://lists.apple.com/mhonarc/security-announce/msg00048.html
 http://lists.apple.com/mhonarc/security-announce/msg00049.html
 http://lists.apple.com/mhonarc/security-announce/msg00053.html
 http://lists.apple.com/mhonarc/security-announce/msg00056.html
+https://lists.apple.com/archives/security-announce/2016/Dec/msg00001.html
+https://lists.apple.com/archives/security-announce/2016/Oct/msg00002.html
+https://lists.apple.com/archives/security-announce/2016/Sep/msg00006.html
+https://lists.apple.com/archives/security-announce/2017/Sep/msg00007.html
+https://lists.apple.com/archives/security-announce/2017/Sep/msg00009.html

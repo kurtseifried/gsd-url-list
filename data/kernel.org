@@ -80,3 +80,5 @@ http://kernel.org/pub/linux/kernel/v2.6/testing/ChangeLog-2.6.27-rc6
 http://kernel.org/pub/linux/kernel/v2.6/testing/ChangeLog-2.6.28-rc1
 http://kernel.org/pub/linux/kernel/v2.6/testing/ChangeLog-2.6.28-rc5
 http://kernel.org/pub/linux/kernel/v2.6/testing/ChangeLog-2.6.28-rc7
+https://kernel.org/pub/linux/kernel/v4.x/ChangeLog-4.19.3
+https://kernel.org/pub/linux/libs/klibc/2.0/

@@ -56,3 +56,4 @@ http://support.lexmark.com/index?page=content&amp;id=TE930&amp;locale=en&amp;use
 http://support.lexmark.com/index?page=content&amp;id=TE933&amp;modifiedDate=02/04/20&amp;actp=LIST_RECENT&amp;userlocale=EN_US&amp;locale=en
 http://support.lexmark.com/index?page=content&amp;id=TE935&amp;locale=en&amp;userlocale=EN_US
 http://support.lexmark.com/index?page=content&amp;id=TE936
+https://support.lexmark.com/alerts

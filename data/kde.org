@@ -1,0 +1,7 @@
+https://kde.org/info/security/advisory-20200312-1.txt
+https://kde.org/info/security/advisory-20200730-1.txt
+https://kde.org/info/security/advisory-20200827-1.txt
+https://kde.org/info/security/advisory-20201002-1.txt
+https://kde.org/info/security/advisory-20201017-1.txt
+https://kde.org/info/security/advisory-20210310-1.txt
+https://kde.org/info/security/advisory-20210429-1.txt

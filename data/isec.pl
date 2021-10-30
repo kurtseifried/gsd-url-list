@@ -12,3 +12,4 @@ http://isec.pl/vulnerabilities/isec-0022-pagefault.txt
 http://isec.pl/vulnerabilities/isec-0026-vmsplice_to_kernel.txt
 http://isec.pl/vulnerabilities/isec-0027-msgbox-helpfile-ie.txt
 http://isec.pl/vulnerabilities10.html
+https://isec.pl/en/vulnerabilities/isec-0028-seomatic-ssti-23032020.txt

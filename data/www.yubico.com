@@ -1,0 +1,12 @@
+https://www.yubico.com/products/services-software/download/smart-card-drivers-tools/
+https://www.yubico.com/support/security-advisories/ysa-2017-01/
+https://www.yubico.com/support/security-advisories/ysa-2018-03/
+https://www.yubico.com/support/security-advisories/ysa-2019-01/
+https://www.yubico.com/support/security-advisories/ysa-2020-01/
+https://www.yubico.com/support/security-advisories/ysa-2020-02/
+https://www.yubico.com/support/security-advisories/ysa-2020-04/
+https://www.yubico.com/support/security-advisories/ysa-2020-05/
+https://www.yubico.com/support/security-advisories/ysa-2020-06/
+https://www.yubico.com/support/security-advisories/ysa-2021-01/
+https://www.yubico.com/support/security-advisories/ysa-2021-02/
+https://www.yubico.com/support/security-advisories/ysa-2021-03

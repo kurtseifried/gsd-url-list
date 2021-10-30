@@ -1,0 +1,2 @@
+https://zookeeper.apache.org/security.html#CVE-2016-5017
+https://zookeeper.apache.org/security.html#CVE-2019-0201

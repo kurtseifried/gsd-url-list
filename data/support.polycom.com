@@ -1,1 +1,15 @@
 http://support.polycom.com/content/dam/polycom-support/global/documentation/security-advisory-information-disclosure-on-polycom-voice-products-v1.0.pdf
+https://support.polycom.com/PolycomService/home/home.htm
+https://support.polycom.com/content/dam/polycom-support/global/documentation/advisory-rp-debut-vulnerabilities.pdf
+https://support.polycom.com/content/dam/polycom-support/global/documentation/bluetooth-authentication-weakness-trio.pdf
+https://support.polycom.com/content/dam/polycom-support/global/documentation/hard-coded-credentials-vulnerability-in-vvx-products.pdf
+https://support.polycom.com/content/dam/polycom-support/global/documentation/hdx-3-1-14-advisory.pdf
+https://support.polycom.com/content/dam/polycom-support/global/documentation/insufficient-authentication-leakage-vvx-products.pdf
+https://support.polycom.com/content/dam/polycom-support/global/documentation/remote-code-exectuion-vulnerability-group-series.pdf
+https://support.polycom.com/content/dam/polycom-support/global/documentation/remote-code-execution-vulnerability-in-ucs-software-v1-1.pdf
+https://support.polycom.com/content/dam/polycom-support/global/documentation/security-advisory-vulnerabilities-qdx-6000-1-0.pdf
+https://support.polycom.com/content/dam/polycom-support/global/documentation/security-advisory-vulnerability-on-polycom-realpresence-web-suite-v-1-0.pdf
+https://support.polycom.com/content/dam/polycom-support/global/documentation/security-bulletin-cx5100-cx5500-authenticated-v1-0.pdf
+https://support.polycom.com/content/dam/polycom-support/global/documentation/stored-cross-site-scripting-in-trio.pdf
+https://support.polycom.com/content/support.html
+https://support.polycom.com/global/documents/support/documentation/Security_Center_Post_for_RPRM_CVEs.pdf

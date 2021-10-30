@@ -1,0 +1,2 @@
+https://www.dgc.org/responsible_disclosure_20210421_livinglogic_xss
+https://www.dgc.org/responsible_disclosure_pwndoc_jwt

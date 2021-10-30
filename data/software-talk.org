@@ -1,2 +1,7 @@
 http://software-talk.org/blog/2015/06/session-fixation-xss-code-execution-vulnerability-pivotx/
 http://software-talk.org/blog/2015/07/second-order-sql-injection-reflected-xss-path-traversal-function-execution-vulnerability-zenphoto/
+https://software-talk.org/blog/2015/07/second-order-sql-injection-reflected-xss-path-traversal-function-execution-vulnerability-zenphoto/
+https://software-talk.org/blog/2018/04/tplink-wr841n-clickjacking-https/
+https://software-talk.org/blog/2018/06/tplink-wr841n-broken-auth-cve-2018-12575/
+https://software-talk.org/blog/2018/06/tplink-wr841n-code-exec-cve-2018-12577/
+https://software-talk.org/blog/2018/06/tplink-wr841n-csrf-cve-2018-12574/

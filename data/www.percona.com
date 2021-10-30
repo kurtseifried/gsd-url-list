@@ -1,1 +1,17 @@
 http://www.percona.com/doc/percona-xtrabackup/2.1/release-notes/2.1/2.1.6.html
+https://www.percona.com/blog/2015/05/06/percona-security-advisory-cve-2015-1027/
+https://www.percona.com/blog/2016/09/12/percona-server-critical-update-cve-2016-6662/
+https://www.percona.com/blog/2016/11/02/percona-responds-to-cve-2016-6663-and-cve-2016-6664/
+https://www.percona.com/blog/2017/01/12/cve-2016-6225-percona-xtrabackup-encryption-iv-not-set-properly/
+https://www.percona.com/blog/2017/10/30/percona-xtradb-cluster-5-6-37-26-21-3-is-now-available/
+https://www.percona.com/blog/2018/11/20/how-cve-2018-19039-affects-percona-monitoring-and-management/
+https://www.percona.com/blog/2019/05/17/percona-server-for-mysql-5-6-44-85-0-is-now-available/
+https://www.percona.com/blog/2020/02/03/improvements-in-pmm-bug-fixes-in-percona-server-percona-backup-for-mongodb-alert-release-roundup-2-3-2020/
+https://www.percona.com/blog/2020/04/16/cve-2020-10997-percona-xtrabackup-information-disclosure-of-command-line-arguments/
+https://www.percona.com/blog/2020/04/20/cve-2020-10996-percona-xtradb-cluster-sst-script-static-key/
+https://www.percona.com/blog/2020/10/13/percona-distribution-for-mysql-pxc-variant-8-0-20-fixes-for-security-vulnerability-release-roundup-october-13-2020/
+https://www.percona.com/blog/2020/10/30/cve-2020-15180-affects-percona-xtradb-cluster/
+https://www.percona.com/doc/percona-distribution-mysql/8.0/release-notes-pxc-v8.0.20.upd2.html
+https://www.percona.com/doc/percona-monitoring-and-management/2.x/release-notes/2.2.1.html
+https://www.percona.com/doc/percona-xtradb-cluster/LATEST/release-notes/Percona-XtraDB-Cluster-5.7.19-29.22-3.html
+https://www.percona.com/doc/percona-xtradb-cluster/LATEST/release-notes/Percona-XtraDB-Cluster-5.7.28-31.41.2.html

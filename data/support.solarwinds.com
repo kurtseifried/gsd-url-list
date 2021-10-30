@@ -1,0 +1,17 @@
+https://support.solarwinds.com/SuccessCenter/s/
+https://support.solarwinds.com/SuccessCenter/s/article/CVE-2019-9546-Orion-Platform-Vulnerability
+https://support.solarwinds.com/SuccessCenter/s/article/Execute-Command-Function-Allows-Remote-Code-Execution-RCE-Vulnerability-CVE-2021-35223?language=en_US
+https://support.solarwinds.com/SuccessCenter/s/article/Mitigate-the-EmailWebPage-Command-Injection-RCE-CVE-2021-35220?language=en_US
+https://support.solarwinds.com/SuccessCenter/s/article/Mitigate-the-ExportToPdfCmd-Arbitrary-File-Read-Information-Disclosure-CVE-2021-35219?language=en_US
+https://support.solarwinds.com/SuccessCenter/s/article/Mitigate-the-ImportAlert-Improper-Access-Control-Tampering-Vulnerability-CVE-2021-35221?language=en_US
+https://support.solarwinds.com/SuccessCenter/s/article/Mitigate-the-Resource-aspx-Reflected-Cross-Site-Scripting-Vulnerability-CVE-2021-35222?language=en_US
+https://support.solarwinds.com/SuccessCenter/s/article/Mitigate-the-Stored-XSS-in-Maps-text-box-hyperlink-vulnerability-CVE-2021-35239?language=en_US
+https://support.solarwinds.com/SuccessCenter/s/article/Mitigate-the-Stored-XSS-via-Help-Server-setting-CVE-2021-35240?language=en_US
+https://support.solarwinds.com/SuccessCenter/s/article/NPM-2020-2-6-Hotfix-2?language=en_US
+https://support.solarwinds.com/SuccessCenter/s/article/Orion-Platform-2019-4-Hotfix-3?ui-force-components-controllers-recordGlobalValueProvider.RecordGvp.getRecord=1&amp;amp;r=116&amp;amp;ui-knowledge-components-aura-actions.KnowledgeArticleVersionCreateDraftFromOnlineAction.createDraftFromOnlineArticle=1
+https://support.solarwinds.com/SuccessCenter/s/article/Orion-Platform-2020-2-6-Hotfix-1?language=en_US
+https://support.solarwinds.com/SuccessCenter/s/article/Serv-U-15-1-6-HotFix-2
+https://support.solarwinds.com/SuccessCenter/s/article/Serv-U-15-1-6-Hotfix-3?language=en_US
+https://support.solarwinds.com/SuccessCenter/s/article/Serv-U-Potential-elevation-of-privileges-on-Linux-systems
+https://support.solarwinds.com/SuccessCenter/s/orion-platform
+https://support.solarwinds.com/Success_Center/Orion_Platform/Orion_Documentation/Additional_Resources/Orion_Platform_2018-4_Hotfix_2

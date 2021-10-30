@@ -1,0 +1,9 @@
+https://forums.ivanti.com/s/
+https://forums.ivanti.com/s/article/A-locally-authenticated-user-with-low-privileges-can-acquire-admin-privileges-by-hijacking-certain-user-registry-entries
+https://forums.ivanti.com/s/article/A-locally-authenticated-user-with-low-privileges-can-bypass-the-File-and-Folder-Security-by-leveraging-an-unspecified-attack-vector
+https://forums.ivanti.com/s/article/A-locally-authenticated-user-with-low-privileges-can-recover-keying-material-due-to-an-unspecified-attack-vector
+https://forums.ivanti.com/s/article/Locally-authenticated-user-can-bypass-File-and-Folder-Security-by-leveraging-an-unspecified-attack-vector
+https://forums.ivanti.com/s/article/Release-Notes-for-DSM-2020-1
+https://forums.ivanti.com/s/article/SQL-Injection-Vulnerability-in-Avalanche
+https://forums.ivanti.com/s/article/Security-Alert-Ivanti-Endpoint-Manager-April-2019
+https://forums.ivanti.com/s/article/Security-Alert-Ivanti-Workspace-Control-September-2019

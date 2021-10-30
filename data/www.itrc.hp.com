@@ -10,3 +10,5 @@ http://www.itrc.hp.com/service/cki/docDisplay.do?docId=emr_na-c02688353
 http://www.itrc.hp.com/service/cki/docDisplay.do?docId=emr_na-c02712867
 http://www.itrc.hp.com/service/cki/docDisplay.do?docId=emr_na-c02823184
 http://www.itrc.hp.com/service/cki/docDisplay.do?docId=emr_na-c03008543
+https://www.itrc.hp.com/service/cki/docDisplay.do?docId=emr_na-c02788734
+https://www.itrc.hp.com/service/cki/docDisplay.do?docId=emr_na-c02822174

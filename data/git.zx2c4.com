@@ -8,3 +8,7 @@ http://git.zx2c4.com/cgit/commit/?id=4458abf64172a62b92810c2293450106e6dfc763
 http://git.zx2c4.com/cgit/commit/?id=513b3863d999f91b47d7e9f26710390db55f9463
 http://git.zx2c4.com/cgit/commit/?id=7757d1b046ecb67b830151d20715c658867df1ec
 http://git.zx2c4.com/cgit/commit/?id=7ea35f9f8ecf61ab42be9947aae1176ab6e089bd
+https://git.zx2c4.com/american-unsigned-language/tree/american-unsigned-language-2.sh
+https://git.zx2c4.com/american-unsigned-language/tree/american-unsigned-language.sh
+https://git.zx2c4.com/calibre-mount-helper-exploit/about/
+https://git.zx2c4.com/password-store/commit/?id=8683403b77f59c56fcb1f05c61ab33b9fd61a30d

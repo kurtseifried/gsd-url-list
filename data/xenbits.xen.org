@@ -507,6 +507,7 @@ https://xenbits.xen.org/xsa/advisory-250.html
 https://xenbits.xen.org/xsa/advisory-250.txt
 https://xenbits.xen.org/xsa/advisory-251.html
 https://xenbits.xen.org/xsa/advisory-251.txt
+https://xenbits.xen.org/xsa/advisory-252.html
 https://xenbits.xen.org/xsa/advisory-253.html
 https://xenbits.xen.org/xsa/advisory-253.txt
 https://xenbits.xen.org/xsa/advisory-254.html

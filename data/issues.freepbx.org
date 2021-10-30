@@ -1,2 +1,4 @@
 http://issues.freepbx.org/browse/FREEPBX-7117
 http://issues.freepbx.org/browse/FREEPBX-7123
+https://issues.freepbx.org/browse/FREEPBX-20436
+https://issues.freepbx.org/browse/FREEPBX-20437

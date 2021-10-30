@@ -1,1 +1,3 @@
 http://nmap.org/changelog.html
+https://nmap.org/changelog.html
+https://nmap.org/nsedoc/scripts/http-vuln-cve2017-5638.html

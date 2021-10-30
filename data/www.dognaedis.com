@@ -1,0 +1,11 @@
+https://www.dognaedis.com/vulns/DGS-SEC-1.html
+https://www.dognaedis.com/vulns/DGS-SEC-16.html
+https://www.dognaedis.com/vulns/DGS-SEC-18.html
+https://www.dognaedis.com/vulns/DGS-SEC-2.html
+https://www.dognaedis.com/vulns/DGS-SEC-3.html
+https://www.dognaedis.com/vulns/DGS-SEC-4.html
+https://www.dognaedis.com/vulns/DGS-SEC-5.html
+https://www.dognaedis.com/vulns/DGS-SEC-6.html
+https://www.dognaedis.com/vulns/DGS-SEC-7.html
+https://www.dognaedis.com/vulns/DGS-SEC-8.html
+https://www.dognaedis.com/vulns/DGS-SEC-9.html

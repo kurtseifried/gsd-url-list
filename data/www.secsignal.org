@@ -1,0 +1,2 @@
+https://www.secsignal.org/news/a-tale-of-rce-nextcloud-extract-app/
+https://www.secsignal.org/news/exploiting-routers-just-another-tp-link-0day

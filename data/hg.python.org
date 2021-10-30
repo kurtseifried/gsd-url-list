@@ -5,3 +5,12 @@ http://hg.python.org/cpython/rev/87673659d8f7
 http://hg.python.org/cpython/rev/96a6c128822b/
 http://hg.python.org/cpython/rev/b2934d98dac1/
 http://hg.python.org/cpython/rev/c6c4398293bd/
+https://hg.python.org/cpython/raw-file/v2.7.10/Misc/NEWS
+https://hg.python.org/cpython/raw-file/v2.7.12/Misc/NEWS
+https://hg.python.org/cpython/rev/10d0edadbcdd
+https://hg.python.org/cpython/rev/1c45047c5102
+https://hg.python.org/cpython/rev/b3ce713fb9be
+https://hg.python.org/cpython/rev/bf3e1c9b80e9
+https://hg.python.org/cpython/rev/d590114c2394
+https://hg.python.org/jython/file/v2.7.1rc1/NEWS
+https://hg.python.org/jython/rev/d06e29d100c0

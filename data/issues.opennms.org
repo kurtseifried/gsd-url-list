@@ -2,3 +2,5 @@ http://issues.opennms.org/browse/NMS-5128?page=com.atlassian.jira.plugin.system.
 http://issues.opennms.org/browse/NMS/fixforversion/10824#atl_token=BCL8-RCDX-MB62-2EZT%7C38eaf469042162355c28f5393587690a8388d556%7Clout&amp;amp;selectedTab=com.atlassian.jira.plugin.system.project%3Aversion-summary-panel
 http://issues.opennms.org/browse/NMS/fixforversion/10824#atl_token=BCL8-RCDX-MB62-2EZT%7C38eaf469042162355c28f5393587690a8388d556%7Clout&amp;selectedTab=com.atlassian.jira.plugin.system.project%3Aversion-summary-panel
 http://issues.opennms.org/browse/NMS/fixforversion/10825
+https://issues.opennms.org/browse/NMS-12572
+https://issues.opennms.org/browse/NMS-12673

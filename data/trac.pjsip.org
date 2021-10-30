@@ -1,0 +1,7 @@
+https://trac.pjsip.org/repos/milestone/release-2.7.1
+https://trac.pjsip.org/repos/milestone/release-2.7.2
+https://trac.pjsip.org/repos/ticket/2055
+https://trac.pjsip.org/repos/ticket/2056
+https://trac.pjsip.org/repos/ticket/2092
+https://trac.pjsip.org/repos/ticket/2093
+https://trac.pjsip.org/repos/ticket/2094

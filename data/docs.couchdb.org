@@ -1,0 +1,2 @@
+https://docs.couchdb.org/en/master/cve/2020-1955.html
+https://docs.couchdb.org/en/stable/cve/2021-38295.html

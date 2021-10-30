@@ -1,0 +1,9 @@
+https://hg.dotclear.org/dotclear/file/18dc878c1178/CHANGELOG
+https://hg.dotclear.org/dotclear/rev/198580bc3d80
+https://hg.dotclear.org/dotclear/rev/3b0b868d58b0
+https://hg.dotclear.org/dotclear/rev/40d0207e520d
+https://hg.dotclear.org/dotclear/rev/65e65154dadf
+https://hg.dotclear.org/dotclear/rev/712559193a6e
+https://hg.dotclear.org/dotclear/rev/a9db771a5a70
+https://hg.dotclear.org/dotclear/rev/bb06343f4247
+https://hg.dotclear.org/dotclear/rev/d4841d6d65d6

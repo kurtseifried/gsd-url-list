@@ -2,3 +2,9 @@ http://cygwin.com/ml/cygwin-announce/2008-08/msg00001.html
 http://cygwin.com/ml/cygwin-developers/2007-11/msg00005.html
 http://cygwin.com/ml/cygwin-developers/2007-11/msg00024.html
 http://cygwin.com/ml/cygwin-developers/2007-11/msg00026.html
+https://cygwin.com/ml/cygwin-announce/2016-02/msg00023.html
+https://cygwin.com/ml/cygwin-announce/2016-04/msg00020.html
+https://cygwin.com/ml/cygwin-announce/2016-04/msg00054.html
+https://cygwin.com/ml/cygwin/2016-02/msg00129.html
+https://cygwin.com/ml/cygwin/2017-05/msg00149.html
+https://cygwin.com/pipermail/cygwin-announce/2021-April/010018.html

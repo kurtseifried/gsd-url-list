@@ -1,1 +1,7 @@
 http://addons.mozilla.org
+https://addons.mozilla.org/en-US/firefox/addon/424
+https://addons.mozilla.org/en-US/firefox/addon/donottrackplus/versions/?page=1#version-7.8.2428
+https://addons.mozilla.org/en-US/firefox/addons/versions/1833#version-6.1.1
+https://addons.mozilla.org/en-US/firefox/addons/versions/361#version-1.2.0
+https://addons.mozilla.org/en-US/firefox/addons/versions/6401#version-0.5.9.2
+https://addons.mozilla.org/firefox/3002/

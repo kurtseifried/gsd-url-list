@@ -1,0 +1,1 @@
+https://techblog.wikimedia.org/2021/06/11/discovering-and-fixing-cve-2021-33038-in-mailman3/

@@ -1,0 +1,13 @@
+https://www2.deloitte.com/de/de/pages/risk/articles/arxes-tolina-csv-injection.html
+https://www2.deloitte.com/de/de/pages/risk/articles/arxes-tolina-user-disclosure-via-application-function.html
+https://www2.deloitte.com/de/de/pages/risk/articles/marmind-authorization-bypass.html
+https://www2.deloitte.com/de/de/pages/risk/articles/marmind-csv-injection.html
+https://www2.deloitte.com/de/de/pages/risk/articles/marmind-xss.html?nc=1
+https://www2.deloitte.com/de/de/pages/risk/articles/nozomi-csv-injection.html?nc=1
+https://www2.deloitte.com/de/de/pages/risk/articles/nozomi-stored-xss.html?nc=1
+https://www2.deloitte.com/de/de/pages/risk/articles/planon-cross-site-scripting.html
+https://www2.deloitte.com/de/de/pages/risk/articles/uipath-orchestrator-csv-injection.html
+https://www2.deloitte.com/de/de/pages/risk/articles/wholesale-finance-xss.html
+https://www2.deloitte.com/de/de/pages/risk/articles/wordpress-csv-injection.html
+https://www2.deloitte.com/de/de/pages/risk/articles/wordpress-plugin-xss.html
+https://www2.deloitte.com/it/it/pages/risk/articles/security-advisory-article---deloitte-italy---risk.html

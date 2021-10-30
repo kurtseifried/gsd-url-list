@@ -1,0 +1,2 @@
+https://www.erlang.org/downloads
+https://www.erlang.org/news

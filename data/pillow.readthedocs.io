@@ -1,2 +1,15 @@
 http://pillow.readthedocs.io/en/3.4.x/releasenotes/3.3.2.html
 http://pillow.readthedocs.io/en/4.1.x/releasenotes/3.1.2.html
+https://pillow.readthedocs.io/en/latest/releasenotes/6.2.0.html
+https://pillow.readthedocs.io/en/stable/releasenotes/
+https://pillow.readthedocs.io/en/stable/releasenotes/6.2.2.html
+https://pillow.readthedocs.io/en/stable/releasenotes/7.1.0.html
+https://pillow.readthedocs.io/en/stable/releasenotes/8.1.1.html
+https://pillow.readthedocs.io/en/stable/releasenotes/8.2.0.html#cve-2021-25287-cve-2021-25288-fix-oob-read-in-jpeg2kdecode
+https://pillow.readthedocs.io/en/stable/releasenotes/8.2.0.html#cve-2021-28675-fix-dos-in-psdimageplugin
+https://pillow.readthedocs.io/en/stable/releasenotes/8.2.0.html#cve-2021-28676-fix-fli-dos
+https://pillow.readthedocs.io/en/stable/releasenotes/8.2.0.html#cve-2021-28677-fix-eps-dos-on-open
+https://pillow.readthedocs.io/en/stable/releasenotes/8.2.0.html#cve-2021-28678-fix-blp-dos
+https://pillow.readthedocs.io/en/stable/releasenotes/8.3.0.html#buffer-overflow
+https://pillow.readthedocs.io/en/stable/releasenotes/8.3.2.html
+https://pillow.readthedocs.io/en/stable/releasenotes/index.html

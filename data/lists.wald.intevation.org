@@ -1,1 +1,3 @@
 http://lists.wald.intevation.org/pipermail/openvas-announce/2013-November/000157.html
+https://lists.wald.intevation.org/pipermail/openvas-commits/2011-February/010206.html
+https://lists.wald.intevation.org/pipermail/openvas-commits/2011-February/010242.html

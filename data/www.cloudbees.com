@@ -4,3 +4,8 @@ http://www.cloudbees.com/jenkins-advisory/jenkins-security-advisory-2012-11-20.c
 http://www.cloudbees.com/jenkins-advisory/jenkins-security-advisory-2013-01-04.cb
 http://www.cloudbees.com/jenkins-advisory/jenkins-security-advisory-2013-02-16.cb
 http://www.cloudbees.com/jenkins-advisory/jenkins-security-advisory-2013-05-02.cb
+https://www.cloudbees.com/jenkins-security-advisory-2012-01-12
+https://www.cloudbees.com/jenkins-security-advisory-2012-09-17
+https://www.cloudbees.com/jenkins-security-advisory-2014-10-30
+https://www.cloudbees.com/jenkins-security-advisory-2016-05-11
+https://www.cloudbees.com/jenkins-security-advisory-2016-11-16

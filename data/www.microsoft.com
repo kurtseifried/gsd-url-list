@@ -86,3 +86,5 @@ http://www.microsoft.com/technet/support/kb.asp?ID=272079
 http://www.microsoft.com/technet/treeview/default.asp?url=/Technet/security/topics/secword.asp
 http://www.microsoft.com/windows/ie/security/powerpoint.asp
 http://www.microsoft.com/windowsxp/using/setup/getstarted/installqa.mspx
+https://www.microsoft.com/en-us/p/msi-dragon-center/9nh7n2bv1cqq?activetab=pivot:overviewtab
+https://www.microsoft.com/security/blog/2021/07/13/microsoft-discovers-threat-actor-targeting-solarwinds-serv-u-software-with-0-day-exploit

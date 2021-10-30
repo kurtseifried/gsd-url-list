@@ -12,3 +12,6 @@ http://scarybeastsecurity.blogspot.com/2011/02/some-less-obvious-benefits-of-hst
 http://scarybeastsecurity.blogspot.com/2011/03/multi-browser-heap-address-leak-in-xslt.html
 http://scarybeastsecurity.blogspot.com/2011/05/libxml-vulnerability-and-interesting.html
 http://scarybeastsecurity.blogspot.com/2012/03/some-random-observations-on-linux-aslr.html
+https://scarybeastsecurity.blogspot.com/2016/11/0day-exploit-advancing-exploitation.html
+https://scarybeastsecurity.blogspot.com/2016/11/0day-poc-incorrect-fix-for-gstreamer.html
+https://scarybeastsecurity.blogspot.com/2017/05/bleed-continues-18-byte-file-14k-bounty.html

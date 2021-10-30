@@ -3,3 +3,8 @@ http://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-EFER-8585
 http://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-knfsd-9666
 http://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-proc-net-udp-8586
 http://vigilance.fr/vulnerability/Windows-denials-of-service-of-win32k-sys-9607
+https://vigilance.fr/vulnerability/Jasig-CAS-Server-bypassing-authentication-via-Google-Accounts-Integration-14512
+https://vigilance.fr/vulnerability/Linux-kernel-information-disclosure-about-keyboard-11131
+https://vigilance.fr/vulnerability/Webmin-code-execution-via-miniserv-pl-handle-request-34220
+https://vigilance.fr/vulnerability/dhcp6c-shell-command-injection-10869
+https://vigilance.fr/vulnerability/vsftpd-backdoor-in-version-2-3-4-10805

@@ -1,0 +1,5 @@
+https://gitlab.alpinelinux.org/alpine/apk-tools/-/issues/10741
+https://gitlab.alpinelinux.org/alpine/apk-tools/-/issues/10749
+https://gitlab.alpinelinux.org/alpine/aports/-/issues/12539
+https://gitlab.alpinelinux.org/alpine/aports/-/issues/12606
+https://gitlab.alpinelinux.org/alpine/aports/-/issues/12811

@@ -1,0 +1,3 @@
+https://members.backbox.org/boolebox-secure-sharing-multiple-vulnerabilities/
+https://members.backbox.org/fastgate-gpon-cross-site-request-forgery/
+https://members.backbox.org/saet-tebe-small-supervisor-multiple-vulnerabilities/

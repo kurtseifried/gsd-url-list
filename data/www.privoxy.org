@@ -1,1 +1,5 @@
 http://www.privoxy.org/announce.txt
+https://www.privoxy.org/3.0.29/user-manual/whatsnew.html
+https://www.privoxy.org/3.0.31/user-manual/whatsnew.html
+https://www.privoxy.org/announce.txt
+https://www.privoxy.org/gitweb/?p=privoxy.git;a=commit;h=c62254a686

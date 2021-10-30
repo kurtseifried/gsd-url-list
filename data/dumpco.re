@@ -1,3 +1,10 @@
 http://dumpco.re/bugs/wp-plugin-carts-guru-id
 http://dumpco.re/bugs/wp-plugin-print-my-blog-ssrf
 http://dumpco.re/bugs/wp-plugin-wp-booking-system-sqli
+https://dumpco.re/blog/net-snmp-5.7.3-remote-dos
+https://dumpco.re/blog/ntpsec-bugs
+https://dumpco.re/bugs/ntpsec-authed-npe
+https://dumpco.re/bugs/ntpsec-authed-oobwrite
+https://dumpco.re/bugs/ntpsec-oobread1
+https://dumpco.re/bugs/ntpsec-oobread2
+https://dumpco.re/bugs/wp-plugin-virim-id

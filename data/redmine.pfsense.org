@@ -1,1 +1,9 @@
 http://redmine.pfsense.org/issues/1888
+https://redmine.pfsense.org/issues/10355
+https://redmine.pfsense.org/issues/4698
+https://redmine.pfsense.org/issues/9223
+https://redmine.pfsense.org/issues/9335
+https://redmine.pfsense.org/issues/9554#change-40729
+https://redmine.pfsense.org/issues/9556
+https://redmine.pfsense.org/issues/9609
+https://redmine.pfsense.org/issues/9610

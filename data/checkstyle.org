@@ -1,0 +1,1 @@
+https://checkstyle.org/releasenotes.html#Release_8.18

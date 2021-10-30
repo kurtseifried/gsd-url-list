@@ -5,3 +5,7 @@ http://blog.curesec.com/article/blog/NibbleBlog-403-Code-Execution-47.html
 http://blog.curesec.com/article/blog/Serendipity-201-Blind-SQL-Injection-52.html
 http://blog.curesec.com/article/blog/Serendipity-201-Code-Execution-48.html
 http://blog.curesec.com/article/blog/Serendipity-201-Persistent-XSS-51.html
+https://blog.curesec.com/article/blog/AlegroCart-128-LFIRFI-102.html
+https://blog.curesec.com/article/blog/AlegroCart-128-SQL-Injection-104.html
+https://blog.curesec.com/article/blog/dotclear-281-Code-Execution-93.html
+https://blog.curesec.com/article/blog/dotclear-281-XSS-94.html

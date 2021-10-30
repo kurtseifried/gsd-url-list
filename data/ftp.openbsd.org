@@ -17,3 +17,17 @@ ftp://ftp.openbsd.org/pub/OpenBSD/patches/4.3/common/013_pf.patch
 http://ftp.openbsd.org/pub/OpenBSD/LibreSSL/libressl-2.3.1-relnotes.txt
 http://ftp.openbsd.org/pub/OpenBSD/patches/5.5/common/004_openssl.patch.sig
 http://ftp.openbsd.org/pub/OpenBSD/patches/5.9/common/023_uvmisavail.patch.sig
+https://ftp.openbsd.org/pub/OpenBSD/LibreSSL/libressl-2.6.5-relnotes.txt
+https://ftp.openbsd.org/pub/OpenBSD/LibreSSL/libressl-2.7.1-relnotes.txt
+https://ftp.openbsd.org/pub/OpenBSD/LibreSSL/libressl-2.7.4-relnotes.txt
+https://ftp.openbsd.org/pub/OpenBSD/patches/5.7/common/013_patch.patch.sig
+https://ftp.openbsd.org/pub/OpenBSD/patches/5.9/common/033_libcrypto.patch.sig
+https://ftp.openbsd.org/pub/OpenBSD/patches/5.9/common/034_httpd.patch.sig
+https://ftp.openbsd.org/pub/OpenBSD/patches/6.0/common/013_ssh_kexinit.patch.sig
+https://ftp.openbsd.org/pub/OpenBSD/patches/6.0/common/016_libcrypto.patch.sig
+https://ftp.openbsd.org/pub/OpenBSD/patches/6.0/common/017_httpd.patch.sig
+https://ftp.openbsd.org/pub/OpenBSD/patches/6.1/common/008_exec_subr.patch.sig
+https://ftp.openbsd.org/pub/OpenBSD/patches/6.2/common/020_ioport.patch.sig
+https://ftp.openbsd.org/pub/OpenBSD/patches/6.3/common/015_ioport.patch.sig
+https://ftp.openbsd.org/pub/OpenBSD/patches/6.5/common/006_tcpsack.patch.sig
+https://ftp.openbsd.org/pub/OpenBSD/patches/6.7/common/014_iked.patch.sig

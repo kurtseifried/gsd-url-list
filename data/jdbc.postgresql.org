@@ -1,0 +1,1 @@
+https://jdbc.postgresql.org/documentation/changelog.html#version_42.2.13

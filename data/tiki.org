@@ -1,0 +1,3 @@
+https://tiki.org/News
+https://tiki.org/article443-Security-update-Tiki-16-1-Tiki-15-3-and-Tiki-12-10-released
+https://tiki.org/article449-Security-and-bug-fix-updates-Tiki-17-1-Tiki-16-3-15-5-and-Tiki-12-12-released

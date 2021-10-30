@@ -5,3 +5,5 @@ http://lists.alioth.debian.org/pipermail/sane-devel/2017-February/035059.html
 http://lists.alioth.debian.org/pipermail/secure-testing-announce/2005-August/000003.html
 http://lists.alioth.debian.org/pipermail/secure-testing-commits/2017-December/059967.html
 http://lists.alioth.debian.org/pipermail/secure-testing-team/2008-June/001672.html
+https://lists.alioth.debian.org/pipermail/pcsclite-muscle/Week-of-Mon-20161226/000779.html
+https://lists.alioth.debian.org/pipermail/sane-devel/2017-February/035029.html

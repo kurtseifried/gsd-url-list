@@ -1,1 +1,6 @@
 http://fluxbb.org/forums/viewtopic.php?id=8001
+https://fluxbb.org/development/core/tickets/961/
+https://fluxbb.org/development/core/tickets/990/
+https://fluxbb.org/downloads/
+https://fluxbb.org/forums/viewtopic.php?id=5751
+https://fluxbb.org/forums/viewtopic.php?id=8203

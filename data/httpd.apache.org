@@ -11,3 +11,15 @@ http://httpd.apache.org/security/vulnerabilities_22.html#2.2.21
 http://httpd.apache.org/security/vulnerabilities_22.html#2.2.22
 http://httpd.apache.org/security/vulnerabilities_24.html
 https://httpd.apache.org/docs/current/mod/mod_ssl.html#sslcompression
+https://httpd.apache.org/security/vulnerabilities_22.html
+https://httpd.apache.org/security/vulnerabilities_22.html#CVE-2016-4975
+https://httpd.apache.org/security/vulnerabilities_24.html
+https://httpd.apache.org/security/vulnerabilities_24.html#CVE-2016-0736
+https://httpd.apache.org/security/vulnerabilities_24.html#CVE-2016-2161
+https://httpd.apache.org/security/vulnerabilities_24.html#CVE-2016-4975
+https://httpd.apache.org/security/vulnerabilities_24.html#CVE-2016-8743
+https://httpd.apache.org/security/vulnerabilities_24.html#CVE-2017-9798
+https://httpd.apache.org/security/vulnerabilities_24.html#CVE-2018-1333
+https://httpd.apache.org/security/vulnerabilities_24.html#CVE-2018-8011
+https://httpd.apache.org/security/vulnerabilities_24.html#CVE-2020-11993
+https://httpd.apache.org/security/vulnerabilities_24.html#CVE-2020-9490

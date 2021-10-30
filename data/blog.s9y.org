@@ -14,3 +14,8 @@ http://blog.s9y.org/archives/259-Serendipity-2.0-rc2-released.html
 http://blog.s9y.org/archives/263-Serendipity-2.0.1-released.html
 http://blog.s9y.org/archives/265-Serendipity-2.0.2-Security-Fix-Release.html
 http://blog.s9y.org/archives/266-Serendipity-2.0.3-released.html
+https://blog.s9y.org/archives/224-Important-Security-Update-Serendipity-1.5.5-released.html
+https://blog.s9y.org/archives/269-Serendipity-2.0.4-and-2.1-beta2-released.html
+https://blog.s9y.org/archives/271-Serendipity-2.0.5-and-2.1-beta3-released.html
+https://blog.s9y.org/archives/282-Serendipity-2.1.5-released.html
+https://blog.s9y.org/archives/290-Serendipity-2.3.4-released-security-update.html

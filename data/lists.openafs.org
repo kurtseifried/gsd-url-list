@@ -1,1 +1,4 @@
 http://lists.openafs.org/pipermail/openafs-announce/2007/000220.html
+https://lists.openafs.org/pipermail/openafs-announce/2015/000486.html
+https://lists.openafs.org/pipermail/openafs-announce/2015/000493.html
+https://lists.openafs.org/pipermail/openafs-announce/2016/000496.html

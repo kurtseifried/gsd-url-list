@@ -1,2 +1,6 @@
 http://bakery.cakephp.org/2015/11/29/cakephp_315_released.html
 http://bakery.cakephp.org/articles/markstory/2012/07/14/security_release_-_cakephp_2_1_5_2_2_1
+https://bakery.cakephp.org/2016/03/13/cakephp_2613_2711_282_3017_3112_325_released.html
+https://bakery.cakephp.org/2019/04/23/cakephp_377_3615_3518_released.html
+https://bakery.cakephp.org/2020/04/18/cakephp_406_released.html
+https://bakery.cakephp.org/2020/12/07/cakephp_4010_released.html

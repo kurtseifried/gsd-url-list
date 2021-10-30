@@ -1,0 +1,2 @@
+https://docs.jboss.org/hibernate/validator/6.1/reference/en-US/html_single/#section-hibernateconstraintvalidatorcontext
+https://docs.jboss.org/hibernate/validator/6.1/reference/en-US/html_single/#section-interpolation-with-message-expressions

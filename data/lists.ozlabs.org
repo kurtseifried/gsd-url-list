@@ -1,0 +1,7 @@
+https://lists.ozlabs.org/pipermail/linuxppc-dev/2020-April/208660.html
+https://lists.ozlabs.org/pipermail/linuxppc-dev/2020-April/208661.html
+https://lists.ozlabs.org/pipermail/linuxppc-dev/2020-April/208663.html
+https://lists.ozlabs.org/pipermail/openbmc/2020-June/022020.html
+https://lists.ozlabs.org/pipermail/patchwork/2019-July/005870.html
+https://lists.ozlabs.org/pipermail/patchwork/2019-July/005878.html
+https://lists.ozlabs.org/pipermail/patchwork/2019-July/date.html

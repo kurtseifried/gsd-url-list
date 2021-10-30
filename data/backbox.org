@@ -1,0 +1,3 @@
+https://backbox.org/membership/lansweeper-v6-0-0-63-xss-vulnerability/
+https://backbox.org/membership/sharing-board/tilde-cms-v1-01-multiple-vulnerabilities/
+https://backbox.org/portal/blog/false-cve-backbox-46-unmasked

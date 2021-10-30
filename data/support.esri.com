@@ -12,3 +12,5 @@ http://support.esri.com/index.cfm?fa=downloads.patchesServicePacks.viewPatch&amp
 http://support.esri.com/index.cfm?fa=downloads.patchesServicePacks.viewPatch&amp;amp;PID=19&amp;amp;MetaID=1260
 http://support.esri.com/index.cfm?fa=downloads.patchesServicePacks.viewPatch&amp;amp;PID=19&amp;amp;MetaID=1261
 http://support.esri.com/index.cfm?fa=downloads.patchesServicePacks.viewPatch&amp;amp;PID=19&amp;amp;MetaID=1262
+https://support.esri.com/en/bugs/nimbus/QlVHLTAwMDEyODA2MA==
+https://support.esri.com/en/technical-article/000022931

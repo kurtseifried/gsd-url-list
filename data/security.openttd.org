@@ -9,3 +9,4 @@ http://security.openttd.org/en/CVE-2011-3343
 http://security.openttd.org/en/CVE-2012-0049
 http://security.openttd.org/en/CVE-2012-3436
 http://security.openttd.org/en/patch/28.patch
+https://security.openttd.org/en/CVE-2013-6411

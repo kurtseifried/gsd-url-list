@@ -1,0 +1,4 @@
+https://ledgersmb.org/cve-2021-3693-cross-site-scripting
+https://ledgersmb.org/cve-2021-3694-cross-site-scripting
+https://ledgersmb.org/cve-2021-3731-clickjacking
+https://ledgersmb.org/cve-2021-3882-sensitive-non-secure-cookie

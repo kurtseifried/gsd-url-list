@@ -1,1 +1,3 @@
+https://www.first.org/members/teams/fujitsu_psirt
+https://www.first.org/members/teams/sony_psirt
 https://www.first.org/resources/papers/telaviv2019/Rezilion-Shlomi-Butnaro-Beyond-Whitelisting-Fileless-Attacks-Against-L....pdf

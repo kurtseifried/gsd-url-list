@@ -1,0 +1,1 @@
+https://www.found.no/foundation/elasticsearch-security/#staying-safe-while-developing-with-elasticsearch

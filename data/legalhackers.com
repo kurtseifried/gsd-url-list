@@ -9,3 +9,14 @@ http://legalhackers.com/advisories/vBulletin-SSRF-Vulnerability-Exploit.txt
 http://legalhackers.com/advisories/zabbix181api-sql.txt
 http://legalhackers.com/advisories/zend-framework-XXE-vuln.txt
 http://legalhackers.com/poc/zabbix181api.pl-poc
+https://legalhackers.com
+https://legalhackers.com/advisories/Git-LFS-RCE-Exploit-CVE-2020-27955.html
+https://legalhackers.com/advisories/MySQL-Maria-Percona-PrivEscRace-CVE-2016-6663-5616-Exploit.html
+https://legalhackers.com/advisories/Nagios-Exploit-Command-Injection-CVE-2016-9565-2008-4796.html
+https://legalhackers.com/advisories/Nagios-Exploit-Root-PrivEsc-CVE-2016-9566.html
+https://legalhackers.com/advisories/Nginx-Exploit-Deb-Root-PrivEsc-CVE-2016-1247.html
+https://legalhackers.com/advisories/PHPMailer-Exploit-Remote-Code-Exec-CVE-2016-10033-Vuln.html
+https://legalhackers.com/advisories/PHPMailer-Exploit-Remote-Code-Exec-CVE-2016-10045-Vuln-Patch-Bypass.html
+https://legalhackers.com/advisories/SquirrelMail-Exploit-Remote-Code-Exec-CVE-2017-7692-Vuln.html
+https://legalhackers.com/advisories/SwiftMailer-Exploit-Remote-Code-Exec-CVE-2016-10074-Vuln.html
+https://legalhackers.com/advisories/ZendFramework-Exploit-ZendMail-Remote-Code-Exec-CVE-2016-10034-Vuln.html

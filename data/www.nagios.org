@@ -5,3 +5,4 @@ http://www.nagios.org/development/history/core-3x/
 http://www.nagios.org/development/history/nagios-3x.php
 http://www.nagios.org/news/#88
 http://www.nagios.org/projects/nagioscore/history/core-3x
+https://www.nagios.org/projects/nagios-core/history/4x/

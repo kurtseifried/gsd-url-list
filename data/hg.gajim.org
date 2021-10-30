@@ -1,1 +1,2 @@
 http://hg.gajim.org/gajim/rev/f046e4aaf7d4
+https://hg.gajim.org/gajim/file/gajim-0.16.5/ChangeLog

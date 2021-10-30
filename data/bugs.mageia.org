@@ -1,0 +1,6 @@
+https://bugs.mageia.org/show_bug.cgi?id=10682
+https://bugs.mageia.org/show_bug.cgi?id=11100
+https://bugs.mageia.org/show_bug.cgi?id=12770
+https://bugs.mageia.org/show_bug.cgi?id=13386
+https://bugs.mageia.org/show_bug.cgi?id=13580
+https://bugs.mageia.org/show_bug.cgi?id=8652

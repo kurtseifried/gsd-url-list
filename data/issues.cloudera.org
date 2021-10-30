@@ -1,0 +1,1 @@
+https://issues.cloudera.org/browse/HUE-3626

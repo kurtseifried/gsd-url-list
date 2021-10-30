@@ -1,0 +1,7 @@
+https://dev.icinga.org/issues/1605
+https://dev.icinga.org/issues/3532
+https://dev.icinga.org/issues/5250
+https://dev.icinga.org/issues/5251
+https://dev.icinga.org/issues/5346
+https://dev.icinga.org/issues/5434
+https://dev.icinga.org/issues/5663

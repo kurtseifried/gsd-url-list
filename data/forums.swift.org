@@ -1,0 +1,1 @@
+https://forums.swift.org/t/swift-5-1-5-for-linux-jsonserialization-limit-recursion-when-parsing/34514

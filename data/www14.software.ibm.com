@@ -124,3 +124,8 @@ http://www14.software.ibm.com/webapp/set2/subscriptions/pqvcmjd?mode=18&amp;amp;
 http://www14.software.ibm.com/webapp/set2/subscriptions/pqvcmjd?mode=18&amp;amp;ID=5088
 http://www14.software.ibm.com/webapp/set2/subscriptions/pqvcmjd?mode=18&amp;amp;ID=6060&amp;amp;myns=phmc&amp;amp;mync=E
 http://www14.software.ibm.com/webapp/set2/subscriptions/pqvcmjd?mode=18&amp;amp;ID=6061&amp;amp;myns=phmc&amp;amp;mync=E
+https://www14.software.ibm.com/webapp/iwm/web/reg/download.do?source=dmp&amp;amp;S_PKG=director_x_520&amp;amp;S_TACT=sms&amp;amp;lang=en_US&amp;amp;cp=UTF-8
+https://www14.software.ibm.com/webapp/set2/sas/f/hmc/power6/install/v7.Readme.html
+https://www14.software.ibm.com/webapp/set2/sas/f/hmc/power6/install/v7.Readme.html#MH01065
+https://www14.software.ibm.com/webapp/set2/sas/f/hmc/power6/install/v7.Readme.html#MH01133
+https://www14.software.ibm.com/webapp/set2/sas/f/hmc/power6/install/v7.Readme.html#MH01134

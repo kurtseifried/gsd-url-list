@@ -1,0 +1,2 @@
+https://jsoup.org/news/release-1.14.1
+https://jsoup.org/news/release-1.14.2

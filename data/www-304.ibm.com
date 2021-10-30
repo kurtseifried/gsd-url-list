@@ -15,3 +15,16 @@ http://www-304.ibm.com/support/docview.wss?uid=swg21962816
 http://www-304.ibm.com/support/docview.wss?uid=swg21963014
 http://www-304.ibm.com/support/docview.wss?uid=swg21967893
 http://www-304.ibm.com/support/docview.wss?uid=swg21970376
+https://www-304.ibm.com/connections/blogs/PSIRT/entry/oracle_java_7_security_manager_bypass_vulnerability_cve_2013_04224?lang=en_us
+https://www-304.ibm.com/connections/blogs/PSIRT/entry/security_bulletin_fix_available_for_unauthorized_information_retrieval_security_vulnerability_in_ibm_websphere_portal_cve_2013_6735
+https://www-304.ibm.com/connections/blogs/PSIRT/entry/security_bulletin_ibm_security_access_manager_for_enterprise_single_sign_on_cross_site_scripting_vulnerability_cve_2013_6745?lang=en_us
+https://www-304.ibm.com/jct03001c/software/lotus/symphony/idcontents/releasenotes/en/readme_embedded_in_fixpack3_long.htm
+https://www-304.ibm.com/support/docview.wss?uid=isg1PM42551
+https://www-304.ibm.com/support/docview.wss?uid=isg3T1019715
+https://www-304.ibm.com/support/docview.wss?uid=swg1SE45551
+https://www-304.ibm.com/support/docview.wss?uid=swg21587015
+https://www-304.ibm.com/support/docview.wss?uid=swg21616546
+https://www-304.ibm.com/support/docview.wss?uid=swg21694940
+https://www-304.ibm.com/support/docview.wss?uid=swg21695474
+https://www-304.ibm.com/support/docview.wss?uid=swg21959745
+https://www-304.ibm.com/support/docview.wss?uid=swg21972041

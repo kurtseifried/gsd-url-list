@@ -1,0 +1,1 @@
+https://strapi.io/changelog

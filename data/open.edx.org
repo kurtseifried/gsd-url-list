@@ -1,0 +1,9 @@
+https://open.edx.org/CVE-2015-2186
+https://open.edx.org/CVE-2015-2286
+https://open.edx.org/CVE-2015-6253
+https://open.edx.org/CVE-2015-6671
+https://open.edx.org/announcements/CVE-2015-5601
+https://open.edx.org/announcements/cross-site-request-forgery-bug-edx-lms/
+https://open.edx.org/announcements/cve-2015-6253/
+https://open.edx.org/announcements/cve-2015-6960/
+https://open.edx.org/announcements/security-alert-account-activation-unverified-email/

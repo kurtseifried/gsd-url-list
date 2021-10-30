@@ -13,3 +13,13 @@ http://vcs.pcre.org/pcre?view=revision&amp;revision=1475
 http://vcs.pcre.org/pcre?view=revision&amp;revision=1566
 http://vcs.pcre.org/pcre?view=revision&amp;revision=1571
 http://vcs.pcre.org/pcre?view=revision&amp;revision=1631
+https://vcs.pcre.org/pcre/code/trunk/pcre_internal.h?r1=1649&amp;amp;r2=1688&amp;amp;sortby=date
+https://vcs.pcre.org/pcre/code/trunk/pcre_jit_compile.c?r1=1676&amp;amp;r2=1680&amp;amp;view=patch
+https://vcs.pcre.org/pcre/code/trunk/pcre_ucd.c?r1=1490&amp;amp;r2=1688&amp;amp;sortby=date
+https://vcs.pcre.org/pcre2/code/tags/pcre2-10.30/ChangeLog?revision=854&amp;amp;view=markup
+https://vcs.pcre.org/pcre2/code/trunk/src/pcre2_internal.h?r1=600&amp;amp;r2=670&amp;amp;sortby=date
+https://vcs.pcre.org/pcre2/code/trunk/src/pcre2_ucd.c?r1=316&amp;amp;r2=670&amp;amp;sortby=date
+https://vcs.pcre.org/pcre2?view=revision&amp;amp;revision=1092
+https://vcs.pcre.org/pcre2?view=revision&amp;amp;revision=674
+https://vcs.pcre.org/pcre2?view=revision&amp;amp;revision=696
+https://vcs.pcre.org/pcre2?view=revision&amp;amp;revision=697

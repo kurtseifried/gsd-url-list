@@ -1,1 +1,5 @@
 http://issues.igniterealtime.org/browse/SMACK-410
+https://issues.igniterealtime.org/browse/OF-1417
+https://issues.igniterealtime.org/browse/OF-1955
+https://issues.igniterealtime.org/browse/OF-1963
+https://issues.igniterealtime.org/projects/SMACK/issues/SMACK-739

@@ -1,0 +1,15 @@
+https://www.bishopfox.com/blog/2017/06/how-i-built-an-xss-worm-on-atmail/
+https://www.bishopfox.com/blog/news-category/advisories/
+https://www.bishopfox.com/news/2018/05/solarwinds-serv-u-managed-file-transfer-denial-of-service/
+https://www.bishopfox.com/news/2018/05/solarwinds-serv-u-managed-file-transfer-insufficient-session-id-entropy/
+https://www.bishopfox.com/news/2018/06/jirafeau-version-3-3-0-multiple-vulnerabilities/
+https://www.bishopfox.com/news/2018/08/cremecrm-1-6-12-multiple-vulnerabilities/
+https://www.bishopfox.com/news/2018/09/subsonic-6-1-1-multiple-vulnerabilities/
+https://www.bishopfox.com/news/2018/09/wallabag-2-2-3-to-2-3-2-stored-cross-site-scripting/
+https://www.bishopfox.com/news/2018/10/eaton-ups-9px-8000-sp-multiple-vulnerabilities/
+https://www.bishopfox.com/news/2018/10/sv3c-l-series-hd-camera-multiple-vulnerabilities/
+https://www.bishopfox.com/news/2018/10/yunohost-2-7-2-to-2-7-14-multiple-vulnerabilities/
+https://www.bishopfox.com/news/2018/11/phpoffice-versions/
+https://www.bishopfox.com/news/2019/01/silverpeas-5-15-to-6-0-2-path-traversal/
+https://www.bishopfox.com/news/2019/02/simple-better-banking-android-v-2-45-0-2-45-3-sensitive-information-disclosure/
+https://www.bishopfox.com/news/2019/03/cantemo-portal-version-3-8-4-cross-site-scripting/

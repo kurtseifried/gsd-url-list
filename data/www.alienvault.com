@@ -1,2 +1,11 @@
 http://www.alienvault.com/community.php?section=News
 http://www.alienvault.com/open-threat-exchange/blog/analysis-of-an-attack-exploiting-the-adobe-zero-day-cve-2014-0502/
+https://www.alienvault.com/forums/discussion/17155/alienvault-v5-5-1-hotfix-important-update
+https://www.alienvault.com/forums/discussion/17204/security-advisory-alienvault-v5-5-1-resolves-critical-vulnerability
+https://www.alienvault.com/forums/discussion/4415/
+https://www.alienvault.com/forums/discussion/5127/
+https://www.alienvault.com/forums/discussion/7558/
+https://www.alienvault.com/forums/discussion/7765/alienvault-v5-3-1-hotfix
+https://www.alienvault.com/forums/discussion/7766/security-advisory-alienvault-5-3-2-address-70-vulnerabilities
+https://www.alienvault.com/forums/discussion/8325/
+https://www.alienvault.com/forums/discussion/8698

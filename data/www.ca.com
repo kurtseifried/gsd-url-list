@@ -26,3 +26,7 @@ http://www.ca.com/us/support/ca-support-online/product-content/recommended-readi
 http://www.ca.com/us/support/ca-support-online/product-content/recommended-reading/security-notices/ca20160405-01-security-notice-for-ca-api-gateway.aspx
 http://www.ca.com/us/support/ca-support-online/product-content/recommended-reading/security-notices/ca20160627-01-security-notice-for-release-automation.aspx
 http://www.ca.com/us/support/ca-support-online/product-content/recommended-reading/security-notices/ca20160721-01-security-notice-for-ca-ehealth.aspx
+https://www.ca.com/us/services-support/ca-support/ca-support-online/product-content/recommended-reading/security-notices/ca20161109-01-security-notice-for-ca-unified-infrastructure-mgmt.html
+https://www.ca.com/us/services-support/ca-support/ca-support-online/product-content/recommended-reading/security-notices/ca20170109-01-security-notice-for-ca-service-desk-manager.html
+https://www.ca.com/us/services-support/ca-support/ca-support-online/product-content/recommended-reading/security-notices/ca20170126-01--security-notice-for-ca-common-services-casrvc.html
+https://www.ca.com/us/services-support/ca-support/ca-support-online/product-content/recommended-reading/security-notices/ca20170504-01-security-notice-for-ca-client-automation-os-installation-mgmt.html

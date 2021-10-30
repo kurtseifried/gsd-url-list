@@ -2,3 +2,7 @@ http://varnish-cache.org/security/VSV00002.html
 http://varnish-cache.org/security/VSV00004.html#vsv00004
 https://varnish-cache.org/security/VSV00001.html
 https://varnish-cache.org/security/VSV00002.html
+https://varnish-cache.org/security/VSV00003.html
+https://varnish-cache.org/security/VSV00005.html#vsv00005
+https://varnish-cache.org/security/VSV00006.html
+https://varnish-cache.org/security/VSV00007.html

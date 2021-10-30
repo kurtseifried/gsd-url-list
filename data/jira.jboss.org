@@ -1,0 +1,10 @@
+https://jira.jboss.org/browse/JBESB-3345
+https://jira.jboss.org/browse/SOA-2105
+https://jira.jboss.org/jira/browse/JBAS-7105
+https://jira.jboss.org/jira/browse/JBPAPP-1548
+https://jira.jboss.org/jira/browse/JBPAPP-1983
+https://jira.jboss.org/jira/browse/JBPAPP-2274
+https://jira.jboss.org/jira/browse/JBPAPP-2284
+https://jira.jboss.org/jira/browse/JBPAPP-2872
+https://jira.jboss.org/jira/browse/JBPAPP-544
+https://jira.jboss.org/jira/browse/JBPAPP-682

@@ -1,0 +1,15 @@
+https://0patch.blogspot.com/2016/06/writing-0patch-for-acrobat-readers-use.html
+https://0patch.blogspot.com/2016/07/0patching-foxit-readers-heap-buffer.html
+https://0patch.blogspot.com/2017/01/micropatching-remote-code-execution-in.html
+https://0patch.blogspot.com/2017/02/0patching-0-day-windows-gdi32dll-memory.html
+https://0patch.blogspot.com/2017/03/0patching-immortal-cve-2017-7269.html
+https://0patch.blogspot.com/2017/07/0patching-quick-brown-fox-of-cve-2017.html
+https://0patch.blogspot.com/2017/08/0patching-foxit-readers-saveas-0day-cve.html
+https://0patch.blogspot.com/2017/09/0patching-rsrc-arbitrary-null-write.html
+https://0patch.blogspot.com/2017/09/exploit-kit-rendezvous-and-cve-2017-0022.html
+https://0patch.blogspot.com/2017/10/micropatching-hypervisor-with-running.html
+https://0patch.blogspot.com/2017/11/0patching-pretty-nasty-microsoft-word.html
+https://0patch.blogspot.com/2017/11/did-microsoft-just-manually-patch-their.html
+https://0patch.blogspot.com/2017/11/official-patch-for-cve-2017-11882-meets.html
+https://0patch.blogspot.com/2018/01/bringing-abandoned-equation-editor-back.html
+https://0patch.blogspot.com/2018/01/the-bug-that-killed-equation-editor-how.html

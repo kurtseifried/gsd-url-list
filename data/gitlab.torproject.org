@@ -1,0 +1,8 @@
+https://gitlab.torproject.org/tpo/core/tor/-/commit/80c404c4b79f3bcba3fc4585d4c62a62a04f3ed9
+https://gitlab.torproject.org/tpo/core/tor/-/issues/33119
+https://gitlab.torproject.org/tpo/core/tor/-/issues/40304
+https://gitlab.torproject.org/tpo/core/tor/-/issues/40316
+https://gitlab.torproject.org/tpo/core/tor/-/issues/40389
+https://gitlab.torproject.org/tpo/core/tor/-/issues/40391
+https://gitlab.torproject.org/tpo/core/tor/-/issues/40392
+https://gitlab.torproject.org/tpo/core/tor/-/merge_requests/434

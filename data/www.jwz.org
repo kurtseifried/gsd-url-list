@@ -1,2 +1,4 @@
 http://www.jwz.org/xscreensaver/changelog.html
 http://www.jwz.org/xscreensaver/faq.html#root-lock
+https://www.jwz.org/blog/2015/10/xscreensaver-5-34/
+https://www.jwz.org/xscreensaver/changelog.html

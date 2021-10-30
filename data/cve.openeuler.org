@@ -1,0 +1,2 @@
+https://cve.openeuler.org/#/CVEInfo/CVE-2020-10713
+https://cve.openeuler.org/cve#/CVEInfo/CVE-2020-13800

@@ -15,3 +15,10 @@ http://h20565.www2.hp.com/portal/site/hpsc/template.PAGE/public/kb/docDisplay/?d
 http://h20565.www2.hp.com/portal/site/hpsc/template.PAGE/public/kb/docDisplay/?docId=emr_na-c04214298
 http://h20565.www2.hp.com/portal/site/hpsc/template.PAGE/public/kb/docDisplay/?docId=emr_na-c04249852-1
 http://h20565.www2.hp.com/portal/site/hpsc/template.PAGE/public/kb/docDisplay/?docId=emr_na-c04388127
+https://h20565.www2.hp.com/hpsc/doc/public/display?docId=emr_na-c05012469
+https://h20565.www2.hp.com/hpsc/doc/public/display?docId=emr_na-c05030353
+https://h20565.www2.hp.com/hpsc/doc/public/display?docId=emr_na-c05031674
+https://h20565.www2.hp.com/hpsc/doc/public/display?docId=emr_na-c05054714
+https://h20565.www2.hp.com/portal/site/hpsc/public/kb/docDisplay?docId=emr_na-c04971867
+https://h20565.www2.hp.com/portal/site/hpsc/public/kb/docDisplay?docId=emr_na-c05018265
+https://h20565.www2.hp.com/portal/site/hpsc/public/kb/docDisplay?docId=emr_na-c05158555

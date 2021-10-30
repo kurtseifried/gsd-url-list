@@ -2,3 +2,5 @@ http://freeradius.org/press/index.html#2.1.10
 http://freeradius.org/security.html
 http://freeradius.org/security.html#eap-pwd-2015
 http://freeradius.org/security/fuzzer-2017.html
+https://freeradius.org/release_notes/?br=3.0.x&amp;amp;re=3.0.19
+https://freeradius.org/security/

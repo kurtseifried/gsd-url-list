@@ -1,0 +1,3 @@
+https://fossil-scm.org/forum/forumpost/8d367e16f53d93c789d70bd3bf2c9587227bbd5c6a7b8e512cccd79007536036
+https://fossil-scm.org/forum/info/a05ae3ce7760daf6
+https://fossil-scm.org/fossil/vdiff?branch=sec2020-2.12-patch&amp;amp;diff=1&amp;amp;w

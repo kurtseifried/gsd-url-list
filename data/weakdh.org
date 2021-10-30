@@ -1,0 +1,2 @@
+https://weakdh.org/
+https://weakdh.org/imperfect-forward-secrecy.pdf

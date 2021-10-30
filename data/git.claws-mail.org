@@ -1,1 +1,4 @@
 http://git.claws-mail.org/?p=claws.git;a=commit;h=d390fa07f5548f3173dd9cc13b233db5ce934c82
+https://git.claws-mail.org/?p=claws.git;a=blob;f=RELEASE_NOTES
+https://git.claws-mail.org/?p=claws.git;a=commit;h=ac286a71ed78429e16c612161251b9ea90ccd431
+https://git.claws-mail.org/?p=claws.git;a=commit;h=fcc25329049b6f9bd8d890f1197ed61eb12e14d5

@@ -2,3 +2,4 @@ http://info.tiki.org/article183-Tiki-Wiki-CMS-Groupware-8-2-and-6-5LTS-Security-
 http://info.tiki.org/article190-Tiki-Wiki-CMS-Groupware-Updates-Tiki-6-7-LTS
 http://info.tiki.org/article191-Tiki-Releases-8-4
 http://info.tiki.org/article221-New-Versions-of-all-supported-versions-of-Tiki-Wiki-CMS-Groupware
+https://info.tiki.org/article473-Security-Releases-of-all-Tiki-versions-since-16-3

@@ -1,0 +1,2 @@
+https://www.cisecurity.org/advisory/multiple-vulnerabilities-in-google-android-os-could-allow-for-arbitrary-code-execution_2019-078/
+https://www.cisecurity.org/cis-security-updates/incorrect-access-control-cve-2017-8916/

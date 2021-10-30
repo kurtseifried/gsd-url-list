@@ -5,3 +5,7 @@ http://www.cerberusftp.com/phpBB3/viewtopic.php?f=4&amp;amp;t=644
 http://www.cerberusftp.com/phpBB3/viewtopic.php?f=4&amp;t=644
 http://www.cerberusftp.com/products/releasenotes.html
 http://www.cerberusftp.com/releasenotes.html
+https://www.cerberusftp.com/products/releasenotes/
+https://www.cerberusftp.com/xss-vulnerability-in-public-shares-fixed-in-cerberus-ftp-server-version-11-0-1-and-10-0-17/
+https://www.cerberusftp.com/xss-vulnerability-when-previewing-svg-content/
+https://www.cerberusftp.com/zip-unzip-permission-bypass-vulnerability-fixed-in-cerberus-ftp-server-versions-11-0-3-and-10-0-18/

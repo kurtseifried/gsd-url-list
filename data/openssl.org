@@ -5,3 +5,4 @@ http://openssl.org/news/secadv_20101116.txt
 http://openssl.org/news/secadv_20101202.txt
 http://openssl.org/news/secadv_20110906.txt
 http://openssl.org/news/secadv_20150709.txt
+https://openssl.org/news/secadv/20150611.txt

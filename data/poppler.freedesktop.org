@@ -1,2 +1,3 @@
 http://poppler.freedesktop.org/
 http://poppler.freedesktop.org/releases.html
+https://poppler.freedesktop.org/releases.html

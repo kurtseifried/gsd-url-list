@@ -1,0 +1,12 @@
+https://rhinosecuritylabs.com/2016/10/operation-ownedcloud-exploitation-post-exploitation-persistence/
+https://rhinosecuritylabs.com/application-security/authenticated-file-read-vulnerability-in-jasperreports/
+https://rhinosecuritylabs.com/application-security/completeftp-server-local-privesc-cve-2019-16116/
+https://rhinosecuritylabs.com/application-security/cve-2019-0227-expired-domain-rce-apache-axis/
+https://rhinosecuritylabs.com/application-security/labkey-server-vulnerabilities-to-rce
+https://rhinosecuritylabs.com/application-security/labkey-server-vulnerabilities-to-rce/
+https://rhinosecuritylabs.com/aws/cve-2021-38112-aws-workspaces-rce/
+https://rhinosecuritylabs.com/research/epson-easymp-remote-projection-vulnerabilities/
+https://rhinosecuritylabs.com/research/microweber-database-disclosure/
+https://rhinosecuritylabs.com/research/remote-code-execution-bug-hunting-chapter-1/
+https://rhinosecuritylabs.com/research/remote-code-execution-bug-hunting-chapter-2/
+https://rhinosecuritylabs.com/research/xml-external-entity-injection-xxe-cve-2018-5758/

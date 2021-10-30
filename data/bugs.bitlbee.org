@@ -1,0 +1,3 @@
+https://bugs.bitlbee.org/ticket/1281
+https://bugs.bitlbee.org/ticket/1282
+https://bugs.bitlbee.org/ticket/852

@@ -1,0 +1,3 @@
+https://wiki.opendaylight.org/view/Security_Advisories
+https://wiki.opendaylight.org/view/Security_Advisories#.5BModerate.5D_CVE-2015-1610_l2switch:_topology_spoofing_via_hosttracker
+https://wiki.opendaylight.org/view/Security_Advisories#.5BModerate.5D_CVE-2015-1611_CVE-2015-1612_openflowplugin:_topology_spoofing_via_LLDP

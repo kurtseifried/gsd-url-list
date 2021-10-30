@@ -1,2 +1,5 @@
 http://issues.foresightlinux.org/browse/FL-223
 http://issues.foresightlinux.org/browse/FL-457
+https://issues.foresightlinux.org/browse/FL-211
+https://issues.foresightlinux.org/browse/FL-222
+https://issues.foresightlinux.org/browse/FL-471

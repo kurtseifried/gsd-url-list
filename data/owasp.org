@@ -1,0 +1,7 @@
+https://owasp.org/www-community/Slow_Down_Online_Guessing_Attacks_with_Device_Cookies
+https://owasp.org/www-community/attacks/CSV_Injection
+https://owasp.org/www-community/attacks/HTTP_Response_Splitting
+https://owasp.org/www-community/attacks/Log_Injection
+https://owasp.org/www-community/attacks/xss/#reflected-xss-attacks
+https://owasp.org/www-pdf-archive/David_Johansson-Double_Defeat_of_Double-Submit_Cookie.pdf
+https://owasp.org/www-project-csrfguard/

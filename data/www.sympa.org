@@ -1,1 +1,3 @@
 http://www.sympa.org/distribution/latest-stable/NEWS
+https://www.sympa.org/distribution/latest-stable/NEWS
+https://www.sympa.org/security_advisories

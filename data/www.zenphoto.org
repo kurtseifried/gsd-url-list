@@ -9,3 +9,6 @@ http://www.zenphoto.org/support/topic.php?id=1148
 http://www.zenphoto.org/trac/changeset/8994
 http://www.zenphoto.org/trac/changeset/8995
 http://www.zenphoto.org/trac/ticket/2005
+https://www.zenphoto.org/news/why-not-every-security-issue-is-really-an-issue/
+https://www.zenphoto.org/news/zenphoto-1.5
+https://www.zenphoto.org/news/zenphoto-1.5.7/

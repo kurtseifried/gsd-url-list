@@ -1,1 +1,5 @@
 http://weechat.org/security/
+https://weechat.org/doc/security/
+https://weechat.org/download/security/
+https://weechat.org/news/95/20170422-Version-1.7.1/
+https://weechat.org/news/98/20170923-Version-1.9.1-security-release/

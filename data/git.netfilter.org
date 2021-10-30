@@ -1,0 +1,2 @@
+https://git.netfilter.org/conntrack-tools/commit/?id=c392c159605956c7bd4a264ab4490e2b2704c0cd
+https://git.netfilter.org/iptables/commit/iptables/xshared.c?id=2ae1099a42e6a0f06de305ca13a842ac83d4683e

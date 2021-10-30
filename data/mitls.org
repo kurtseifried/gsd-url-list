@@ -1,0 +1,2 @@
+https://mitls.org/pages/attacks/SMACK#freak
+https://mitls.org/pages/attacks/SMACK#skip

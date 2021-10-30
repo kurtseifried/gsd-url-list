@@ -1,0 +1,16 @@
+https://m4.rkw.io/blog/cve201711741-local-root-privesc-in-hashicorp-vagrantvmwarefusion--4023.html
+https://m4.rkw.io/blog/cve201712579-local-root-privesc-in-hashicorp-vagrantvmwarefusion-4024.html
+https://m4.rkw.io/blog/cve201715357-local-root-privesc-in-arq-backup--596.html
+https://m4.rkw.io/blog/cve201715358-local-root-privesc-in-charles-proxy-42.html
+https://m4.rkw.io/blog/cve201715884-local-root-privesc-in-hashicorp-vagrantvmwarefusion-500.html
+https://m4.rkw.io/blog/cve201715918-sera-12-local-root-privesc-and-password-disclosure.html
+https://m4.rkw.io/blog/cve201716001-local-root-privesc-in-hashicorp-vagrantvmwarefusion-501.html
+https://m4.rkw.io/blog/cve201716512-hashicorp-vagrantvmwarefusion-v502504-local-root.html
+https://m4.rkw.io/blog/cve201716777-local-root-privesc-in-hashicorp-vagrantvmwarefusion-503.html
+https://m4.rkw.io/blog/cve201716839-hashicorp-vagrantvmwarefusion-v504-local-root.html
+https://m4.rkw.io/blog/cve201716873-hashicorp-vagrantvmwarefusion-v4025504-local-root.html
+https://m4.rkw.io/blog/cve201716895-local-root-privesc-in-arq-backup--597.html
+https://m4.rkw.io/blog/cve20177642-local-root-privesc-in-hashicorp-vagrantvmwarefusion--4020.html
+https://m4.rkw.io/blog/cve20177643-local-root-privesc-in-proxifier-for-mac--218.html
+https://m4.rkw.io/blog/cve20177690-local-root-privesc-in-proxifier-for-mac-219.html
+https://m4.rkw.io/blog/two-local-root-privesc-bugs-in-arq-backup--510.html

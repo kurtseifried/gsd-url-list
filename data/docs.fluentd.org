@@ -1,0 +1,1 @@
+https://docs.fluentd.org/installation/install-by-msi

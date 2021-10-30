@@ -14,3 +14,16 @@ http://arstechnica.com/security/2014/10/adobes-e-book-reader-sends-your-reading-
 http://arstechnica.com/security/2015/06/new-exploit-turns-samsung-galaxy-phones-into-remote-bugging-devices/
 http://arstechnica.com/security/2015/12/unauthorized-code-in-juniper-firewalls-decrypts-encrypted-vpn-traffic/
 http://arstechnica.com/security/2016/08/new-attack-steals-ssns-e-mail-addresses-and-more-from-https-pages/
+https://arstechnica.com/gadgets/2018/03/its-not-just-spectre-researchers-reveal-more-branch-prediction-attacks/
+https://arstechnica.com/gadgets/2021/06/hackers-exploited-0-day-not-2018-bug-to-mass-wipe-my-book-live-devices/
+https://arstechnica.com/gadgets/2021/07/passwords-in-amazon-echo-dots-live-on-even-after-you-factory-reset-them/
+https://arstechnica.com/information-technology/2017/05/windows-defender-nscript-remote-vulnerability/
+https://arstechnica.com/information-technology/2017/10/crypto-failure-cripples-millions-of-high-security-keys-750k-estonian-ids/
+https://arstechnica.com/information-technology/2017/11/macos-bug-lets-you-log-in-as-admin-with-no-password-required/
+https://arstechnica.com/information-technology/2018/11/hacker-backdoors-widely-used-open-source-software-to-steal-bitcoin/
+https://arstechnica.com/information-technology/2019/08/the-year-long-rash-of-supply-chain-attacks-against-open-source-is-getting-worse/
+https://arstechnica.com/information-technology/2019/09/public-exploit-code-spawns-mass-attacks-against-high-severity-vbulletin-bug/
+https://arstechnica.com/information-technology/2019/10/unpatched-linux-flaw-may-let-attackers-crash-or-compromise-nearby-devices/
+https://arstechnica.com/information-technology/2020/03/openwrt-is-vulnerable-to-attacks-that-execute-malicious-code/
+https://arstechnica.com/security/2017/02/at-deaths-door-for-years-widely-used-sha1-function-is-now-dead/
+https://arstechnica.com/security/2017/03/critical-vulnerability-under-massive-attack-imperils-high-impact-sites/

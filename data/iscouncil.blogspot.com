@@ -1,0 +1,14 @@
+https://iscouncil.blogspot.com/2017/07/access-violation-vulnerability-in.html
+https://iscouncil.blogspot.com/2017/07/authentication-bypass-in-green-packet.html
+https://iscouncil.blogspot.com/2017/07/command-injection-in-green-packet-dx.html
+https://iscouncil.blogspot.com/2017/07/cross-site-request-forgery.html
+https://iscouncil.blogspot.com/2017/07/cross-site-request-forgery_31.html
+https://iscouncil.blogspot.com/2017/07/cross-site-scripting-vulnerability-in.html
+https://iscouncil.blogspot.com/2017/07/green-packet-dx-350-vulnerable-to-cross.html
+https://iscouncil.blogspot.com/2017/07/green-packet-dx-350-vulnerable-to-csrf.html
+https://iscouncil.blogspot.com/2017/07/stored-xss-in-d-link-dir-600m-router.html
+https://iscouncil.blogspot.com/2017/08/cross-site-request-forgery.html
+https://iscouncil.blogspot.com/2017/08/cross-site-request-forgery_11.html
+https://iscouncil.blogspot.com/2017/08/multiple-vulnerabilities-in-asus.html
+https://iscouncil.blogspot.com/2017/08/multiple-vulnerabilities-in-axesstel.html
+https://iscouncil.blogspot.com/2018/03/asus-rt-n14uhp-cross-site-scripting.html

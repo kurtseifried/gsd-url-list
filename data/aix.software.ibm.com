@@ -78,3 +78,4 @@ http://aix.software.ibm.com/aix/efixes/security/tftp_advisory.asc
 http://aix.software.ibm.com/aix/efixes/security/unix_advisory.asc
 http://aix.software.ibm.com/aix/efixes/security/wparcre_advisory.asc
 http://aix.software.ibm.com/aix/efixes/security/xntpd_advisory.asc
+https://aix.software.ibm.com/aix/efixes/security/nettcp_advisory2.asc

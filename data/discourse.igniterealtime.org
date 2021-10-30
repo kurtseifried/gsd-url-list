@@ -1,0 +1,2 @@
+https://discourse.igniterealtime.org/t/openfire-4-6-0-has-reflective-xss-vulnerabilities/89296
+https://discourse.igniterealtime.org/t/openfire-4-6-0-has-stored-xss-vulnerabilities/89276

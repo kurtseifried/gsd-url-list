@@ -9,3 +9,4 @@ http://www.ocsinventory-ng.org/index.php?mact=News,cntnt01,detail,0&amp;cntnt01a
 http://www.ocsinventory-ng.org/index.php?mact=News,cntnt01,detail,0&amp;cntnt01articleid=140&amp;cntnt01returnid=72
 http://www.ocsinventory-ng.org/index.php?mact=News,cntnt01,detail,0&amp;cntnt01articleid=144
 http://www.ocsinventory-ng.org/index.php?mact=News,cntnt01,detail,0&amp;cntnt01articleid=147&amp;cntnt01returnid=15
+https://www.ocsinventory-ng.org/en/ocs-inventory-server-2-4-1-has-been-released/

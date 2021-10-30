@@ -1,0 +1,12 @@
+https://lists.torproject.org/pipermail/tor-announce/2011-February/000000.html
+https://lists.torproject.org/pipermail/tor-announce/2012-August/000086.html
+https://lists.torproject.org/pipermail/tor-announce/2014-July/000093.html
+https://lists.torproject.org/pipermail/tor-announce/2014-July/000094.html
+https://lists.torproject.org/pipermail/tor-announce/2017-June/000131.html
+https://lists.torproject.org/pipermail/tor-dev/2020-February/014146.html
+https://lists.torproject.org/pipermail/tor-dev/2020-February/014147.html
+https://lists.torproject.org/pipermail/tor-talk/2012-September/025434.html
+https://lists.torproject.org/pipermail/tor-talk/2012-September/025501.html
+https://lists.torproject.org/pipermail/tor-talk/2013-December/031483.html
+https://lists.torproject.org/pipermail/tor-talk/2014-July/034180.html
+https://lists.torproject.org/pipermail/tor-talk/2015-March/037281.html

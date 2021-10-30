@@ -5,3 +5,4 @@ http://lists.qt-project.org/pipermail/announce/2013-January/000020.html
 http://lists.qt-project.org/pipermail/announce/2014-April/000045.html
 http://lists.qt-project.org/pipermail/announce/2015-April/000067.html
 http://lists.qt-project.org/pipermail/announce/2015-February/000059.html
+https://lists.qt-project.org/pipermail/development/2020-January/038534.html

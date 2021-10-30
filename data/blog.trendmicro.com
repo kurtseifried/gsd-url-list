@@ -13,3 +13,5 @@ http://blog.trendmicro.com/trendlabs-security-intelligence/os-x-zero-days-on-the
 http://blog.trendmicro.com/trendlabs-security-intelligence/trend-micro-discovers-apache-vulnerability-that-allows-one-click-modification-of-android-apps/
 http://blog.trendmicro.com/trendlabs-security-intelligence/two-new-android-bugs-mess-up-messaging-may-lead-to-multiple-send-charges/
 http://blog.trendmicro.com/trendlabs-security-intelligence/unpatched-flash-player-flaws-more-pocs-found-in-hacking-team-leak/
+https://blog.trendmicro.com/results-pwn2own-2017-day-one/
+https://blog.trendmicro.com/trendlabs-security-intelligence/uncovering-cve-2019-0232-a-remote-code-execution-vulnerability-in-apache-tomcat/

@@ -1,0 +1,12 @@
+https://community.ubnt.com/t5/EdgeMAX-Updates-Blog/EdgeMAX-EdgeRouter-software-release-v1-9-1-1/ba-p/1910524
+https://community.ubnt.com/t5/EdgeMAX-Updates-Blog/EdgeMAX-EdgeRouter-software-security-release-v1-9-7-hotfix-3/ba-p/2054117
+https://community.ubnt.com/t5/EdgeMAX-Updates-Blog/EdgeMAX-EdgeSwitch-X-software-release-v1-1-1/ba-p/2731137
+https://community.ubnt.com/t5/UCRM/New-UCRM-upgrades-available-2-8-2-and-2-9-0-beta3/td-p/2211814
+https://community.ubnt.com/t5/UniFi-Video-Blog/UniFi-Video-3-10-1-Soft-Release/ba-p/2658279
+https://community.ubnt.com/t5/UniFi/Security-Advisory-CVE-2013-3572/m-p/601047#U601047
+https://community.ubnt.com/t5/airMAX-General-Discussion/AirOS-Security-Exploit-Updated-Firmware/td-p/212974
+https://community.ubnt.com/t5/airMAX-General-Discussion/Virus-attack-URGENT-UBNT/td-p/1562940
+https://community.ubnt.com/t5/airMAX-Updates-Blog/Important-Security-Notice-and-airOS-5-6-5-Release/ba-p/1565949
+https://community.ubnt.com/t5/airMAX-Updates-Blog/Security-Release-for-airMAX-TOUGHSwitch-and-airGateway-Released/ba-p/1300494
+https://community.ubnt.com/t5/airMAX-Updates-Blog/airOS-v6-0-7-Has-Been-Released/ba-p/2056522
+https://community.ubnt.com/t5/airMAX-Updates-Blog/airOS-v8-3-2-Has-Been-Released/ba-p/2049215

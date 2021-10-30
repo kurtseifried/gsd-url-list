@@ -43,3 +43,16 @@ http://puppetlabs.com/security/cve/cve-2014-9355
 http://puppetlabs.com/security/cve/cve-2014-9568
 http://puppetlabs.com/security/cve/cve-2015-1029
 http://puppetlabs.com/security/cve/cve-2015-1426
+https://puppetlabs.com/security/cve/cve-2013-1399
+https://puppetlabs.com/security/cve/cve-2013-1640/
+https://puppetlabs.com/security/cve/cve-2013-1652/
+https://puppetlabs.com/security/cve/cve-2013-1653/
+https://puppetlabs.com/security/cve/cve-2013-1654/
+https://puppetlabs.com/security/cve/cve-2013-1655/
+https://puppetlabs.com/security/cve/cve-2013-2274/
+https://puppetlabs.com/security/cve/cve-2013-2275/
+https://puppetlabs.com/security/cve/cve-2013-2716/
+https://puppetlabs.com/security/cve/cve-2013-3567/
+https://puppetlabs.com/security/cve/cve-2015-1855
+https://puppetlabs.com/security/cve/cve-2015-7328
+https://puppetlabs.com/security/cve/cve-2015-7330

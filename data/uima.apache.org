@@ -1,0 +1,2 @@
+https://uima.apache.org/security_report
+https://uima.apache.org/security_report#CVE-2017-15691

@@ -1,2 +1,8 @@
 http://cordova.apache.org/announcements/2014/08/04/android-351.html
 http://cordova.apache.org/announcements/2014/08/06/android-351-update.html
+https://cordova.apache.org/announcements/2015/05/26/android-402.html
+https://cordova.apache.org/announcements/2015/11/20/security.html
+https://cordova.apache.org/announcements/2016/04/27/security.html
+https://cordova.apache.org/announcements/2017/01/27/android-612.html
+https://cordova.apache.org/news/2015/09/21/file-transfer-release.html
+https://cordova.apache.org/news/2020/09/18/camera-plugin-release.html

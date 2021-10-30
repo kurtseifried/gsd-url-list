@@ -1,0 +1,7 @@
+https://lists.fedorahosted.org/archives/list/elfutils-devel@lists.fedorahosted.org/message/EJWVY7TMRDEMWPAPNVU3V4MZYG5HANF2/
+https://lists.fedorahosted.org/archives/list/elfutils-devel@lists.fedorahosted.org/thread/Q4LE47FPEVRZANMV6JE2NMHYO4H5MHGJ/
+https://lists.fedorahosted.org/pipermail/elfutils-devel/2014-April/003921.html
+https://lists.fedorahosted.org/pipermail/elfutils-devel/2014-December/004499.html
+https://lists.fedorahosted.org/pipermail/python-bugzilla/2013-June/000104.html
+https://lists.fedorahosted.org/pipermail/sssd-devel/2013-March/014066.html
+https://lists.fedorahosted.org/pipermail/sssd-devel/2014-May/019495.html

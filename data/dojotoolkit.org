@@ -1,1 +1,2 @@
 http://dojotoolkit.org/blog/post/dylan/2010/03/dojo-security-advisory/
+https://dojotoolkit.org/blog/dojo-1-14-released

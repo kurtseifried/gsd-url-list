@@ -7,3 +7,4 @@ http://www.isecpartners.com/advisories/2008-01-flash.txt
 http://www.isecpartners.com/advisories/2008-02-lenovornr.txt
 http://www.isecpartners.com/files/XMLDSIG_Command_Injection.pdf
 http://www.isecpartners.com/files/iSEC-Breaking_Forensics_Software-Paper.v1_1.BH2007.pdf
+https://www.isecpartners.com/advisories/2007-005-itunes.txt

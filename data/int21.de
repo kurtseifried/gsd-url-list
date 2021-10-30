@@ -18,3 +18,6 @@ http://int21.de/cve/CVE-2010-1482-cmsmadesimple-xss-backend.html
 http://int21.de/cve/CVE-2011-0746-o2-router.html
 http://int21.de/cve/CVE-2011-0748-phplist.html
 http://int21.de/cve/CVE-2014-2319-powerarchiver.html
+https://int21.de/cve/CVE-2014-8354-ImageMagick-oob-heap-overflow.html
+https://int21.de/cve/CVE-2014-8355-ImageMagick-pcx-oob-heap-overflow.html
+https://int21.de/cve/CVE-2014-8562-ImageMagick-dcm-oob-heap-overflow.html

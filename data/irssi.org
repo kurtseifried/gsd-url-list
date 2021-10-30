@@ -1,2 +1,15 @@
 http://irssi.org/news
 http://irssi.org/news/ChangeLog
+https://irssi.org/NEWS/#v1-1-2
+https://irssi.org/security/buf_pl_sa_2016.txt
+https://irssi.org/security/irssi_sa_2016.txt
+https://irssi.org/security/irssi_sa_2017_01.txt
+https://irssi.org/security/irssi_sa_2017_03.txt
+https://irssi.org/security/irssi_sa_2017_06.txt
+https://irssi.org/security/irssi_sa_2017_07.txt
+https://irssi.org/security/irssi_sa_2017_10.txt
+https://irssi.org/security/irssi_sa_2018_01.txt
+https://irssi.org/security/irssi_sa_2018_02.txt
+https://irssi.org/security/irssi_sa_2019_01.txt
+https://irssi.org/security/irssi_sa_2019_06.txt
+https://irssi.org/security/irssi_sa_2019_08.txt

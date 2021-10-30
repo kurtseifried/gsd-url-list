@@ -6,3 +6,15 @@ http://www.strongswan.org/blog/2013/11/01/strongswan-denial-of-service-vulnerabi
 http://www.strongswan.org/blog/2014/04/14/strongswan-authentication-bypass-vulnerability-%28cve-2014-2338%29.html
 http://www.strongswan.org/blog/2014/05/05/strongswan-denial-of-service-vulnerability-%28cve-2014-2891%29.html
 http://www.strongswan.org/blog/2014/05/05/strongswan-denial-of-service-vulnerability-(cve-2014-2891).html
+https://www.strongswan.org/blog/2015/06/01/strongswan-vulnerability-%28cve-2015-3991%29.html
+https://www.strongswan.org/blog/2015/06/08/strongswan-vulnerability-%2528cve-2015-4171%2529.html
+https://www.strongswan.org/blog/2015/11/16/strongswan-vulnerability-%28cve-2015-8023%29.html
+https://www.strongswan.org/blog/2017/05/30/strongswan-vulnerability-%28cve-2017-9022%29.html
+https://www.strongswan.org/blog/2017/05/30/strongswan-vulnerability-%28cve-2017-9023%29.html
+https://www.strongswan.org/blog/2017/08/14/strongswan-vulnerability-%28cve-2017-11185%29.html
+https://www.strongswan.org/blog/2018/02/19/strongswan-vulnerability-%28cve-2018-6459%29.html
+https://www.strongswan.org/blog/2018/05/28/strongswan-vulnerability-%28cve-2018-10811%29.html
+https://www.strongswan.org/blog/2018/09/24/strongswan-vulnerability-%28cve-2018-16151,-cve-2018-16152%29.html
+https://www.strongswan.org/blog/2018/10/01/strongswan-vulnerability-%28cve-2018-17540%29.html
+https://www.strongswan.org/blog/2021/10/18/strongswan-vulnerability-%28cve-2021-41990%29.html
+https://www.strongswan.org/blog/2021/10/18/strongswan-vulnerability-%28cve-2021-41991%29.html

@@ -1,2 +1,6 @@
 http://roundup.ffmpeg.org/issue2548
 http://roundup.ffmpeg.org/issue2550
+https://roundup.ffmpeg.org/issue2322
+https://roundup.ffmpeg.org/roundup/ffmpeg/issue1240
+https://roundup.ffmpeg.org/roundup/ffmpeg/issue1245
+https://roundup.ffmpeg.org/roundup/ffmpeg/issue1483

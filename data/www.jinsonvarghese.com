@@ -1,0 +1,13 @@
+https://www.jinsonvarghese.com/broken-access-control-csrf-in-genexis-platinum-4410/
+https://www.jinsonvarghese.com/cross-site-request-forgery-in-tutor-lms/
+https://www.jinsonvarghese.com/csv-injection-in-export-users-to-csv-plugin/
+https://www.jinsonvarghese.com/csv-injection-in-online-invoicing-system/
+https://www.jinsonvarghese.com/reflected-xss-in-learndash-wordpress-plugin/
+https://www.jinsonvarghese.com/reflected-xss-vulnerability-found-in-cooked-pro-plugin/
+https://www.jinsonvarghese.com/reflected-xss-vulnerability-found-in-ivory-search-plugin/
+https://www.jinsonvarghese.com/sensitive-data-exposure-in-journal-theme/
+https://www.jinsonvarghese.com/stored-xss-coming-soon-maintenance-mode-wordpress-plugin/
+https://www.jinsonvarghese.com/stored-xss-vulnerability-found-in-wpforms-plugin/
+https://www.jinsonvarghese.com/stored-xss-vulnerability-in-nagios-log-server/
+https://www.jinsonvarghese.com/stored-xss-vulnerability-in-strong-testimonials-plugin/
+https://www.jinsonvarghese.com/unrestricted-file-upload-in-contact-form-7/

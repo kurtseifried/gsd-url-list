@@ -1,0 +1,5 @@
+https://www.electronjs.org/apps/znote
+https://www.electronjs.org/apps/zonote
+https://www.electronjs.org/blog/webview-fix
+https://www.electronjs.org/releases/stable?page=3#release-notes-for-v824
+https://www.electronjs.org/releases/stable?version=9#9.4.0

@@ -6,3 +6,5 @@ http://support.huawei.com/enterprise/NewsReadAction.action?newType=0301&amp;amp;
 http://support.huawei.com/enterprise/NewsReadAction.action?newType=0301&amp;contentId=NEWS1000001165&amp;idAbsPath=0301_10001&amp;nameAbsPath=Services%2520News
 http://support.huawei.com/support/pages/news/NewsInfoAction.do?doc_id=IN0000054930&amp;amp;colID=ROOTENWEB%7CCO0000000170&amp;amp;actionFlag=view
 http://support.huawei.com/support/pages/news/NewsInfoAction.do?doc_id=IN0000054930&amp;colID=ROOTENWEB|CO0000000170&amp;actionFlag=view
+https://support.huawei.com/carrier/navi?coltype=software#col=software&amp;amp;from=product&amp;amp;detailId=PBI1-252279599&amp;amp;path=PBI1-252301455/PBI1-252303293/PBI1-23709862/PBI1-22318696/PBI1-21457383
+https://support.huawei.com/carrier/navi?lang=en&amp;amp;coltype=software#col=software&amp;amp;detailId=PBI1-22976324&amp;amp;path=PBI1-7275726/PBI1-7275742/PBI1-22892608/PBI1-22903845/PBI1-21219153&amp;amp;lang=en

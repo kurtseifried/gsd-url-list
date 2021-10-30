@@ -241,3 +241,8 @@ http://git.videolan.org/gitweb.cgi/vlc.git/?a=commit;h=cf489d7bff3c1b36b2d5501ec
 http://git.videolan.org/gitweb.cgi/vlc.git/?p=vlc.git;a=commitdiff;h=98787d0843612271e99d62bee0dfd8197f0cf404
 http://git.videolan.org/gitweb.cgi/vlc.git/?p=vlc.git;a=commitdiff;h=bf02b8dd211d5a52aa301a9a2ff4e73ed8195881
 http://git.videolan.org/gitweb.cgi?p=vlc/vlc-1.1.git;a=tag;h=bb16813ddb61a53113c71bccc525559405785452
+https://git.videolan.org/?p=vlc.git;a=commit;h=0cc5ea748ee5ff7705dde61ab15dff8f58be39d0
+https://git.videolan.org/?p=vlc.git;a=commit;h=8e8e0d72447f8378244f5b4a3dcde036dbeb1491
+https://git.videolan.org/?p=vlc.git;a=commit;h=b2b157076d9e94df34502dd8df0787deb940e938
+https://git.videolan.org/?p=vlc/vlc-2.2.git;a=commitdiff;h=ce91452460a75d7424b165c4dc8db98114c3cbd9;hp=9e12195d3e4316278af1fa4bcb6a705ff27456fd
+https://git.videolan.org/?p=vlc/vlc-3.0.git;a=commit;h=72afe7ebd8305bf4f5360293b8621cde52ec506b

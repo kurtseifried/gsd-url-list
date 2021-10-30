@@ -1,0 +1,6 @@
+https://bugs.dpdk.org/show_bug.cgi?id=267
+https://bugs.dpdk.org/show_bug.cgi?id=268
+https://bugs.dpdk.org/show_bug.cgi?id=269
+https://bugs.dpdk.org/show_bug.cgi?id=270
+https://bugs.dpdk.org/show_bug.cgi?id=271
+https://bugs.dpdk.org/show_bug.cgi?id=363

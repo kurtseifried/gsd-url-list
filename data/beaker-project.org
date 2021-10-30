@@ -1,0 +1,3 @@
+https://beaker-project.org/docs/whats-new/release-20.html#bug-fixes
+https://beaker-project.org/jenkins-results/beaker-review-checks-docs/995/documentation/_build/html/whats-new/release-20.html
+https://beaker-project.org/jenkins-results/beaker-review-checks-docs/995/documentation/_build/html/whats-new/release-20.html#beaker-20-1

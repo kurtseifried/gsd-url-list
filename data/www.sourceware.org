@@ -1,1 +1,4 @@
 http://www.sourceware.org/ml/libc-hacker/2007-07/msg00001.html
+https://www.sourceware.org/ml/libc-alpha/2015-08/msg00609.html
+https://www.sourceware.org/ml/libc-alpha/2016-02/msg00502.html
+https://www.sourceware.org/ml/libc-alpha/2016-08/msg00212.html

@@ -2,3 +2,4 @@ http://packages.qa.debian.org/i/ikiwiki-hosting/news/20131025T224825Z.html
 http://packages.qa.debian.org/l/lintian/news/20100128T015554Z.html
 http://packages.qa.debian.org/l/linux-ftpd/news/20061125T181702Z.html
 http://packages.qa.debian.org/x/xbuffy/news/20140427T181904Z.html
+https://packages.qa.debian.org/c/cron/news/20190311T170403Z.html

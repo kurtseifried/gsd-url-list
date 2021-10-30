@@ -5,3 +5,4 @@ http://flets-w.com/topics/mihariban_vulnerability/
 http://flets-w.com/topics/remote_support_vulnerability/
 http://flets-w.com/topics/setsuzoku_tool_vulnerability/
 http://flets-w.com/topics/setup_tool_vulnerability/
+https://flets-w.com/solution/kiki_info/info/180829.html

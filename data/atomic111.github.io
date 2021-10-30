@@ -4,3 +4,11 @@ http://atomic111.github.io/article/homematic-ccu2-firmware-via-plain-http
 http://atomic111.github.io/article/homematic-ccu2-remote-code-execution
 http://atomic111.github.io/article/homematic-ccu2-untrusted_addon
 http://atomic111.github.io/article/homematic-ccu2-xml-rpc
+https://atomic111.github.io/article/arp-guard-sql-injection
+https://atomic111.github.io/article/gitlab-Unauthorized-Access-to-Container-Registry
+https://atomic111.github.io/article/homematic-ccu3-fileread
+https://atomic111.github.io/article/homematic-ccu3-unauthenticated-password-hash-disclosure
+https://atomic111.github.io/article/lifesize-icon-remote-code-execution
+https://atomic111.github.io/article/secudos-domos-directory_traversal
+https://atomic111.github.io/article/secudos-domos-reflected-xss
+https://atomic111.github.io/article/semcosoft-cross-site-scripting

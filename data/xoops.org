@@ -1,3 +1,4 @@
 http://xoops.org/modules/news/article.php?storyid=6094
 http://xoops.org/modules/news/article.php?storyid=6284
 http://xoops.org/modules/news/article.php?storyid=6658
+https://xoops.org/modules/publisher/

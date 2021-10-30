@@ -1,2 +1,3 @@
 http://www.pureftpd.org/
 http://www.pureftpd.org/project/pure-ftpd/news
+https://www.pureftpd.org/project/pure-ftpd/news/

@@ -6,3 +6,6 @@ http://www.reviewboard.org/docs/releasenotes/reviewboard/1.7.10/
 http://www.reviewboard.org/docs/releasenotes/reviewboard/1.7.12
 http://www.reviewboard.org/docs/releasenotes/reviewboard/1.7.17
 http://www.reviewboard.org/news/2013/06/22/review-board-1617-and-1710-released/
+https://www.reviewboard.org/docs/releasenotes/reviewboard/1.7.27
+https://www.reviewboard.org/docs/releasenotes/reviewboard/2.0.4
+https://www.reviewboard.org/news/2014/07/22/review-board-1-7-27-and-2-0-3-security-releases

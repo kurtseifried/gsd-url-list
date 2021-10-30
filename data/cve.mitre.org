@@ -419,5 +419,11 @@ https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2005-3885
 https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2005-4077
 https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2011-0439
 https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2011-0440
+https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-11480
+https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-7306
+https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-27955
+https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-21295
+https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-3709
+https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-3710
 https://cve.mitre.org/cve/request_id.html
 https://cve.mitre.org/data/downloads/allitems.csv

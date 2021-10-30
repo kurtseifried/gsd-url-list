@@ -33,3 +33,5 @@ http://www.cups.org/str.php?L4319
 http://www.cups.org/str.php?L4356
 http://www.cups.org/str.php?L4450
 http://www.cups.org/str.php?L700
+https://www.cups.org/str.php?L4551
+https://www.cups.org/str.php?L4609

@@ -7,3 +7,6 @@ http://www.fortinet.com/FortiGuardCenter/advisory/FG-2006-21.html
 http://www.fortinet.com/FortiGuardCenter/advisory/FG-2006-22.html
 http://www.fortinet.com/FortiGuardCenter/advisory/FG-2006-30.html
 http://www.fortinet.com/FortiGuardCenter/advisory/FGA-2007-01.html
+https://www.fortinet.com/blog/threat-research/fortiguard-labs-discovers-vulnerability-in--d-link-router-dir868.html
+https://www.fortinet.com/blog/threat-research/fortiguard-labs-discovers-vulnerability-in-asus-router.html
+https://www.fortinet.com/blog/threat-research/fortinet-security-researcher-discovers-multiple-vulnerabilities-across-multiple-corel-products

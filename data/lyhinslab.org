@@ -1,0 +1,3 @@
+https://lyhinslab.org/index.php/2020/05/16/weberp-lfi/
+https://lyhinslab.org/index.php/2020/07/18/how-the-white-box-hacking-works-ok-google-i-wanna-pwn-this-app/
+https://lyhinslab.org/index.php/2020/09/12/how-the-white-box-hacking-works-authorization-bypass-and-remote-code-execution-in-monitorr-1-7-6/

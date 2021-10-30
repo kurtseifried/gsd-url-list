@@ -1,0 +1,1 @@
+https://sources.debian.org/patches/libid3tag/0.15.1b-13/10_utf16.dpatch/

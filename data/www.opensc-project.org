@@ -3,3 +3,4 @@ http://www.opensc-project.org/pipermail/opensc-announce/2008-July/000020.html
 http://www.opensc-project.org/pipermail/opensc-announce/2009-February/000023.html
 http://www.opensc-project.org/pipermail/opensc-announce/2009-May/000025.html
 http://www.opensc-project.org/security.html
+https://www.opensc-project.org/opensc/changeset/4913

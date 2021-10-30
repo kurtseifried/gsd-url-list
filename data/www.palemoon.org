@@ -1,2 +1,3 @@
 http://www.palemoon.org/releasenotes-ng.shtml
 http://www.palemoon.org/releasenotes.shtml
+https://www.palemoon.org/releasenotes.shtml

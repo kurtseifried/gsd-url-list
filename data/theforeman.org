@@ -7,3 +7,14 @@ http://theforeman.org/security.html#2016-2100
 http://theforeman.org/security.html#2016-3693
 http://theforeman.org/security.html#2016-3728
 http://theforeman.org/security.html#CVE-2015-5233:reportsshow/destroynotrestrictedbyhostauthorization
+https://theforeman.org/security.html#2014-0208
+https://theforeman.org/security.html#2014-3531
+https://theforeman.org/security.html#2015-5282
+https://theforeman.org/security.html#2016-4451
+https://theforeman.org/security.html#2016-4475
+https://theforeman.org/security.html#2016-4995
+https://theforeman.org/security.html#2016-5390
+https://theforeman.org/security.html#2016-6319
+https://theforeman.org/security.html#2016-6320
+https://theforeman.org/security.html#2016-7077
+https://theforeman.org/security.html#2016-7078

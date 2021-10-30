@@ -1,0 +1,3 @@
+https://dnsdist.org/security-advisories/powerdns-advisory-for-dnsdist-2017-01.html
+https://dnsdist.org/security-advisories/powerdns-advisory-for-dnsdist-2017-02.html
+https://dnsdist.org/security-advisories/powerdns-advisory-for-dnsdist-2018-08.html

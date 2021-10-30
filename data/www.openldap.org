@@ -50,3 +50,7 @@ http://www.openldap.org/lists/openldap-bugs/200704/msg00067.html
 http://www.openldap.org/lists/openldap-bugs/200704/msg00068.html
 http://www.openldap.org/lists/openldap-technical/201004/msg00247.html
 http://www.openldap.org/software/release/changes.html
+https://www.openldap.org/its/?findid=9038
+https://www.openldap.org/its/index.cgi/?findid=9052
+https://www.openldap.org/its/index.cgi/Incoming?id=9123
+https://www.openldap.org/lists/openldap-announce/201907/msg00001.html

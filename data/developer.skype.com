@@ -1,0 +1,1 @@
+https://developer.skype.com/WindowsSkype/ReleaseNotes#head-21c1b2583e7cc405f994ca162d574fb15a6e986b

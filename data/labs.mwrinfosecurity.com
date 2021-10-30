@@ -8,3 +8,17 @@ http://labs.mwrinfosecurity.com/files/Advisories/mwri_meridio-advisory-embedded-
 http://labs.mwrinfosecurity.com/files/Advisories/mwri_opensc-get-serial-buffer-overflow_2010-12-13.pdf
 http://labs.mwrinfosecurity.com/files/Advisories/mwri_pcsc-atr-handler-buffer-overflow_2010-12-13.pdf
 http://labs.mwrinfosecurity.com/files/Advisories/mwri_pcsc-libccid-buffer-overflow_2010-12-13.pdf
+https://labs.mwrinfosecurity.com/advisories/
+https://labs.mwrinfosecurity.com/advisories/2007/12/17/plogger-sql-injection/
+https://labs.mwrinfosecurity.com/advisories/2013/11/29/umbraco-cms-templateservice-remote-code-execution/
+https://labs.mwrinfosecurity.com/advisories/2014/01/31/cray-aprunapinit-privilege-escalation/
+https://labs.mwrinfosecurity.com/advisories/2014/05/14/dotclear-php-object-injection/
+https://labs.mwrinfosecurity.com/advisories/2014/05/14/torque-buffer-overflow
+https://labs.mwrinfosecurity.com/advisories/2014/12/02/sgi-suid-root-privilege-escalation/
+https://labs.mwrinfosecurity.com/advisories/magnicomps-sysinfo-root-setuid-local-privilege-escalation-vulnerability/
+https://labs.mwrinfosecurity.com/advisories/multiple-vulnerabilities-in-magnicomps-sysinfo-root-setuid/
+https://labs.mwrinfosecurity.com/advisories/paypal-remote-code-execution/
+https://labs.mwrinfosecurity.com/assets/BlogFiles/mwri-setuid-bit-set-omniresolve-2017-08-02.pdf
+https://labs.mwrinfosecurity.com/system/assets/149/original/mwri_mplayer-sami-subtitles_2011-08-12.pdf
+https://labs.mwrinfosecurity.com/system/assets/662/original/torque-buffer-overflow_2014-05-14.pdf
+https://labs.mwrinfosecurity.com/system/assets/762/original/mwri_advisory_huawei_driver-root-exploit.pdf

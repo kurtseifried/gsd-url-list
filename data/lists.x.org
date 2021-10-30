@@ -7,3 +7,16 @@ http://lists.x.org/archives/xorg-announce/2015-August/002630.html
 http://lists.x.org/archives/xorg-commit/2014-July/036840.html
 http://lists.x.org/archives/xorg-devel/2012-January/028691.html
 http://lists.x.org/archives/xorg-devel/2013-October/037996.html
+https://lists.x.org/archives/xorg-announce/2014-July/002452.html
+https://lists.x.org/archives/xorg-announce/2015-February/002532.html
+https://lists.x.org/archives/xorg-announce/2016-October/002720.html
+https://lists.x.org/archives/xorg-announce/2017-October/002808.html
+https://lists.x.org/archives/xorg-announce/2018-August/002916.html
+https://lists.x.org/archives/xorg-announce/2018-October/002927.html
+https://lists.x.org/archives/xorg-announce/2020-August/003056.html
+https://lists.x.org/archives/xorg-announce/2020-August/003058.html
+https://lists.x.org/archives/xorg-announce/2020-December/003066.html
+https://lists.x.org/archives/xorg-announce/2020-July/003050.html
+https://lists.x.org/archives/xorg-announce/2020-July/003051.html
+https://lists.x.org/archives/xorg-announce/2021-April/003080.html
+https://lists.x.org/archives/xorg-announce/2021-May/003088.html

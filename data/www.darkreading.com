@@ -6,3 +6,5 @@ http://www.darkreading.com/security/attacks/showArticle.jhtml?articleID=21290016
 http://www.darkreading.com/security/vulnerabilities/231300312/getting-root-on-the-human-body.html
 http://www.darkreading.com/vulnerability/anatomy-of-an-electronic-health-record-e/240164441/
 http://www.darkreading.com/vulnerability/new-ie-vulnerability-found-in-the-wild-s/240163814/
+https://www.darkreading.com/perimeter/attackers-exploit-cisco-switch-issue-as-vendor-warns-of-yet-another-critical-flaw/d/d-id/1331490
+https://www.darkreading.com/threat-intelligence/adobe-flash-vulnerability-reappears-in-malicious-word-files/d/d-id/1331139

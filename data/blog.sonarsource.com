@@ -1,0 +1,10 @@
+https://blog.sonarsource.com/code-vulnerabilities-in-nsa-application-revealed
+https://blog.sonarsource.com/codoforum-4.8.7-critical-code-vulnerabilities-explained
+https://blog.sonarsource.com/etherpad-code-execution-vulnerabilities
+https://blog.sonarsource.com/ghost-admin-takeover
+https://blog.sonarsource.com/hack-the-stack-with-localstack
+https://blog.sonarsource.com/mybb-remote-code-execution-chain
+https://blog.sonarsource.com/nosql-injections-in-rocket-chat
+https://blog.sonarsource.com/openemr-5-0-2-1-command-injection-vulnerability
+https://blog.sonarsource.com/pandora-fms-742-critical-code-vulnerabilities-explained
+https://blog.sonarsource.com/zimbra-webmail-compromise-via-email

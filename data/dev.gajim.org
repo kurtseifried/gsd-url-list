@@ -1,0 +1,5 @@
+https://dev.gajim.org/gajim/gajim-plugins/issues/145
+https://dev.gajim.org/gajim/gajim/-/issues/10638
+https://dev.gajim.org/gajim/gajim/-/tags/gajim-1.3.3
+https://dev.gajim.org/gajim/gajim/commit/cb65cfc5aed9efe05208ebbb7fb2d41fcf7253cc
+https://dev.gajim.org/gajim/gajim/issues/8378

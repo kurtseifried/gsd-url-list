@@ -1,1 +1,6 @@
 http://www.imperialviolet.org/2011/09/23/chromeandbeast.html
+https://www.imperialviolet.org/2014/02/22/applebug.html
+https://www.imperialviolet.org/2014/06/05/earlyccs.html
+https://www.imperialviolet.org/2014/09/26/pkcs1.html
+https://www.imperialviolet.org/2014/10/14/poodle.html
+https://www.imperialviolet.org/2014/12/08/poodleagain.html

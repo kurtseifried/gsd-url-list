@@ -31,3 +31,14 @@ http://www.phpbb.com/support/documents.php?mode=changelog
 http://www.phpbb.com/support/documents.php?mode=changelog#206
 http://www.phpbb.com/support/documents.php?mode=changelog&amp;amp;version=3#v303
 http://www.phpbb.com/support/documents.php?mode=changelog&amp;version=3#v303
+https://www.phpbb.com/community/viewforum.php?f=14
+https://www.phpbb.com/community/viewtopic.php?f=14&amp;amp;p=14782136
+https://www.phpbb.com/community/viewtopic.php?f=14&amp;amp;t=2313941
+https://www.phpbb.com/community/viewtopic.php?f=14&amp;amp;t=2492206
+https://www.phpbb.com/community/viewtopic.php?f=14&amp;amp;t=2509941
+https://www.phpbb.com/community/viewtopic.php?f=14&amp;amp;t=2534536
+https://www.phpbb.com/community/viewtopic.php?f=14&amp;amp;t=2562631
+https://www.phpbb.com/community/viewtopic.php?f=14&amp;amp;t=2562636
+https://www.phpbb.com/community/viewtopic.php?t=2352606
+https://www.phpbb.com/community/viewtopic.php?t=2523271
+https://www.phpbb.com/support/documents.php?mode=changelog&amp;amp;version=3#v317

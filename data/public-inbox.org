@@ -1,1 +1,4 @@
 http://public-inbox.org/git/xmqq8tm5ziat.fsf@gitster.mtv.corp.google.com/
+https://public-inbox.org/git/xmqqr21cqcn9.fsf@gitster-ct.c.googlers.com/
+https://public-inbox.org/git/xmqqy3p29ekj.fsf@gitster.mtv.corp.google.com/T/#u
+https://public-inbox.org/sox-devel/20171109114554.16297-1-mans@mansr.com/raw

@@ -59,3 +59,5 @@ http://lists.suse.com/pipermail/sle-security-updates/2016-June/002096.html
 http://lists.suse.com/pipermail/sle-security-updates/2016-October/002337.html
 http://lists.suse.com/pipermail/sle-security-updates/2017-November/003420.html
 http://lists.suse.com/pipermail/sle-security-updates/2018-August/004510.html
+https://lists.suse.com/pipermail/sle-security-updates/2018-April/003955.html?_ga=2.81625751.1026327980.1622040648-1950393542.1547130931
+https://lists.suse.com/pipermail/sle-security-updates/2018-April/003956.html?_ga=2.81625751.1026327980.1622040648-1950393542.1547130931

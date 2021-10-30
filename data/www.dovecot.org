@@ -19,3 +19,7 @@ http://www.dovecot.org/list/dovecot/2008-November/035259.html
 http://www.dovecot.org/list/dovecot/2010-October/053450.html
 http://www.dovecot.org/list/dovecot/2010-October/053451.html
 http://www.dovecot.org/list/dovecot/2010-October/053452.html
+https://www.dovecot.org/download.html
+https://www.dovecot.org/list/dovecot-news/2018-February/000370.html
+https://www.dovecot.org/list/dovecot/2019-February/114575.html
+https://www.dovecot.org/security.html

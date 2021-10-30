@@ -18,3 +18,8 @@ http://www.secureworks.com/research/advisories/SWRX-2012-003/
 http://www.secureworks.com/research/advisories/SWRX-2012-005/
 http://www.secureworks.com/research/advisories/SWRX-2012-006/
 http://www.secureworks.com/research/threats/miranda/
+https://www.secureworks.com/research/advisory-2017-001
+https://www.secureworks.com/research/subject/advisories
+https://www.secureworks.com/research/swrx-2014-006
+https://www.secureworks.com/research/transitive-trust
+https://www.secureworks.com/resources/ds-aetd-red-cloak-data-sheet

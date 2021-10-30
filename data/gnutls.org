@@ -1,1 +1,4 @@
 http://gnutls.org/security.html#GNUTLS-SA-2014-2
+https://gnutls.org/security-new.html#GNUTLS-SA-2020-06-03
+https://gnutls.org/security.html#GNUTLS-SA-2017-1
+https://gnutls.org/security.html#GNUTLS-SA-2017-2

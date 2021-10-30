@@ -12,3 +12,6 @@ http://www.zabbix.com/rn2.0.14.php
 http://www.zabbix.com/rn2.0.5rc1.php
 http://www.zabbix.com/rn2.2.1rc1.php
 http://www.zabbix.com/rn2.2.8.php
+https://www.zabbix.com/documentation/2.0/manual/introduction/whatsnew2018#miscellaneous_improvements
+https://www.zabbix.com/documentation/2.2/manual/introduction/whatsnew2213#miscellaneous_improvements
+https://www.zabbix.com/documentation/3.0/manual/introduction/whatsnew303#miscellaneous_improvements

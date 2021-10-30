@@ -1,0 +1,1 @@
+https://bugs.tizen.org/jira/browse/TIVI-211

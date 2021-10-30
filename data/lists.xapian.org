@@ -1,1 +1,2 @@
 http://lists.xapian.org/pipermail/xapian-discuss/2009-September/007115.html
+https://lists.xapian.org/pipermail/xapian-discuss/2018-July/009652.html

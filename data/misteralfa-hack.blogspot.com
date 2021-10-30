@@ -2,3 +2,14 @@ http://misteralfa-hack.blogspot.com/2018/02/bacnet-entrando-en-materia.html
 http://misteralfa-hack.blogspot.com/2018/09/arris-tg2492lg-na-cable-modem-gateway.html
 http://misteralfa-hack.blogspot.com/2018/10/ibm-bladecenter-qlogic-4g-fibre-channel.html
 http://misteralfa-hack.blogspot.com/2018/10/samsung-printer-passwordleak.html
+https://misteralfa-hack.blogspot.com/2018/12/abusando-de-telegram-para-conseguir-una.html
+https://misteralfa-hack.blogspot.com/2018/12/cisco-dpc3928sl-explotando-un-xss-via.html
+https://misteralfa-hack.blogspot.com/2018/12/d-link-passwords-wireless-via-snmp.html
+https://misteralfa-hack.blogspot.com/2018/12/stringbleed-y-ahora-que-passwords-leaks.html
+https://misteralfa-hack.blogspot.com/2018/12/technicolor-passwords-wireless-via-snmp.html
+https://misteralfa-hack.blogspot.com/2018/12/telegram-siempre-in-middle.html
+https://misteralfa-hack.blogspot.com/2018/12/zenitel-ip-stationweb-cross-site-script.html
+https://misteralfa-hack.blogspot.com/2019/09/cobham-terminales-satelitales-seatel.html
+https://misteralfa-hack.blogspot.com/2019/09/scadabr-scada-vulnerable-xss.html
+https://misteralfa-hack.blogspot.com/2019/10/comtech-stored-xss-heights-remote.html
+https://misteralfa-hack.blogspot.com/2019/10/intellian-intellian-remote-access-rce.html

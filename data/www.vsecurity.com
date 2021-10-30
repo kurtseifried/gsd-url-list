@@ -19,3 +19,6 @@ http://www.vsecurity.com/resources/advisory/20101221-1
 http://www.vsecurity.com/resources/advisory/20110126-1
 http://www.vsecurity.com/resources/advisory/20120420-1/
 http://www.vsecurity.com/resources/advisory/20130619-1/
+https://www.vsecurity.com/download/advisories/20171026-1.txt
+https://www.vsecurity.com/download/advisories/201912782-1.txt
+https://www.vsecurity.com/resources/advisories.html

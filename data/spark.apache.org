@@ -1,0 +1,5 @@
+https://spark.apache.org/security.html#CVE-2018-11770
+https://spark.apache.org/security.html#CVE-2018-11804
+https://spark.apache.org/security.html#CVE-2018-1334
+https://spark.apache.org/security.html#CVE-2018-8024
+https://spark.apache.org/security.html#CVE-2020-9480

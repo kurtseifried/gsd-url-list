@@ -1,1 +1,2 @@
 http://elgg.org/getelgg.php?forward=elgg-1.8.5.zip
+https://elgg.org/blog/view/2913744/security-release-elgg-11218-and-2311

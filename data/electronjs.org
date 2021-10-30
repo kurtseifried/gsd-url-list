@@ -1,0 +1,3 @@
+https://electronjs.org/blog/protocol-handler-fix
+https://electronjs.org/blog/web-preferences-fix
+https://electronjs.org/releases#1.8.2-beta.5

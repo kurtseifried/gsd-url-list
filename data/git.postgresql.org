@@ -8,3 +8,4 @@ http://git.postgresql.org/gitweb?p=postgresql.git;a=commit;h=64b057e6823655fb6c5
 http://git.postgresql.org/gitweb?p=postgresql.git;a=commit;h=75dea10196c31d98d98c0bafeeb576ae99c09b12
 http://git.postgresql.org/gitweb?p=postgresql.git;a=commit;h=b15087cb39ca9e4bde3c8920fcee3741045d2b83
 http://git.postgresql.org/gitweb?p=postgresql.git;a=commitdiff;h=7ccb6dc2d3e266a551827bb99179708580f72431
+https://git.postgresql.org/gitweb/?p=postgresql.git;a=commitdiff;h=7b34740

@@ -1,0 +1,11 @@
+https://www.securitymetrics.com/blog/
+https://www.securitymetrics.com/blog/BlogEngineNET-Directory-Traversal-Remote-Code-Execution-CVE-2019-10719-CVE-2019-10720
+https://www.securitymetrics.com/blog/Blogenginenet-Directory-Traversal-Listing-Login-Page-Unvalidated-Redirect
+https://www.securitymetrics.com/blog/MITREid-Connect-cross-site-scripting-CVE-2020-5497
+https://www.securitymetrics.com/blog/Zyxel-Devices-Vulnerable-Cross-Site-Scripting-Login-page
+https://www.securitymetrics.com/blog/attackers-known-unknown-authorization-bypass
+https://www.securitymetrics.com/blog/blogenginenet-xml-external-entity-attacks
+https://www.securitymetrics.com/blog/where-did-request-come-from-cross-site-request-forgery-csrf
+https://www.securitymetrics.com/blog/wikid-2fa-enterprise-server-cross-site-scripting
+https://www.securitymetrics.com/blog/wikid-2fa-enterprise-server-csrf
+https://www.securitymetrics.com/blog/wikid-2fa-enterprise-server-sql-injection

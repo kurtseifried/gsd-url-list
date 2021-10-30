@@ -1,0 +1,1 @@
+https://www.freeplane.org/wiki/index.php/XML_External_Entity_vulnerability_in_map_parser

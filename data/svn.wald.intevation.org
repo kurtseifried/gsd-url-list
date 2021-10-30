@@ -1,0 +1,1 @@
+https://svn.wald.intevation.org/svn/openvas/trunk/openvas-plugins/scripts/checkpoint-vpn1-pat-information-disclosure.nasl

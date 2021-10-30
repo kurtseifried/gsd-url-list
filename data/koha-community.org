@@ -3,3 +3,7 @@ http://koha-community.org/koha-3-18-2-release/
 http://koha-community.org/koha-3-4-7/#more-2971
 http://koha-community.org/koha-3-6-1/#more-2929
 http://koha-community.org/security-release-february-2014/
+https://koha-community.org/koha-3-14-16-released/
+https://koha-community.org/security-release-koha-3-16-12/
+https://koha-community.org/security-release-koha-3-18-8/
+https://koha-community.org/security-release-koha-3-20-1/

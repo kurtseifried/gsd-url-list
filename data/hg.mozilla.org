@@ -8,3 +8,15 @@ http://hg.mozilla.org/releases/mozilla-release/rev/80ce3f1ffe03
 http://hg.mozilla.org/releases/mozilla-release/rev/b208427885d3
 http://hg.mozilla.org/releases/mozilla-release/rev/bafc86c12e63
 http://hg.mozilla.org/releases/mozilla-release/rev/f0d2911a9a4e
+https://hg.mozilla.org/mozilla-central/rev/2a57c0a0cf19
+https://hg.mozilla.org/mozilla-central/rev/7fd961937687
+https://hg.mozilla.org/mozilla-central/rev/87277085561a
+https://hg.mozilla.org/mozilla-central/rev/a674c7019cb5
+https://hg.mozilla.org/mozilla-central/rev/dc21224de25b
+https://hg.mozilla.org/mozilla-central/rev/e1bcc04808cc
+https://hg.mozilla.org/mozilla-central/rev/e4b9e72f934f
+https://hg.mozilla.org/projects/nspr/rev/96381e3aaae2
+https://hg.mozilla.org/projects/nss/diff/a555bf0fc23a/lib/freebl/mpi/mpi.c
+https://hg.mozilla.org/projects/nss/rev/55ea60effd0d
+https://hg.mozilla.org/projects/nss/rev/709d4e597979
+https://hg.mozilla.org/releases/mozilla-esr31/rev/2f3e78643f5c

@@ -23,3 +23,4 @@ http://www.checkpoint.com/techsupport/alerts/rdp.html
 http://www.checkpoint.com/techsupport/alerts/security_server.html
 http://www.checkpoint.com/techsupport/config/keywords.html
 http://www.checkpoint.com/threatcloud-central/articles/2014-01-28-tc-researchers-discover.html
+https://www.checkpoint.com/defense/advisories/public/2013/cpai-24-oct2.html

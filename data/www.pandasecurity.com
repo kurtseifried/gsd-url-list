@@ -6,3 +6,4 @@ http://www.pandasecurity.com/homeusers/support/card?id=41337&amp;amp;idIdioma=2&
 http://www.pandasecurity.com/homeusers/support/card?id=41337&amp;idIdioma=2&amp;ref=ProdExp
 http://www.pandasecurity.com/homeusers/support/card?id=80164&amp;amp;idIdioma=2
 http://www.pandasecurity.com/homeusers/support/card?id=80164&amp;idIdioma=2
+https://www.pandasecurity.com/usa/support/card?id=100063

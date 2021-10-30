@@ -11,3 +11,6 @@ http://tracker.ceph.com/issues/24838
 http://tracker.ceph.com/issues/8979
 http://tracker.ceph.com/issues/9560
 http://tracker.ceph.com/issues/9561
+https://tracker.ceph.com/issues/37503
+https://tracker.ceph.com/issues/40018
+https://tracker.ceph.com/issues/44967

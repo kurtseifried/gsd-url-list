@@ -1,1 +1,2 @@
 http://directory.apache.org/api/#news_1
+https://directory.apache.org/studio/news.html

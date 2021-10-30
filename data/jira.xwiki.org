@@ -1,3 +1,14 @@
 http://jira.xwiki.org/jira/browse/XWIKI-366
 http://jira.xwiki.org/jira/browse/XWIKI-70
 http://jira.xwiki.org/jira/browse/XWIKI-726
+https://jira.xwiki.org/browse/XWIKI-16960
+https://jira.xwiki.org/browse/XWIKI-17141
+https://jira.xwiki.org/browse/XWIKI-17374
+https://jira.xwiki.org/browse/XWIKI-17423
+https://jira.xwiki.org/browse/XWIKI-17662
+https://jira.xwiki.org/browse/XWIKI-17759
+https://jira.xwiki.org/browse/XWIKI-17794
+https://jira.xwiki.org/browse/XWIKI-17942
+https://jira.xwiki.org/browse/XWIKI-18276
+https://jira.xwiki.org/browse/XWIKI-18315
+https://jira.xwiki.org/browse/XWIKI-18400

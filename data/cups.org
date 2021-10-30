@@ -8,3 +8,4 @@ http://cups.org/str.php?L3577
 http://cups.org/str.php?L3867
 http://cups.org/str.php?L3914
 http://cups.org/strfiles/3516/str3516.patch
+https://cups.org/str.php?L4455

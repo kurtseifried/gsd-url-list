@@ -1,3 +1,6 @@
 http://www.limesurvey.org/content/view/102/1/lang,en/
 http://www.limesurvey.org/content/view/169/1/lang,en/
 http://www.limesurvey.org/en/stable-release
+https://www.limesurvey.org/
+https://www.limesurvey.org/about-us/news/2075-limesurvey-security-advisory-02-2018
+https://www.limesurvey.org/limesurvey-updates/2188-limesurvey-3-17-14-build-190902-released

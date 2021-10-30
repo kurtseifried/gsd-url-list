@@ -1,0 +1,1 @@
+https://beanvalidation.org/2.0/spec/#validationapi-message-defaultmessageinterpolation

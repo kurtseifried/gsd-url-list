@@ -21,3 +21,8 @@ http://www.sophos.com/support/knowledgebase/article/44385.html
 http://www.sophos.com/support/knowledgebase/article/50611.html
 http://www.sophos.com/support/knowledgebase/article/7609.html
 http://www.sophos.com/support/news/#mime-378
+https://www.sophos.com/en-us.aspx
+https://www.sophos.com/en-us/legal/sophos-responsible-disclosure-policy.aspx
+https://www.sophos.com/en-us/security-advisories/sophos-sa-20211007-hmp-lpe
+https://www.sophos.com/en-us/security-advisories/sophos-sa-20211007-hmpa-lpe
+https://www.sophos.com/en-us/support/knowledgebase/121879.aspx

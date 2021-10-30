@@ -1,0 +1,2 @@
+https://wpewebkit.org/security/WSA-2020-0003.html
+https://wpewebkit.org/security/WSA-2020-0004.html

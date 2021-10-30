@@ -25,3 +25,4 @@ http://www.fujitsu.com/global/support/software/security/products-f/primergy-2007
 http://www.fujitsu.com/global/support/software/security/products-f/sw-sv-rcve-ror201301e.html
 http://www.fujitsu.com/jp/group/bsc/services/fence/info-2017080101.html
 http://www.fujitsu.com/jp/products/software/resources/condition/security/vulnerabilities/2016/index.html#CVE-2016-1183
+https://www.fujitsu.com/jp/products/software/resources/condition/security/products-fujitsu/solution/interstage-systemwalker-tls-202001.html

@@ -1,1 +1,9 @@
 http://www.rcesecurity.com/2014/03/cve-2014-2206-getgo-download-manager-http-response-header-buffer-overflow-remote-code-execution
+https://www.rcesecurity.com/
+https://www.rcesecurity.com/2013/07/winamp-v5-64-fixes-several-code-execution-vulnerabilities-cve-2013-4694-cve-2013-4695
+https://www.rcesecurity.com/2013/09/cve-2013-5701-watchguard-server-center-v11-7-4-wgpr-dll-local-privileges-escalation-vulnerability
+https://www.rcesecurity.com/2014/03/cve-2014-2087-free-download-manager-cdownloads_deleted-updatedownload-remote-code-execution
+https://www.rcesecurity.com/2015/09/cve-2014-7216-a-journey-through-yahoos-bug-bounty-program/
+https://www.rcesecurity.com/2017/10/cve-2017-14956-alienvault-usm-leaks-sensitive-compliance-information-via-csrf/
+https://www.rcesecurity.com/2019/04/dell-kace-k1000-remote-code-execution-the-story-of-bug-k1-18652/
+https://www.rcesecurity.com/2020/09/CVE-2020-16171-Exploiting-Acronis-Cyber-Backup-for-Fun-and-Emails/

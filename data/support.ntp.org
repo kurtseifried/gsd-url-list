@@ -64,3 +64,8 @@ http://support.ntp.org/bin/view/Main/SecurityNotice#January_2016_NTP_4_2_8p5_Sec
 http://support.ntp.org/bin/view/Main/SecurityNotice#March_2017_ntp_4_2_8p10_NTP_Secu
 http://support.ntp.org/bin/view/Main/SecurityNotice#October_2015_NTP_4_2_8p4_Securit
 http://support.ntp.org/bin/view/Main/SecurityNotice#Recent_Vulnerabilities
+https://support.ntp.org/bin/view/Main/NtpBug3661
+https://support.ntp.org/bin/view/Main/SecurityNotice#June_2020_ntp_4_2_8p15_NTP_Relea
+https://support.ntp.org/bugs/show_bug.cgi?id=1144
+https://support.ntp.org/bugs/show_bug.cgi?id=1151
+https://support.ntp.org/bugs/show_bug.cgi?id=1331

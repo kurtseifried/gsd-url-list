@@ -22,4 +22,10 @@ https://tomcat.apache.org/connectors-doc/miscellaneous/changelog.html#Changes_be
 https://tomcat.apache.org/connectors-doc/miscellaneous/changelog.html#Changes_between_1.2.43_and_1.2.44
 https://tomcat.apache.org/connectors-doc/miscellaneous/changelog.html#Changes_between_1.2.44_and_1.2.45
 https://tomcat.apache.org/connectors-doc/miscellaneous/changelog.html#Changes_between_1.2.45_and_1.2.46
+https://tomcat.apache.org/security-6.html#Fixed_in_Apache_Tomcat_6.0.48
+https://tomcat.apache.org/security-7.html#Fixed_in_Apache_Tomcat_7.0.73
+https://tomcat.apache.org/security-8.html#Fixed_in_Apache_Tomcat_8.0.39
+https://tomcat.apache.org/security-8.html#Fixed_in_Apache_Tomcat_8.5.8
+https://tomcat.apache.org/security-9.html#Fixed_in_Apache_Tomcat_9.0.0.M13
+https://tomcat.apache.org/tomcat-7.0-doc/changelog.html
 https://tomcat.apache.org/tomcat-9.0-doc/config/ajp.html

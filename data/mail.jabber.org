@@ -1,2 +1,3 @@
 http://mail.jabber.org/pipermail/jabberd/2004-September/002004.html
 http://mail.jabber.org/pipermail/operators/2014-October/002438.html
+https://mail.jabber.org/pipermail/standards/2016-August/031335.html

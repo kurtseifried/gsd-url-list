@@ -1,1 +1,13 @@
 http://support.chamilo.org/attachments/download/2863/chamilo-1.8.8.4-to-1.8.8.6.patch
+https://support.chamilo.org/projects/1/wiki/Security_issues
+https://support.chamilo.org/projects/1/wiki/Security_issues#Issue-18-2015-05-02-Low-Moderate-risk-URL-hijackingspoofing
+https://support.chamilo.org/projects/1/wiki/Security_issues#Issue-32-2018-11-28-Low-risk-More-XSS-and-path-disclosure-issues
+https://support.chamilo.org/projects/1/wiki/Security_issues#Issue-33-2018-12-13-Moderate-risk-high-impact-SQL-Injection
+https://support.chamilo.org/projects/1/wiki/Security_issues#Issue-34-2019-01-14-Moderate-risk-moderate-impact-XSS-and-unauthorized-access
+https://support.chamilo.org/projects/1/wiki/Security_issues#Issue-48-2021-04-17-Critical-impact-high-risk-Remote-Code-Execution
+https://support.chamilo.org/projects/1/wiki/Security_issues#Issue-58-2021-05-12-High-impact-very-low-risk-LFIRCE-vulnerability-in-users-import
+https://support.chamilo.org/projects/1/wiki/Security_issues#Issue-67-2021-05-27-High-impact-very-high-risk-Unauthenticated-SQL-injection
+https://support.chamilo.org/projects/chamilo-18/wiki/Security_issues#Issue-10-2013-11-06-Moderate-risk-SQL-Injection-in-specific-unrecommended-case
+https://support.chamilo.org/projects/chamilo-18/wiki/Security_issues#Issue-41-2020-04-22-Medium-risk-high-impact-CSRF-and-privilege-escalation-via-CSRF
+https://support.chamilo.org/projects/chamilo-18/wiki/Security_issues#Issue-45-2021-01-21-Moderate-impact-moderate-risk-XSS-vulnerability-in-agenda
+https://support.chamilo.org/projects/chamilo-18/wiki/Security_issues#Issue-7-2012-07-16-Moderate-risk-Several-moderate-security-flaws

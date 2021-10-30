@@ -1,2 +1,13 @@
 http://www.cnblogs.com/babers/p/8503116.html
 http://www.cnblogs.com/babers/p/8745739.html
+https://www.cnblogs.com/7bit/articles/10389939.html
+https://www.cnblogs.com/7bit/articles/10551499.html
+https://www.cnblogs.com/echod/articles/10380909.html
+https://www.cnblogs.com/feizianquan/p/11910530.html
+https://www.cnblogs.com/tr3e/p/9662324.html
+https://www.cnblogs.com/v1vvwv/p/9168309.html
+https://www.cnblogs.com/v1vvwv/p/9203740.html
+https://www.cnblogs.com/v1vvwv/p/9203899.html
+https://www.cnblogs.com/v1vvwv/p/9226389.html
+https://www.cnblogs.com/v1vvwv/p/9248562.html
+https://www.cnblogs.com/wayne-tao/p/13110663.html

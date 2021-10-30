@@ -15,3 +15,7 @@ http://www.foxitsoftware.com/support/security_bulletins.php#FRD-24
 http://www.foxitsoftware.com/support/security_bulletins.php#FRD-25
 http://www.foxitsoftware.com/support/security_bulletins.php#FRD-26
 http://www.foxitsoftware.com/support/security_bulletins.php#FRD-27
+https://www.foxitsoftware.com/support/security-bulletins.html
+https://www.foxitsoftware.com/support/security-bulletins.php
+https://www.foxitsoftware.com/support/security-bulletins.php#FRD-34
+https://www.foxitsoftware.com/support/security-bulletins.php#FRD-35

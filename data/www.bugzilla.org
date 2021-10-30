@@ -33,3 +33,5 @@ http://www.bugzilla.org/security/4.0.14/
 http://www.bugzilla.org/security/4.0.15/
 http://www.bugzilla.org/security/4.0.4/
 http://www.bugzilla.org/security2_14_1.html
+https://www.bugzilla.org/security/4.2.15/
+https://www.bugzilla.org/security/4.4.11/

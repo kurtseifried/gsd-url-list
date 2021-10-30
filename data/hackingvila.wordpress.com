@@ -1,0 +1,17 @@
+https://hackingvila.wordpress.com/2018/07/17/cve-2018-14336-tp-link-wireless-n-router-wr840n-vulnerability/
+https://hackingvila.wordpress.com/2018/08/08/tp-link-buffer-overflow-via-a-long-authorization-http-header-cve-2018-15172/
+https://hackingvila.wordpress.com/2018/08/24/d-link-dir-615-buffer-overflow-via-a-long-authorization-http-header-click-here/
+https://hackingvila.wordpress.com/2019/02/16/url-redirection-through-html-injection-in-responsive-video-news-script-php-script-mall/
+https://hackingvila.wordpress.com/2019/02/16/xss-vulnerability-in-responsive-video-news-script-php-script-mall/
+https://hackingvila.wordpress.com/2019/02/17/tp-link-wireless-n-router-wr840n-buffer-overflow-cve-2018-15840/
+https://hackingvila.wordpress.com/2019/02/18/directory-traveler-or-path-traveler-vulnerability-in-cab-booking-script-php-script-mall/
+https://hackingvila.wordpress.com/2019/02/19/php-scripts-mall-online-food-ordering-script-has-cross-site-request-forgery-csrf-php-script-mall/
+https://hackingvila.wordpress.com/2019/02/21/php-scripts-mall-auction-website-script-has-parameter-tampering/
+https://hackingvila.wordpress.com/2019/02/21/php-scripts-mall-custom-t-shirt-ecommerce-script-has-parameter-tampering/
+https://hackingvila.wordpress.com/2019/02/22/php-scripts-mall-php-appointment-booking-script-has-html-injection-via-an-edit-my-profile/
+https://hackingvila.wordpress.com/2019/02/24/php-scripts-mall-medical-store-script-3-0-3-has-path-traversal/
+https://hackingvila.wordpress.com/2019/03/03/php-script-mall-personal-video-collection-script-has-stored-xss-in-edit-my-profile/
+https://hackingvila.wordpress.com/2019/03/06/php-scripts-mall-online-lottery-php-readymade-script-1-7-0-has-cross-site-request-forgery-csrf-for-edit-profile-actionscve-2019-9604/
+https://hackingvila.wordpress.com/2019/03/06/php-scripts-mall-online-lottery-php-readymade-script-1-7-0-has-reflected-cross-site-scripting-xss-via-the-err-value-in-a-ico-picture-uploadcve-2019-9605/
+https://hackingvila.wordpress.com/2019/03/19/php-scripts-mall-amazon-affiliate-store-2-1-6-allows-parameter-tampering-of-the-payment-amountcve-2019-9864/
+https://hackingvila.wordpress.com/2021/04/28/upgraded-arp-poisoning-tool/

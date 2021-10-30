@@ -2,3 +2,6 @@ http://syncope.apache.org/security
 http://syncope.apache.org/security.html
 http://syncope.apache.org/security.html#CVE-2018-1321:_Remote_code_execution_by_administrators_with_report_and_template_entitlements
 http://syncope.apache.org/security.html#CVE-2018-1322:_Information_disclosure_via_FIQL_and_ORDER_BY_sorting
+https://syncope.apache.org/security#CVE-2018-17184:_Stored_XSS
+https://syncope.apache.org/security#CVE-2018-17186:_XXE_on_BPMN_definitions
+https://syncope.apache.org/security#CVE-2020-11977:_Remote_Code_Execution_via_Flowable_workflow_definition

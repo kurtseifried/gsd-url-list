@@ -41,3 +41,16 @@ http://projects.theforeman.org/issues/9947
 http://projects.theforeman.org/projects/foreman/repository/revisions/1144040f444b4bf4aae81940a150b26b23b4623c
 http://projects.theforeman.org/projects/foreman/repository/revisions/a30ab44ed6f140f1791afc51a1e448afc2ff28f9
 http://projects.theforeman.org/projects/foreman/repository/revisions/c3c186de12be15e55d9582e54659f765304a1073
+https://projects.theforeman.org/issues/15037
+https://projects.theforeman.org/issues/16971
+https://projects.theforeman.org/issues/16982
+https://projects.theforeman.org/issues/17066/
+https://projects.theforeman.org/issues/17195
+https://projects.theforeman.org/issues/18838
+https://projects.theforeman.org/issues/19169
+https://projects.theforeman.org/issues/20963
+https://projects.theforeman.org/issues/22042
+https://projects.theforeman.org/issues/22546
+https://projects.theforeman.org/issues/25169
+https://projects.theforeman.org/issues/26450
+https://projects.theforeman.org/issues/27275

@@ -6,3 +6,5 @@ http://grsecurity.net/~spender/sctp.c
 http://grsecurity.net/~spender/viro.txt
 http://grsecurity.net/~spender/wireless-infoleak-fix2.patch
 http://grsecurity.net/~spender/wunderbar_emporium.tgz
+https://grsecurity.net/teardown_of_a_failed_linux_lts_spectre_fix.php
+https://grsecurity.net/~spender/exploits/wait_for_kaslr_to_be_effective.c

@@ -33,5 +33,16 @@ http://www.sudo.ws/sudo/alerts/sudoedit.html
 http://www.sudo.ws/sudo/alerts/sudoedit_escalate2.html
 http://www.sudo.ws/sudo/alerts/tty_tickets.html
 http://www.sudo.ws/sudo/stable.html
+https://www.sudo.ws/alerts/linux_tty.html
 https://www.sudo.ws/alerts/minus_1_uid.html
+https://www.sudo.ws/alerts/noexec_bypass.html
+https://www.sudo.ws/alerts/noexec_wordexp.html
 https://www.sudo.ws/alerts/pwfeedback.html
+https://www.sudo.ws/devel.html#1.8.30b2
+https://www.sudo.ws/repos/sudo/rev/0cd3cc8fa195
+https://www.sudo.ws/repos/sudo/rev/24a3d9215c64
+https://www.sudo.ws/repos/sudo/rev/397722cdd7ec
+https://www.sudo.ws/security.html
+https://www.sudo.ws/stable.html
+https://www.sudo.ws/stable.html#1.9.5
+https://www.sudo.ws/stable.html#1.9.5p2

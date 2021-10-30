@@ -129,3 +129,5 @@ http://www.openbsd.org/errata55.html#005_openssl
 http://www.openbsd.org/errata58.html
 http://www.openbsd.org/errata59.html
 http://www.openbsd.org/plus32.html
+https://www.openbsd.org/errata66.html
+https://www.openbsd.org/security.html

@@ -1,0 +1,4 @@
+https://zeroday.hitcon.org/vulnerability/ZD-2017-00386
+https://zeroday.hitcon.org/vulnerability/ZD-2019-00332
+https://zeroday.hitcon.org/vulnerability/ZD-2019-00333
+https://zeroday.hitcon.org/vulnerability/ZD-2019-00423

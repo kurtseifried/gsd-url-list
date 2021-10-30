@@ -1,0 +1,1 @@
+https://documents.trendmicro.com/assets/tech_brief_Device_Vulnerabilities_in_the_Connected_Home2.pdf

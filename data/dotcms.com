@@ -7,3 +7,8 @@ http://dotcms.com/security/SI-34
 http://dotcms.com/security/SI-35
 http://dotcms.com/security/SI-36
 http://dotcms.com/security/SI-39
+https://dotcms.com/docs/latest/change-log#release-3.3.2
+https://dotcms.com/security/SI-48
+https://dotcms.com/security/SI-51
+https://dotcms.com/security/SI-53
+https://dotcms.com/security/SI-54

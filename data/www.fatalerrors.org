@@ -1,0 +1,1 @@
+https://www.fatalerrors.org/a/analysis-of-the-snakeyaml-deserialization-in-java-security.html

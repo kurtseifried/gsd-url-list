@@ -1,0 +1,4 @@
+https://bugs.freebsd.org/bugzilla/show_bug.cgi?id=144761
+https://bugs.freebsd.org/bugzilla/show_bug.cgi?id=195243
+https://bugs.freebsd.org/bugzilla/show_bug.cgi?id=207362
+https://bugs.freebsd.org/bugzilla/show_bug.cgi?id=222687

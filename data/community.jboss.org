@@ -1,1 +1,2 @@
 http://community.jboss.org/message/625307
+https://community.jboss.org/message/624018
