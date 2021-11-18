@@ -1,6 +1,6 @@
-# uvi-url-list
+# gsd-url-list
 
-UVI URL List - the headwaters for manually entered URL's that feed into the crawler
+GSD URL List - the headwaters for manually entered URL's that feed into the crawler
 
 ## /data/tld/
 
