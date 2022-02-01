@@ -1,1 +1,2 @@
 http://www.joomlaextensions.co.in/extensions/components/je-auto.html
+https://www.joomlaextensions.co.in/ Joomla! Component Appointment 1.1 is affected by: SQL Injection. The impact is: Code execution (remote). The component is: com_appointment component.

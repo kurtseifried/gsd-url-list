@@ -1,9 +1,15 @@
 https://forums.ivanti.com/s/
 https://forums.ivanti.com/s/article/A-locally-authenticated-user-with-low-privileges-can-acquire-admin-privileges-by-hijacking-certain-user-registry-entries
 https://forums.ivanti.com/s/article/A-locally-authenticated-user-with-low-privileges-can-bypass-the-File-and-Folder-Security-by-leveraging-an-unspecified-attack-vector
+https://forums.ivanti.com/s/article/A-locally-authenticated-user-with-low-privileges-can-obtain-key-information-due-to-an-unspecified-attack-vector?language=en_US
 https://forums.ivanti.com/s/article/A-locally-authenticated-user-with-low-privileges-can-recover-keying-material-due-to-an-unspecified-attack-vector
+https://forums.ivanti.com/s/article/CVE-2021-44228-Java-logging-library-log4j-Ivanti-Products-Impact-Mapping?language=en_US
+https://forums.ivanti.com/s/article/Enhanced-Security-Update-IWC-components
 https://forums.ivanti.com/s/article/Locally-authenticated-user-can-bypass-File-and-Folder-Security-by-leveraging-an-unspecified-attack-vector
 https://forums.ivanti.com/s/article/Release-Notes-for-DSM-2020-1
+https://forums.ivanti.com/s/article/SA-2021-12-02
 https://forums.ivanti.com/s/article/SQL-Injection-Vulnerability-in-Avalanche
+https://forums.ivanti.com/s/article/Security-Alert-CVE-s-Addressed-in-Avalanche-6-3-3
 https://forums.ivanti.com/s/article/Security-Alert-Ivanti-Endpoint-Manager-April-2019
+https://forums.ivanti.com/s/article/Security-Alert-Ivanti-RES-Workspace-Manager-November-2019
 https://forums.ivanti.com/s/article/Security-Alert-Ivanti-Workspace-Control-September-2019

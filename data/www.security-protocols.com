@@ -15,6 +15,12 @@ http://www.security-protocols.com/modules.php?name=News&amp;file=article&amp;sid
 http://www.security-protocols.com/modules.php?name=News&amp;file=article&amp;sid=3133
 http://www.security-protocols.com/modules.php?name=News&amp;file=article&amp;sid=3233
 http://www.security-protocols.com/modules.php?name=News&amp;file=article&amp;sid=3259
+http://www.security-protocols.com/modules.php?name=News&file=article&sid=1722
+http://www.security-protocols.com/modules.php?name=News&file=article&sid=1746
+http://www.security-protocols.com/modules.php?name=News&file=article&sid=3109
+http://www.security-protocols.com/modules.php?name=News&file=article&sid=3133
+http://www.security-protocols.com/modules.php?name=News&file=article&sid=3233
+http://www.security-protocols.com/modules.php?name=News&file=article&sid=3259
 http://www.security-protocols.com/sp-x24-advisory.php
 http://www.security-protocols.com/sp-x25-advisory.php
 http://www.security-protocols.com/sp-x26-advisory.php

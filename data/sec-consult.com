@@ -27,5 +27,6 @@ https://sec-consult.com/vulnerability-lab/advisory/authentication-bypass-genua-g
 https://sec-consult.com/vulnerability-lab/advisory/blind-out-of-band-xml-external-entity-injection-in-avaya-web-license-manager/
 https://sec-consult.com/vulnerability-lab/advisory/multiple-critical-vulnerabilities-in-korenix-technology-westermo-pepperl-fuchs/
 https://sec-consult.com/vulnerability-lab/advisory/multiple-critical-vulnerabilities-in-trend-micro-interscan-web-security-virtual-appliance/
+https://sec-consult.com/vulnerability-lab/advisory/multiple-vulnerabilities-in-abantecart-e-commerce-platform/
 https://sec-consult.com/vulnerability-lab/advisory/multiple-vulnerabilities-irfanview-wpg/
 https://sec-consult.com/vulnerability-lab/advisory/reflected-xss-sis-infromatik-rewe-go-cve-2021-31537/

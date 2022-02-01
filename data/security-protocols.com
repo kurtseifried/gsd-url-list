@@ -8,6 +8,9 @@ http://security-protocols.com/modules.php?name=News&amp;amp;file=article&amp;amp
 http://security-protocols.com/modules.php?name=News&amp;file=article&amp;sid=1931
 http://security-protocols.com/modules.php?name=News&amp;file=article&amp;sid=2783
 http://security-protocols.com/modules.php?name=News&amp;file=article&amp;sid=2978
+http://security-protocols.com/modules.php?name=News&file=article&sid=1931
+http://security-protocols.com/modules.php?name=News&file=article&sid=2783
+http://security-protocols.com/modules.php?name=News&file=article&sid=2978
 http://security-protocols.com/poc/sp-x26-1.html
 http://security-protocols.com/poc/sp-x26-2.html
 http://security-protocols.com/poc/sp-x26-4.html

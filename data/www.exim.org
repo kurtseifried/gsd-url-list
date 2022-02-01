@@ -9,6 +9,7 @@ http://www.exim.org/static/doc/CVE-2016-1531.txt
 http://www.exim.org/static/doc/CVE-2016-9963.txt
 http://www.exim.org/viewvc/pcre?view=revision&amp;amp;revision=1513
 http://www.exim.org/viewvc/pcre?view=revision&amp;revision=1513
+http://www.exim.org/viewvc/pcre?view=revision&revision=1513
 https://www.exim.org
 https://www.exim.org/static/doc/CVE-2016-1531.txt
 https://www.exim.org/static/doc/security/CVE-2019-10149.txt

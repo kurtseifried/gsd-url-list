@@ -5,6 +5,7 @@ https://cgit.kde.org/kdelibs.git/commit/?id=264e97625abe2e0334f97de17f6ffb525828
 https://cgit.kde.org/kmail.git/commit/?id=2a348eccd352260f192d9b449492071bbf2b34b1
 https://cgit.kde.org/kmail.git/tag/?h=v19.12.3
 https://cgit.kde.org/konversation.git/commit/?h=1.7&amp;amp;id=6a7f59ee1b9dbc6e5cf9e5f3b306504d02b73ef0
+https://cgit.kde.org/konversation.git/commit/?h=1.7&id=6a7f59ee1b9dbc6e5cf9e5f3b306504d02b73ef0
 https://cgit.kde.org/messagelib.git/commit/messageviewer/src/messagepartthemes/default/defaultrenderer.cpp?id=34765909cdf8e55402a8567b48fb288839c61612
 https://cgit.kde.org/okular.git/commit/?id=8ff7abc14d41906ad978b6bc67e69693863b9d47
 https://cgit.kde.org/plasma-workspace.git/commit/?id=5bc696b5abcdb460c1017592e80b2d7f6ed3107c

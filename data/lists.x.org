@@ -19,4 +19,6 @@ https://lists.x.org/archives/xorg-announce/2020-December/003066.html
 https://lists.x.org/archives/xorg-announce/2020-July/003050.html
 https://lists.x.org/archives/xorg-announce/2020-July/003051.html
 https://lists.x.org/archives/xorg-announce/2021-April/003080.html
+https://lists.x.org/archives/xorg-announce/2021-December/003122.html
+https://lists.x.org/archives/xorg-announce/2021-December/003124.html
 https://lists.x.org/archives/xorg-announce/2021-May/003088.html

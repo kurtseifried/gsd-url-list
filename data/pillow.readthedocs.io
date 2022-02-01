@@ -12,4 +12,6 @@ https://pillow.readthedocs.io/en/stable/releasenotes/8.2.0.html#cve-2021-28677-f
 https://pillow.readthedocs.io/en/stable/releasenotes/8.2.0.html#cve-2021-28678-fix-blp-dos
 https://pillow.readthedocs.io/en/stable/releasenotes/8.3.0.html#buffer-overflow
 https://pillow.readthedocs.io/en/stable/releasenotes/8.3.2.html
+https://pillow.readthedocs.io/en/stable/releasenotes/9.0.0.html#fixed-imagepath-path-array-handling
+https://pillow.readthedocs.io/en/stable/releasenotes/9.0.0.html#restrict-builtins-available-to-imagemath-eval
 https://pillow.readthedocs.io/en/stable/releasenotes/index.html

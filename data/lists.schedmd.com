@@ -6,3 +6,4 @@ https://lists.schedmd.com/pipermail/slurm-announce/2019/000018.html
 https://lists.schedmd.com/pipermail/slurm-announce/2019/000025.html
 https://lists.schedmd.com/pipermail/slurm-announce/2020/000036.html
 https://lists.schedmd.com/pipermail/slurm-announce/2021/000055.html
+https://lists.schedmd.com/pipermail/slurm-announce/2021/000068.html

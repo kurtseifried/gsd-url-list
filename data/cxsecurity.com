@@ -112,3 +112,4 @@ https://cxsecurity.com/issue/WLB-2020100161
 https://cxsecurity.com/issue/WLB-2020110210
 https://cxsecurity.com/issue/WLB-2020110211
 https://cxsecurity.com/issue/WLB-2020110215
+https://cxsecurity.com/issue/WLB-2022010013

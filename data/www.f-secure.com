@@ -50,6 +50,8 @@ https://www.f-secure.com/en/business/support-and-downloads/security-advisories/c
 https://www.f-secure.com/en/business/support-and-downloads/security-advisories/cve-2021-33601
 https://www.f-secure.com/en/business/support-and-downloads/security-advisories/cve-2021-33603
 https://www.f-secure.com/en/business/support-and-downloads/security-advisories/cve-2021-40832
+https://www.f-secure.com/en/business/support-and-downloads/security-advisories/cve-2021-40833
+https://www.f-secure.com/en/business/support-and-downloads/security-advisories/cve-2021-40834
 https://www.f-secure.com/en/business/support-and-downloads/security-advisories/fsc-2021-33598
 https://www.f-secure.com/en/home/products/safe
 https://www.f-secure.com/en/web/labs_global/fsc-2015-1

@@ -130,11 +130,14 @@ http://support.citrix.com/article/ctx133039
 http://support.citrix.com/article/ctx137238
 http://support.citrix.com/article/ctx139017
 http://support.citrix.com/kb/entry!default.jspa?categoryID=275&amp;externalID=CTX107705
+http://support.citrix.com/kb/entry!default.jspa?categoryID=275&externalID=CTX107705
 http://support.citrix.com/kb/entry%21default.jspa?categoryID=275&amp;amp;externalID=CTX107705
 http://support.citrix.com/kb/entry.jspa?entryID=4062&amp;amp;categoryID=256
 http://support.citrix.com/kb/entry.jspa?entryID=4062&amp;categoryID=256
+http://support.citrix.com/kb/entry.jspa?entryID=4062&categoryID=256
 http://support.citrix.com/kb/entry.jspa?entryID=5970&amp;amp;categoryID=254
 http://support.citrix.com/kb/entry.jspa?entryID=5970&amp;categoryID=254
+http://support.citrix.com/kb/entry.jspa?entryID=5970&categoryID=254
 http://support.citrix.com/kb/entry.jspa?externalID=CTX105574
 http://support.citrix.com/kb/entry.jspa?externalID=CTX105650
 http://support.citrix.com/kb/entry.jspa?externalID=CTX105762
@@ -215,8 +218,12 @@ https://support.citrix.com/article/CTX319135
 https://support.citrix.com/article/CTX319750
 https://support.citrix.com/article/CTX322787
 https://support.citrix.com/article/CTX328123
+https://support.citrix.com/article/CTX330728
+https://support.citrix.com/article/CTX335705
 https://support.citrix.com/article/ctx230238
 https://support.citrix.com/article/ctx230612
 https://support.citrix.com/search
 https://support.citrix.com/search?searchQuery=%2A&amp;amp;lang=en&amp;amp;sort=relevance&amp;amp;prod=&amp;amp;pver=&amp;amp;ct=Security+Bulletin
+https://support.citrix.com/search?searchQuery=*&lang=en&sort=relevance&prod=&pver=&ct=Security+Bulletin
 https://support.citrix.com/v1/search?searchQuery=%22%22&amp;amp;lang=en&amp;amp;sort=cr_date_desc&amp;amp;prod=&amp;amp;pver=&amp;amp;ct=Security+Bulletin
+https://support.citrix.com/v1/search?searchQuery=%22%22&lang=en&sort=cr_date_desc&prod=&pver=&ct=Security+Bulletin

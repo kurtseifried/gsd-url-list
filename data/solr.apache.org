@@ -1,0 +1,2 @@
+https://solr.apache.org/security.html#apache-solr-affected-by-apache-log4j-cve-2021-44228
+https://solr.apache.org/security.html#cve-2021-44548-apache-solr-information-disclosure-vulnerability-through-dataimporthandler

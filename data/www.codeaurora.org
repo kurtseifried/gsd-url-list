@@ -8,6 +8,7 @@ https://www.codeaurora.org/cgit/quic/la//kernel/msm/commit/?id=7beb04ea945a7178e
 https://www.codeaurora.org/cgit/quic/la//kernel/msm/commit/?id=a2b5237ad265ec634489c8b296d870827b2a1b13
 https://www.codeaurora.org/cgit/quic/la/kernel/msm-3.10/commit/?id=f53bcf29a6e7a66b3d935b8d562fa00829261f05
 https://www.codeaurora.org/cgit/quic/la/kernel/msm/commit/drivers/base/genlock.c?id=e3c43027bdb59f03eec7ead0a01c77e4bf801625&amp;amp;h=jb_3.2.3
+https://www.codeaurora.org/cgit/quic/la/kernel/msm/commit/drivers/base/genlock.c?id=e3c43027bdb59f03eec7ead0a01c77e4bf801625&h=jb_3.2.3
 https://www.codeaurora.org/detection-error-condition-without-proper-action-msmds2dapparamvisualizercontrolget-cve-2016-5853
 https://www.codeaurora.org/improper-input-validation-tethering-controller-netd-cve-2016-2060-0
 https://www.codeaurora.org/insufficient-memory-address-information-prevent-arbitrary-memory-access-qsee-secure-applications-cve
@@ -64,6 +65,7 @@ https://www.codeaurora.org/security-bulletin/2019/02/04/february-2019-code-auror
 https://www.codeaurora.org/security-bulletin/2019/04/01/april-2019-code-aurora-security-bulletin
 https://www.codeaurora.org/security-bulletin/2019/05/06/may-2019-code-aurora-security-bulletin
 https://www.codeaurora.org/security-bulletin/2019/06/03/june-2019-code-aurora-security-bulletin
+https://www.codeaurora.org/security-bulletin/2019/06/03/june-2019-code-aurora-security-bulletin#_CVE-2018-11955
 https://www.codeaurora.org/security-bulletin/2019/07/01/july-2019-code-aurora-security-bulletin
 https://www.codeaurora.org/security-bulletin/2019/08/05/august-2019-code-aurora-security-bulletin
 https://www.codeaurora.org/stack-overflow-msm-thermal-driver-allows-kernel-memory-corruption-cve-2016-2063

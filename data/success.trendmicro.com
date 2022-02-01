@@ -51,6 +51,8 @@ https://success.trendmicro.com/solution/000289038
 https://success.trendmicro.com/solution/000289183
 https://success.trendmicro.com/solution/000289229
 https://success.trendmicro.com/solution/000289230
+https://success.trendmicro.com/solution/000289940
+https://success.trendmicro.com/solution/000289996
 https://success.trendmicro.com/solution/1114749
 https://success.trendmicro.com/solution/1114913
 https://success.trendmicro.com/solution/1115411
@@ -58,6 +60,7 @@ https://success.trendmicro.com/solution/1116672
 https://success.trendmicro.com/solution/1116750
 https://success.trendmicro.com/solution/1116821-security-bulletin-trend-micro-interscan-messaging-security-virtual-appliance-imsva-9-1-multiple-v
 https://success.trendmicro.com/solution/1116827
+https://success.trendmicro.com/solution/1116957
 https://success.trendmicro.com/solution/1116960
 https://success.trendmicro.com/solution/1116973
 https://success.trendmicro.com/solution/1117094

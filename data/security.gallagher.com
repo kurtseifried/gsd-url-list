@@ -11,7 +11,13 @@ https://security.gallagher.com/Security-Advisories/CVE-2020-16103
 https://security.gallagher.com/Security-Advisories/CVE-2020-16104
 https://security.gallagher.com/Security-Advisories/CVE-2021-23136
 https://security.gallagher.com/Security-Advisories/CVE-2021-23140
+https://security.gallagher.com/Security-Advisories/CVE-2021-23146
+https://security.gallagher.com/Security-Advisories/CVE-2021-23155
+https://security.gallagher.com/Security-Advisories/CVE-2021-23162
+https://security.gallagher.com/Security-Advisories/CVE-2021-23167
 https://security.gallagher.com/Security-Advisories/CVE-2021-23182
+https://security.gallagher.com/Security-Advisories/CVE-2021-23193
+https://security.gallagher.com/Security-Advisories/CVE-2021-23197
 https://security.gallagher.com/Security-Advisories/CVE-2021-23204
 https://security.gallagher.com/Security-Advisories/CVE-2021-23205
 https://security.gallagher.com/Security-Advisories/CVE-2021-23211

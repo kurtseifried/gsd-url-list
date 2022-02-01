@@ -10,4 +10,6 @@ https://community.teamviewer.com/t5/Announcements/Security-bulletin-CVE-2019-181
 https://community.teamviewer.com/t5/Announcements/Specification-on-CVE-2019-18988/td-p/82264
 https://community.teamviewer.com/t5/Announcements/Statement-on-CVE-2020-13699/td-p/98448
 https://community.teamviewer.com/t5/Knowledge-Base/tkb-p/Knowledgebase?threadtype=label&amp;amp;labels=Security
+https://community.teamviewer.com/t5/Knowledge-Base/tkb-p/Knowledgebase?threadtype=label&labels=Security
 https://community.teamviewer.com/t5/Knowledge-Base/tkb-p/Knowledgebase?type=label&amp;amp;labels=Security
+https://community.teamviewer.com/t5/Knowledge-Base/tkb-p/Knowledgebase?type=label&labels=Security

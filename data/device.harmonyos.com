@@ -1,3 +1,10 @@
 https://device.harmonyos.com/cn/console/safetyDetail?id=9145efa5d9064d94a7fc3968b6054d83&amp;amp;pageSize=10&amp;amp;pageIndex=1
+https://device.harmonyos.com/cn/console/safetyDetail?id=9145efa5d9064d94a7fc3968b6054d83&pageSize=10&pageIndex=1
 https://device.harmonyos.com/cn/docs/security/update/oem_security_update_phone_202106-0000001165452077
 https://device.harmonyos.com/cn/docs/security/update/security-bulletins-202107-0000001123874808
+https://device.harmonyos.com/cn/docs/security/update/security-bulletins-202108-0000001180965965
+https://device.harmonyos.com/en/docs/security/update/security-bulletins-202109-0000001196270727
+https://device.harmonyos.com/en/docs/security/update/security-bulletins-202110-0000001162998526
+https://device.harmonyos.com/en/docs/security/update/security-bulletins-202111-0000001217889667
+https://device.harmonyos.com/en/docs/security/update/security-bulletins-202112-0000001183296718
+https://device.harmonyos.com/en/docs/security/update/security-bulletins-202201-0000001238736331

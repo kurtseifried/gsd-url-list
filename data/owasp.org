@@ -5,3 +5,4 @@ https://owasp.org/www-community/attacks/Log_Injection
 https://owasp.org/www-community/attacks/xss/#reflected-xss-attacks
 https://owasp.org/www-pdf-archive/David_Johansson-Double_Defeat_of_Double-Submit_Cookie.pdf
 https://owasp.org/www-project-csrfguard/
+https://owasp.org/www-project-modsecurity-core-rule-set/

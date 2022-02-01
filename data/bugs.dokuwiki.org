@@ -4,4 +4,8 @@ http://bugs.dokuwiki.org/index.php?do=details&amp;amp;task_id=2561
 http://bugs.dokuwiki.org/index.php?do=details&amp;task_id=2487
 http://bugs.dokuwiki.org/index.php?do=details&amp;task_id=2488
 http://bugs.dokuwiki.org/index.php?do=details&amp;task_id=2561
+http://bugs.dokuwiki.org/index.php?do=details&task_id=2487
+http://bugs.dokuwiki.org/index.php?do=details&task_id=2488
+http://bugs.dokuwiki.org/index.php?do=details&task_id=2561
 https://bugs.dokuwiki.org/index.php?do=details&amp;amp;task_id=2647#comment6204
+https://bugs.dokuwiki.org/index.php?do=details&task_id=2647#comment6204

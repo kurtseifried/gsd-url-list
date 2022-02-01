@@ -1,6 +1,7 @@
 https://jenkins.io/changelog-old/
 https://jenkins.io/security/advisory/2012-01-12/
 https://jenkins.io/security/advisory/2015-02-27/
+https://jenkins.io/security/advisory/2016-06-20/
 https://jenkins.io/security/advisory/2017-02-01/
 https://jenkins.io/security/advisory/2017-03-20/
 https://jenkins.io/security/advisory/2017-04-26/
@@ -114,6 +115,8 @@ https://jenkins.io/security/advisory/2018-08-15/#SECURITY-996
 https://jenkins.io/security/advisory/2018-09-25/
 https://jenkins.io/security/advisory/2018-09-25/#SECURITY-1013%20%281%29
 https://jenkins.io/security/advisory/2018-09-25/#SECURITY-1013%20%282%29
+https://jenkins.io/security/advisory/2018-09-25/#SECURITY-1013%20(1)
+https://jenkins.io/security/advisory/2018-09-25/#SECURITY-1013%20(2)
 https://jenkins.io/security/advisory/2018-09-25/#SECURITY-1029
 https://jenkins.io/security/advisory/2018-09-25/#SECURITY-1067
 https://jenkins.io/security/advisory/2018-09-25/#SECURITY-1068
@@ -128,6 +131,8 @@ https://jenkins.io/security/advisory/2018-09-25/#SECURITY-265
 https://jenkins.io/security/advisory/2018-09-25/#SECURITY-938
 https://jenkins.io/security/advisory/2018-09-25/#SECURITY-984%20%281%29
 https://jenkins.io/security/advisory/2018-09-25/#SECURITY-984%20%282%29
+https://jenkins.io/security/advisory/2018-09-25/#SECURITY-984%20(1)
+https://jenkins.io/security/advisory/2018-09-25/#SECURITY-984%20(2)
 https://jenkins.io/security/advisory/2018-10-10/#SECURITY-1074
 https://jenkins.io/security/advisory/2018-10-10/#SECURITY-1128
 https://jenkins.io/security/advisory/2018-10-10/#SECURITY-1129
@@ -153,6 +158,8 @@ https://jenkins.io/security/advisory/2019-01-28/#SECURITY-1292
 https://jenkins.io/security/advisory/2019-01-28/#SECURITY-1293
 https://jenkins.io/security/advisory/2019-01-28/#SECURITY-1295%20%281%29
 https://jenkins.io/security/advisory/2019-01-28/#SECURITY-1295%20%282%29
+https://jenkins.io/security/advisory/2019-01-28/#SECURITY-1295%20(1)
+https://jenkins.io/security/advisory/2019-01-28/#SECURITY-1295%20(2)
 https://jenkins.io/security/advisory/2019-01-28/#SECURITY-1302
 https://jenkins.io/security/advisory/2019-01-28/#SECURITY-602
 https://jenkins.io/security/advisory/2019-01-28/#SECURITY-797
@@ -161,6 +168,8 @@ https://jenkins.io/security/advisory/2019-01-28/#SECURITY-859
 https://jenkins.io/security/advisory/2019-01-28/#SECURITY-886
 https://jenkins.io/security/advisory/2019-01-28/#SECURITY-905%20%281%29
 https://jenkins.io/security/advisory/2019-01-28/#SECURITY-905%20%282%29
+https://jenkins.io/security/advisory/2019-01-28/#SECURITY-905%20(1)
+https://jenkins.io/security/advisory/2019-01-28/#SECURITY-905%20(2)
 https://jenkins.io/security/advisory/2019-02-19/#SECURITY-1033
 https://jenkins.io/security/advisory/2019-02-19/#SECURITY-1320
 https://jenkins.io/security/advisory/2019-02-19/#SECURITY-817
@@ -172,6 +181,8 @@ https://jenkins.io/security/advisory/2019-03-06/#SECURITY-1331
 https://jenkins.io/security/advisory/2019-03-06/#SECURITY-1332
 https://jenkins.io/security/advisory/2019-03-06/#SECURITY-1336%20%281%29
 https://jenkins.io/security/advisory/2019-03-06/#SECURITY-1336%20%282%29
+https://jenkins.io/security/advisory/2019-03-06/#SECURITY-1336%20(1)
+https://jenkins.io/security/advisory/2019-03-06/#SECURITY-1336%20(2)
 https://jenkins.io/security/advisory/2019-03-06/#SECURITY-1338
 https://jenkins.io/security/advisory/2019-03-06/#SECURITY-1339
 https://jenkins.io/security/advisory/2019-03-06/#SECURITY-1340
@@ -262,6 +273,8 @@ https://jenkins.io/security/advisory/2019-05-21/#SECURITY-1316
 https://jenkins.io/security/advisory/2019-05-21/#SECURITY-1322
 https://jenkins.io/security/advisory/2019-05-31/#SECURITY-1015%20%281%29
 https://jenkins.io/security/advisory/2019-05-31/#SECURITY-1015%20%282%29
+https://jenkins.io/security/advisory/2019-05-31/#SECURITY-1015%20(1)
+https://jenkins.io/security/advisory/2019-05-31/#SECURITY-1015%20(2)
 https://jenkins.io/security/advisory/2019-05-31/#SECURITY-1046
 https://jenkins.io/security/advisory/2019-05-31/#SECURITY-1347
 https://jenkins.io/security/advisory/2019-05-31/#SECURITY-1373
@@ -273,6 +286,8 @@ https://jenkins.io/security/advisory/2019-06-11/#SECURITY-1379
 https://jenkins.io/security/advisory/2019-06-11/#SECURITY-1399
 https://jenkins.io/security/advisory/2019-06-11/#SECURITY-1410%20%281%29
 https://jenkins.io/security/advisory/2019-06-11/#SECURITY-1410%20%282%29
+https://jenkins.io/security/advisory/2019-06-11/#SECURITY-1410%20(1)
+https://jenkins.io/security/advisory/2019-06-11/#SECURITY-1410%20(2)
 https://jenkins.io/security/advisory/2019-06-11/#SECURITY-1411
 https://jenkins.io/security/advisory/2019-06-11/#SECURITY-1412
 https://jenkins.io/security/advisory/2019-06-11/#SECURITY-1420
@@ -299,6 +314,8 @@ https://jenkins.io/security/advisory/2019-07-31/#SECURITY-1446
 https://jenkins.io/security/advisory/2019-07-31/#SECURITY-1458
 https://jenkins.io/security/advisory/2019-07-31/#SECURITY-1465%20%281%29
 https://jenkins.io/security/advisory/2019-07-31/#SECURITY-1465%20%282%29
+https://jenkins.io/security/advisory/2019-07-31/#SECURITY-1465%20(1)
+https://jenkins.io/security/advisory/2019-07-31/#SECURITY-1465%20(2)
 https://jenkins.io/security/advisory/2019-07-31/#SECURITY-673
 https://jenkins.io/security/advisory/2019-07-31/#SECURITY-713
 https://jenkins.io/security/advisory/2019-07-31/#SECURITY1422
@@ -341,6 +358,8 @@ https://jenkins.io/security/advisory/2019-09-25/#SECURITY-1514
 https://jenkins.io/security/advisory/2019-09-25/#SECURITY-1525
 https://jenkins.io/security/advisory/2019-09-25/#SECURITY-1537%20%281%29
 https://jenkins.io/security/advisory/2019-09-25/#SECURITY-1537%20%282%29
+https://jenkins.io/security/advisory/2019-09-25/#SECURITY-1537%20(1)
+https://jenkins.io/security/advisory/2019-09-25/#SECURITY-1537%20(2)
 https://jenkins.io/security/advisory/2019-09-25/#SECURITY-1543
 https://jenkins.io/security/advisory/2019-09-25/#SECURITY-1544
 https://jenkins.io/security/advisory/2019-09-25/#SECURITY-1548
@@ -357,6 +376,8 @@ https://jenkins.io/security/advisory/2019-09-25/#SECURITY-401
 https://jenkins.io/security/advisory/2019-09-25/#SECURITY-732
 https://jenkins.io/security/advisory/2019-09-25/#SECURITY-920%20%281%29
 https://jenkins.io/security/advisory/2019-09-25/#SECURITY-920%20%282%29
+https://jenkins.io/security/advisory/2019-09-25/#SECURITY-920%20(1)
+https://jenkins.io/security/advisory/2019-09-25/#SECURITY-920%20(2)
 https://jenkins.io/security/advisory/2019-09-25/#SECURTIY-1541
 https://jenkins.io/security/advisory/2019-10-01/#SECURITY-1423
 https://jenkins.io/security/advisory/2019-10-01/#SECURITY-1515
@@ -365,6 +386,8 @@ https://jenkins.io/security/advisory/2019-10-01/#SECURITY-1579
 https://jenkins.io/security/advisory/2019-10-01/#SECURITY-1590
 https://jenkins.io/security/advisory/2019-10-16/#SECURITY-1006%20%281%29
 https://jenkins.io/security/advisory/2019-10-16/#SECURITY-1006%20%282%29
+https://jenkins.io/security/advisory/2019-10-16/#SECURITY-1006%20(1)
+https://jenkins.io/security/advisory/2019-10-16/#SECURITY-1006%20(2)
 https://jenkins.io/security/advisory/2019-10-16/#SECURITY-1427
 https://jenkins.io/security/advisory/2019-10-16/#SECURITY-1431
 https://jenkins.io/security/advisory/2019-10-16/#SECURITY-1432
@@ -385,12 +408,18 @@ https://jenkins.io/security/advisory/2019-10-16/#SECURITY-918
 https://jenkins.io/security/advisory/2019-10-23/#SECURITY-1003
 https://jenkins.io/security/advisory/2019-10-23/#SECURITY-1005%20%281%29
 https://jenkins.io/security/advisory/2019-10-23/#SECURITY-1005%20%282%29
+https://jenkins.io/security/advisory/2019-10-23/#SECURITY-1005%20(1)
+https://jenkins.io/security/advisory/2019-10-23/#SECURITY-1005%20(2)
 https://jenkins.io/security/advisory/2019-10-23/#SECURITY-1014%20%281%29
 https://jenkins.io/security/advisory/2019-10-23/#SECURITY-1014%20%282%29
+https://jenkins.io/security/advisory/2019-10-23/#SECURITY-1014%20(1)
+https://jenkins.io/security/advisory/2019-10-23/#SECURITY-1014%20(2)
 https://jenkins.io/security/advisory/2019-10-23/#SECURITY-1073
 https://jenkins.io/security/advisory/2019-10-23/#SECURITY-1477
 https://jenkins.io/security/advisory/2019-10-23/#SECURITY-1483%20%281%29
 https://jenkins.io/security/advisory/2019-10-23/#SECURITY-1483%20%282%29
+https://jenkins.io/security/advisory/2019-10-23/#SECURITY-1483%20(1)
+https://jenkins.io/security/advisory/2019-10-23/#SECURITY-1483%20(2)
 https://jenkins.io/security/advisory/2019-10-23/#SECURITY-1490
 https://jenkins.io/security/advisory/2019-10-23/#SECURITY-1546
 https://jenkins.io/security/advisory/2019-10-23/#SECURITY-1621
@@ -407,6 +436,8 @@ https://jenkins.io/security/advisory/2019-11-21/#SECURITY-1634
 https://jenkins.io/security/advisory/2019-11-21/#SECURITY-1658
 https://jenkins.io/security/advisory/2019-11-21/#SECURITY-727%20%281%29
 https://jenkins.io/security/advisory/2019-11-21/#SECURITY-727%20%282%29
+https://jenkins.io/security/advisory/2019-11-21/#SECURITY-727%20(1)
+https://jenkins.io/security/advisory/2019-11-21/#SECURITY-727%20(2)
 https://jenkins.io/security/advisory/2019-12-17/#SECURITY-1371
 https://jenkins.io/security/advisory/2019-12-17/#SECURITY-1521
 https://jenkins.io/security/advisory/2019-12-17/#SECURITY-1527
@@ -423,6 +454,8 @@ https://jenkins.io/security/advisory/2019-12-17/#SECURITY-1603
 https://jenkins.io/security/advisory/2019-12-17/#SECURITY-1604
 https://jenkins.io/security/advisory/2019-12-17/#SECURITY-1605%20%281%29
 https://jenkins.io/security/advisory/2019-12-17/#SECURITY-1605%20%282%29
+https://jenkins.io/security/advisory/2019-12-17/#SECURITY-1605%20(1)
+https://jenkins.io/security/advisory/2019-12-17/#SECURITY-1605%20(2)
 https://jenkins.io/security/advisory/2019-12-17/#SECURITY-1636
 https://jenkins.io/security/advisory/2019-12-17/#SECURITY-1651
 https://jenkins.io/security/advisory/2019-12-17/#SECURITY-1681
@@ -464,6 +497,8 @@ https://jenkins.io/security/advisory/2020-02-12/#SECURITY-1751
 https://jenkins.io/security/advisory/2020-02-12/#SECURITY-1752
 https://jenkins.io/security/advisory/2020-02-12/#SECURITY-812%20%281%29
 https://jenkins.io/security/advisory/2020-02-12/#SECURITY-812%20%282%29
+https://jenkins.io/security/advisory/2020-02-12/#SECURITY-812%20(1)
+https://jenkins.io/security/advisory/2020-02-12/#SECURITY-812%20(2)
 https://jenkins.io/security/advisory/2020-03-09/#SECURITY-1510
 https://jenkins.io/security/advisory/2020-03-09/#SECURITY-1511
 https://jenkins.io/security/advisory/2020-03-09/#SECURITY-1516
@@ -489,6 +524,8 @@ https://jenkins.io/security/advisory/2020-03-09/#SECURITY-1765
 https://jenkins.io/security/advisory/2020-03-09/#SECURITY-1784
 https://jenkins.io/security/advisory/2020-03-25/#SECURITY-1542%20%281%29
 https://jenkins.io/security/advisory/2020-03-25/#SECURITY-1542%20%282%29
+https://jenkins.io/security/advisory/2020-03-25/#SECURITY-1542%20(1)
+https://jenkins.io/security/advisory/2020-03-25/#SECURITY-1542%20(2)
 https://jenkins.io/security/advisory/2020-03-25/#SECURITY-1676
 https://jenkins.io/security/advisory/2020-03-25/#SECURITY-1677
 https://jenkins.io/security/advisory/2020-03-25/#SECURITY-1724
@@ -536,6 +573,8 @@ https://jenkins.io/security/advisory/2020-07-02/#SECURITY-1690
 https://jenkins.io/security/advisory/2020-07-02/#SECURITY-1691
 https://jenkins.io/security/advisory/2020-07-02/#SECURITY-1728%20%281%29
 https://jenkins.io/security/advisory/2020-07-02/#SECURITY-1728%20%282%29
+https://jenkins.io/security/advisory/2020-07-02/#SECURITY-1728%20(1)
+https://jenkins.io/security/advisory/2020-07-02/#SECURITY-1728%20(2)
 https://jenkins.io/security/advisory/2020-07-02/#SECURITY-1738
 https://jenkins.io/security/advisory/2020-07-02/#SECURITY-1762
 https://jenkins.io/security/advisory/2020-07-02/#SECURITY-1771
@@ -555,6 +594,8 @@ https://jenkins.io/security/advisory/2020-07-15/#SECURITY-1945
 https://jenkins.io/security/advisory/2020-08-12/#SECURITY-1763
 https://jenkins.io/security/advisory/2020-08-12/#SECURITY-1794%20%281%29
 https://jenkins.io/security/advisory/2020-08-12/#SECURITY-1794%20%282%29
+https://jenkins.io/security/advisory/2020-08-12/#SECURITY-1794%20(1)
+https://jenkins.io/security/advisory/2020-08-12/#SECURITY-1794%20(2)
 https://jenkins.io/security/advisory/2020-08-12/#SECURITY-1940
 https://jenkins.io/security/advisory/2020-08-12/#SECURITY-1955
 https://jenkins.io/security/advisory/2020-08-12/#SECURITY-1957
@@ -566,6 +607,8 @@ https://jenkins.io/security/advisory/2020-09-01/#SECURITY-1506
 https://jenkins.io/security/advisory/2020-09-01/#SECURITY-1625
 https://jenkins.io/security/advisory/2020-09-01/#SECURITY-1631%20%281%29
 https://jenkins.io/security/advisory/2020-09-01/#SECURITY-1631%20%282%29
+https://jenkins.io/security/advisory/2020-09-01/#SECURITY-1631%20(1)
+https://jenkins.io/security/advisory/2020-09-01/#SECURITY-1631%20(2)
 https://jenkins.io/security/advisory/2020-09-01/#SECURITY-1770
 https://jenkins.io/security/advisory/2020-09-01/#SECURITY-1829
 https://jenkins.io/security/advisory/2020-09-01/#SECURITY-1830

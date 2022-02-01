@@ -130,6 +130,7 @@ http://www.oracle.com/technology/deploy/security/wls-security/1012.html
 https://www.oracle.com//security-alerts/cpujul2021.html
 https://www.oracle.com/security-alerts/alert-cve-2019-2725.html#AppendixFMW
 https://www.oracle.com/security-alerts/alert-cve-2020-14750.html
+https://www.oracle.com/security-alerts/alert-cve-2021-44228.html
 https://www.oracle.com/security-alerts/bulletinapr2020.html
 https://www.oracle.com/security-alerts/cpuApr2021.html
 https://www.oracle.com/security-alerts/cpuapr2020.html

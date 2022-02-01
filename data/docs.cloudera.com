@@ -2,12 +2,15 @@ https://docs.cloudera.com/data-engineering/cloud/overview/topics/cde-service-ove
 https://docs.cloudera.com/data-engineering/cloud/release-notes/topics/cde-general-known-issues.html
 https://docs.cloudera.com/documentation/other/security-bulletins/topics/Security-Bulletin.html
 https://docs.cloudera.com/documentation/other/security-bulletins/topics/Security-Bulletin.html#TSB-351
+https://docs.cloudera.com/documentation/other/security-bulletins/topics/Security-Bulletin.html#cloudera_manager
 https://docs.cloudera.com/documentation/other/security-bulletins/topics/Security-Bulletin.html#concept_alalsdfkl4320_lfsk30f__l2k3jfsw34__39
+https://docs.cloudera.com/documentation/other/security-bulletins/topics/Security-Bulletin.html#concept_c1c_zbn_js
 https://docs.cloudera.com/documentation/other/security-bulletins/topics/Security-Bulletin.html#concept_gd2_r25_2v
 https://docs.cloudera.com/documentation/other/security-bulletins/topics/Security-Bulletin.html#concept_o2p_hjm_33b
 https://docs.cloudera.com/documentation/other/security-bulletins/topics/Security-Bulletin.html#concept_sky_fq1_cjb
 https://docs.cloudera.com/documentation/other/security-bulletins/topics/Security-Bulletin.html#concept_tvf_34r_1cb
 https://docs.cloudera.com/documentation/other/security-bulletins/topics/Security-Bulletin.html#concept_vp4_q2x_thb
+https://docs.cloudera.com/documentation/other/security-bulletins/topics/Security-Bulletin.html#hue
 https://docs.cloudera.com/documentation/other/security-bulletins/topics/Security-Bulletin.html#id_nd4_xkr_1cb
 https://docs.cloudera.com/documentation/other/security-bulletins/topics/Security-Bulletin.html#tsb-166
 https://docs.cloudera.com/documentation/other/security-bulletins/topics/Security-Bulletin.html#tsb_120

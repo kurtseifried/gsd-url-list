@@ -14,6 +14,8 @@ http://gcc.gnu.org/ml/gcc-patches/2008-03/msg00499.html
 http://gcc.gnu.org/ml/gcc-patches/2012-08/msg01986.html
 http://gcc.gnu.org/viewcvs/branches/gcc-4_1-branch/gcc/fold-const.c?r1=110549&amp;amp;r2=112698&amp;amp;pathrev=112698&amp;amp;diff_format=h
 http://gcc.gnu.org/viewcvs/branches/gcc-4_1-branch/gcc/fold-const.c?r1=110549&amp;r2=112698&amp;pathrev=112698&amp;diff_format=h
+http://gcc.gnu.org/viewcvs/branches/gcc-4_1-branch/gcc/fold-const.c?r1=110549&r2=112698&pathrev=112698&diff_format=h
+https://gcc.gnu.org/bugzilla/show_bug.cgi?id=103841
 https://gcc.gnu.org/bugzilla/show_bug.cgi?id=19351
 https://gcc.gnu.org/bugzilla/show_bug.cgi?id=65142
 https://gcc.gnu.org/bugzilla/show_bug.cgi?id=69687
@@ -42,6 +44,7 @@ https://gcc.gnu.org/bugzilla/show_bug.cgi?id=89395
 https://gcc.gnu.org/bugzilla/show_bug.cgi?id=89396
 https://gcc.gnu.org/bugzilla/show_bug.cgi?id=90924
 https://gcc.gnu.org/bugzilla/show_bug.cgi?id=91481
+https://gcc.gnu.org/bugzilla/show_bug.cgi?id=99188
 https://gcc.gnu.org/ml/gcc-patches/2016-05/msg00105.html
 https://gcc.gnu.org/ml/gcc-patches/2016-05/msg00223.html
 https://gcc.gnu.org/ml/gcc-patches/2016-06/msg02030.html
@@ -49,4 +52,6 @@ https://gcc.gnu.org/ml/gcc-patches/2017-03/msg01349.html
 https://gcc.gnu.org/ml/gcc-patches/2019-07/msg01003.html
 https://gcc.gnu.org/pipermail/gcc-patches/2020-June/547520.html
 https://gcc.gnu.org/viewcvs/gcc/trunk/gcc/config/arm/arm-protos.h?revision=266379&amp;amp;view=markup
+https://gcc.gnu.org/viewcvs/gcc/trunk/gcc/config/arm/arm-protos.h?revision=266379&view=markup
 https://gcc.gnu.org/viewcvs/gcc/trunk/libgfortran/ChangeLog?limit_changes=0&amp;amp;view=markup&amp;amp;pathrev=211721
+https://gcc.gnu.org/viewcvs/gcc/trunk/libgfortran/ChangeLog?limit_changes=0&view=markup&pathrev=211721

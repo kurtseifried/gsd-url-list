@@ -39,6 +39,7 @@ https://gerrit.wikimedia.org/r/c/mediawiki/skins/Cosmos/+/634752
 https://gerrit.wikimedia.org/r/plugins/gitiles/mediawiki/core/+/REL1_31/RELEASE-NOTES-1.31
 https://gerrit.wikimedia.org/r/plugins/gitiles/mediawiki/core/+/REL1_33/RELEASE-NOTES-1.33
 https://gerrit.wikimedia.org/r/plugins/gitiles/mediawiki/core/+/REL1_34/RELEASE-NOTES-1.34
+https://gerrit.wikimedia.org/r/plugins/gitiles/mediawiki/extensions/CheckUser/+/79c2c49a18f96b159258958feca90fce964c350a
 https://gerrit.wikimedia.org/r/q/14dc79b1f44c2a1ca6b1192284206c7b8626fb57
 https://gerrit.wikimedia.org/r/q/I0caf6f129f94612b5bcf406a171aa5ffedea1f80
 https://gerrit.wikimedia.org/r/q/I13ff0350a9a0a3cd5ab3e1f82dd0d8d9c13cf9e9
@@ -48,7 +49,9 @@ https://gerrit.wikimedia.org/r/q/I20b63bd38779d2ccbe2d86f9879df85ca3b685f6
 https://gerrit.wikimedia.org/r/q/I222c053b4b14ac1ad0f5b3a51565b1b9cd4c139d
 https://gerrit.wikimedia.org/r/q/I24a240253c7a5c66dd493a68e8c23d95a17e1b21
 https://gerrit.wikimedia.org/r/q/I3619a7e88c2eb979babb7b027d4fdbfabc0af792
+https://gerrit.wikimedia.org/r/q/I37ece1dfdc80d38055067c9c4fa73ba591acd8bd
 https://gerrit.wikimedia.org/r/q/I38a0a24fa32ca7a052b6940864a32b3856e84553
+https://gerrit.wikimedia.org/r/q/I3cd080a1a7dacd7396d37ee0c98cff0b4e241f8d
 https://gerrit.wikimedia.org/r/q/I3e65690695313380c798b62edfda726b6e374f89
 https://gerrit.wikimedia.org/r/q/I3f7dbd8b873d411e37c8c3aac2339bf5ec36907d
 https://gerrit.wikimedia.org/r/q/I42e079bc875d17b336ab015f3678eaedc26e10ea
@@ -57,6 +60,8 @@ https://gerrit.wikimedia.org/r/q/I497d2076038f75c9eb77e0e250f2af56f5bd2bfc
 https://gerrit.wikimedia.org/r/q/I4d95220ef414337147235f7ebedc9b945c3348e3
 https://gerrit.wikimedia.org/r/q/I4e4dbcad61e1d4f6fd8b038bf63d19c69081a8ec
 https://gerrit.wikimedia.org/r/q/I4f04083cd00884d3b85245460774c81c7639a578
+https://gerrit.wikimedia.org/r/q/I58d37fb59f998f5bec4a018bf9da96a777f8ff78
+https://gerrit.wikimedia.org/r/q/I5980de35b0a01b5242b68b7b0bdc08adf5d968d8
 https://gerrit.wikimedia.org/r/q/I5e0abbc2f80e6bda255b3b32a4df39a7fe7d3793
 https://gerrit.wikimedia.org/r/q/I6063c02fa261c4cc0e6dbbb2db4e111eb85912c2
 https://gerrit.wikimedia.org/r/q/I71a6d521bd12931ce60eec4d2dc35af19146000f
@@ -69,6 +74,8 @@ https://gerrit.wikimedia.org/r/q/I953e060bc6994ffdba9f380c98173f53f8ca1ea8
 https://gerrit.wikimedia.org/r/q/I97d8b3236b5abed8ba9a9c4d3ab5050c2e782c22
 https://gerrit.wikimedia.org/r/q/I9e9f44b7663e810de70fb9ac7f6760f83dd4895b
 https://gerrit.wikimedia.org/r/q/Iaa90a8976834d70caad592e9d1b18510318db537
+https://gerrit.wikimedia.org/r/q/Iac86cf63bd014ef99e83dccfce9b8942e15d2bf9
+https://gerrit.wikimedia.org/r/q/Ib2715adb281f8892b586dcb1895e87ac0eb548b0
 https://gerrit.wikimedia.org/r/q/Ib7f9b009730fe0df283cec1169f84c7a83a58b1d
 https://gerrit.wikimedia.org/r/q/Ib852a96afc4dca10516d0510e69c10f9892b351b
 https://gerrit.wikimedia.org/r/q/Ibe68b070ee791cd0c8e7f50eb04ac4e066b1512c
@@ -76,9 +83,12 @@ https://gerrit.wikimedia.org/r/q/Ibeb13d032ca044af53f6b2334e27b6b97b6f4e9f
 https://gerrit.wikimedia.org/r/q/Ic12790bd33982473f77551bde9599ed083a3e1f1
 https://gerrit.wikimedia.org/r/q/Ic312cc9b8463c8e7c3298a661abfcff2cc2332cb
 https://gerrit.wikimedia.org/r/q/Ic899a8b15bc510e61cdacb5c024af2d226a2dbeb
+https://gerrit.wikimedia.org/r/q/Id1c8910aeac5b452fbabeddab70360765518223e
 https://gerrit.wikimedia.org/r/q/Id2204fb5afe591d63764466de35ac0aaa5999983
 https://gerrit.wikimedia.org/r/q/Id915eba45497a1a0dc1c4e00818a2fd4c0ce55d3
+https://gerrit.wikimedia.org/r/q/Id9af124427bcd1e85301d2140a38bf47bbc5622c
 https://gerrit.wikimedia.org/r/q/Ida471291f1698387a26736931ab17e6899e05b51
+https://gerrit.wikimedia.org/r/q/Ide32704cca578b9aecbce34bdcc0ac25c2a09a4d
 https://gerrit.wikimedia.org/r/q/Ie0aa0df2b3f03d8b910733f1b5e600a0dc978765
 https://gerrit.wikimedia.org/r/q/Ie1f4333d5b1c9d17fb2236fe38a31de427a4cc48
 https://gerrit.wikimedia.org/r/q/Ie23e8234ae550273bf3f6f9c5ac45b7fc54eec2a

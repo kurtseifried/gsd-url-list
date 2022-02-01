@@ -120,6 +120,7 @@ https://source.codeaurora.org/quic/la/kernel/msm-3.10/commit/?id=c66202b9288cc4a
 https://source.codeaurora.org/quic/la/kernel/msm-3.10/commit/?id=c9861d16283cb4279de98a6695e0a4e6ea0230cb
 https://source.codeaurora.org/quic/la/kernel/msm-3.10/commit/?id=ca395c15c49cf6463a39d197b6a9331d183d94cb
 https://source.codeaurora.org/quic/la/kernel/msm-3.10/commit/?id=ccff36b07bfc49efc77b9f1b55ed2bf0900b1d5b
+https://source.codeaurora.org/quic/la/kernel/msm-3.10/commit/?id=cd0fa86de6ca1d40c0a93d86d1c0f7846e8a9a10
 https://source.codeaurora.org/quic/la/kernel/msm-3.10/commit/?id=d475e1aba3f8be3b135199014549ff9d5c315e1d
 https://source.codeaurora.org/quic/la/kernel/msm-3.10/commit/?id=d4d4d1dd626b21e68e78395bab3382c1eb04877f
 https://source.codeaurora.org/quic/la/kernel/msm-3.10/commit/?id=e13ebd727d161db7003be6756e61283dce85fa3b
@@ -127,6 +128,7 @@ https://source.codeaurora.org/quic/la/kernel/msm-3.10/commit/?id=e65a876a155de94
 https://source.codeaurora.org/quic/la/kernel/msm-3.10/commit/?id=e758417e7c31b975c862aa55d0ceef28f3cc9104
 https://source.codeaurora.org/quic/la/kernel/msm-3.10/commit/?id=f0c0112a6189747a3f24f20210157f9974477e03
 https://source.codeaurora.org/quic/la/kernel/msm-3.18/commit/?h=rel/msm-3.18&amp;amp;id=ffacf6e2dc41b6063c3564791ed7a2f903e7e3b7
+https://source.codeaurora.org/quic/la/kernel/msm-3.18/commit/?h=rel/msm-3.18&id=ffacf6e2dc41b6063c3564791ed7a2f903e7e3b7
 https://source.codeaurora.org/quic/la/kernel/msm-3.18/commit/?id=061556e74a08f89f04b3da30119029ca3fd87ad8
 https://source.codeaurora.org/quic/la/kernel/msm-3.18/commit/?id=0950fbd39ff189497f1b6115825c210e3eeaf395
 https://source.codeaurora.org/quic/la/kernel/msm-3.18/commit/?id=1d2297267c24f2c44bd0ecb244ddb8bc880a29b7
@@ -192,6 +194,7 @@ https://source.codeaurora.org/quic/la/kernel/msm-4.9/commit/?id=8e82c0d84ccee873
 https://source.codeaurora.org/quic/la/kernel/msm-4.9/commit/?id=bd3627dae5f1a34e0284cfe167f61273ecc2f386
 https://source.codeaurora.org/quic/la/kernel/msm-4.9/commit/?id=f34f6271362484c1f87f4176e72a3bfb80ee7711
 https://source.codeaurora.org/quic/la/kernel/msm/commit/?h=LA.AF.1.2.1_rb1.5&amp;amp;id=cc96def76dfd18fba88575065b29f2ae9191fafa
+https://source.codeaurora.org/quic/la/kernel/msm/commit/?h=LA.AF.1.2.1_rb1.5&id=cc96def76dfd18fba88575065b29f2ae9191fafa
 https://source.codeaurora.org/quic/la/kernel/msm/commit/?id=0b5f49b360afdebf8ef55df1e48ec141b3629621
 https://source.codeaurora.org/quic/la/kernel/msm/commit/?id=0f6afe815b1b3f920f3502be654c848bdfe5ef38
 https://source.codeaurora.org/quic/la/kernel/msm/commit/?id=17bfaf64ad503d2e6607d2d3e0956f25bf07eb43
@@ -229,7 +232,9 @@ https://source.codeaurora.org/quic/la/platform/hardware/qcom/media/commit/?id=0e
 https://source.codeaurora.org/quic/la/platform/hardware/qcom/media/commit/?id=6c7dbdb2f067bf844beef2c41d9d67cacc3adfa6
 https://source.codeaurora.org/quic/la/platform/hardware/qcom/media/commit/?id=d41a7a4c7d43fa67f2e4a487b8a1fb0aac38226d
 https://source.codeaurora.org/quic/la/platform/system/netd/commit/?h=LA.BF64.1.2.1&amp;amp;id=cc2853e6cec8ca2cf92430ad9a83358b131fc417
+https://source.codeaurora.org/quic/la/platform/system/netd/commit/?h=LA.BF64.1.2.1&id=cc2853e6cec8ca2cf92430ad9a83358b131fc417
 https://source.codeaurora.org/quic/la/platform/system/netd/commit/?h=LA.BR.1&amp;amp;id=568ef402f6d5a7a50c126aafc78c4edf59abba1c
+https://source.codeaurora.org/quic/la/platform/system/netd/commit/?h=LA.BR.1&id=568ef402f6d5a7a50c126aafc78c4edf59abba1c
 https://source.codeaurora.org/quic/la/platform/vendor/opensource/audio-kernel/commit/?id=78193fa06b267c1d6582e5e6f9fb779cf067015e
 https://source.codeaurora.org/quic/la/platform/vendor/opensource/audio-kernel/commit/?id=7ab92dd2952d59f3c15c856effe94bba1858e3ff
 https://source.codeaurora.org/quic/la/platform/vendor/qcom-opensource/wlan/prima/commit/?id=00022c12e0cad8b735f94d6ee3785a557b4a3df2
@@ -255,6 +260,7 @@ https://source.codeaurora.org/quic/la/platform/vendor/qcom-opensource/wlan/prima
 https://source.codeaurora.org/quic/la/platform/vendor/qcom-opensource/wlan/qca-wifi-host-cmn/commit/?id=61f4a467177afc23bdc1944ec61e52bed156c104
 https://source.codeaurora.org/quic/la/platform/vendor/qcom-opensource/wlan/qca-wifi-host-cmn/commit/?id=7d65c1b32df795d4e95cdf2cfb624126f5125220
 https://source.codeaurora.org/quic/la/platform/vendor/qcom-opensource/wlan/qcacld-2.0/commit/?h=wlan-cld2.driver.lnx.1.0.r21-rel&amp;amp;id=391d37818aaa8038a06662075dd8893501452931
+https://source.codeaurora.org/quic/la/platform/vendor/qcom-opensource/wlan/qcacld-2.0/commit/?h=wlan-cld2.driver.lnx.1.0.r21-rel&id=391d37818aaa8038a06662075dd8893501452931
 https://source.codeaurora.org/quic/la/platform/vendor/qcom-opensource/wlan/qcacld-2.0/commit/?id=051597a4fe19fd1292fb7ea2e627d12d1fd2934f
 https://source.codeaurora.org/quic/la/platform/vendor/qcom-opensource/wlan/qcacld-2.0/commit/?id=05a5abb21e4d97001f77d344444a3ec2f9c275f9
 https://source.codeaurora.org/quic/la/platform/vendor/qcom-opensource/wlan/qcacld-2.0/commit/?id=05af1f34723939f477cb7d25adb320d016d68513

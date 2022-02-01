@@ -70,6 +70,8 @@ https://www.kde.org/info/security/advisory-20150122-2.txt
 https://www.kde.org/info/security/advisory-20160209-1.txt
 https://www.kde.org/info/security/advisory-20160621-1.txt
 https://www.kde.org/info/security/advisory-20160724-1.txt
+https://www.kde.org/info/security/advisory-20161006-2.txt
+https://www.kde.org/info/security/advisory-20161006-3.txt
 https://www.kde.org/info/security/advisory-20170228-1.txt
 https://www.kde.org/info/security/advisory-20170510-1.txt
 https://www.kde.org/info/security/advisory-20170510-2.txt

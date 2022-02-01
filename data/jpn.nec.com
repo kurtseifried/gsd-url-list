@@ -16,3 +16,4 @@ https://jpn.nec.com/security-info/secinfo/nv21-006.html
 https://jpn.nec.com/security-info/secinfo/nv21-008.html
 https://jpn.nec.com/security-info/secinfo/nv21-010.html
 https://jpn.nec.com/security-info/secinfo/nv21-011.html
+https://jpn.nec.com/security-info/secinfo/nv21-015_en.html

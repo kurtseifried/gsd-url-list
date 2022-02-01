@@ -153,3 +153,12 @@ https://www.tibco.com/support/advisories/2021/10/tibco-security-advisory-october
 https://www.tibco.com/support/advisories/2021/10/tibco-security-advisory-october-13-2021-tibco-ebx-2021-35498
 https://www.tibco.com/support/advisories/2021/10/tibco-security-advisory-october-26-2021-tibco-nimbus-2021-35499
 https://www.tibco.com/support/advisories/2021/10/tibco-security-advisory-october-5-2021-tibco-ftl-2021-35497
+https://www.tibco.com/support/advisories/2021/11/tibco-security-advisory-november-16-2021-tibco-partnerexpress-2021-43046
+https://www.tibco.com/support/advisories/2021/11/tibco-security-advisory-november-16-2021-tibco-partnerexpress-2021-43047
+https://www.tibco.com/support/advisories/2021/11/tibco-security-advisory-november-16-2021-tibco-partnerexpress-2021-43048
+https://www.tibco.com/support/advisories/2021/12/tibco-security-advisory-december-14-2021-tibco-spotfire-server-2021-43051
+https://www.tibco.com/support/advisories/2022/01/tibco-security-advisory-january-11-2022-tibco-eftl-2021-43054
+https://www.tibco.com/support/advisories/2022/01/tibco-security-advisory-january-11-2022-tibco-eftl-2021-43055
+https://www.tibco.com/support/advisories/2022/01/tibco-security-advisory-january-11-2022-tibco-ftl-2021-43052
+https://www.tibco.com/support/advisories/2022/01/tibco-security-advisory-january-11-2022-tibco-ftl-2021-43053
+https://www.tibco.com/support/advisories/2022/01/tibco-security-advisory-january-12-2022-tibco-data-virtualization-2021-35500

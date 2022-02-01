@@ -1,5 +1,6 @@
 http://gist.github.com/8946
 https://gist.github.com/0katz/54167ba30ea361f3776e269bb7b1afb3
+https://gist.github.com/0xHop/66609ec1e243b913361e1acfa5253806
 https://gist.github.com/0xn1k5/ef4c7c7a26c7d8a803ef3a85f1000c98
 https://gist.github.com/0xx7/3d934939d7122fe23db11bc48eda9d21
 https://gist.github.com/0xx7/58943bb6e9ef77a09d3c7eb00dcafdc7
@@ -22,6 +23,7 @@ https://gist.github.com/B0UG/8615df3fe83a4deca07334af783696d6
 https://gist.github.com/B0UG/9732614abccaf2893c352d14c822d07b
 https://gist.github.com/B0UG/a750c2c204825453e6faf898ea6d09f6
 https://gist.github.com/B0UG/f0cfb356e23be3cd6ebea69566d6100a
+https://gist.github.com/Blackh4n/9d8feaf1cfb68f66de17361e85f616d4
 https://gist.github.com/ChALkeR/415a41b561ebea9b341efbb40b802fc9
 https://gist.github.com/ChuanYuan-Huang/a92b8b32980123d5fa9bf5a8299114bf
 https://gist.github.com/Cossack9989/fa9718434ceee4e6d4f6b0ad672c10f1
@@ -43,6 +45,7 @@ https://gist.github.com/Diefunction/9237f46b8659a65ab08de8ec9c258139
 https://gist.github.com/DrmnSamoLiu/cd1d6fa59501f161616686296aa4a6c8
 https://gist.github.com/EffectRenan/b434438938eed0b21b376cedf5c81e80
 https://gist.github.com/Eli-Paz/482b514320009f3e76ea712cde3bc350
+https://gist.github.com/Eriner/0872628519f70556d2c26c83439a9f67
 https://gist.github.com/FuryKangaroo/8dc2ba91a5d63d6560d0088d0d265137
 https://gist.github.com/GouveaHeitor/131557f9de7d571f118f59805df852dc
 https://gist.github.com/GouveaHeitor/dcbb67b301cc45adc00f8a6a2a0a590f
@@ -51,6 +54,7 @@ https://gist.github.com/IAG0110/0205823570ba04ec12e656f7f4602877
 https://gist.github.com/IthacaLabs/e69e90e1d0d9cb37bb3746b6a4274d29
 https://gist.github.com/JLLeitschuh/6792947ed57d589b08c1cc8b666c7737
 https://gist.github.com/JLLeitschuh/fe6784391254b58de680bbda78a04a70
+https://gist.github.com/Kavisha3/59dac95b268f0d32eab53e659ab59311
 https://gist.github.com/Lz1y/24a6368c7ffdc1af7292035dd16a97f5
 https://gist.github.com/Lz1y/31595b060cd6a031896fdf2b3a1273f5
 https://gist.github.com/Lz1y/3388fa886a3e10edd2a7e93d3c3e5b6c
@@ -64,6 +68,7 @@ https://gist.github.com/MayurUdiniya/7aaa50b878d82b6aab6ed0b3e2b080bc
 https://gist.github.com/Melonify/d8e5d70cdc1bebb871f72dc79d69ac60
 https://gist.github.com/MoSalah20/d1d40b43eafba0bd22ee4cddecad3cbc
 https://gist.github.com/MortalP0ison/5fd584b4c85fa13281fdc918913446fa
+https://gist.github.com/Neo23x0/e4c8b03ff8cdf1fa63b7d15db6e3860b
 https://gist.github.com/NinjaXshell/4c0509096cb4ec6543b3f8050369920c
 https://gist.github.com/NinjaXshell/a5fae5e2d1031ca59160fbe29d94279c
 https://gist.github.com/NinjaXshell/ba0aeee4b77b4bdea76d0c0c095d53b1
@@ -85,7 +90,9 @@ https://gist.github.com/Saket-taneja/9576573122be1cb0d6dc9d9a73db5631
 https://gist.github.com/Shinkurt/157dbb3767c9489f3d754f79b183a890
 https://gist.github.com/Snawoot/b9da85d6b26dea5460673b29df1adc6b
 https://gist.github.com/Sp3eD-X/22640377f96340544baf12891f708b8f
+https://gist.github.com/Stacksmashers101/c6b9ea92f42c23473170bb3acc8fc5fe
 https://gist.github.com/Stick-U235/b187931f828e92866d09b9bdeb956ca2
+https://gist.github.com/SwitHak/b66db3a06c2955a9cb71a8718970c592
 https://gist.github.com/T-pod/d9405dbd61243990d65d55c5df0fcbe6
 https://gist.github.com/V-Rico/82e9e52ac451dc20eef87b0999b3b1ee
 https://gist.github.com/WangYihang/9507e2efdceb67a5bc2761200f19f213
@@ -97,6 +104,10 @@ https://gist.github.com/Y0ung-DST/d1b6b65be6248b0ffc2b2f2120deb205
 https://gist.github.com/Zenexer/40d02da5e07f151adeaeeaa11af9ab36
 https://gist.github.com/Zenexer/ac7601c0e367d876353137e5099b18a7
 https://gist.github.com/a05110511t/65d07bc776d7c11b4ccf112a09cca4ab
+https://gist.github.com/aaaahuia/1343e3aa06b031ea621b5701cebcee3e
+https://gist.github.com/aaaahuia/1fd31c1ebcddfe4c95268fa4f31fc312
+https://gist.github.com/aaaahuia/583b062b686cdff27554e3c6fa5ac94e
+https://gist.github.com/aaaahuia/b99596c6de9bd6f60e0ddb7bf0bd13c4
 https://gist.github.com/adeshkolte/983bcadd82cc1fd60333098eb646ef68
 https://gist.github.com/adeshkolte/9e60b2483d2f20d1951beac0fc917c6f
 https://gist.github.com/ahpaleus/578186667e18607bb37bab9b0f66ad99
@@ -123,6 +134,8 @@ https://gist.github.com/alm4ric/ada44ce7de9a30244c2269106c70a145
 https://gist.github.com/andreafioraldi/343d9ba64060b548c02362a5e61ec932
 https://gist.github.com/andreafioraldi/baa79cd78131888d98d6ba680d5f514e
 https://gist.github.com/andrewaeva/beb92d3d2f1c5672dbda5050e323f6a0
+https://gist.github.com/andrey-lomtev/4ec9004101152ea9d0043a09d59498a6
+https://gist.github.com/andrey-lomtev/c970fb7dd022d04f5b57ad37fbedd064
 https://gist.github.com/andrey-lomtev/cbf12bc8d8763996cf8d6d1641a0b049
 https://gist.github.com/andreybpanfilov/d8792484e13971982c0719ae59ab8c7c
 https://gist.github.com/andreybpanfilov/e0e60ae9d525a34cca04eb4c89a21e04
@@ -139,6 +152,7 @@ https://gist.github.com/ansarisec/12737c207c0851d52865ed60c08891b7
 https://gist.github.com/ari/e0dd74c12d84f102e3bcb365118e8c30
 https://gist.github.com/ariard/6bdeb995565d1cc292753e1ee4ae402d
 https://gist.github.com/ariard/fb432a9d2cd3ba24fdc18ccc8c5c6eb4
+https://gist.github.com/artalar/bc6d1eb9a3477d15d2772e876169a444
 https://gist.github.com/asanso/fa25685348051ef6a28d49aa0f27a4ae
 https://gist.github.com/audebert/ef6e206a27ededd1386cff48604e9335
 https://gist.github.com/b-c-ds/6941d80d6b4e694df4bc269493b7be76
@@ -159,6 +173,7 @@ https://gist.github.com/berkgoksel/fde102503c457c0344e2e53b7971437a
 https://gist.github.com/bittorrent3389/8fee7cdaa73d1d351ee9
 https://gist.github.com/blackcon/ae155656d21a2228aa25fdcb79c85159
 https://gist.github.com/blackcon/c61771eb8c9f0aeef6f6797f945efa13
+https://gist.github.com/boatpavaris/649e731b2398597634fbe423dcfd8485
 https://gist.github.com/boatpavaris/cff51e52a96fdde8215f71a3315703c2
 https://gist.github.com/brandonprry/10745756
 https://gist.github.com/brandonprry/2e73acd63094fa2a4f63
@@ -233,6 +248,8 @@ https://gist.github.com/harsh-bothra/5be73cfd53f1c5bea307c702ae83ff42
 https://gist.github.com/harsh-bothra/d8c86b8279b23ff6d371f832ba0a5b6b
 https://gist.github.com/harsh-bothra/f4285d20a7718d2e1934c042b04d9fac
 https://gist.github.com/harsh-bothra/f899045b16bbba264628d79d52c07c22
+https://gist.github.com/hfiref0x/7e66d943984cceac60eb812ac1bf8208
+https://gist.github.com/hfiref0x/859f88bfa8adde49ea16fad7d58e3b37
 https://gist.github.com/hiennv20/6739606a4d0d25612f5139ec391060b7
 https://gist.github.com/homakov/3673012
 https://gist.github.com/huykha/0381acb2dc580c728a79452b60fa082c
@@ -258,6 +275,7 @@ https://gist.github.com/jk1986/3b304ac6b4ae52ae667bba380c2dce19
 https://gist.github.com/jocephus/806ff4679cf54af130d69777a551f819
 https://gist.github.com/jonaslejon/5f92779848360a1a1e676af0795bd9aa
 https://gist.github.com/jordanpotti/fef4f1ada404d5ba7f88ab42e93cdaae
+https://gist.github.com/jwang-a/cb4b6e9551457aa299066076b836a2cd
 https://gist.github.com/k1rh4/25dcb124aef2a8a2a5f4677d64d1998b
 https://gist.github.com/kaendfinger/3ad1dbeb62f902cc3ac2867f4e01ae38
 https://gist.github.com/kampji/11e259d68ad98a6f0f898132f1961a96
@@ -323,6 +341,7 @@ https://gist.github.com/neolead/1b90d8df7ef4fd1d3d03c1265e5804ac#file-cve-2018-1
 https://gist.github.com/neolead/2b052512f90f75e93b5c465c265322b0#file-cve-2018-11241-txt
 https://gist.github.com/neolead/a1fadac07373835507705a7d61e638ae#file-cve-2018-10988-txt
 https://gist.github.com/nikcub/cb5dc7a5464276c8424a
+https://gist.github.com/noperator/d360de81c061bc9c628b12d3f0e1e479
 https://gist.github.com/numanturle/4988b5583e5ebe501059bd368636de33
 https://gist.github.com/numanturle/c99d3306e9e4e17bb2164dde363406bc
 https://gist.github.com/ommadawn46/51e08e13e6980dcbcffb4322c29b93d0
@@ -357,6 +376,7 @@ https://gist.github.com/prafagr/98e625d2da82c5b9a7d75e6c3e947a63
 https://gist.github.com/prafagr/bd641fcfe71661065e659672c737173b
 https://gist.github.com/priyanksethi/08fb93341cf7e61344aad5c4fee3aa9b
 https://gist.github.com/priyanksethi/48cce2fc4257213c8aca91e3c82a4ad3
+https://gist.github.com/pushcx/ab2a1d5b1d18e964c581ef18ccb3a79f
 https://gist.github.com/pylorak/7df52c9325614676e07782dbe4e81582
 https://gist.github.com/qwebee/da79c6a9fa982c3c40988a1e0598c0d9
 https://gist.github.com/rambo691/3714c8c09cf894d574d37c294711c49e
@@ -371,6 +391,10 @@ https://gist.github.com/rezaduty/18afedba24bb1e5835010bd2de67cece
 https://gist.github.com/rjhansen/67ab921ffb4084c865b3618d6955275f
 https://gist.github.com/rlaneth/d2203c206d5d5acbdaf6069e78b1d07f
 https://gist.github.com/rmoriz/fb2b0a6a0ce10550ab73
+https://gist.github.com/rntcruz23/01af412813c63d6e0cc41c26f52893be
+https://gist.github.com/rntcruz23/16ac2d9dfc7e32b0f57dc7b20f17cd29
+https://gist.github.com/rntcruz23/6575c0ef45c30687c538361910bb8ab3
+https://gist.github.com/rntcruz23/81f83f9e406198b08ab40ffae8336a92
 https://gist.github.com/rodnt/9f7d368fac38cafa7334598ec94fb167
 https://gist.github.com/rubyroobs/5d273895512df5b86d5e7e1a703c8028
 https://gist.github.com/rvismit/578f9f98d79f22d81a5e45dbbc0b4fa4
@@ -396,6 +420,7 @@ https://gist.github.com/smalyshev/eea9eafc7c88a4a6d10d
 https://gist.github.com/sqrtrev/1f9986d4bdd1393832c60a97b56e170a
 https://gist.github.com/srau/0ed7747953b3571247a6c485f91619ff
 https://gist.github.com/stacksmasher007/41e946fc9a5a2f0b6950626cc9d43d47
+https://gist.github.com/stacksmasher007/76514ab2b782fb4383f1121e6fc19241
 https://gist.github.com/stasinopoulos/673ae3c31d703b4d67449f4d8888c686
 https://gist.github.com/sudoninja-noob/c1722c118abc7a562a9a0de726266a19
 https://gist.github.com/suphapholt/5bac4f5cabadfc44746e2bc93c1be91d
@@ -412,6 +437,7 @@ https://gist.github.com/tanprathan/efde53e5b312f50edb08f050b6be3928
 https://gist.github.com/tanprathan/f5133651e438b2ad1b39172d52b56115
 https://gist.github.com/taviso/ecb70eb12d461dd85cba
 https://gist.github.com/thebabush/3c71fc5001f8865e3ad579e80680ce24
+https://gist.github.com/thedroidgeek/80c379aa43b71015d71da130f85a435a
 https://gist.github.com/tim124058/5c4babe391a016c771d2cccabead21cb
 https://gist.github.com/timb-machine/7bd75479ee29aee8762952ea16908eb0
 https://gist.github.com/tipilu/53f142466507b2ef4c8ceb08d22d1278
@@ -434,6 +460,7 @@ https://gist.github.com/tonykuo76/d52014bbe81995eda499201446aec57a
 https://gist.github.com/tonykuo76/ed1cc21cf755bfb8b67ca24f50bded13
 https://gist.github.com/tonykuo76/ffdaa7bfabf2205dc5bac010eee38509
 https://gist.github.com/totaam/a90f2bb40f5b693ccec0ae903d021b03
+https://gist.github.com/tpmiller87/6c05596fe27dd6f69f1aaba4cbb9c917
 https://gist.github.com/tree-chtsec/27013ed6cb297b24e44f6359439b678e
 https://gist.github.com/victomteng1997/bfa1e0e07dd22f7e0b13256eda79626f
 https://gist.github.com/victomteng1997/d5f2db1d37aed5792c28685068ec41e2

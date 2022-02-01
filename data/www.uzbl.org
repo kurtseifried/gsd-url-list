@@ -1,4 +1,5 @@
 http://www.uzbl.org/bugs/index.php?do=details&amp;amp;task_id=240
 http://www.uzbl.org/bugs/index.php?do=details&amp;task_id=240
+http://www.uzbl.org/bugs/index.php?do=details&task_id=240
 http://www.uzbl.org/news.php?id=22
 http://www.uzbl.org/news.php?id=29

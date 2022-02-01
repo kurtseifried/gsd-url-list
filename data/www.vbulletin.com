@@ -1,5 +1,6 @@
 http://www.vbulletin.com/forum/bugs.php?do=view&amp;amp;bugid=3379
 http://www.vbulletin.com/forum/bugs.php?do=view&amp;bugid=3379
+http://www.vbulletin.com/forum/bugs.php?do=view&bugid=3379
 http://www.vbulletin.com/forum/forum/vbulletin-announcements/vbulletin-announcements_aa/3991423-potential-vbulletin-exploit-vbulletin-4-1-vbulletin-5
 http://www.vbulletin.com/forum/forum/vbulletin-announcements/vbulletin-announcements_aa/4097503-security-patch-release-for-vbulletin-5-0-4-5-0-5-5-1-0-5-1-1-and-5-1-2
 http://www.vbulletin.com/forum/forum/vbulletin-announcements/vbulletin-announcements_aa/4319488-security-patch-released-for-vbulletin-5-1-4-5-1-6-and-vbulletin-cloud
@@ -16,6 +17,7 @@ http://www.vbulletin.com/forum/showthread.php?postid=1355012
 http://www.vbulletin.com/forum/showthread.php?postid=588825
 http://www.vbulletin.com/forum/showthread.php?postid=819562
 http://www.vbulletin.com/forum/showthread.php?s=b20af207b5b908ecf7a4ecf56fbe3cd3&amp;threadid=10839
+http://www.vbulletin.com/forum/showthread.php?s=b20af207b5b908ecf7a4ecf56fbe3cd3&threadid=10839
 http://www.vbulletin.com/forum/showthread.php?t=124876
 http://www.vbulletin.com/forum/showthread.php?t=166391
 http://www.vbulletin.com/forum/showthread.php?t=274882

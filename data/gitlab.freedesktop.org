@@ -1,3 +1,4 @@
+https://gitlab.freedesktop.org/cairo/cairo/-/commit/03a820b173ed1fdef6ff14b4468f5dbc02ff59be
 https://gitlab.freedesktop.org/cairo/cairo/issues/341
 https://gitlab.freedesktop.org/cairo/cairo/issues/352
 https://gitlab.freedesktop.org/cairo/cairo/issues/353
@@ -10,6 +11,8 @@ https://gitlab.freedesktop.org/dbus/dbus/-/tags/dbus-1.13.16
 https://gitlab.freedesktop.org/gstreamer/gst-rtsp-server/-/commit/44ccca3086dd81081d72ca0b21d0ecdde962fb1a
 https://gitlab.freedesktop.org/libbsd/libbsd/commit/9d917aad37778a9f4a96ba358415f077f3f36f3b
 https://gitlab.freedesktop.org/mesa/mesa/-/commit/02c3dad0f3b4d26e0faa5cc51d06bc50d693dcdc
+https://gitlab.freedesktop.org/polkit/polkit/-/commit/a2bf5c9c83b6ae46cbd5c779d3055bff81ded683
+https://gitlab.freedesktop.org/polkit/polkit/-/commit/c8c3d835d24fc4ce5a9c596c7d55d85a0311e8d1
 https://gitlab.freedesktop.org/polkit/polkit/commit/c898fdf4b1aafaa04f8ada9d73d77c8bb76e2f81
 https://gitlab.freedesktop.org/polkit/polkit/issues/74
 https://gitlab.freedesktop.org/polkit/polkit/merge_requests/19

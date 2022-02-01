@@ -35,6 +35,7 @@ https://gitee.com/openharmony/security/blob/master/zh/security-disclosure/2021/2
 https://gitee.com/pear-admin/Pear-Admin-Think/issues/I3DI3T
 https://gitee.com/smallc/SpringBlade
 https://gitee.com/w1tcher/finecms/commit/6978c63b3bc5e0d1038a23bfc6293ad5e9d5f530
+https://gitee.com/wayne_wwang/wayne_wwang/blob/master/2021/10/31/ruoyi+thymeleaf-rce/index.html
 https://gitee.com/wuxi_ranko/cms
 https://gitee.com/xiuno/xiunobbs/issues/I1690W
 https://gitee.com/xiuno/xiunobbs/issues/I16BHH

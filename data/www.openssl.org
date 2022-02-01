@@ -56,9 +56,14 @@ https://www.openssl.org/news/secadv/20201208.txt
 https://www.openssl.org/news/secadv/20210216.txt
 https://www.openssl.org/news/secadv/20210325.txt
 https://www.openssl.org/news/secadv/20210824.txt
+https://www.openssl.org/news/secadv/20211214.txt
 https://www.openssl.org/news/secadv_20140806.txt
 https://www.openssl.org/news/secadv_20141015.txt
 https://www.openssl.org/news/secadv_20150108.txt
 https://www.openssl.org/news/secadv_20150319.txt
 https://www.openssl.org/news/secadv_20150611.txt
+https://www.openssl.org/news/vulnerabilities.html#y2017
+https://www.openssl.org/policies/secpolicy.html#High
+https://www.openssl.org/policies/secpolicy.html#Low
+https://www.openssl.org/policies/secpolicy.html#Moderate
 https://www.openssl.org/~bodo/ssl-poodle.pdf

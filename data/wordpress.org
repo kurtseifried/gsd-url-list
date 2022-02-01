@@ -195,6 +195,7 @@ https://wordpress.org/news/2019/10/wordpress-5-2-4-security-release/
 https://wordpress.org/news/2019/12/wordpress-5-3-1-security-and-maintenance-release/
 https://wordpress.org/news/2020/06/wordpress-5-4-2-security-and-maintenance-release/
 https://wordpress.org/news/2020/10/wordpress-5-5-2-security-and-maintenance-release/
+https://wordpress.org/news/2022/01/wordpress-5-8-3-security-release/
 https://wordpress.org/news/category/security/
 https://wordpress.org/plugins-wp/mobile-app-builder-by-wappress/
 https://wordpress.org/plugins-wp/mobile-friendly-app-builder-by-easytouch/
@@ -224,6 +225,7 @@ https://wordpress.org/plugins/admin-menu/
 https://wordpress.org/plugins/adsense-plugin/#developers
 https://wordpress.org/plugins/advanced-ajax-page-loader/#developers
 https://wordpress.org/plugins/advanced-cf7-db/#developers
+https://wordpress.org/plugins/advanced-custom-fields/
 https://wordpress.org/plugins/advanced-custom-fields/#developers
 https://wordpress.org/plugins/advanced-woo-search/#developers
 https://wordpress.org/plugins/affiliates-manager/#developers
@@ -254,6 +256,7 @@ https://wordpress.org/plugins/auto-thickbox-plus/#developers
 https://wordpress.org/plugins/avenirsoft-directdownload/#developers
 https://wordpress.org/plugins/awesome-filterable-portfolio/#developers
 https://wordpress.org/plugins/awesome-support/#developers
+https://wordpress.org/plugins/backup-backup/#developers
 https://wordpress.org/plugins/backup/#developers
 https://wordpress.org/plugins/backwpup/#developers
 https://wordpress.org/plugins/banner-effect-header/changelog/
@@ -267,6 +270,7 @@ https://wordpress.org/plugins/bj-lazy-load/#developers
 https://wordpress.org/plugins/blog2social/#developers
 https://wordpress.org/plugins/bold-page-builder/#developers
 https://wordpress.org/plugins/booking-calendar-contact-form/#developers
+https://wordpress.org/plugins/booking-package/
 https://wordpress.org/plugins/booking-sms/#developers
 https://wordpress.org/plugins/booking-system/#developers
 https://wordpress.org/plugins/bookly-responsive-appointment-booking-tool/#developers
@@ -274,6 +278,7 @@ https://wordpress.org/plugins/bookmarkify/#developers
 https://wordpress.org/plugins/breadcrumbs-by-menu/#developers
 https://wordpress.org/plugins/broken-link-checker/#developers
 https://wordpress.org/plugins/broken-link-manager/#developers
+https://wordpress.org/plugins/browser-and-operating-system-finder/
 https://wordpress.org/plugins/buddyforms/#developers
 https://wordpress.org/plugins/buddypress-activity-plus/#developers
 https://wordpress.org/plugins/buddypress-docs/changelog/
@@ -311,6 +316,7 @@ https://wordpress.org/plugins/client-dash/#developers
 https://wordpress.org/plugins/cm-download-manager/#developers
 https://wordpress.org/plugins/code-snippets/#developers
 https://wordpress.org/plugins/coming-soon/#developers
+https://wordpress.org/plugins/comment-engine-pro/
 https://wordpress.org/plugins/comments-import-export-woocommerce/#developers
 https://wordpress.org/plugins/community-events/#developers
 https://wordpress.org/plugins/companion-auto-update/#developers
@@ -322,6 +328,7 @@ https://wordpress.org/plugins/contact-form-7-to-database-extension/changelog
 https://wordpress.org/plugins/contact-form-7-to-database-extension/changelog/
 https://wordpress.org/plugins/contact-form-7/#developers
 https://wordpress.org/plugins/contact-form-builder/#developers
+https://wordpress.org/plugins/contact-form-cfdb7/#developers
 https://wordpress.org/plugins/contact-form-maker/#developers
 https://wordpress.org/plugins/contact-form-multi/#developers
 https://wordpress.org/plugins/contact-form-plugin/#developers
@@ -359,6 +366,7 @@ https://wordpress.org/plugins/custom-sidebars/#developers
 https://wordpress.org/plugins/custom-simple-rss/#developers
 https://wordpress.org/plugins/customer-area/#developers
 https://wordpress.org/plugins/cysteme-finder/#developers
+https://wordpress.org/plugins/debug-meta-data/#developers
 https://wordpress.org/plugins/defa-online-image-protector
 https://wordpress.org/plugins/democracy-poll/#developers
 https://wordpress.org/plugins/deny-all-firewall/#developers
@@ -426,6 +434,7 @@ https://wordpress.org/plugins/file-manager/#developers
 https://wordpress.org/plugins/flickr-justified-gallery/#developers
 https://wordpress.org/plugins/flickr-picture-backup/
 https://wordpress.org/plugins/floating-social-bar/changelog/
+https://wordpress.org/plugins/floating-social-media-icon/
 https://wordpress.org/plugins/fluid-responsive-slideshow/#developers
 https://wordpress.org/plugins/font/changelog/
 https://wordpress.org/plugins/food-and-drink-menu/#developers
@@ -489,6 +498,7 @@ https://wordpress.org/plugins/idx-broker-platinum/#developers
 https://wordpress.org/plugins/iframe/#developers
 https://wordpress.org/plugins/igniteup/#developers
 https://wordpress.org/plugins/image-gallery-with-slideshow/
+https://wordpress.org/plugins/image-hover-effects-ultimate/#developers
 https://wordpress.org/plugins/imdb-widget/#developers
 https://wordpress.org/plugins/import-users-from-csv-with-meta/#:~:text=Install%20Import%20and%20export%20users%20and%20customers%20automatically,is%20uploaded%20and%20extracted%2C%20click%20Activate%20Plugin%20.
 https://wordpress.org/plugins/import-users-from-csv-with-meta/#developers
@@ -628,6 +638,7 @@ https://wordpress.org/plugins/photo-gallery/#developers
 https://wordpress.org/plugins/photo-gallery/changelog/
 https://wordpress.org/plugins/photoblocks-grid-gallery/#developers
 https://wordpress.org/plugins/photoxhibit
+https://wordpress.org/plugins/php-everywhere/#developers
 https://wordpress.org/plugins/pie-register/#developers
 https://wordpress.org/plugins/pie-register/changelog/
 https://wordpress.org/plugins/pixabay-images/changelog/
@@ -661,6 +672,7 @@ https://wordpress.org/plugins/profilegrid-user-profiles-groups-and-communities/#
 https://wordpress.org/plugins/promobar/#developers
 https://wordpress.org/plugins/propertyhive/#developers
 https://wordpress.org/plugins/ps-phpcaptcha/#developers
+https://wordpress.org/plugins/push-notifications-for-wp/
 https://wordpress.org/plugins/qtranslate-x/#developers
 https://wordpress.org/plugins/quick-chat/#developers
 https://wordpress.org/plugins/quick-pagepost-redirect-plugin/changelog/
@@ -784,6 +796,7 @@ https://wordpress.org/plugins/supportflow/#developers
 https://wordpress.org/plugins/surveys/
 https://wordpress.org/plugins/syndication-links/#developers
 https://wordpress.org/plugins/tablepress/#developers
+https://wordpress.org/plugins/tarteaucitronjs/#developers
 https://wordpress.org/plugins/tc-custom-javascript/#developers
 https://wordpress.org/plugins/tera-charts
 https://wordpress.org/plugins/testimonial-slider/#developers
@@ -967,6 +980,7 @@ https://wordpress.org/plugins/zotpress/changelog/
 https://wordpress.org/plugins/zx-csv-upload/#developers
 https://wordpress.org/support/topic/affiliate-ads-for-clickbank-products-1-3-xss/
 https://wordpress.org/support/topic/any-directory-traversal-bugs-at-the-latest-version-of-media-from-ftp/
+https://wordpress.org/support/topic/bypass-security-issue/
 https://wordpress.org/support/topic/command-injection-vulnerability-in-v19
 https://wordpress.org/support/topic/discovered-security-vulnerabilities-1/
 https://wordpress.org/support/topic/file-transversal-bug/

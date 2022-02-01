@@ -7,6 +7,7 @@ http://savannah.nongnu.org/bugs/?40034
 http://savannah.nongnu.org/bugs/?41697
 http://savannah.nongnu.org/bugs/?func=detailitem&amp;amp;item_id=49858
 http://savannah.nongnu.org/bugs/?func=detailitem&amp;item_id=49858
+http://savannah.nongnu.org/bugs/?func=detailitem&item_id=49858
 http://savannah.nongnu.org/bugs/index.php?19536
 http://savannah.nongnu.org/bugs/index.php?25862
 http://savannah.nongnu.org/bugs/index.php?41590
@@ -40,7 +41,9 @@ https://savannah.nongnu.org/bugs/?45923
 https://savannah.nongnu.org/bugs/?45955
 https://savannah.nongnu.org/bugs/?46346
 https://savannah.nongnu.org/bugs/?func=detailitem&amp;amp;item_id=15996
+https://savannah.nongnu.org/bugs/?func=detailitem&item_id=15996
 https://savannah.nongnu.org/bugs/index.php?20131
 https://savannah.nongnu.org/bugs/index.php?58553
 https://savannah.nongnu.org/bugs/index.php?58554
 https://savannah.nongnu.org/patch/?func=detailitem&amp;amp;item_id=4966
+https://savannah.nongnu.org/patch/?func=detailitem&item_id=4966

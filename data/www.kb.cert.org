@@ -4497,6 +4497,7 @@ https://www.kb.cert.org/vuls/id/112992
 https://www.kb.cert.org/vuls/id/114757
 https://www.kb.cert.org/vuls/id/119704
 https://www.kb.cert.org/vuls/id/125331
+https://www.kb.cert.org/vuls/id/142629
 https://www.kb.cert.org/vuls/id/144389
 https://www.kb.cert.org/vuls/id/166743
 https://www.kb.cert.org/vuls/id/167623
@@ -4646,6 +4647,7 @@ https://www.kb.cert.org/vuls/id/916896
 https://www.kb.cert.org/vuls/id/918987/
 https://www.kb.cert.org/vuls/id/924506
 https://www.kb.cert.org/vuls/id/927237
+https://www.kb.cert.org/vuls/id/930724
 https://www.kb.cert.org/vuls/id/962459
 https://www.kb.cert.org/vuls/id/970379
 https://www.kb.cert.org/vuls/id/972224
@@ -4654,6 +4656,7 @@ https://www.kb.cert.org/vuls/id/974055
 https://www.kb.cert.org/vuls/id/981271
 https://www.kb.cert.org/vuls/id/982149
 https://www.kb.cert.org/vuls/id/992624
+https://www.kb.cert.org/vuls/id/999008
 https://www.kb.cert.org/vuls/id/BGAR-A2CNKG
 https://www.kb.cert.org/vuls/id/BLUU-9ZAHZH
 https://www.kb.cert.org/vuls/id/BLUU-9ZDJWA

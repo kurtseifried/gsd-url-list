@@ -25,6 +25,7 @@ http://www.voipshield.com/research-details.php?id=25
 http://www.voipshield.com/research-details.php?id=26
 http://www.voipshield.com/research-details.php?id=27&amp;amp;s=4&amp;amp;threats_details=&amp;amp;threats_category=0&amp;amp;threats_vendor=0&amp;amp;limit=20&amp;amp;sort=discovered&amp;amp;sortby=DESC
 http://www.voipshield.com/research-details.php?id=27&amp;s=4&amp;threats_details=&amp;threats_category=0&amp;threats_vendor=0&amp;limit=20&amp;sort=discovered&amp;sortby=DESC
+http://www.voipshield.com/research-details.php?id=27&s=4&threats_details=&threats_category=0&threats_vendor=0&limit=20&sort=discovered&sortby=DESC
 http://www.voipshield.com/research-details.php?id=28
 http://www.voipshield.com/research-details.php?id=29
 http://www.voipshield.com/research-details.php?id=61

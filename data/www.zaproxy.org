@@ -1,0 +1,1 @@
+https://www.zaproxy.org/blog/2021-12-10-zap-and-log4shell/

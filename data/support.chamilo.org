@@ -6,8 +6,17 @@ https://support.chamilo.org/projects/1/wiki/Security_issues#Issue-33-2018-12-13-
 https://support.chamilo.org/projects/1/wiki/Security_issues#Issue-34-2019-01-14-Moderate-risk-moderate-impact-XSS-and-unauthorized-access
 https://support.chamilo.org/projects/1/wiki/Security_issues#Issue-48-2021-04-17-Critical-impact-high-risk-Remote-Code-Execution
 https://support.chamilo.org/projects/1/wiki/Security_issues#Issue-58-2021-05-12-High-impact-very-low-risk-LFIRCE-vulnerability-in-users-import
+https://support.chamilo.org/projects/1/wiki/Security_issues#Issue-59-2021-05-13-High-impact-low-risk-Unauthenticated-SQL-injection-vulnerability-when-a-module-is-enabled
+https://support.chamilo.org/projects/1/wiki/Security_issues#Issue-61-2021-05-14-Low-impact-very-low-risk-XSS-in-course-name
+https://support.chamilo.org/projects/1/wiki/Security_issues#Issue-62-2021-05-14-Low-impact-low-risk-XSS-in-course-description
+https://support.chamilo.org/projects/1/wiki/Security_issues#Issue-63-2021-05-14-Low-impact-moderate-risk-XSS-in-course-documents
+https://support.chamilo.org/projects/1/wiki/Security_issues#Issue-64-2021-05-14-Low-impact-low-risk-XSS-in-course-document-title-on-upload
+https://support.chamilo.org/projects/1/wiki/Security_issues#Issue-65-2021-05-15-High-impact-very-high-risk-Unauthenticated-SQL-injection-in-plugin
+https://support.chamilo.org/projects/1/wiki/Security_issues#Issue-66-2021-05-21-High-impact-very-low-risk-Authenticated-RCE-in-accessory-script
 https://support.chamilo.org/projects/1/wiki/Security_issues#Issue-67-2021-05-27-High-impact-very-high-risk-Unauthenticated-SQL-injection
 https://support.chamilo.org/projects/chamilo-18/wiki/Security_issues#Issue-10-2013-11-06-Moderate-risk-SQL-Injection-in-specific-unrecommended-case
 https://support.chamilo.org/projects/chamilo-18/wiki/Security_issues#Issue-41-2020-04-22-Medium-risk-high-impact-CSRF-and-privilege-escalation-via-CSRF
+https://support.chamilo.org/projects/chamilo-18/wiki/Security_issues#Issue-42-2020-04-23-High-risk-low-impact-XSS-in-extended-users-profile-fields
 https://support.chamilo.org/projects/chamilo-18/wiki/Security_issues#Issue-45-2021-01-21-Moderate-impact-moderate-risk-XSS-vulnerability-in-agenda
 https://support.chamilo.org/projects/chamilo-18/wiki/Security_issues#Issue-7-2012-07-16-Moderate-risk-Several-moderate-security-flaws
+https://support.chamilo.org/projects/chamilo-18/wiki/Security_issues#Issue-92-2021-11-12-Low-impact-Low-risk-XSS-Vulnerability-in-jCapture-plugin-CVE-2021-43687

@@ -1,0 +1,1 @@
+https://community.zammad.org/t/cve-2021-44228-elasticsearch-users-be-aware/8256

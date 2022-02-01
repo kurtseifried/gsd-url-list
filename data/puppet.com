@@ -1,3 +1,4 @@
+https://puppet.com/blog/puppet-response-to-remote-code-execution-vulnerability-cve-2021-44228/
 https://puppet.com/security/cve/CVE-2014-3250
 https://puppet.com/security/cve/CVE-2014-6272
 https://puppet.com/security/cve/CVE-2015-3183
@@ -41,6 +42,7 @@ https://puppet.com/security/cve/CVE-2020-7945
 https://puppet.com/security/cve/CVE-2021-27018
 https://puppet.com/security/cve/CVE-2021-27019
 https://puppet.com/security/cve/CVE-2021-27020
+https://puppet.com/security/cve/CVE-2021-27023
 https://puppet.com/security/cve/cve-2009-3564
 https://puppet.com/security/cve/cve-2010-0156
 https://puppet.com/security/cve/cve-2011-3848
@@ -101,6 +103,10 @@ https://puppet.com/security/cve/cve-2018-11749
 https://puppet.com/security/cve/cve-2021-27021/
 https://puppet.com/security/cve/cve-2021-27022/
 https://puppet.com/security/cve/cve-2021-27022/%5D
+https://puppet.com/security/cve/cve-2021-27022/]
+https://puppet.com/security/cve/cve-2021-27024
+https://puppet.com/security/cve/cve-2021-27025
+https://puppet.com/security/cve/cve-2021-27026
 https://puppet.com/security/cve/passenger-dec-2015-security-fixes
 https://puppet.com/security/cve/pe-console-oct-2016
 https://puppet.com/security/cve/poodle-sslv3-vulnerability

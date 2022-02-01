@@ -9,5 +9,6 @@ https://blog.jetbrains.com/blog/2020/08/06/jetbrains-security-bulletin-q2-2020/
 https://blog.jetbrains.com/blog/2021/02/03/jetbrains-security-bulletin-q4-2020/
 https://blog.jetbrains.com/blog/2021/05/07/jetbrains-security-bulletin-q1-2021/
 https://blog.jetbrains.com/blog/2021/08/05/jetbrains-security-bulletin-q2-2021/
+https://blog.jetbrains.com/blog/2021/11/08/jetbrains-security-bulletin-q3-2021/
 https://blog.jetbrains.com/dotnet/2018/08/02/resharper-ultimate-2018-1-4-rider-2018-1-4-released/
 https://blog.jetbrains.com/teamcity/2019/09/important-security-notice-xss-vulnerability-allowing-rce/

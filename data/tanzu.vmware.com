@@ -22,6 +22,9 @@ https://tanzu.vmware.com/security/cve-2020-5427
 https://tanzu.vmware.com/security/cve-2020-5428
 https://tanzu.vmware.com/security/cve-2021-22044
 https://tanzu.vmware.com/security/cve-2021-22047
+https://tanzu.vmware.com/security/cve-2021-22051
+https://tanzu.vmware.com/security/cve-2021-22053
+https://tanzu.vmware.com/security/cve-2021-22060
 https://tanzu.vmware.com/security/cve-2021-22096
 https://tanzu.vmware.com/security/cve-2021-22097
 https://tanzu.vmware.com/security/cve-2021-22112

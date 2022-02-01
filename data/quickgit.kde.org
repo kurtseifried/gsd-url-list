@@ -1,9 +1,16 @@
+http://quickgit.kde.org/?p=kauth.git&a=commit&h=341b7d84b6d9c03cf56905cb277b47e11c81482a
 http://quickgit.kde.org/?p=kauth.git&amp;a=commit&amp;h=341b7d84b6d9c03cf56905cb277b47e11c81482a
 http://quickgit.kde.org/?p=kauth.git&amp;amp;a=commit&amp;amp;h=341b7d84b6d9c03cf56905cb277b47e11c81482a
+http://quickgit.kde.org/?p=kdelibs.git&a=commitdiff&h=bbae87dc1be3ae063796a582774bd5642cacdd5d&hp=1ccdb43ed3b32a7798eec6d39bb3c83a6e40228f
+http://quickgit.kde.org/?p=kdelibs.git&a=commitdiff&h=e4e7b53b71e2659adaf52691d4accc3594203b23
 http://quickgit.kde.org/?p=kdelibs.git&amp;a=commitdiff&amp;h=bbae87dc1be3ae063796a582774bd5642cacdd5d&amp;hp=1ccdb43ed3b32a7798eec6d39bb3c83a6e40228f
 http://quickgit.kde.org/?p=kdelibs.git&amp;a=commitdiff&amp;h=e4e7b53b71e2659adaf52691d4accc3594203b23
 http://quickgit.kde.org/?p=kdelibs.git&amp;amp;a=commitdiff&amp;amp;h=bbae87dc1be3ae063796a582774bd5642cacdd5d&amp;amp;hp=1ccdb43ed3b32a7798eec6d39bb3c83a6e40228f
 http://quickgit.kde.org/?p=kdelibs.git&amp;amp;a=commitdiff&amp;amp;h=e4e7b53b71e2659adaf52691d4accc3594203b23
+http://quickgit.kde.org/index.php?p=kdelibs.git&a=commitdiff&h=1f8b1b034ccf1713a5d123a4c327290f86d17d53
+http://quickgit.kde.org/index.php?p=kdelibs.git&a=commitdiff&h=4f2eb356f1c23444fff2cfe0a7ae10efe303d6d8
+http://quickgit.kde.org/index.php?p=kdelibs.git&a=commitdiff&h=65464349951e0df9b5d80c2eb3cc7458d54923ae
+http://quickgit.kde.org/index.php?p=kdelibs.git&a=commitdiff&h=a872c8a969a8bd3706253d6ba24088e4f07f3352
 http://quickgit.kde.org/index.php?p=kdelibs.git&amp;a=commitdiff&amp;h=1f8b1b034ccf1713a5d123a4c327290f86d17d53
 http://quickgit.kde.org/index.php?p=kdelibs.git&amp;a=commitdiff&amp;h=4f2eb356f1c23444fff2cfe0a7ae10efe303d6d8
 http://quickgit.kde.org/index.php?p=kdelibs.git&amp;a=commitdiff&amp;h=65464349951e0df9b5d80c2eb3cc7458d54923ae
@@ -12,6 +19,9 @@ http://quickgit.kde.org/index.php?p=kdelibs.git&amp;amp;a=commitdiff&amp;amp;h=1
 http://quickgit.kde.org/index.php?p=kdelibs.git&amp;amp;a=commitdiff&amp;amp;h=4f2eb356f1c23444fff2cfe0a7ae10efe303d6d8
 http://quickgit.kde.org/index.php?p=kdelibs.git&amp;amp;a=commitdiff&amp;amp;h=65464349951e0df9b5d80c2eb3cc7458d54923ae
 http://quickgit.kde.org/index.php?p=kdelibs.git&amp;amp;a=commitdiff&amp;amp;h=a872c8a969a8bd3706253d6ba24088e4f07f3352
+https://quickgit.kde.org/?p=karchive.git&a=commit&h=0cb243f64eef45565741b27364cece7d5c349c37
 https://quickgit.kde.org/?p=karchive.git&amp;amp;a=commit&amp;amp;h=0cb243f64eef45565741b27364cece7d5c349c37
+https://quickgit.kde.org/?p=kinit.git&a=commitdiff&h=72f3702dbe6cf15c06dc13da2c99c864e9022a58
+https://quickgit.kde.org/?p=kinit.git&a=commitdiff&h=dece8fd89979cd1a86c03bcaceef6e9221e8d8cd
 https://quickgit.kde.org/?p=kinit.git&amp;amp;a=commitdiff&amp;amp;h=72f3702dbe6cf15c06dc13da2c99c864e9022a58
 https://quickgit.kde.org/?p=kinit.git&amp;amp;a=commitdiff&amp;amp;h=dece8fd89979cd1a86c03bcaceef6e9221e8d8cd

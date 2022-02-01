@@ -52,6 +52,7 @@ https://www.npmjs.com/package/angular-expressions
 https://www.npmjs.com/package/aurelia-path
 https://www.npmjs.com/package/bson-objectid
 https://www.npmjs.com/package/color-string
+https://www.npmjs.com/package/colors
 https://www.npmjs.com/package/cumulative-distribution-function
 https://www.npmjs.com/package/date-and-time
 https://www.npmjs.com/package/decal
@@ -104,6 +105,7 @@ https://www.npmjs.com/package/projen
 https://www.npmjs.com/package/public
 https://www.npmjs.com/package/pug
 https://www.npmjs.com/package/pug-code-gen
+https://www.npmjs.com/package/realms-shim
 https://www.npmjs.com/package/reg-keygen-git-hash-plugin
 https://www.npmjs.com/package/remark-html
 https://www.npmjs.com/package/restify-paginate

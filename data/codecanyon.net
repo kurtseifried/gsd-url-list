@@ -2,8 +2,10 @@ http://codecanyon.net/item/complete-gallery-manager-for-wordpress/2418606
 http://codecanyon.net/item/crea8social-php-social-networking-platform-v31/9211270
 http://codecanyon.net/item/crea8social-php-social-networking-platform-v31/9211270/support
 http://codecanyon.net/user/Endober
+http://codecanyon.net/user/Endober WebFile Explorer 1.0 is affected by: SQL Injection. The impact is: Arbitrary File Download (remote). The component is: $file = $_GET['id'] in download.php. The attack vector is: http://speicher.example.com/envato/codecanyon/demo/web-file-explorer/download.php?id=WebExplorer/../config.php.
 https://codecanyon.net/item/business-hours-pro-wordpress-plugin/9414879
 https://codecanyon.net/item/golo-city-guide-laravel-theme/25785389
+https://codecanyon.net/item/hide-my-wp-amazing-security-plugin-for-wordpress/4177158
 https://codecanyon.net/item/kaswara-modern-visual-composer-addons/19341477
 https://codecanyon.net/item/php-login-user-management/49008
 https://codecanyon.net/item/rise-ultimate-project-manager/15455641

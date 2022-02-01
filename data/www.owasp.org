@@ -1,5 +1,7 @@
 http://www.owasp.org/images/5/50/OWASP-Italy_Day_IV_Maone.pdf
 https://www.owasp.org/index.php/Cross-Site_Request_Forgery_%28CSRF%29
+https://www.owasp.org/index.php/Cross-Site_Request_Forgery_(CSRF)
 https://www.owasp.org/index.php/Cross-site_Scripting_%28XSS%29
+https://www.owasp.org/index.php/Cross-site_Scripting_(XSS)
 https://www.owasp.org/index.php/Insecure_Temporary_File
 https://www.owasp.org/index.php/SQL_Injection

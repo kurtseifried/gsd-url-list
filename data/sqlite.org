@@ -9,3 +9,4 @@ https://sqlite.org/src/info/b3fa58dd7403dbd4
 https://sqlite.org/src/info/d44318f59044162e
 https://sqlite.org/src/info/eca0ba2cf4c0fdf7
 https://sqlite.org/src/vpatch?from=0db20efe201736b3&amp;amp;to=66de6f4a9504ec26
+https://sqlite.org/src/vpatch?from=0db20efe201736b3&to=66de6f4a9504ec26

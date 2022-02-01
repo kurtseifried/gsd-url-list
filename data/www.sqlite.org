@@ -7,6 +7,7 @@ https://www.sqlite.org/cgi/src/info/9d0d4ab95dc0c56e
 https://www.sqlite.org/cgi/src/info/abc473fb8fb99900
 https://www.sqlite.org/cgi/src/timeline?r=corrupt-schema
 https://www.sqlite.org/cgi/src/vdiff?from=1774f1c3baf0bc3d&amp;amp;to=d75e67654aa9620b
+https://www.sqlite.org/cgi/src/vdiff?from=1774f1c3baf0bc3d&to=d75e67654aa9620b
 https://www.sqlite.org/forum/forumpost/718c0a8d17
 https://www.sqlite.org/releaselog/3_13_0.html
 https://www.sqlite.org/releaselog/3_25_3.html
@@ -28,4 +29,5 @@ https://www.sqlite.org/src/info/e4598ecbdd18bd82945f6029013296690e719a62
 https://www.sqlite.org/src/info/eddc05e7bb31fae74daa86e0504a3478b99fa0f2
 https://www.sqlite.org/src/timeline?c=98357d8c1263920b
 https://www.sqlite.org/src/timeline?p=version-3.32.3&amp;amp;bt=version-3.32.2
+https://www.sqlite.org/src/timeline?p=version-3.32.3&bt=version-3.32.2
 https://www.sqlite.org/src/tktview?name=8f157e8010

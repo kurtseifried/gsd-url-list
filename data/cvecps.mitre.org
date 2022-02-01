@@ -1,0 +1,1 @@
+https://cvecps.mitre.org/cps/workitems/create/?cveId=CVE-2020-10563

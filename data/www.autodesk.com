@@ -12,3 +12,4 @@ https://www.autodesk.com/trust/security-advisories/adsk-sa-2021-0003
 https://www.autodesk.com/trust/security-advisories/adsk-sa-2021-0004
 https://www.autodesk.com/trust/security-advisories/adsk-sa-2021-0008
 https://www.autodesk.com/trust/security-advisories/adsk-sa-2021-0009
+https://www.autodesk.com/trust/security-advisories/adsk-sa-2021-0010

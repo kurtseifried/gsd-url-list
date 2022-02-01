@@ -20,8 +20,11 @@ https://helpcenter.trendmicro.com/en-us/article/TMKA-10312
 https://helpcenter.trendmicro.com/en-us/article/TMKA-10336
 https://helpcenter.trendmicro.com/en-us/article/TMKA-10337
 https://helpcenter.trendmicro.com/en-us/article/TMKA-10388
+https://helpcenter.trendmicro.com/en-us/article/TMKA-10832
 https://helpcenter.trendmicro.com/en-us/article/TMKA-21674
 https://helpcenter.trendmicro.com/en-us/article/tmka-10568
 https://helpcenter.trendmicro.com/en-us/article/tmka-10626
+https://helpcenter.trendmicro.com/en-us/article/tmka-10855
+https://helpcenter.trendmicro.com/en-us/article/tmka-10867
 https://helpcenter.trendmicro.com/ja-jp/article/TMKA-09673
 https://helpcenter.trendmicro.com/ja-jp/article/TMKA-10621

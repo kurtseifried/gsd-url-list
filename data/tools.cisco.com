@@ -8,6 +8,11 @@ http://tools.cisco.com/Support/BugToolKit/search/getBugDetails.do?method=fetchBu
 http://tools.cisco.com/Support/BugToolKit/search/getBugDetails.do?method=fetchBugDetails&amp;bugId=CSCsl00618
 http://tools.cisco.com/Support/BugToolKit/search/getBugDetails.do?method=fetchBugDetails&amp;bugId=CSCsm25860
 http://tools.cisco.com/Support/BugToolKit/search/getBugDetails.do?method=fetchBugDetails&amp;bugId=CSCtb52450
+http://tools.cisco.com/Support/BugToolKit/search/getBugDetails.do?method=fetchBugDetails&bugId=CSCsj72903
+http://tools.cisco.com/Support/BugToolKit/search/getBugDetails.do?method=fetchBugDetails&bugId=CSCsk69289
+http://tools.cisco.com/Support/BugToolKit/search/getBugDetails.do?method=fetchBugDetails&bugId=CSCsl00618
+http://tools.cisco.com/Support/BugToolKit/search/getBugDetails.do?method=fetchBugDetails&bugId=CSCsm25860
+http://tools.cisco.com/Support/BugToolKit/search/getBugDetails.do?method=fetchBugDetails&bugId=CSCtb52450
 http://tools.cisco.com/security/center/content/CiscoAppliedMitigationBulletin/cisco-amb-20080903-asa
 http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20110928-cucm
 http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20111019-cs
@@ -247,6 +252,7 @@ http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20
 http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20151021-asa-dns1
 http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20151021-asa-dns2
 http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20151021-asa-ike
+http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20151021-ntp
 http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20151023-acs
 http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20151023-acs_rbac
 http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20151023-acs_rbac1
@@ -461,6 +467,7 @@ http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20
 http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20160601-prime2
 http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20160601-prime3
 http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20160603-ipp
+http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20160603-ntpd
 http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20160606-aap
 http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20160608-aironet
 http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20160609-apic
@@ -571,6 +578,7 @@ http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20
 http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20160921-fmc
 http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20160921-iox
 http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20160922-esa
+http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20160927-openssl
 http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20160928-aaados
 http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20160928-aos
 http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20160928-cip
@@ -606,6 +614,7 @@ http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20
 http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20161005-ucis3
 http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20161012-msc
 http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20161019-asa-ca
+http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20161026-linux
 http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/ciscosa-20140716-cm
 http://tools.cisco.com/security/center/content/CiscoSecurityNotice/CVE-2008-1483
 http://tools.cisco.com/security/center/content/CiscoSecurityNotice/CVE-2012-1313
@@ -1849,18 +1858,25 @@ http://tools.cisco.com/security/center/viewAlert.x?alertId=41249
 http://tools.cisco.com/security/center/viewErp.x?alertId=ERP-56516
 http://tools.cisco.com/security/center/viewIpsSignature.x?signatureId=22660&amp;amp;signatureSubId=0&amp;amp;softwareVersion=6.0&amp;amp;releaseVersion=S456
 http://tools.cisco.com/security/center/viewIpsSignature.x?signatureId=22660&amp;signatureSubId=0&amp;softwareVersion=6.0&amp;releaseVersion=S456
+http://tools.cisco.com/security/center/viewIpsSignature.x?signatureId=22660&signatureSubId=0&softwareVersion=6.0&releaseVersion=S456
 http://tools.cisco.com/security/center/viewIpsSignature.x?signatureId=22661&amp;amp;signatureSubId=0&amp;amp;softwareVersion=6.0&amp;amp;releaseVersion=S456
 http://tools.cisco.com/security/center/viewIpsSignature.x?signatureId=22661&amp;signatureSubId=0&amp;softwareVersion=6.0&amp;releaseVersion=S456
+http://tools.cisco.com/security/center/viewIpsSignature.x?signatureId=22661&signatureSubId=0&softwareVersion=6.0&releaseVersion=S456
 http://tools.cisco.com/security/center/viewIpsSignature.x?signatureId=22662&amp;amp;signatureSubId=0&amp;amp;softwareVersion=6.0&amp;amp;releaseVersion=S456
 http://tools.cisco.com/security/center/viewIpsSignature.x?signatureId=22662&amp;signatureSubId=0&amp;softwareVersion=6.0&amp;releaseVersion=S456
+http://tools.cisco.com/security/center/viewIpsSignature.x?signatureId=22662&signatureSubId=0&softwareVersion=6.0&releaseVersion=S456
 http://tools.cisco.com/security/center/viewIpsSignature.x?signatureId=22663&amp;amp;signatureSubId=0&amp;amp;softwareVersion=6.0&amp;amp;releaseVersion=S456
 http://tools.cisco.com/security/center/viewIpsSignature.x?signatureId=22663&amp;signatureSubId=0&amp;softwareVersion=6.0&amp;releaseVersion=S456
+http://tools.cisco.com/security/center/viewIpsSignature.x?signatureId=22663&signatureSubId=0&softwareVersion=6.0&releaseVersion=S456
 http://tools.cisco.com/security/center/viewIpsSignature.x?signatureId=22799&amp;amp;signatureSubId=0&amp;amp;softwareVersion=6.0&amp;amp;releaseVersion=S456
 http://tools.cisco.com/security/center/viewIpsSignature.x?signatureId=22799&amp;signatureSubId=0&amp;softwareVersion=6.0&amp;releaseVersion=S456
+http://tools.cisco.com/security/center/viewIpsSignature.x?signatureId=22799&signatureSubId=0&softwareVersion=6.0&releaseVersion=S456
 http://tools.cisco.com/security/center/viewIpsSignature.x?signatureId=23040&amp;amp;signatureSubId=0&amp;amp;softwareVersion=6.0&amp;amp;releaseVersion=S456
 http://tools.cisco.com/security/center/viewIpsSignature.x?signatureId=23040&amp;signatureSubId=0&amp;softwareVersion=6.0&amp;releaseVersion=S456
+http://tools.cisco.com/security/center/viewIpsSignature.x?signatureId=23040&signatureSubId=0&softwareVersion=6.0&releaseVersion=S456
 http://tools.cisco.com/security/center/viewIpsSignature.x?signatureId=36606&amp;amp;signatureSubId=0
 http://tools.cisco.com/security/center/viewIpsSignature.x?signatureId=36606&amp;signatureSubId=0
+http://tools.cisco.com/security/center/viewIpsSignature.x?signatureId=36606&signatureSubId=0
 https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/Cisco-SA-20120412-CVE-2012-0334
 https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/Cisco-SA-20120412-CVE-2012-1326
 https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/Cisco-SA-20120913-CVE-2011-4667
@@ -2084,6 +2100,7 @@ https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-2
 https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20170503-ios-xr
 https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20170503-waas
 https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20170510-cwms
+https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20170515-snort
 https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20170517-cps
 https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20170517-fpwr
 https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20170517-ie1000csrf
@@ -2794,6 +2811,7 @@ https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-2
 https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20181107-sbsw-privacc
 https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20181107-sma-xss
 https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20181107-smc-auth-bypass
+https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20181107-vcsd
 https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20181107-vsms-dos
 https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20181128-plm-sql-inject
 https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20181204-ems-sql-passwrd
@@ -3378,6 +3396,9 @@ https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-A
 https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-CIMC-CIV-pKDBe9x5
 https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-COPS-VLD-MpbTvGEW
 https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-CSPC-CIV-kDuBfNfu
+https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-CSPC-ILR-8qmW8y8X
+https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-CSPC-SQLI-unVPTn5
+https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-CSPC-XSS-KjrNbM3p
 https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ESA-filt-39jXvMfM
 https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-Expressway-8J3yZ7hV
 https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-FND-APIA-xZntFS2V
@@ -3428,13 +3449,16 @@ https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-a
 https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-anyconnect-ipc-KfQO9QhK
 https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-anyconnect-lib-hija-cAFB7x4q
 https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-anyconnect-mac-priv-esc-VqST2nrT
+https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-anyconnect-nam-priv-yCsRNUGT
 https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-anyconnect-pos-dll-ff8j6dFv
 https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-anyconnect-profile-7u3PERKF
 https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-anyconnect-profile-AggMUCDg
 https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ap-ethport-dos-xtjTt8pY
 https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ap-foverwrt-HyVXvrtb
 https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ap-privesc-wEVfp8Ud
+https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-httpd-2.4.49-VWL69sWQ
 https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-httpd-pathtrv-LAzg68cZ
+https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd
 https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apic-lldap-dos-WerV9CFj
 https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-arp-mtfhBfjE
 https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-asa-cmdinj-TKyQfDcU
@@ -3501,8 +3525,10 @@ https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-c
 https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-capwap-dos-ShFzXf
 https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-capwap-dos-TPdNTdyq
 https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-case-mvuln-dYrDPC6w
+https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-catpon-multivulns-CE3DSYGr
 https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-cbr8-cops-Vc2ZsJSx
 https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-cbr8snmp-zGjkZ9Fc
+https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ccmp-priv-esc-JzhTFLm4
 https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-cdp-memleak-heyebx9
 https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-cdp-memleak-k5Z7m55t
 https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-cdp-rcedos-mAHR8vNx
@@ -3528,11 +3554,15 @@ https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-c
 https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-confacl-HbPtfSuO
 https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-confd-priv-esc-LsGtCRx4
 https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-cont-sec-gui-dos-nJ625dXb
+https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-cpar-strd-xss-A4DCVETG
 https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-cpnr-csrf-WWTrDkyL
 https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-cpnr-dhcp-dos-BkEZfhLP
+https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-cps-static-key-JmS92hNv
 https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-csm-java-rce-mWJEedcD
+https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-csm-mult-xss-7hmOKQTt
 https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-csm-path-trav-NgeRnqgR
 https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-csm-rce-8gjUz9fW
+https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-cspc-info-disc-KM3bGVL
 https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-cssm-multici-pgG5WM5A
 https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-cssm-sc-Jd42D4Tq
 https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-cssm-sqi-h5fDvZWp
@@ -3541,6 +3571,7 @@ https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-c
 https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-cucm-cuc-imp-xss-OWuSYAp
 https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-cucm-inf-disc-wCxZNjL2
 https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-cucm-logging-6QSWKRYz
+https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-cucm-path-trav-dKCvktvO
 https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-cucm-rce-pqVYwyb
 https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-cucm-selfcare-VRWWWHgE
 https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-cucm-selfcare-drASc7sr
@@ -3606,6 +3637,7 @@ https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-e
 https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-epnm-info-disc-PjTZ5r6C
 https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-esa-bypass-5Cdv2HMA
 https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-esa-dos-87mBkc8n
+https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-esa-dos-JOm9ETfO
 https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-esa-info-disclosure-vMJMMgJ
 https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-esa-resource-exhaust-D7RQAhnD
 https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-esa-shrt-dos-wM54R8qA
@@ -3778,6 +3810,7 @@ https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-i
 https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ioxesdwan-clicmdinj-7bYX5k3
 https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ioxr-l-zNhcGCBt
 https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ioxxss-wc6CqUws
+https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ip-phone-info-disc-fRdJfOxA
 https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ipcamera-lldp-dos-OFP7j9j
 https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ipcamera-lldp-mem-wGqundTq
 https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ipcamera-lldpcdp-mem-yTQDmjRO
@@ -3865,6 +3898,7 @@ https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-p
 https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-pcp-sql-inj-22Auwt66
 https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-phone-logs-2O7f7ExM
 https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-pi-epnm-cmd-inj-YU5e6tB3
+https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-pi-epnm-xss-U2JK537j
 https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-pi-sql-inj-KGLLsFw8
 https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-prim-collab-disclo-FAnX4DKB
 https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-prime-collab-xss-RjRCe9n7
@@ -3912,6 +3946,7 @@ https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-s
 https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-sb-wap-inject-Mp9FSdG
 https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-sb-wap-multi-ZAfKGXhF
 https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-sb220-lldp-multivuls-mVRUtQ8T
+https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-sbrv-cmdinjection-Z5cWFdK
 https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-sbss-ipv6-dos-3bLk6vA
 https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-sbss-ipv6-dos-tsgqbffW
 https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-sbswitch-session-JZAS5jnY
@@ -3959,6 +3994,8 @@ https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-s
 https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-sma-spam-jPxUXMk
 https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-sma-wsa-esa-info-dis-vsvPzOHP
 https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-smart-priv-esca-nqwxXWBu
+https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-smb-switches-tokens-UzwpR4e5
+https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-smb-switches-web-dos-xMyFFkt8
 https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-smlbus-switch-dos-R6VquS2u
 https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-sni-data-exfil-mFgzXqLN
 https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-snmp-7MKrW7Nq
@@ -3999,6 +4036,7 @@ https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-u
 https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-uccx-privesc-Zd7bvwyf
 https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-uccx-rce-GMSC6RKN
 https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ucm-csrf-NbhZTxL
+https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ucm-csrf-xrTkDu3H
 https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ucm-dos-OO4SRYEf
 https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ucs-api-rce-UXwpeDHd
 https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ucs-cli-dos-GQUxCnTe
@@ -4016,6 +4054,7 @@ https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-u
 https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-umbrella-head-inject-n4QArJH
 https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-umbrella-inject-gbZGHP5T
 https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-umbrella-open-redire-UgK9dWK4
+https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-umbrella-user-enum-S7XfJwDE
 https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-unauth-file-access-eBTWkKVW
 https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-vdsd-W7mnkwj7
 https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-vedgfpdos-PkqQrnwV
@@ -4023,6 +4062,7 @@ https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-v
 https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-vepescm-BjgQm4vJ
 https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-vepeshlg-tJghOQcA
 https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-vepestd-8C3J9Vc
+https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-videomesh-xss-qjm2BDQf
 https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-visio-dir-sql-inj-fPm3MPfT
 https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-vman-pathtrav-Z5mCVsjf
 https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-vman-sqlinjm-xV8dsjq5
@@ -4043,6 +4083,7 @@ https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-v
 https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-vmanxss2-ugJyqxWF
 https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-vmanxsshi-9KHEqRpM
 https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-vmdirtrav-eFdAxsJg
+https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-vmesh-openred-AGNRmf5
 https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-vmpresc-SyzcS4kC
 https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-vmxss2-NL4KSSVR
 https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-voip-phone-flood-dos-YnU9EXOv
@@ -4058,6 +4099,7 @@ https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-w
 https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-webex-2FmKd7T
 https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-webex-8fpBnKOz
 https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-webex-VObwRKWV
+https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-webex-activation-3sdNFxcy
 https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-webex-andro-iac-f3UR8frB
 https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-webex-auth-token-3vg57A5r
 https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-webex-brutef-hostkey-FWRMxVF
@@ -4121,6 +4163,7 @@ https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-z
 https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-zbfw-tguGuYq
 https://tools.cisco.com/security/center/publicationListing.x
 https://tools.cisco.com/security/center/viewAlert.x?alertId=27482
+https://tools.cisco.com/security/center/viewAlert.x?alertId=27862
 https://tools.cisco.com/security/center/viewAlert.x?alertId=35685
 https://tools.cisco.com/security/center/viewAlert.x?alertId=36870
 https://tools.cisco.com/security/center/viewAlert.x?alertId=36871
@@ -4132,6 +4175,9 @@ https://tools.cisco.com/security/center/viewAlert.x?alertId=37111
 https://tools.cisco.com/security/center/viewAlert.x?alertId=38058
 https://tools.cisco.com/security/center/viewAlert.x?alertId=38221
 https://tools.cisco.com/security/center/viewAlert.x?alertId=39129
+https://tools.cisco.com/security/center/viewAlert.x?alertId=39908
 https://tools.cisco.com/security/center/viewAlert.x?alertId=52967
 https://tools.cisco.com/security/center/viewAlert.x?alertId=56326
 https://tools.cisco.com/security/center/viewAlert.x?alertId=57695
+https://tools.cisco.com/security/center/viewAlert.x?alertId=57754&vs_f=Alert%20RSS&vs_cat=Security%20Intelligence&vs_type=RSS&vs_p=Microsoft%20Azure%20IoT%20SDK%20AMQP%20Transport%20Library%20Spoofing%20Vulnerability&vs_k=1
+https://tools.cisco.com/security/center/viewAlert.x?alertId=59134

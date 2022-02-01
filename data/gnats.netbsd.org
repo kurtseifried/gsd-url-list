@@ -1,2 +1,3 @@
+http://gnats.netbsd.org/45558
 http://gnats.netbsd.org/47360
 https://gnats.netbsd.org/cgi-bin/query-pr-single.pl?number=51682

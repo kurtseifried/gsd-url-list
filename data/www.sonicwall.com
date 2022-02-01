@@ -1,5 +1,6 @@
 http://www.sonicwall.com/app/projects/file_downloader/document_lib.php?t=RN&amp;amp;id=379
 http://www.sonicwall.com/app/projects/file_downloader/document_lib.php?t=RN&amp;id=379
+http://www.sonicwall.com/app/projects/file_downloader/document_lib.php?t=RN&id=379
 http://www.sonicwall.com/downloads/SonicOS_Enhanced_4.0.1.1_Release_Notes.pdf
 http://www.sonicwall.com/shared/download/Dell_SonicWALL_Scrutinizer_Service_Bulletin_for_SQL_injection_vulnerability_CVE.pdf
 http://www.sonicwall.com/us/2123_14882.html

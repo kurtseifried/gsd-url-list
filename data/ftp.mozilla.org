@@ -1,0 +1,2 @@
+https://ftp.mozilla.org/pub/security/nss/releases/NSS_3_68_1_RTM/
+https://ftp.mozilla.org/pub/security/nss/releases/NSS_3_73_RTM/

@@ -1,9 +1,11 @@
 http://www.asus.com/Networking/RTAC68U/HelpDesk_Download/
 http://www.asus.com/jp/News/FX04LE8HN0qBoqFI
 http://www.asus.com/jp/News/PNzPd7vkXtrKWXHR
+https://www.asus.com
 https://www.asus.com/Laptops/ASUS-TUF-Gaming-FX504/HelpDesk_Download/
 https://www.asus.com/Networking-IoT-Servers/Modem-LTE-Routers/All-series/DSL-N16/HelpDesk_BIOS/
 https://www.asus.com/Networking-IoT-Servers/Whole-Home-Mesh-WiFi-System/ZenWiFi-WiFi-Systems/ASUS-ZenWiFi-AX-XT8-/HelpDesk_BIOS/
+https://www.asus.com/Networking-IoT-Servers/Whole-Home-Mesh-WiFi-System/ZenWiFi-WiFi-Systems/ASUS-ZenWiFi-XD6/HelpDesk_BIOS/
 https://www.asus.com/Networking-IoT-Servers/WiFi-6/All-series/RT-AX3000/HelpDesk_BIOS/
 https://www.asus.com/Networking-IoT-Servers/WiFi-6/All-series/RT-AX55/HelpDesk_BIOS/
 https://www.asus.com/Networking-IoT-Servers/WiFi-6/All-series/RT-AX56U/HelpDesk_BIOS/
@@ -14,6 +16,10 @@ https://www.asus.com/Networking-IoT-Servers/WiFi-6/All-series/RT-AX86U/HelpDesk_
 https://www.asus.com/Networking-IoT-Servers/WiFi-6/All-series/RT-AX88U/HelpDesk_BIOS/
 https://www.asus.com/Networking-IoT-Servers/WiFi-Routers/ASUS-Gaming-Routers/RT-AC2900/HelpDesk_BIOS/
 https://www.asus.com/Networking-IoT-Servers/WiFi-Routers/ASUS-WiFi-Routers/RT-AC66U-B1/HelpDesk_Download/
+https://www.asus.com/Networking-IoT-Servers/WiFi-Routers/ASUS-WiFi-Routers/RT-AX3000/HelpDesk_BIOS/
+https://www.asus.com/Networking-IoT-Servers/WiFi-Routers/ASUS-WiFi-Routers/RT-AX56U/HelpDesk_BIOS/
+https://www.asus.com/Networking-IoT-Servers/WiFi-Routers/ASUS-WiFi-Routers/RT-AX68U/HelpDesk_BIOS/
+https://www.asus.com/Networking-IoT-Servers/WiFi-Routers/All-series/RT-AX55/HelpDesk_BIOS/
 https://www.asus.com/Networking/DSL-N14U-B1/HelpDesk_BIOS/
 https://www.asus.com/Networking/RT-AC1200G-plus/HelpDesk_BIOS/
 https://www.asus.com/Networking/RT-AC2900/HelpDesk_BIOS/
@@ -51,6 +57,7 @@ https://www.asus.com/supportonly/RT-AC86U/HelpDesk_download/
 https://www.asus.com/supportonly/RT-AC88U/HelpDesk_download/
 https://www.asus.com/tw/News/qnEosWKPVDpmOeqL
 https://www.asus.com/tw/support/callus/
+https://www.asus.com/tw/supportonly/P453UJ/HelpDesk_BIOS/
 https://www.asus.com/us/ASUSWRT/
 https://www.asus.com/us/Networking/RT-AC1200/HelpDesk_BIOS/
 https://www.asus.com/us/Networking/RT-AC1750/HelpDesk_BIOS/

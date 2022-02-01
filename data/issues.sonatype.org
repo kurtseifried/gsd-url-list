@@ -2,3 +2,4 @@ https://issues.sonatype.org/browse/NEXUS-25019
 https://issues.sonatype.org/plugins/servlet/mobile#issue/NEXUS-16870
 https://issues.sonatype.org/secure/ReleaseNote.jspa
 https://issues.sonatype.org/secure/ReleaseNote.jspa?version=17493&amp;amp;projectId=10001
+https://issues.sonatype.org/secure/ReleaseNote.jspa?version=17493&projectId=10001

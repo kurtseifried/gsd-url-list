@@ -74,6 +74,10 @@ http://www.mail-archive.com/user@cassandra.apache.org/msg41819.html
 http://www.mail-archive.com/v8-dev@googlegroups.com/msg79646.html
 https://www.mail-archive.com/amd-gfx@lists.freedesktop.org/msg69080.html
 https://www.mail-archive.com/announce@apache.org/msg06076.html
+https://www.mail-archive.com/bug-hurd@gnu.org/msg32112.html
+https://www.mail-archive.com/bug-hurd@gnu.org/msg32113.html
+https://www.mail-archive.com/bug-hurd@gnu.org/msg32114.html
+https://www.mail-archive.com/bug-hurd@gnu.org/msg32116.html
 https://www.mail-archive.com/cas-user@lists.jasig.org/msg17338.html
 https://www.mail-archive.com/debian-bugs-dist@lists.debian.org/msg1096253.html
 https://www.mail-archive.com/debian-bugs-dist@lists.debian.org/msg1113881.html

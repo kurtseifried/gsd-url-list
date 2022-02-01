@@ -1,3 +1,6 @@
+https://cwe.mitre.org/data/definitions/1031.html
 https://cwe.mitre.org/data/definitions/121.html
+https://cwe.mitre.org/data/definitions/15.html
+https://cwe.mitre.org/data/definitions/336.html
 https://cwe.mitre.org/data/definitions/377.html
 https://cwe.mitre.org/data/definitions/78.html

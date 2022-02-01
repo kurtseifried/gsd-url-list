@@ -33,6 +33,7 @@ http://issues.apache.org/jira/browse/LOG4NET-67
 http://issues.apache.org/jira/browse/XERCESC-1051
 http://issues.apache.org/jira/secure/ReleaseNote.jspa?version=12312536&amp;amp;styleName=Text&amp;amp;projectId=12310272
 http://issues.apache.org/jira/secure/ReleaseNote.jspa?version=12312536&amp;styleName=Text&amp;projectId=12310272
+http://issues.apache.org/jira/secure/ReleaseNote.jspa?version=12312536&styleName=Text&projectId=12310272
 http://issues.apache.org/roller/browse/ROL-1766
 http://issues.apache.org/struts/browse/WW-2030
 http://issues.apache.org/struts/browse/WW-2692
@@ -74,7 +75,10 @@ https://issues.apache.org/jira/browse/AMQ-4398
 https://issues.apache.org/jira/browse/AMQ-5333
 https://issues.apache.org/jira/browse/AMQ-6013
 https://issues.apache.org/jira/browse/AMQ-6470
+https://issues.apache.org/jira/browse/AMQ-8035
 https://issues.apache.org/jira/browse/APLO-366
+https://issues.apache.org/jira/browse/ARTEMIS-2895
+https://issues.apache.org/jira/browse/ARTEMIS-2964
 https://issues.apache.org/jira/browse/AXIS-2905
 https://issues.apache.org/jira/browse/AXIS-2924
 https://issues.apache.org/jira/browse/AXIS2-4450
@@ -121,8 +125,14 @@ https://issues.apache.org/jira/browse/JUDDI-987
 https://issues.apache.org/jira/browse/KARAF-4993
 https://issues.apache.org/jira/browse/KARAF-5427
 https://issues.apache.org/jira/browse/LIBCLOUD-55
+https://issues.apache.org/jira/browse/LOG4J2-1133
 https://issues.apache.org/jira/browse/LOG4J2-1863
+https://issues.apache.org/jira/browse/LOG4J2-2109
 https://issues.apache.org/jira/browse/LOG4J2-2819
+https://issues.apache.org/jira/browse/LOG4J2-313
+https://issues.apache.org/jira/browse/LOG4J2-3201
+https://issues.apache.org/jira/browse/LOG4J2-3208
+https://issues.apache.org/jira/browse/LOG4J2-3293
 https://issues.apache.org/jira/browse/LOG4NET-575
 https://issues.apache.org/jira/browse/MYFACES-2749
 https://issues.apache.org/jira/browse/NUTCH-2841
@@ -203,8 +213,11 @@ https://issues.apache.org/jira/browse/ZOOKEEPER-1392
 https://issues.apache.org/jira/browse/ZOOKEEPER-2693
 https://issues.apache.org/jira/issues/?jql=fixVersion%20%3D%20%220.21%22%20AND%20project%20%3D%20QPID
 https://issues.apache.org/jira/secure/ReleaseNote.jspa?projectId=10510&amp;amp;version=12336069
+https://issues.apache.org/jira/secure/ReleaseNote.jspa?projectId=10510&version=12336069
 https://issues.apache.org/jira/secure/ReleaseNote.jspa?projectId=12311210&amp;amp;version=12323282
+https://issues.apache.org/jira/secure/ReleaseNote.jspa?projectId=12311210&version=12323282
 https://issues.apache.org/jira/secure/ReleaseNote.jspa?version=12310181&amp;amp;styleName=Html&amp;amp;projectId=10220&amp;amp;Create=Create
+https://issues.apache.org/jira/secure/ReleaseNote.jspa?version=12310181&styleName=Html&projectId=10220&Create=Create
 https://issues.apache.org/jira/secure/attachment/12504807/MYFACES-3405-1.patch
 https://issues.apache.org/struts/browse/STR-2781
 https://issues.apache.org/struts/browse/TILES-351

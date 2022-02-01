@@ -1,1 +1,2 @@
 http://www.unicode.org/reports/tr31/tr31-26.html#Aspirational_Use_Scripts
+http://www.unicode.org/versions/Unicode14.0.0/

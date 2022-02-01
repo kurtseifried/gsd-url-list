@@ -7,3 +7,4 @@ https://www.secomea.com/support/cybersecurity-advisory/#2923
 https://www.secomea.com/support/cybersecurity-advisory/#3042
 https://www.secomea.com/support/cybersecurity-advisory/#3217
 https://www.secomea.com/support/cybersecurity-advisory/#3737
+https://www.secomea.com/support/cybersecurity-advisory/#4578

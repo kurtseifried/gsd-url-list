@@ -61,4 +61,7 @@ https://www.facebook.com/security/advisories/cve-2021-24032
 https://www.facebook.com/security/advisories/cve-2021-24033
 https://www.facebook.com/security/advisories/cve-2021-24036
 https://www.facebook.com/security/advisories/cve-2021-24038
+https://www.facebook.com/security/advisories/cve-2021-24044
+https://www.facebook.com/security/advisories/cve-2021-24045
+https://www.facebook.com/security/advisories/cve-2021-24046
 https://www.facebook.com/tigerBOY777/videos/1368513696568992/

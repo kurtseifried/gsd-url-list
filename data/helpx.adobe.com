@@ -90,6 +90,7 @@ https://helpx.adobe.com/security/products/acrobat/apsb21-29.html
 https://helpx.adobe.com/security/products/acrobat/apsb21-37.html
 https://helpx.adobe.com/security/products/acrobat/apsb21-51.html
 https://helpx.adobe.com/security/products/acrobat/apsb21-55.html
+https://helpx.adobe.com/security/products/acrobat/apsb22-01.html
 https://helpx.adobe.com/security/products/acrobat/aspb17-36.html
 https://helpx.adobe.com/security/products/adm/apsb19-51.html
 https://helpx.adobe.com/security/products/adm/apsb20-49.html
@@ -106,6 +107,7 @@ https://helpx.adobe.com/security/products/after_effects/apsb20-62.html
 https://helpx.adobe.com/security/products/after_effects/apsb21-33.html
 https://helpx.adobe.com/security/products/after_effects/apsb21-49.html
 https://helpx.adobe.com/security/products/after_effects/apsb21-54.html
+https://helpx.adobe.com/security/products/after_effects/apsb21-79.html
 https://helpx.adobe.com/security/products/air/apsb16-23.html
 https://helpx.adobe.com/security/products/air/apsb16-31.html
 https://helpx.adobe.com/security/products/analytics/apsb16-13.html
@@ -113,6 +115,7 @@ https://helpx.adobe.com/security/products/animate/apsb16-38.html
 https://helpx.adobe.com/security/products/animate/apsb19-34.html
 https://helpx.adobe.com/security/products/animate/apsb20-61.html
 https://helpx.adobe.com/security/products/animate/apsb21-03.html
+https://helpx.adobe.com/security/products/animate/apsb21-105.html
 https://helpx.adobe.com/security/products/animate/apsb21-11.html
 https://helpx.adobe.com/security/products/animate/apsb21-21.html
 https://helpx.adobe.com/security/products/animate/apsb21-35.html
@@ -120,6 +123,8 @@ https://helpx.adobe.com/security/products/animate/apsb21-50.html
 https://helpx.adobe.com/security/products/application_manager/apsb19-45.html
 https://helpx.adobe.com/security/products/audition/apsb20-28.html
 https://helpx.adobe.com/security/products/audition/apsb20-40.html
+https://helpx.adobe.com/security/products/audition/apsb21-121.html
+https://helpx.adobe.com/security/products/audition/apsb21-62.html
 https://helpx.adobe.com/security/products/brackets/apsb16-20.html
 https://helpx.adobe.com/security/products/brackets/apsb19-57.html
 https://helpx.adobe.com/security/products/bridge/apsb15-13.html
@@ -133,11 +138,14 @@ https://helpx.adobe.com/security/products/bridge/apsb21-07.html
 https://helpx.adobe.com/security/products/bridge/apsb21-23.html
 https://helpx.adobe.com/security/products/bridge/apsb21-53.html
 https://helpx.adobe.com/security/products/bridge/apsb21-69.html
+https://helpx.adobe.com/security/products/bridge/apsb22-03.html
 https://helpx.adobe.com/security/products/campaign/apsb17-03.html
+https://helpx.adobe.com/security/products/campaign/apsb17-06.html
 https://helpx.adobe.com/security/products/campaign/apsb17-09.html
 https://helpx.adobe.com/security/products/campaign/apsb19-28.html
 https://helpx.adobe.com/security/products/campaign/apsb20-34.html
 https://helpx.adobe.com/security/products/campaign/apsb21-04.html
+https://helpx.adobe.com/security/products/campaign/apsb21-52.html
 https://helpx.adobe.com/security/products/captivate/apsb17-19.html
 https://helpx.adobe.com/security/products/captivate/apsb21-06.html
 https://helpx.adobe.com/security/products/captivate/apsb21-60.html
@@ -188,10 +196,12 @@ https://helpx.adobe.com/security/products/creative-cloud/apsb19-39.html
 https://helpx.adobe.com/security/products/creative-cloud/apsb20-11.html
 https://helpx.adobe.com/security/products/creative-cloud/apsb20-33.html
 https://helpx.adobe.com/security/products/creative-cloud/apsb20-68.html
+https://helpx.adobe.com/security/products/creative-cloud/apsb21-111.html
 https://helpx.adobe.com/security/products/creative-cloud/apsb21-18.html
 https://helpx.adobe.com/security/products/creative-cloud/apsb21-31.html
 https://helpx.adobe.com/security/products/creative-cloud/apsb21-41.html
 https://helpx.adobe.com/security/products/creative-cloud/apsb21-76.html
+https://helpx.adobe.com/security/products/dimension/apsb21-116.html
 https://helpx.adobe.com/security/products/dimension/apsb21-40.html
 https://helpx.adobe.com/security/products/dng-converter/apsb16-41.html
 https://helpx.adobe.com/security/products/dng-converter/apsb17-37.html
@@ -222,6 +232,7 @@ https://helpx.adobe.com/security/products/experience-manager/apsb20-15.html
 https://helpx.adobe.com/security/products/experience-manager/apsb20-31.html
 https://helpx.adobe.com/security/products/experience-manager/apsb20-56.html
 https://helpx.adobe.com/security/products/experience-manager/apsb20-72.html
+https://helpx.adobe.com/security/products/experience-manager/apsb21-103.html
 https://helpx.adobe.com/security/products/experience-manager/apsb21-15.html
 https://helpx.adobe.com/security/products/experience-manager/apsb21-39.html
 https://helpx.adobe.com/security/products/experience-manager/apsb21-82.html
@@ -307,17 +318,22 @@ https://helpx.adobe.com/security/products/illustrator/apsb21-02.html
 https://helpx.adobe.com/security/products/illustrator/apsb21-12.html
 https://helpx.adobe.com/security/products/illustrator/apsb21-24.html
 https://helpx.adobe.com/security/products/illustrator/apsb21-42.html
+https://helpx.adobe.com/security/products/illustrator/apsb22-02.html
 https://helpx.adobe.com/security/products/incopy/apsb21-05.html
+https://helpx.adobe.com/security/products/incopy/apsb21-110.html
 https://helpx.adobe.com/security/products/incopy/apsb21-25.html
 https://helpx.adobe.com/security/products/incopy/apsb21-71.html
+https://helpx.adobe.com/security/products/incopy/apsb22-04.html
 https://helpx.adobe.com/security/products/indesign/apsb16-43.html
 https://helpx.adobe.com/security/products/indesign/apsb17-38.html
 https://helpx.adobe.com/security/products/indesign/apsb18-11.html
 https://helpx.adobe.com/security/products/indesign/apsb19-23.html
 https://helpx.adobe.com/security/products/indesign/apsb20-52.html
 https://helpx.adobe.com/security/products/indesign/apsb20-66.html
+https://helpx.adobe.com/security/products/indesign/apsb21-107.html
 https://helpx.adobe.com/security/products/indesign/apsb21-22.html
 https://helpx.adobe.com/security/products/indesign/apsb21-73.html
+https://helpx.adobe.com/security/products/indesign/apsb22-05.html
 https://helpx.adobe.com/security/products/integrity_service/apsb20-12.html
 https://helpx.adobe.com/security/products/integrity_service/apsb20-42.html
 https://helpx.adobe.com/security/products/integrity_service/apsb21-27.html
@@ -345,6 +361,7 @@ https://helpx.adobe.com/security/products/media-encoder/apsb20-65.html
 https://helpx.adobe.com/security/products/media-encoder/apsb21-32.html
 https://helpx.adobe.com/security/products/media-encoder/apsb21-43.html
 https://helpx.adobe.com/security/products/media-encoder/apsb21-70.html
+https://helpx.adobe.com/security/products/media-encoder/apsb21-99.html
 https://helpx.adobe.com/security/products/medium/apsb21-34.html
 https://helpx.adobe.com/security/products/ops_cli/apsb21-88.html
 https://helpx.adobe.com/security/products/phonegap/apsb18-15.html
@@ -374,6 +391,7 @@ https://helpx.adobe.com/security/products/prelude/apsb19-35.html
 https://helpx.adobe.com/security/products/prelude/apsb20-46.html
 https://helpx.adobe.com/security/products/prelude/apsb20-70.html
 https://helpx.adobe.com/security/products/prelude/apsb21-58.html
+https://helpx.adobe.com/security/products/prelude/apsb21-96.html
 https://helpx.adobe.com/security/products/premiere_elements/apsb21-47.html
 https://helpx.adobe.com/security/products/premiere_elements/apsb21-78.html
 https://helpx.adobe.com/security/products/premiere_pro/apsb19-33.html
@@ -384,6 +402,7 @@ https://helpx.adobe.com/security/products/premiere_pro/apsb21-56.html
 https://helpx.adobe.com/security/products/premiere_pro/apsb21-67.html
 https://helpx.adobe.com/security/products/premiere_rush/apsb20-29.html
 https://helpx.adobe.com/security/products/premiere_rush/apsb20-39.html
+https://helpx.adobe.com/security/products/premiere_rush/apsb21-101.html
 https://helpx.adobe.com/security/products/premiereclip/apsb15-31.html
 https://helpx.adobe.com/security/products/reader-mobile/apsb20-50.html
 https://helpx.adobe.com/security/products/reader-mobile/apsb20-71.html
@@ -391,6 +410,7 @@ https://helpx.adobe.com/security/products/reader-mobile/apsb21-89.html
 https://helpx.adobe.com/security/products/reader/apsb15-10.html
 https://helpx.adobe.com/security/products/reader/apsb15-15.html
 https://helpx.adobe.com/security/products/robohelp-server/apsb16-12.html
+https://helpx.adobe.com/security/products/robohelp-server/apsb21-87.html
 https://helpx.adobe.com/security/products/robohelp/apsb16-46.html
 https://helpx.adobe.com/security/products/robohelp/apsb17-25.html
 https://helpx.adobe.com/security/products/robohelp/apsb21-20.html

@@ -23,11 +23,13 @@ https://www.blackhat.com/docs/us-16/materials/us-16-Kaiser-Pwning-Your-Java-Mess
 https://www.blackhat.com/docs/us-16/materials/us-16-Munoz-A-Journey-From-JNDI-LDAP-Manipulation-To-RCE-wp.pdf
 https://www.blackhat.com/docs/us-16/materials/us-16-Munoz-A-Journey-From-JNDI-LDAP-Manipulation-To-RCE.pdf
 https://www.blackhat.com/docs/us-17/thursday/us-17-Picod-Attacking-Encrypted-USB-Keys-The-Hard%28ware%29-Way.pdf
+https://www.blackhat.com/docs/us-17/thursday/us-17-Picod-Attacking-Encrypted-USB-Keys-The-Hard(ware)-Way.pdf
 https://www.blackhat.com/presentations/bh-dc-07/Cerrudo/Presentation/bh-dc-07-Cerrudo-ppt.pdf
 https://www.blackhat.com/presentations/bh-dc-09/Marlinspike/BlackHat-DC-09-Marlinspike-Defeating-SSL.pdf
 https://www.blackhat.com/presentations/bh-jp-08/bh-jp-08-Miller/BlackHat-Japan-08-Miller-Hacking-OSX.pdf
 https://www.blackhat.com/us-13/archives.html#Butterworth
 https://www.blackhat.com/us-13/briefings.html#Prado
+https://www.blackhat.com/us-16/briefings/schedule/#a-journey-from-jndildap-manipulation-to-remote-code-execution-dream-land-3345
 https://www.blackhat.com/us-17/briefings.html#broadpwn-remotely-compromising-android-and-ios-via-a-bug-in-broadcoms-wi-fi-chipsets
 https://www.blackhat.com/us-17/briefings.html#friday-the-13th-json-attacks
 https://www.blackhat.com/us-17/briefings/schedule/index.html#attacking-encrypted-usb-keys-the-hardware-way-7443

@@ -174,3 +174,4 @@ https://security.freebsd.org/advisories/FreeBSD-SA-18:12.elf.asc
 https://security.freebsd.org/advisories/FreeBSD-SA-18:13.nfs.asc
 https://security.freebsd.org/advisories/FreeBSD-SA-18:14.bhyve.asc
 https://security.freebsd.org/advisories/FreeBSD-SA-18:15.bootpd.asc
+https://security.freebsd.org/advisories/FreeBSD-SA-22:01.vt.asc

@@ -9,3 +9,4 @@ https://libreswan.org/security/CVE-2019-10155/
 https://libreswan.org/security/CVE-2019-12312/CVE-2019-12312.txt
 https://libreswan.org/security/CVE-2019-12312/libreswan-3.27-CVE-2019-12312.patch
 https://libreswan.org/security/CVE-2020-1763/CVE-2020-1763.txt
+https://libreswan.org/security/CVE-2022-23094

@@ -119,6 +119,7 @@ http://www.huawei.com/en/psirt/security-advisories/huawei-sa-20161125-01-usg-en
 http://www.huawei.com/en/psirt/security-advisories/huawei-sa-20161130-01-espace-en
 http://www.huawei.com/en/psirt/security-advisories/huawei-sa-20161130-01-ldap-en
 http://www.huawei.com/en/psirt/security-advisories/huawei-sa-20161130-01-switch-en
+http://www.huawei.com/en/psirt/security-advisories/huawei-sa-20161207-01-dirtycow-en
 http://www.huawei.com/en/psirt/security-advisories/huawei-sa-20161207-01-smartphone-en
 http://www.huawei.com/en/psirt/security-advisories/huawei-sa-20161207-01-storage-en
 http://www.huawei.com/en/psirt/security-advisories/huawei-sa-20161214-01-firewall-en
@@ -147,6 +148,7 @@ http://www.huawei.com/en/psirt/security-advisories/huawei-sa-20170302-01-smartph
 http://www.huawei.com/en/psirt/security-advisories/huawei-sa-20170310-01-hilinkapp-en
 http://www.huawei.com/en/psirt/security-advisories/huawei-sa-20170315-01-smartphone-en
 http://www.huawei.com/en/psirt/security-advisories/huawei-sa-20170322-01-hilinkapp-en
+http://www.huawei.com/en/psirt/security-advisories/huawei-sa-20170322-01-openssl-en
 http://www.huawei.com/en/psirt/security-advisories/huawei-sa-20170322-01-smartphone-en
 http://www.huawei.com/en/psirt/security-advisories/huawei-sa-20170329-01-smartphone-en
 http://www.huawei.com/en/psirt/security-advisories/huawei-sa-20170329-01-vcm-en
@@ -219,6 +221,7 @@ http://www.huawei.com/en/psirt/security-advisories/huawei-sa-20171025-01-opensta
 http://www.huawei.com/en/psirt/security-advisories/huawei-sa-20171025-01-overflow-en
 http://www.huawei.com/en/psirt/security-advisories/huawei-sa-20171030-01-smartphone-en
 http://www.huawei.com/en/psirt/security-advisories/huawei-sa-20171101-01-sccpx-en
+http://www.huawei.com/en/psirt/security-advisories/huawei-sa-20171103-01-dnsmasq-en
 http://www.huawei.com/en/psirt/security-advisories/huawei-sa-20171108-01-fusionsphere-en
 http://www.huawei.com/en/psirt/security-advisories/huawei-sa-20171108-01-nfc-en
 http://www.huawei.com/en/psirt/security-advisories/huawei-sa-20171108-01-smartphone-en
@@ -233,6 +236,7 @@ http://www.huawei.com/en/psirt/security-advisories/huawei-sa-20171125-01-baseban
 http://www.huawei.com/en/psirt/security-advisories/huawei-sa-20171129-01-cert-en
 http://www.huawei.com/en/psirt/security-advisories/huawei-sa-20171129-01-command-en
 http://www.huawei.com/en/psirt/security-advisories/huawei-sa-20171129-01-h323-en
+http://www.huawei.com/en/psirt/security-advisories/huawei-sa-20171129-01-ntpd-en
 http://www.huawei.com/en/psirt/security-advisories/huawei-sa-20171129-01-phone-en
 http://www.huawei.com/en/psirt/security-advisories/huawei-sa-20171129-01-routers-en
 http://www.huawei.com/en/psirt/security-advisories/huawei-sa-20171129-01-sctp-en
@@ -509,6 +513,7 @@ http://www.huawei.com/us/psirt/security-advisories/2014/hw-362701
 http://www.huawei.com/us/psirt/security-advisories/2014/hw-376152
 https://www.huawei.com/en/psirt/security-advisories/huawei-sa-20170306-01-smartphone-en
 https://www.huawei.com/en/psirt/security-advisories/huawei-sa-20171220-02-cidam-en
+https://www.huawei.com/en/psirt/security-advisories/huawei-sa-20180530-01-smartphone-en
 https://www.huawei.com/en/psirt/security-advisories/huawei-sa-20180629-01-smartphone-en
 https://www.huawei.com/en/psirt/security-advisories/huawei-sa-20180630-01-cops-en
 https://www.huawei.com/en/psirt/security-advisories/huawei-sa-20180630-01-sccp-en
@@ -593,6 +598,7 @@ https://www.huawei.com/en/psirt/security-advisories/huawei-sa-20200226-01-smartp
 https://www.huawei.com/en/psirt/security-advisories/huawei-sa-20200311-01-buffer-en
 https://www.huawei.com/en/psirt/security-advisories/huawei-sa-20200311-01-informationleak-en
 https://www.huawei.com/en/psirt/security-advisories/huawei-sa-20200311-01-integrity-en
+https://www.huawei.com/en/psirt/security-advisories/huawei-sa-20200311-01-smartphone-en
 https://www.huawei.com/en/psirt/security-advisories/huawei-sa-202003116-01-smartphone-en
 https://www.huawei.com/en/psirt/security-advisories/huawei-sa-20200318-01-authentication-en
 https://www.huawei.com/en/psirt/security-advisories/huawei-sa-20200318-01-free-en
@@ -749,6 +755,7 @@ https://www.huawei.com/en/psirt/security-advisories/huawei-sa-20210210-02-dos-en
 https://www.huawei.com/en/psirt/security-advisories/huawei-sa-20210210-03-dos-en
 https://www.huawei.com/en/psirt/security-advisories/huawei-sa-20210218-01-privilege-en
 https://www.huawei.com/en/psirt/security-advisories/huawei-sa-20210324-01-dos-en
+https://www.huawei.com/en/psirt/security-advisories/huawei-sa-20210324-01-xss-en
 https://www.huawei.com/en/psirt/security-advisories/huawei-sa-20210331-01-js-en
 https://www.huawei.com/en/psirt/security-advisories/huawei-sa-20210331-01-p30-en
 https://www.huawei.com/en/psirt/security-advisories/huawei-sa-20210331-01-smartphone-en
@@ -764,6 +771,7 @@ https://www.huawei.com/en/psirt/security-advisories/huawei-sa-20210506-01-inputv
 https://www.huawei.com/en/psirt/security-advisories/huawei-sa-20210506-01-memleak-en
 https://www.huawei.com/en/psirt/security-advisories/huawei-sa-20210506-02-outofbounds-en
 https://www.huawei.com/en/psirt/security-advisories/huawei-sa-20210512-01-dos-en
+https://www.huawei.com/en/psirt/security-advisories/huawei-sa-20210512-01-infomationleak-en
 https://www.huawei.com/en/psirt/security-advisories/huawei-sa-20210519-01-cloudengine-en
 https://www.huawei.com/en/psirt/security-advisories/huawei-sa-20210519-01-resource-en
 https://www.huawei.com/en/psirt/security-advisories/huawei-sa-20210519-02-cgp-en
@@ -784,7 +792,9 @@ https://www.huawei.com/en/psirt/security-advisories/huawei-sa-20210714-01-pe-en
 https://www.huawei.com/en/psirt/security-advisories/huawei-sa-20210714-01-privilege-en
 https://www.huawei.com/en/psirt/security-advisories/huawei-sa-20210714-01-smartphone-en
 https://www.huawei.com/en/psirt/security-advisories/huawei-sa-20210721-01-phones-en
+https://www.huawei.com/en/psirt/security-advisories/huawei-sa-20210818-01-informationleak-en
 https://www.huawei.com/en/psirt/security-advisories/huawei-sa-20210908-01-badauthorization-en
+https://www.huawei.com/en/psirt/security-advisories/huawei-sa-20210922-01-cmd-en
 https://www.huawei.com/en/psirt/security-advisories/huawei-sa-20210922-01-commandinjection-en
 https://www.huawei.com/en/psirt/security-advisories/huawei-sa-20210922-01-ssrf-en
 https://www.huawei.com/en/psirt/security-advisories/huawei-sa-20210922-01-upload-en
@@ -795,5 +805,11 @@ https://www.huawei.com/en/psirt/security-advisories/huawei-sa-20211020-01-csv-en
 https://www.huawei.com/en/psirt/security-advisories/huawei-sa-20211020-01-outofwrite-en
 https://www.huawei.com/en/psirt/security-advisories/huawei-sa-20211020-01-pathtraversal-en
 https://www.huawei.com/en/psirt/security-advisories/huawei-sa-20211020-01-signature-en
+https://www.huawei.com/en/psirt/security-advisories/huawei-sa-20211103-01-privilege-en
+https://www.huawei.com/en/psirt/security-advisories/huawei-sa-20211124-03-dos-en
+https://www.huawei.com/en/psirt/security-advisories/huawei-sa-20211208-01-informationleak-en
+https://www.huawei.com/en/psirt/security-advisories/huawei-sa-20211208-01-memleak-en
+https://www.huawei.com/en/psirt/security-advisories/huawei-sa-20211229-01-xss-en
 https://www.huawei.com/en/psirt/security-advisories/hw-417839
 https://www.huawei.com/en/psirt/security-notices/huawei-sn-20180903-01-b315s-en
+https://www.huawei.com/en/psirt/security-notices/huawei-sn-20211210-01-log4j2-en

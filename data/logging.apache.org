@@ -1,0 +1,3 @@
+https://logging.apache.org/log4j/1.2/index.html
+https://logging.apache.org/log4j/2.x/manual/lookups.html
+https://logging.apache.org/log4j/2.x/security.html

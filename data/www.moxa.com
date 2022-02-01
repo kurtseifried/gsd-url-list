@@ -4,6 +4,8 @@ http://www.moxa.com/support/download.aspx?type=support&amp;amp;id=328
 http://www.moxa.com/support/download.aspx?type=support&amp;amp;id=492
 http://www.moxa.com/support/download.aspx?type=support&amp;id=328
 http://www.moxa.com/support/download.aspx?type=support&amp;id=492
+http://www.moxa.com/support/download.aspx?type=support&id=328
+http://www.moxa.com/support/download.aspx?type=support&id=492
 https://www.moxa.com
 https://www.moxa.com/en/
 https://www.moxa.com/en/products/industrial-edge-connectivity/protocol-gateways/modbus-tcp-gateways/mgate-mb3180-mb3280-mb3480-series
@@ -16,3 +18,4 @@ https://www.moxa.com/en/support/support/security-advisory/mgate-5105-mb-eip-seri
 https://www.moxa.com/en/support/support/security-advisory/nport-5100a-series-serial-device-servers-vulnerability
 https://www.moxa.com/en/support/support/security-advisory/vport-461-series-industrial-video-servers-vulnerabilities
 https://www.moxa.com/support/download.aspx?type=support&amp;amp;id=15851
+https://www.moxa.com/support/download.aspx?type=support&id=15851

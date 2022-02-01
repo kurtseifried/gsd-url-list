@@ -132,6 +132,7 @@ https://android.googlesource.com/platform/frameworks/av/+/304ef91624e12661e7e35c
 https://android.googlesource.com/platform/frameworks/av/+/3097f364237fb552871f7639d37a7afa4563e252
 https://android.googlesource.com/platform/frameworks/av/+/321ea5257e37c8edb26e66fe4ee78cca4cd915fe
 https://android.googlesource.com/platform/frameworks/av/+/36b04932bb93cc3269279282686b439a17a89920
+https://android.googlesource.com/platform/frameworks/av/+/36d1577%5E!/
 https://android.googlesource.com/platform/frameworks/av/+/36d1577%5E%21/
 https://android.googlesource.com/platform/frameworks/av/+/3944c65637dfed14a5a895685edfa4bacaf9f76e
 https://android.googlesource.com/platform/frameworks/av/+/3b1c9f692c4d4b7a683c2b358fc89e831a641b88
@@ -165,6 +166,7 @@ https://android.googlesource.com/platform/frameworks/av/+/6dc6c38%5E%21/
 https://android.googlesource.com/platform/frameworks/av/+/6f1d990ce0f116a205f467d9eb2082795e33872b
 https://android.googlesource.com/platform/frameworks/av/+/6fdee2a83432b3b150d6a34f231c4e2f7353c01e
 https://android.googlesource.com/platform/frameworks/av/+/6fe85f7e15203e48df2cc3e8e1c4bc6ad49dc968
+https://android.googlesource.com/platform/frameworks/av/+/74adca9%5E!/
 https://android.googlesource.com/platform/frameworks/av/+/74adca9%5E%21/
 https://android.googlesource.com/platform/frameworks/av/+/7a282fb64fef25349e9d341f102d9cea3bf75baf
 https://android.googlesource.com/platform/frameworks/av/+/7a3246b870ddd11861eda2ab458b11d723c7f62c
@@ -246,6 +248,7 @@ https://android.googlesource.com/platform/frameworks/base/+/63363af721650e426db5
 https://android.googlesource.com/platform/frameworks/base/+/69729fa8b13cadbf3173fe1f389fe4f3b7bd0f9c
 https://android.googlesource.com/platform/frameworks/base/+/6c049120c2d749f0c0289d822ec7d0aa692f55c5
 https://android.googlesource.com/platform/frameworks/base/+/6ca6cd5a50311d58a1b7bf8fbef3f9aa29eadcd5
+https://android.googlesource.com/platform/frameworks/base/+/7bc601d%5E!/#F0
 https://android.googlesource.com/platform/frameworks/base/+/7bc601d%5E%21/#F0
 https://android.googlesource.com/platform/frameworks/base/+/81be4e3aac55305cbb5c9d523cf5c96c66604b39
 https://android.googlesource.com/platform/frameworks/base/+/866dc26ad4a98cc835d075b627326e7d7e52ffa1
@@ -257,6 +260,7 @@ https://android.googlesource.com/platform/frameworks/base/+/9878bb99b77c3681f0fd
 https://android.googlesource.com/platform/frameworks/base/+/9b8c6d2df35455ce9e67907edded1e4a2ecb9e28
 https://android.googlesource.com/platform/frameworks/base/+/a5e904e7eb3aaec532de83ca52e24af18e0496b4
 https://android.googlesource.com/platform/frameworks/base/+/a75537b496e9df71c74c1d045ba5569631a16298
+https://android.googlesource.com/platform/frameworks/base/+/a8f6d1b%5E!/
 https://android.googlesource.com/platform/frameworks/base/+/a8f6d1b%5E%21/
 https://android.googlesource.com/platform/frameworks/base/+/aaa0fee0d7a8da347a0c47cef5249c70efee209e
 https://android.googlesource.com/platform/frameworks/base/+/b87c968e5a41a1a09166199bf54eee12608f3900
@@ -305,6 +309,7 @@ https://android.googlesource.com/platform/frameworks/opt/telephony/+/df31d37d285
 https://android.googlesource.com/platform/frameworks/opt/telephony/+/f47bc301ccbc5e6d8110afab5a1e9bac1d4ef058
 https://android.googlesource.com/platform/hardware/broadcom/wlan/+/2c5a4fac8bc8198f6a2635ede776f8de40a0c3e1
 https://android.googlesource.com/platform/hardware/libhardware/+/8b3d5a64c3c8d010ad4517f652731f09107ae9c5
+https://android.googlesource.com/platform/hardware/libhardware_legacy/+/2d2ea50%5E!/
 https://android.googlesource.com/platform/hardware/libhardware_legacy/+/2d2ea50%5E%21/
 https://android.googlesource.com/platform/hardware/qcom/audio/+/073a80800f341325932c66818ce4302b312909a4
 https://android.googlesource.com/platform/hardware/qcom/audio/+/d72ea85c78a1a68bf99fd5804ad9784b4102fe57
@@ -355,9 +360,11 @@ https://android.googlesource.com/platform/system/bt/+/514139f4b40cbb035bb92f3e24
 https://android.googlesource.com/platform/system/bt/+/5216e6120160b28d76e9ee4dff9995e772647511
 https://android.googlesource.com/platform/system/bt/+/6e4b8e505173f803a5fc05abc09f64eef89dc308
 https://android.googlesource.com/platform/system/bt/+/830cb39cb2a0f1bf6704d264e2a5c5029c175dd7
+https://android.googlesource.com/platform/system/bt/+/92a7bf8c44a236607c146240f3c0adc1ae01fedf
 https://android.googlesource.com/platform/system/bt/+/92a7bf8c44a236607c146240f3c0adc1ae01fedf,
 https://android.googlesource.com/platform/system/bt/+/9b534de2aca5d790c2a1c4d76b545f16137d95dd
 https://android.googlesource.com/platform/system/bt/+/9fe27a9b445f7e911286ed31c1087ceac567736b
+https://android.googlesource.com/platform/system/bt/+/d4a34fefbf292d1e02336e4e272da3ef1e3eef85
 https://android.googlesource.com/platform/system/bt/+/d4a34fefbf292d1e02336e4e272da3ef1e3eef85,
 https://android.googlesource.com/platform/system/bt/+/d77f1999ecece56c1cbb333f4ddc26f0b5bac2c5
 https://android.googlesource.com/platform/system/bt/+/dd28d8ddf2985d654781770c691c60b45d7f32b4

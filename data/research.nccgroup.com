@@ -11,4 +11,8 @@ https://research.nccgroup.com/2021/07/22/technical-advisory-stored-and-reflected
 https://research.nccgroup.com/2021/07/26/technical-advisory-sunhillo-sureline-unauthenticated-os-command-injection-cve-2021-36380/
 https://research.nccgroup.com/2021/09/14/technical-advisory-pdftron-javascript-urls-allowed-in-webviewer-ui-cve-2021-39307/
 https://research.nccgroup.com/2021/10/06/technical-advisory-open5gs-stack-buffer-overflow-during-pfcp-session-establishment-on-upf-cve-2021-41794
+https://research.nccgroup.com/2021/11/08/technical-advisory-arbitrary-signature-forgery-in-stark-bank-ecdsa-libraries/
+https://research.nccgroup.com/2021/11/12/technical-advisory-multiple-vulnerabilities-in-victure-wr1200-wifi-router-cve-2021-43282-cve-2021-43283-cve-2021-43284/
+https://research.nccgroup.com/2021/12/12/log4j-jndi-be-gone-a-simple-mitigation-for-cve-2021-44228/
+https://research.nccgroup.com/2021/12/12/log4shell-reconnaissance-and-post-exploitation-network-detection/
 https://research.nccgroup.com/?research=Technical%20advisories

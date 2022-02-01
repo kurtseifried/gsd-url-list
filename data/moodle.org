@@ -334,4 +334,8 @@ https://moodle.org/mod/forum/discuss.php?d=419651
 https://moodle.org/mod/forum/discuss.php?d=419652
 https://moodle.org/mod/forum/discuss.php?d=419653
 https://moodle.org/mod/forum/discuss.php?d=419654
+https://moodle.org/mod/forum/discuss.php?d=429095
+https://moodle.org/mod/forum/discuss.php?d=429097
+https://moodle.org/mod/forum/discuss.php?d=429099
+https://moodle.org/mod/forum/discuss.php?d=429100
 https://moodle.org/security/

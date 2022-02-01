@@ -1,7 +1,10 @@
 http://opensolution.org/Quick.Cart/forum/?p=readTopic&amp;amp;nr=3878
 http://opensolution.org/Quick.Cart/forum/?p=readTopic&amp;nr=3878
+http://opensolution.org/Quick.Cart/forum/?p=readTopic&nr=3878
 http://opensolution.org/download/Quick.Cart/changeLog.txt
 http://opensolution.org/forum/?p=readTopic&amp;amp;nr=948
 http://opensolution.org/forum/?p=readTopic&amp;nr=948
+http://opensolution.org/forum/?p=readTopic&nr=948
 https://opensolution.org/cms-system-quick-cms.html
+https://opensolution.org/security-fix-for-cart-and-cms!-en-1136.html
 https://opensolution.org/security-fix-for-cart-and-cms%21-en-1136.html

@@ -1,4 +1,6 @@
 http://cvs.drupal.org/viewcvs/drupal/contributions/modules/captcha/captcha.module?r1=1.25.2.1&amp;amp;r2=1.25.2.2
 http://cvs.drupal.org/viewcvs/drupal/contributions/modules/captcha/captcha.module?r1=1.25.2.1&amp;r2=1.25.2.2
+http://cvs.drupal.org/viewcvs/drupal/contributions/modules/captcha/captcha.module?r1=1.25.2.1&r2=1.25.2.2
 http://cvs.drupal.org/viewcvs/drupal/contributions/modules/textimage/captcha.inc?r1=1.1&amp;amp;r2=1.1.2.1
 http://cvs.drupal.org/viewcvs/drupal/contributions/modules/textimage/captcha.inc?r1=1.1&amp;r2=1.1.2.1
+http://cvs.drupal.org/viewcvs/drupal/contributions/modules/textimage/captcha.inc?r1=1.1&r2=1.1.2.1

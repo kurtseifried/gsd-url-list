@@ -36,6 +36,7 @@ http://www.trendmicro.com/vinfo/secadvisories/default6.asp?VName=Vulnerability+i
 http://www.trendmicro.com/vinfo/secadvisories/default6.asp?VName=Vulnerability+in+VSAPI+ARJ+parsing+could+allow+Remote+Code+execution
 http://www.trendmicro.com/vinfo/virusencyclo/default5.asp?VName=TROJ%5FMDROPPER%2EBH
 https://www.trendmicro.com/en_gb/research/21/f/bash-ransomware-darkradiation-targets-red-hat--and-debian-based-linux-distributions.html
+https://www.trendmicro.com/en_us/research/21/l/patch-now-apache-log4j-vulnerability-called-log4shell-being-acti.html
 https://www.trendmicro.com/vinfo/us/security/news/vulnerabilities-and-exploits/north-korean-hackers-allegedly-exploit-adobe-flash-player-vulnerability-cve-2018-4878-against-south-korean-targets
 https://www.trendmicro.com/vinfo/us/threat-encyclopedia/vulnerability/8131/zkteco-facedepot-7b-10213-and-zkbiosecurity-server-10020190723-long-lasting-token-vulnerability
 https://www.trendmicro.com/vinfo/us/threat-encyclopedia/vulnerability/8134/zkteco-facedepot-7b-10213-and-zkbiosecurity-server-10020190723-improper-privilege-vulnerability

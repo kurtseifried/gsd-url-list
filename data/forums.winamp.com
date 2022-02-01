@@ -2,6 +2,8 @@ http://forums.winamp.com/showthread.php?s=&amp;amp;threadid=202007
 http://forums.winamp.com/showthread.php?s=&amp;amp;threadid=238648
 http://forums.winamp.com/showthread.php?s=&amp;threadid=202007
 http://forums.winamp.com/showthread.php?s=&amp;threadid=238648
+http://forums.winamp.com/showthread.php?s=&threadid=202007
+http://forums.winamp.com/showthread.php?s=&threadid=238648
 http://forums.winamp.com/showthread.php?t=322995
 http://forums.winamp.com/showthread.php?t=324322
 http://forums.winamp.com/showthread.php?t=332010

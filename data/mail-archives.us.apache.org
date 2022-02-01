@@ -13,4 +13,5 @@ http://mail-archives.us.apache.org/mod_mbox/www-announce/201807.mbox/%3C20180722
 http://mail-archives.us.apache.org/mod_mbox/www-announce/201808.mbox/%3C0c616b4d-4e81-e7f8-b81d-1bb4c575aa33%40apache.org%3E
 http://mail-archives.us.apache.org/mod_mbox/www-announce/201903.mbox/%3CCAECwjAV1buZwg%2BMcV9EAQ19MeAWztPVJYD4zGK8kQdADFYij1w%40mail.gmail.com%3E
 http://mail-archives.us.apache.org/mod_mbox/www-announce/201909.mbox/%3CCAECwjAXU4%3DkAo5DeUJw7Kvk67sgCmajAN7LGZQNjbjZ8gv%3DBdw%40mail.gmail.com%3E
+http://mail-archives.us.apache.org/mod_mbox/www-announce/202112.mbox/%3C643bc702-4b46-411b-4980-1fcf637dbb11%40apache.org%3E
 https://mail-archives.us.apache.org/mod_mbox/www-announce/202010.mbox/%3CCAECwjAWCVLoVaZy%3DTNRQ6Wk9KWVxdPRiGS8NT%2BPHMJCxbbsEVg%40mail.gmail.com%3E

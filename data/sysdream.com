@@ -1,5 +1,6 @@
 http://sysdream.com/article.php?story_id=323&amp;amp;section_id=78
 http://sysdream.com/article.php?story_id=323&amp;section_id=78
+http://sysdream.com/article.php?story_id=323&section_id=78
 https://sysdream.com/news/lab/
 https://sysdream.com/news/lab/2016-10-19-spip-3-1-1-3-1-2-file-enumeration-path-traversal-cve-2016-7982/
 https://sysdream.com/news/lab/2016-10-19-spip-3-1-2-exec-code-cross-site-request-forgery-cve-2016-7980/

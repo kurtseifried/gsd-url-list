@@ -1,3 +1,4 @@
 https://jira.openolat.org/browse/OO-5548
 https://jira.openolat.org/browse/OO-5549
 https://jira.openolat.org/browse/OO-5696
+https://jira.openolat.org/browse/OO-5819

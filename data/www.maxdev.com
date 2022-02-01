@@ -7,4 +7,5 @@ http://www.maxdev.com/Article661.phtml
 http://www.maxdev.com/Downloads-index-req-dldet-lid-497-ttitle-Security_fix_for_MDPro_1.076.phtml
 http://www.maxdev.com/index.php?module=News&amp;amp;catid=&amp;amp;topic=2
 http://www.maxdev.com/index.php?module=News&amp;catid=&amp;topic=2
+http://www.maxdev.com/index.php?module=News&catid=&topic=2
 http://www.maxdev.com/mod-Areafiles-display-lid-557.phtml

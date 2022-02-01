@@ -1,4 +1,5 @@
 https://www.broadcom.com
+https://www.broadcom.com/products/storage/fibre-channel-host-bus-adapters/emulex-hba-manager
 https://www.broadcom.com/support/fibre-channel-networking/security-advisories/brocade-security-advisory-2017-177
 https://www.broadcom.com/support/fibre-channel-networking/security-advisories/brocade-security-advisory-2017-178
 https://www.broadcom.com/support/fibre-channel-networking/security-advisories/brocade-security-advisory-2017-179
@@ -8,6 +9,8 @@ https://www.broadcom.com/support/fibre-channel-networking/security-advisories/br
 https://www.broadcom.com/support/fibre-channel-networking/security-advisories/brocade-security-advisory-2017-227
 https://www.broadcom.com/support/fibre-channel-networking/security-advisories/brocade-security-advisory-2017-227/
 https://www.broadcom.com/support/fibre-channel-networking/security-advisories/brocade-security-advisory-2017-294/
+https://www.broadcom.com/support/fibre-channel-networking/security-advisories/brocade-security-advisory-2017-449
+https://www.broadcom.com/support/fibre-channel-networking/security-advisories/brocade-security-advisory-2017-449/
 https://www.broadcom.com/support/fibre-channel-networking/security-advisories/brocade-security-advisory-2018-525
 https://www.broadcom.com/support/fibre-channel-networking/security-advisories/brocade-security-advisory-2018-526
 https://www.broadcom.com/support/fibre-channel-networking/security-advisories/brocade-security-advisory-2018-728

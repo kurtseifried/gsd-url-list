@@ -5,3 +5,7 @@ https://appcheck-ng.com/advisory-remote-code-execution-traccar-server/
 https://appcheck-ng.com/appcheck-discovers-vulnerability-auth0-library-cve-2017-17068/
 https://appcheck-ng.com/cve-2020-29045/
 https://appcheck-ng.com/cve-2020-29047/
+https://appcheck-ng.com/persistent-xss-kentico-cms/
+https://appcheck-ng.com/security-advisory-duplicate-post-wordpress-plugin-sql-injection-vulnerability/
+https://appcheck-ng.com/umbraco-applicationurl-overwrite-persistent-password-reset-poison-cve-2022-22690-cve-2022-22691/
+https://appcheck-ng.com/wordpress-microsoft-office-365-azure-ad-login-persistent-cross-site-scripting/

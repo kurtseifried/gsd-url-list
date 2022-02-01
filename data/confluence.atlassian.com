@@ -32,6 +32,7 @@ https://confluence.atlassian.com/jira/jira-security-advisory-2015-12-09-79230779
 https://confluence.atlassian.com/jira/jira-server-for-slack-security-advisory-17th-february-2021-1044091690.html
 https://confluence.atlassian.com/jira063/jira-security-advisory-2017-03-09-875604401.html
 https://confluence.atlassian.com/jiracore/jira-core-7-1-x-release-notes-802161668.html#JIRACore7.1.xreleasenotes-v7.1.9v7.1.9-06July2016
+https://confluence.atlassian.com/kb/faq-for-cve-2021-44228-1103069406.html
 https://confluence.atlassian.com/pages/viewpage.action?pageId=1021244735
 https://confluence.atlassian.com/pages/viewpage.action?pageId=1051986099
 https://confluence.atlassian.com/pages/viewpage.action?pageId=1051986106

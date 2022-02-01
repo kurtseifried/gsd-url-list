@@ -1,2 +1,3 @@
 http://dbmail.org/index.php?page=news&amp;amp;id=44
 http://dbmail.org/index.php?page=news&amp;id=44
+http://dbmail.org/index.php?page=news&id=44

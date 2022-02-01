@@ -572,3 +572,4 @@ http://www.gentoo.org/security/en/glsa/glsa-201308-05.xml
 http://www.gentoo.org/security/en/glsa/glsa-201408-13.xml
 http://www.gentoo.org/security/en/glsa/glsa-201408-19.xml
 http://www.gentoo.org/security/en/glsa/glsa-201409-02.xml
+https://www.gentoo.org/news/2021/05/26/gentoo-freenode-channels-hijacked.html

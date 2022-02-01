@@ -8,5 +8,7 @@ https://bugzilla.tianocore.org/show_bug.cgi?id=2001
 https://bugzilla.tianocore.org/show_bug.cgi?id=2031
 https://bugzilla.tianocore.org/show_bug.cgi?id=2215
 https://bugzilla.tianocore.org/show_bug.cgi?id=2957
+https://bugzilla.tianocore.org/show_bug.cgi?id=3356
+https://bugzilla.tianocore.org/show_bug.cgi?id=3499
 https://bugzilla.tianocore.org/show_bug.cgi?id=686
 https://bugzilla.tianocore.org/show_bug.cgi?id=960

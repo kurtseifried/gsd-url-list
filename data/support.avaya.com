@@ -383,8 +383,10 @@ http://support.avaya.com/elmodocs2/security/ASA-2009-217.htm
 http://support.avaya.com/elmodocs2/security/ASA-2009-246.htm
 http://support.avaya.com/japple/css/japple?PAGE=avaya.css.OpenPage&amp;amp;temp.template.name=Avaya_P580_P882_Undocumented
 http://support.avaya.com/japple/css/japple?PAGE=avaya.css.OpenPage&amp;temp.template.name=Avaya_P580_P882_Undocumented
+http://support.avaya.com/japple/css/japple?PAGE=avaya.css.OpenPage&temp.template.name=Avaya_P580_P882_Undocumented
 http://support.avaya.com/japple/css/japple?temp.documentID=366362&amp;amp;temp.productID=154235&amp;amp;temp.releaseID=361845&amp;amp;temp.bucketID=126655&amp;amp;PAGE=Document
 http://support.avaya.com/japple/css/japple?temp.documentID=366362&amp;temp.productID=154235&amp;temp.releaseID=361845&amp;temp.bucketID=126655&amp;PAGE=Document
+http://support.avaya.com/japple/css/japple?temp.documentID=366362&temp.productID=154235&temp.releaseID=361845&temp.bucketID=126655&PAGE=Document
 http://support.avaya.com/security/Unauthorized_SNMP/index.jhtml
 https://support.avaya.com/css/P8/documents/100058487
 https://support.avaya.com/css/P8/documents/100127892
@@ -394,3 +396,4 @@ https://support.avaya.com/css/P8/documents/101072728
 https://support.avaya.com/css/P8/documents/101075574
 https://support.avaya.com/css/P8/documents/101076479
 https://support.avaya.com/css/P8/documents/101076523
+https://support.avaya.com/documents/documents-by-contenttype.action?product_id=P0941&product_name=Control+Manager&release_number=releaseId&contentType=ReleaseNotes

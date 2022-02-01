@@ -33,4 +33,6 @@ https://support.sonatype.com/hc/en-us/articles/360053516793
 https://support.sonatype.com/hc/en-us/articles/4402433828371
 https://support.sonatype.com/hc/en-us/articles/4404115639827
 https://support.sonatype.com/hc/en-us/articles/4405941762579
+https://support.sonatype.com/hc/en-us/articles/4408801690515-CVE-2021-42568-Nexus-Repository-Manager-3-Incorrect-Access-Control-October-27-2021
+https://support.sonatype.com/hc/en-us/articles/4409326330003
 https://support.sonatype.com/hc/en-us/categories/201980768-Welcome-to-the-Sonatype-Support-Knowledge-Base

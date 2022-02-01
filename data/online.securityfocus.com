@@ -1204,6 +1204,11 @@ http://online.securityfocus.com/bid/9980
 http://online.securityfocus.com/bid/9985
 http://online.securityfocus.com/cgi-bin/archive.pl?id=1&amp;start=2002-03-08&amp;end=2002-03-14&amp;mid=249623&amp;threads=1
 http://online.securityfocus.com/cgi-bin/archive.pl?id=1&amp;start=2002-03-11&amp;end=2002-03-17&amp;mid=195647&amp;threads=1
+http://online.securityfocus.com/cgi-bin/archive.pl?id=1&start=2002-03-08&end=2002-03-14&mid=249623&threads=1
+http://online.securityfocus.com/cgi-bin/archive.pl?id=1&start=2002-03-11&end=2002-03-17&mid=195647&threads=1
 http://online.securityfocus.com/cgi-bin/vulns-item.pl?section=info&amp;id=3787
 http://online.securityfocus.com/cgi-bin/vulns-item.pl?section=info&amp;id=3828
 http://online.securityfocus.com/cgi-bin/vulns-item.pl?section=info&amp;id=3861
+http://online.securityfocus.com/cgi-bin/vulns-item.pl?section=info&id=3787
+http://online.securityfocus.com/cgi-bin/vulns-item.pl?section=info&id=3828
+http://online.securityfocus.com/cgi-bin/vulns-item.pl?section=info&id=3861

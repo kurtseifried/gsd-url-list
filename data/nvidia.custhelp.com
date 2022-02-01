@@ -80,3 +80,6 @@ https://nvidia.custhelp.com/app/answers/detail/a_id/5211
 https://nvidia.custhelp.com/app/answers/detail/a_id/5216
 https://nvidia.custhelp.com/app/answers/detail/a_id/5219
 https://nvidia.custhelp.com/app/answers/detail/a_id/5230
+https://nvidia.custhelp.com/app/answers/detail/a_id/5259
+https://nvidia.custhelp.com/app/answers/detail/a_id/5263
+https://nvidia.custhelp.com/app/answers/detail/a_id/5295

@@ -4,13 +4,17 @@ http://www.zyxel.com/support/announcement_unauthenticated.shtml
 https://www.zyxel.com/support/CVE-2020-29583.shtml
 https://www.zyxel.com/support/P1302-T10D-v3-modem-insecure-direct-object-reference-vulnerability.shtml
 https://www.zyxel.com/support/SupportLandingSR.shtml?c=gb&amp;amp;l=en&amp;amp;kbid=M-01490&amp;amp;md=NBG2105
+https://www.zyxel.com/support/SupportLandingSR.shtml?c=gb&l=en&kbid=M-01490&md=NBG2105
 https://www.zyxel.com/support/Zyxel-security-advisory-for-CGI-vulnerability-of-LTE.shtml
 https://www.zyxel.com/support/Zyxel-security-advisory-for-NAS-remote-access-vulnerability.shtml
 https://www.zyxel.com/support/Zyxel-security-advisory-for-buffer-overflow-vulnerability.shtml
 https://www.zyxel.com/support/Zyxel-security-advisory-for-command-injection-vulnerability-of-firewalls.shtml
+https://www.zyxel.com/support/Zyxel_security_advisory_for_OS_command_injection_vulnerabilities_of_switches.shtml
 https://www.zyxel.com/support/Zyxel_security_advisory_for_XSS_vulnerability_of_GS1900_series_switches.shtml
 https://www.zyxel.com/support/Zyxel_security_advisory_for_attacks_against_security_appliances.shtml
 https://www.zyxel.com/support/Zyxel_security_advisory_for_directory_traversal_and_command_injection_vulnerabilities_of_VPN2S_Firewall.shtml
+https://www.zyxel.com/support/Zyxel_security_advisory_for_pre-configured_password_management_vulnerability_of_home_routers_and_WiFi_systems.shtml
+https://www.zyxel.com/support/Zyxel_security_advisory_for_sensitive_information_vulnerabilities_of_NBG6604_home_router.shtml
 https://www.zyxel.com/support/announcement_denial_of_service.shtml
 https://www.zyxel.com/support/bleichenbacher_attack_vulnerability.shtml
 https://www.zyxel.com/support/gs1900-switch-vulnerabilities.shtml

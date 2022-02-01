@@ -14,6 +14,7 @@ http://support.lenovo.com/us/en/solutions/LEN-26626
 http://support.lenovo.com/us/en/solutions/LEN-26771
 http://support.lenovo.com/us/en/solutions/LEN-26976
 http://support.lenovo.com/us/en/solutions/LEN-27096
+https://support.lenovo.com/bg/en/product_security/len-24573
 https://support.lenovo.com/de/en/product_security/len-30041
 https://support.lenovo.com/product_security/LEN-14054
 https://support.lenovo.com/product_security/LEN-15999
@@ -116,6 +117,9 @@ https://support.lenovo.com/us/en/product_security/LEN-52117
 https://support.lenovo.com/us/en/product_security/LEN-5700
 https://support.lenovo.com/us/en/product_security/LEN-59174
 https://support.lenovo.com/us/en/product_security/LEN-65529
+https://support.lenovo.com/us/en/product_security/LEN-66347
+https://support.lenovo.com/us/en/product_security/LEN-67440
+https://support.lenovo.com/us/en/product_security/LEN-72619
 https://support.lenovo.com/us/en/product_security/LEN-9896
 https://support.lenovo.com/us/en/product_security/LEN_10605
 https://support.lenovo.com/us/en/product_security/len-14200

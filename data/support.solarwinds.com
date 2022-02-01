@@ -9,9 +9,13 @@ https://support.solarwinds.com/SuccessCenter/s/article/Mitigate-the-Stored-XSS-i
 https://support.solarwinds.com/SuccessCenter/s/article/Mitigate-the-Stored-XSS-via-Help-Server-setting-CVE-2021-35240?language=en_US
 https://support.solarwinds.com/SuccessCenter/s/article/NPM-2020-2-6-Hotfix-2?language=en_US
 https://support.solarwinds.com/SuccessCenter/s/article/Orion-Platform-2019-4-Hotfix-3?ui-force-components-controllers-recordGlobalValueProvider.RecordGvp.getRecord=1&amp;amp;r=116&amp;amp;ui-knowledge-components-aura-actions.KnowledgeArticleVersionCreateDraftFromOnlineAction.createDraftFromOnlineArticle=1
+https://support.solarwinds.com/SuccessCenter/s/article/Orion-Platform-2019-4-Hotfix-3?ui-force-components-controllers-recordGlobalValueProvider.RecordGvp.getRecord=1&r=116&ui-knowledge-components-aura-actions.KnowledgeArticleVersionCreateDraftFromOnlineAction.createDraftFromOnlineArticle=1
 https://support.solarwinds.com/SuccessCenter/s/article/Orion-Platform-2020-2-6-Hotfix-1?language=en_US
+https://support.solarwinds.com/SuccessCenter/s/article/Orion-Platform-2020-2-6-Hotfix-3
+https://support.solarwinds.com/SuccessCenter/s/article/Orion-Platform-2020-2-6-Hotfix-3?language=en_US
 https://support.solarwinds.com/SuccessCenter/s/article/Serv-U-15-1-6-HotFix-2
 https://support.solarwinds.com/SuccessCenter/s/article/Serv-U-15-1-6-Hotfix-3?language=en_US
 https://support.solarwinds.com/SuccessCenter/s/article/Serv-U-Potential-elevation-of-privileges-on-Linux-systems
+https://support.solarwinds.com/SuccessCenter/s/article/Web-Help-Desk-12-7-7-Hotfix-1-Release-Notes?language=en_US
 https://support.solarwinds.com/SuccessCenter/s/orion-platform
 https://support.solarwinds.com/Success_Center/Orion_Platform/Orion_Documentation/Additional_Resources/Orion_Platform_2018-4_Hotfix_2

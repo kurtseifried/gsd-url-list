@@ -1,3 +1,6 @@
+https://www.westerndigital.com/en-ap/support/product-security/wdc-21014-sandisk-secureaccess-software-update
+https://www.westerndigital.com/support/product-security/wdc-22002-my-cloud-os5-firmware-5-19-117
+https://www.westerndigital.com/support/product-security/wdc-22003-edgerover-desktop-app-version-1-5-0-576
 https://www.westerndigital.com/support/productsecurity
 https://www.westerndigital.com/support/productsecurity/wdc-19006-sandisk-x600-sata-ssd
 https://www.westerndigital.com/support/productsecurity/wdc-19007-sandisk-x300-x400-sata-s

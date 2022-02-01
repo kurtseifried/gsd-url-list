@@ -7,3 +7,5 @@ https://jetpack.com/2021/06/09/motor-wordpress-theme-vulnerabilities/
 https://jetpack.com/2021/07/07/multiple-vulnerabilities-in-workreap-theme/
 https://jetpack.com/2021/08/05/privilege-escalation-in-hm-multiple-roles-wordpress-plugin/
 https://jetpack.com/2021/09/14/csrf-vulnerability-found-in-software-license-manager-plugin/
+https://jetpack.com/2021/10/29/security-issues-patched-in-smash-balloon-social-post-feed-plugin/
+https://jetpack.com/2021/12/14/severe-vulnerabilities-fixed-in-all-in-one-seo-plugin-version-4-1-5-3/

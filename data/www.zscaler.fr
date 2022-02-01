@@ -1,0 +1,1 @@
+https://www.zscaler.fr/blogs/security-research/security-advisory-log4j-0-day-remote-code-execution-vulnerability-cve-2021

@@ -1,5 +1,6 @@
 http://support.google.com/sketchup/bin/static.py?hl=en&amp;amp;page=release_notes.cs&amp;amp;rd=1
 http://support.google.com/sketchup/bin/static.py?hl=en&amp;page=release_notes.cs&amp;rd=1
+http://support.google.com/sketchup/bin/static.py?hl=en&page=release_notes.cs&rd=1
 http://support.google.com/sketchup/bin/static.py?page=release_notes.cs
 https://support.google.com/earth/answer/40901
 https://support.google.com/earth/answer/40901?hl=en

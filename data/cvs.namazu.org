@@ -4,3 +4,6 @@ http://cvs.namazu.org/namazu/src/result.c?sortdir=down&amp;amp;r1=1.86&amp;amp;r
 http://cvs.namazu.org/namazu/src/result.c?sortdir=down&amp;r1=1.59.8.28&amp;r2=1.59.8.29&amp;sortby=log
 http://cvs.namazu.org/namazu/src/result.c?sortdir=down&amp;r1=1.77.2.8&amp;r2=1.77.2.9&amp;sortby=log
 http://cvs.namazu.org/namazu/src/result.c?sortdir=down&amp;r1=1.86&amp;r2=1.87&amp;sortby=log
+http://cvs.namazu.org/namazu/src/result.c?sortdir=down&r1=1.59.8.28&r2=1.59.8.29&sortby=log
+http://cvs.namazu.org/namazu/src/result.c?sortdir=down&r1=1.77.2.8&r2=1.77.2.9&sortby=log
+http://cvs.namazu.org/namazu/src/result.c?sortdir=down&r1=1.86&r2=1.87&sortby=log

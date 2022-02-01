@@ -1,3 +1,4 @@
+https://wiki.scn.sap.com/wiki/display/PSR/SAP+Security+Patch+Day+-+December+2021
 https://wiki.scn.sap.com/wiki/pages/viewpage.action?pageId=495289255
 https://wiki.scn.sap.com/wiki/pages/viewpage.action?pageId=497256000
 https://wiki.scn.sap.com/wiki/pages/viewpage.action?pageId=499352742
@@ -39,3 +40,5 @@ https://wiki.scn.sap.com/wiki/pages/viewpage.action?pageId=580617506
 https://wiki.scn.sap.com/wiki/pages/viewpage.action?pageId=582222806
 https://wiki.scn.sap.com/wiki/pages/viewpage.action?pageId=585106405
 https://wiki.scn.sap.com/wiki/pages/viewpage.action?pageId=587169983
+https://wiki.scn.sap.com/wiki/pages/viewpage.action?pageId=589496864
+https://wiki.scn.sap.com/wiki/pages/viewpage.action?pageId=596902035

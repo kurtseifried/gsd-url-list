@@ -15,6 +15,7 @@ https://psirt.bosch.com/security-advisories/BOSCH-SA-363824-BT.html
 https://psirt.bosch.com/security-advisories/BOSCH-SA-381489-BT.html
 https://psirt.bosch.com/security-advisories/BOSCH-SA-885551-BT.html
 https://psirt.bosch.com/security-advisories/bosch-sa-033305-bt.html
+https://psirt.bosch.com/security-advisories/bosch-sa-043434-bt.html
 https://psirt.bosch.com/security-advisories/bosch-sa-196933-bt.html
 https://psirt.bosch.com/security-advisories/bosch-sa-478243-bt.html
 https://psirt.bosch.com/security-advisories/bosch-sa-538331-bt.html

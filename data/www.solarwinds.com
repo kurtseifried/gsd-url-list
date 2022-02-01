@@ -9,8 +9,11 @@ https://www.solarwinds.com/network-performance-monitor
 https://www.solarwinds.com/securityadvisory
 https://www.solarwinds.com/trust-center/security-advisories/CVE-2021-35214
 https://www.solarwinds.com/trust-center/security-advisories/CVE-2021-35228
+https://www.solarwinds.com/trust-center/security-advisories/CVE-2021-35232
 https://www.solarwinds.com/trust-center/security-advisories/CVE-2021-35233
 https://www.solarwinds.com/trust-center/security-advisories/CVE-2021-35235
+https://www.solarwinds.com/trust-center/security-advisories/CVE-2021-35245
+https://www.solarwinds.com/trust-center/security-advisories/CVE-2021-35248
 https://www.solarwinds.com/trust-center/security-advisories/cve-2021-28674
 https://www.solarwinds.com/trust-center/security-advisories/cve-2021-32076
 https://www.solarwinds.com/trust-center/security-advisories/cve-2021-35211
@@ -29,8 +32,12 @@ https://www.solarwinds.com/trust-center/security-advisories/cve-2021-35225
 https://www.solarwinds.com/trust-center/security-advisories/cve-2021-35227
 https://www.solarwinds.com/trust-center/security-advisories/cve-2021-35230
 https://www.solarwinds.com/trust-center/security-advisories/cve-2021-35231
+https://www.solarwinds.com/trust-center/security-advisories/cve-2021-35234
 https://www.solarwinds.com/trust-center/security-advisories/cve-2021-35236
 https://www.solarwinds.com/trust-center/security-advisories/cve-2021-35237
 https://www.solarwinds.com/trust-center/security-advisories/cve-2021-35238
 https://www.solarwinds.com/trust-center/security-advisories/cve-2021-35239
 https://www.solarwinds.com/trust-center/security-advisories/cve-2021-35240
+https://www.solarwinds.com/trust-center/security-advisories/cve-2021-35242
+https://www.solarwinds.com/trust-center/security-advisories/cve-2021-35243
+https://www.solarwinds.com/trust-center/security-advisories/cve-2021-35247

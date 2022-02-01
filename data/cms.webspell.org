@@ -2,3 +2,5 @@ http://cms.webspell.org/index.php?site=files&amp;amp;file=11
 http://cms.webspell.org/index.php?site=files&amp;amp;file=15
 http://cms.webspell.org/index.php?site=files&amp;file=11
 http://cms.webspell.org/index.php?site=files&amp;file=15
+http://cms.webspell.org/index.php?site=files&file=11
+http://cms.webspell.org/index.php?site=files&file=15

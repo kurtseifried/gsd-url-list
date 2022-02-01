@@ -12,4 +12,5 @@ https://support.polycom.com/content/dam/polycom-support/global/documentation/sec
 https://support.polycom.com/content/dam/polycom-support/global/documentation/security-bulletin-cx5100-cx5500-authenticated-v1-0.pdf
 https://support.polycom.com/content/dam/polycom-support/global/documentation/stored-cross-site-scripting-in-trio.pdf
 https://support.polycom.com/content/support.html
+https://support.polycom.com/content/support/emea/emea/en/support/voice/polycom-trio/polycom-trio-8800.html
 https://support.polycom.com/global/documents/support/documentation/Security_Center_Post_for_RPRM_CVEs.pdf

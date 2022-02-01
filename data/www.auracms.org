@@ -1,3 +1,4 @@
 http://www.auracms.org/
+http://www.auracms.org/?pilih=news&aksi=lihat&id=117
 http://www.auracms.org/?pilih=news&amp;aksi=lihat&amp;id=117
 http://www.auracms.org/?pilih=news&amp;amp;aksi=lihat&amp;amp;id=117

@@ -241,6 +241,7 @@ https://bugs.php.net/bug.php?id=73029
 https://bugs.php.net/bug.php?id=73052
 https://bugs.php.net/bug.php?id=73055
 https://bugs.php.net/bug.php?id=73055&amp;amp;edit=1
+https://bugs.php.net/bug.php?id=73055&edit=1
 https://bugs.php.net/bug.php?id=73065
 https://bugs.php.net/bug.php?id=73092
 https://bugs.php.net/bug.php?id=73093
@@ -356,12 +357,19 @@ https://bugs.php.net/bug.php?id=79465
 https://bugs.php.net/bug.php?id=79601
 https://bugs.php.net/bug.php?id=79699
 https://bugs.php.net/bug.php?id=79797
+https://bugs.php.net/bug.php?id=79971
 https://bugs.php.net/bug.php?id=80672
 https://bugs.php.net/bug.php?id=81026
 https://bugs.php.net/bug.php?id=81122
 https://bugs.php.net/bug.php?id=81420
+https://bugs.php.net/bug.php?id=81705
 https://bugs.php.net/patch-display.php?bug=68735&amp;amp;patch=bug68735.patch&amp;amp;revision=1420309079
+https://bugs.php.net/patch-display.php?bug=68735&patch=bug68735.patch&revision=1420309079
 https://bugs.php.net/patch-display.php?bug=74435&amp;amp;patch=fix-74435-php-7.0&amp;amp;revision=1497970038
+https://bugs.php.net/patch-display.php?bug=74435&patch=fix-74435-php-7.0&revision=1497970038
 https://bugs.php.net/patch-display.php?bug_id=61910&amp;amp;patch=CVE-2012-1823.patch&amp;amp;revision=1336251592&amp;amp;display=1
 https://bugs.php.net/patch-display.php?bug_id=61910&amp;amp;patch=cgi.diff&amp;amp;revision=1335984315&amp;amp;display=1
 https://bugs.php.net/patch-display.php?bug_id=61910&amp;amp;patch=cgi.diff-fix-check.patch&amp;amp;revision=1336093719&amp;amp;display=1
+https://bugs.php.net/patch-display.php?bug_id=61910&patch=CVE-2012-1823.patch&revision=1336251592&display=1
+https://bugs.php.net/patch-display.php?bug_id=61910&patch=cgi.diff&revision=1335984315&display=1
+https://bugs.php.net/patch-display.php?bug_id=61910&patch=cgi.diff-fix-check.patch&revision=1336093719&display=1

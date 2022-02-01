@@ -4,3 +4,5 @@ http://jira.opensymphony.com/secure/ReleaseNote.jspa?projectId=10050&amp;amp;sty
 http://jira.opensymphony.com/secure/ReleaseNote.jspa?projectId=10050&amp;amp;styleName=Html&amp;amp;version=21706
 http://jira.opensymphony.com/secure/ReleaseNote.jspa?projectId=10050&amp;styleName=Html&amp;version=21701
 http://jira.opensymphony.com/secure/ReleaseNote.jspa?projectId=10050&amp;styleName=Html&amp;version=21706
+http://jira.opensymphony.com/secure/ReleaseNote.jspa?projectId=10050&styleName=Html&version=21701
+http://jira.opensymphony.com/secure/ReleaseNote.jspa?projectId=10050&styleName=Html&version=21706

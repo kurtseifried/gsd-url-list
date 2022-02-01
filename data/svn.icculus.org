@@ -1,6 +1,9 @@
 http://svn.icculus.org/quake3?rev=804&amp;amp;view=rev
 http://svn.icculus.org/quake3?rev=804&amp;view=rev
+http://svn.icculus.org/quake3?rev=804&view=rev
 http://svn.icculus.org/quake3?view=rev&amp;amp;revision=2097
 http://svn.icculus.org/quake3?view=rev&amp;amp;revision=2098
 http://svn.icculus.org/quake3?view=rev&amp;revision=2097
 http://svn.icculus.org/quake3?view=rev&amp;revision=2098
+http://svn.icculus.org/quake3?view=rev&revision=2097
+http://svn.icculus.org/quake3?view=rev&revision=2098

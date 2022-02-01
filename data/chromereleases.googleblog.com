@@ -121,3 +121,8 @@ https://chromereleases.googleblog.com/2021/09/stable-channel-update-for-desktop.
 https://chromereleases.googleblog.com/2021/09/stable-channel-update-for-desktop_21.html
 https://chromereleases.googleblog.com/2021/09/stable-channel-update-for-desktop_24.html
 https://chromereleases.googleblog.com/2021/09/stable-channel-update-for-desktop_30.html
+https://chromereleases.googleblog.com/2021/10/stable-channel-update-for-desktop.html
+https://chromereleases.googleblog.com/2021/10/stable-channel-update-for-desktop_19.html
+https://chromereleases.googleblog.com/2021/10/stable-channel-update-for-desktop_28.html
+https://chromereleases.googleblog.com/2021/11/stable-channel-update-for-desktop.html
+https://chromereleases.googleblog.com/2021/12/stable-channel-update-for-desktop.html

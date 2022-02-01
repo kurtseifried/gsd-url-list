@@ -11,6 +11,7 @@ https://securitydocs.business.xerox.com/wp-content/uploads/2020/06/cert_Security
 https://securitydocs.business.xerox.com/wp-content/uploads/2020/09/cert_Security_Mini_Bulletin_XRX20R_for_ALB80xx-C80xx-2.pdf
 https://securitydocs.business.xerox.com/wp-content/uploads/2020/12/cert_Security_Mini_Bulletin_XRX20X_for_ALB80xx-C80xxv.pdf
 https://securitydocs.business.xerox.com/wp-content/uploads/2021/03/cert_Security_Mini_Bulletin_XRX19AI_for_ALB80xx-C80xx_v1.1.pdf
+https://securitydocs.business.xerox.com/wp-content/uploads/2021/03/cert_Security_Mini_Bulletin_XRX20I_for_ALB80xx-C80xx.pdf
 https://securitydocs.business.xerox.com/wp-content/uploads/2021/03/cert_Security_Mini_Bulletin_XRX20I_for_ALB80xx-C80xx_v1.1.pdf
 https://securitydocs.business.xerox.com/wp-content/uploads/2021/03/cert_Security_Mini_Bulletin_XRX20I_for_ALB80xx-C80xx_v1.2.pdf
 https://securitydocs.business.xerox.com/wp-content/uploads/2021/03/cert_Security_Mini_Bulletin_XRX21D_for_PH6510_WC6515_VersaLink-1.pdf

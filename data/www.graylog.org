@@ -1,3 +1,4 @@
 https://www.graylog.org/post/announcing-graylog-v2-4-4
 https://www.graylog.org/post/announcing-graylog-v4-1-2
 https://www.graylog.org/post/announcing-the-release-of-graylog-2-4-6
+https://www.graylog.org/post/graylog-update-for-log4j

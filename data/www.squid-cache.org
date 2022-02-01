@@ -161,6 +161,7 @@ http://www.squid-cache.org/Versions/v5/changesets/squid-5-7a5af8db8e0377c06ed9ff
 http://www.squid-cache.org/Versions/v5/changesets/squid-5-8af775ed98bfd610f9ce762fe177e01b2675588c.patch
 http://www.squid-cache.org/Versions/v5/changesets/squid-5-c6d1a4f6a2cbebceebc8a3fcd8f539ceb7b7f723.patch
 http://www.squid-cache.org/Versions/v6/changesets/squid-6-051824924c709bd6162a378f746fb859454c674e.patch
+http://www.squid-cache.org/Versions/v6/changesets/squid-6-43d6b5c81b88ec2256b430c69a872a1e4f324e4a.patch
 http://www.squid-cache.org/bugs/show_bug.cgi?id=1045
 http://www.squid-cache.org/bugs/show_bug.cgi?id=1143
 http://www.squid-cache.org/bugs/show_bug.cgi?id=1166

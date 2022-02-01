@@ -54,3 +54,4 @@ https://projects.theforeman.org/issues/22546
 https://projects.theforeman.org/issues/25169
 https://projects.theforeman.org/issues/26450
 https://projects.theforeman.org/issues/27275
+https://projects.theforeman.org/issues/32753

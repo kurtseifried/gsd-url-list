@@ -4,6 +4,10 @@ http://support.esri.com/en/knowledgebase/techarticles/detail/41468
 http://support.esri.com/en/knowledgebase/techarticles/detail/41494
 http://support.esri.com/en/knowledgebase/techarticles/detail/41497
 http://support.esri.com/en/knowledgebase/techarticles/detail/41498
+http://support.esri.com/index.cfm?fa=downloads.patchesServicePacks.viewPatch&PID=14&MetaID=1015
+http://support.esri.com/index.cfm?fa=downloads.patchesServicePacks.viewPatch&PID=19&MetaID=1260
+http://support.esri.com/index.cfm?fa=downloads.patchesServicePacks.viewPatch&PID=19&MetaID=1261
+http://support.esri.com/index.cfm?fa=downloads.patchesServicePacks.viewPatch&PID=19&MetaID=1262
 http://support.esri.com/index.cfm?fa=downloads.patchesServicePacks.viewPatch&amp;PID=14&amp;MetaID=1015
 http://support.esri.com/index.cfm?fa=downloads.patchesServicePacks.viewPatch&amp;PID=19&amp;MetaID=1260
 http://support.esri.com/index.cfm?fa=downloads.patchesServicePacks.viewPatch&amp;PID=19&amp;MetaID=1261

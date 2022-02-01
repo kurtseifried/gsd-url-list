@@ -26,3 +26,8 @@ https://www.mitsubishielectric.com/en/psirt/vulnerability/pdf/2021-010_en.pdf
 https://www.mitsubishielectric.com/en/psirt/vulnerability/pdf/2021-011_en.pdf
 https://www.mitsubishielectric.com/en/psirt/vulnerability/pdf/2021-014_en.pdf
 https://www.mitsubishielectric.com/en/psirt/vulnerability/pdf/2021-015_en.pdf
+https://www.mitsubishielectric.com/en/psirt/vulnerability/pdf/2021-019_en.pdf
+https://www.mitsubishielectric.com/en/psirt/vulnerability/pdf/2021-020_en.pdf
+https://www.mitsubishielectric.com/en/psirt/vulnerability/pdf/2021-021_en.pdf
+https://www.mitsubishielectric.com/en/psirt/vulnerability/pdf/2021-023_en.pdf
+https://www.mitsubishielectric.com/en/psirt/vulnerability/pdf/2021-024_en.pdf

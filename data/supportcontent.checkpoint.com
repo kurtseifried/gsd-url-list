@@ -7,3 +7,4 @@ https://supportcontent.checkpoint.com/solutions?id=sk170512
 https://supportcontent.checkpoint.com/solutions?id=sk173513
 https://supportcontent.checkpoint.com/solutions?id=sk175806
 https://supportcontent.checkpoint.com/solutions?id=sk175968
+https://supportcontent.checkpoint.com/solutions?id=sk176853

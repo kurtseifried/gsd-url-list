@@ -1,5 +1,6 @@
 https://kb.cert.org/artifacts/cve-2020-9054.html
 https://kb.cert.org/vuls/id/116713
+https://kb.cert.org/vuls/id/142629
 https://kb.cert.org/vuls/id/166939/
 https://kb.cert.org/vuls/id/169249/
 https://kb.cert.org/vuls/id/213092

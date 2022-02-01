@@ -14,3 +14,11 @@ http://bugs.libgd.org/?do=details&amp;task_id=87
 http://bugs.libgd.org/?do=details&amp;task_id=89
 http://bugs.libgd.org/?do=details&amp;task_id=92
 http://bugs.libgd.org/?do=details&amp;task_id=94
+http://bugs.libgd.org/?do=details&task_id=48
+http://bugs.libgd.org/?do=details&task_id=70
+http://bugs.libgd.org/?do=details&task_id=74
+http://bugs.libgd.org/?do=details&task_id=86
+http://bugs.libgd.org/?do=details&task_id=87
+http://bugs.libgd.org/?do=details&task_id=89
+http://bugs.libgd.org/?do=details&task_id=92
+http://bugs.libgd.org/?do=details&task_id=94

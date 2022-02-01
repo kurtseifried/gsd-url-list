@@ -22,8 +22,11 @@ https://vuldb.com/?id.144007
 https://vuldb.com/?id.144008
 https://vuldb.com/?id.144129
 https://vuldb.com/?id.144170
+https://vuldb.com/?id.158745
 https://vuldb.com/?id.165677
 https://vuldb.com/?id.165678
+https://vuldb.com/?id.170146
+https://vuldb.com/?id.186365
 https://vuldb.com/?id.7180
 https://vuldb.com/?id.8471
 https://vuldb.com/?id.8572

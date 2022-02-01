@@ -3,6 +3,7 @@ https://nifi.apache.org/security#CVE-2020-13940
 https://nifi.apache.org/security#CVE-2020-9486
 https://nifi.apache.org/security#CVE-2020-9487
 https://nifi.apache.org/security#CVE-2020-9491
+https://nifi.apache.org/security.html#1.15.1-vulnerabilities
 https://nifi.apache.org/security.html#CVE-2016-8748
 https://nifi.apache.org/security.html#CVE-2017-12623
 https://nifi.apache.org/security.html#CVE-2017-12632

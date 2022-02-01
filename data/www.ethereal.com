@@ -21,6 +21,7 @@ http://www.ethereal.com/appnotes/enpa-sa-00022.html
 http://www.ethereal.com/appnotes/enpa-sa-00023.html
 http://www.ethereal.com/cgi-bin/viewcvs.cgi/ethereal/packet-bgp.c.diff?r1=1.68&amp;amp;r2=1.69
 http://www.ethereal.com/cgi-bin/viewcvs.cgi/ethereal/packet-bgp.c.diff?r1=1.68&amp;r2=1.69
+http://www.ethereal.com/cgi-bin/viewcvs.cgi/ethereal/packet-bgp.c.diff?r1=1.68&r2=1.69
 http://www.ethereal.com/cgi-bin/viewcvs.cgi/ethereal/packet-lmp.c#rev1.13
 http://www.ethereal.com/lists/ethereal-dev/199907/msg00126.html
 http://www.ethereal.com/lists/ethereal-dev/199907/msg00130.html

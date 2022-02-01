@@ -7,6 +7,7 @@ http://git.videolan.org/?p=ffmpeg.git;a=commit;h=0eecf40935b22644e6cd74c58605723
 http://git.videolan.org/?p=ffmpeg.git;a=commit;h=105654e376a736d243aef4a1d121abebce912e6b
 http://git.videolan.org/?p=ffmpeg.git;a=commit;h=1285baaab550e3e761590ef6dfb1d9bd9d1332e4
 http://git.videolan.org/?p=ffmpeg.git;a=commit;h=14c8ee00ffd9d45e6e0c6f11a957ce7e56f7eb3a
+http://git.videolan.org/?p=ffmpeg.git;a=commit;h=19587c9332f5be4f6bc6d7b2b8ef3fd21dfeaa01
 http://git.videolan.org/?p=ffmpeg.git;a=commit;h=1d3a3b9f8907625b361420d48fe05716859620ff
 http://git.videolan.org/?p=ffmpeg.git;a=commit;h=1f99939a6361e2e6d6788494dd7c682b051c6c34
 http://git.videolan.org/?p=ffmpeg.git;a=commit;h=21270cffaeab2f67a613907516b2b0cd6c9eacf4
@@ -102,6 +103,7 @@ http://git.videolan.org/?p=ffmpeg.git;a=commit;h=fabbfaa095660982cc0bc63242c4595
 http://git.videolan.org/?p=ffmpeg.git;a=commitdiff;h=01bf2ad7351fdaa2e21b6bdf963d22d6ffccb920
 http://git.videolan.org/?p=ffmpeg.git;a=commitdiff;h=0846719dd11ab3f7a7caee13e7af71f71d913389
 http://git.videolan.org/?p=ffmpeg.git;a=commitdiff;h=08e2c7a45f82b897a285548c257972eb1ad352c5
+http://git.videolan.org/?p=ffmpeg.git;a=commitdiff;h=0c61661a2cbe1b8b284c80ada1c2fdddf4992cad
 http://git.videolan.org/?p=ffmpeg.git;a=commitdiff;h=10416a4d56fa8a89784e4fb62099c3cab17a9952
 http://git.videolan.org/?p=ffmpeg.git;a=commitdiff;h=13451f5520ce6b0afde861b2285dda659f8d4fb4
 http://git.videolan.org/?p=ffmpeg.git;a=commitdiff;h=1ac0fa50eff30d413206cffa5f47f7fe6d4849b1
@@ -195,6 +197,8 @@ http://git.videolan.org/?p=ffmpeg.git;a=commitdiff;h=f5955d9f6f9ffdb81864c3de1c7
 http://git.videolan.org/?p=ffmpeg.git;a=commitdiff;h=f7e1367f58263593e6cee3c282f7277d7ee9d553
 http://git.videolan.org/?p=ffmpeg.git;a=commitdiff;h=fd4f4923cce6a2cbf4f48640b4ac706e614a1594
 http://git.videolan.org/?p=ffmpeg.git;a=shortlog;h=n0.8.3
+http://git.videolan.org/?p=vlc.git&a=search&h=refs%2Fheads%2Fmaster&st=commit&s=cve-2019
+http://git.videolan.org/?p=vlc.git&a=search&h=refs/heads/master&st=commit&s=cve-2019
 http://git.videolan.org/?p=vlc.git&amp;a=search&amp;h=refs%2Fheads%2Fmaster&amp;st=commit&amp;s=cve-2019
 http://git.videolan.org/?p=vlc.git&amp;a=search&amp;h=refs/heads/master&amp;st=commit&amp;s=cve-2019
 http://git.videolan.org/?p=vlc.git&amp;amp;a=search&amp;amp;h=refs%2Fheads%2Fmaster&amp;amp;st=commit&amp;amp;s=cve-2019

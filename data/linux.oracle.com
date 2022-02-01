@@ -56,6 +56,7 @@ http://linux.oracle.com/errata/ELSA-2015-0092.html
 http://linux.oracle.com/errata/ELSA-2015-0100.html
 http://linux.oracle.com/errata/ELSA-2015-3004.html
 http://linux.oracle.com/errata/ELSA-2015-3005.html
+https://linux.oracle.com/cve/CVE-2018-17962.html
 https://linux.oracle.com/errata/ELSA-2020-5540.html
 https://linux.oracle.com/errata/ELSA-2020-5542.html
 https://linux.oracle.com/errata/ELSA-2020-5543.html

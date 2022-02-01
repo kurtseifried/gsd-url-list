@@ -1,13 +1,26 @@
 https://www.sourcecodester.com
+https://www.sourcecodester.com/
+https://www.sourcecodester.com/ Online Enrollment Management System in PHP and PayPal Free Source Code 1.0 is affected by: Incorrect Access Control. The impact is: gain privileges (remote).
+https://www.sourcecodester.com/cc/14145/online-car-rental-system-using-phpmysql.html
 https://www.sourcecodester.com/download-code?nid=12210&amp;amp;title=CASAP+Automated+Enrollment+System+using+PHP%2FMySQLi+with+Source+Code
+https://www.sourcecodester.com/download-code?nid=12210&title=CASAP+Automated+Enrollment+System+using+PHP%2FMySQLi+with+Source+Code
 https://www.sourcecodester.com/download-code?nid=14368&amp;amp;title=Online+Shopping+Alphaware+in+PHP%2FMysql
+https://www.sourcecodester.com/download-code?nid=14368&title=Online+Shopping+Alphaware+in+PHP%2FMysql
 https://www.sourcecodester.com/download-code?nid=14383&amp;amp;title=Online+Book+Store
+https://www.sourcecodester.com/download-code?nid=14383&title=Online+Book+Store
 https://www.sourcecodester.com/download-code?nid=14398&amp;amp;title=Pharmacy%2FMedical+Store+%26+Sale+Point+Using+PHP%2FMySQL+with+Bootstrap+Framework
+https://www.sourcecodester.com/download-code?nid=14398&title=Pharmacy%2FMedical+Store+%26+Sale+Point+Using+PHP%2FMySQL+with+Bootstrap+Framework
 https://www.sourcecodester.com/download-code?nid=14622&amp;amp;title=Baby+Care+System+in+PHP%2FMySQLi+with+Full+Source+Code+
+https://www.sourcecodester.com/download-code?nid=14622&title=Baby+Care+System+in+PHP%2FMySQLi+with+Full+Source+Code+
 https://www.sourcecodester.com/php/11327/equipment-inventory.html
+https://www.sourcecodester.com/php/12802/php-staff-id-card-creation-and-printing-system.html
 https://www.sourcecodester.com/php/12808/e-learning-system-using-phpmysqli.html
+https://www.sourcecodester.com/php/13115/engineers-online-portal-php.html
+https://www.sourcecodester.com/php/14173/attendance-management-system.html#comment-96757
+https://www.sourcecodester.com/php/14173/attendance-management-system.html#comment-96812
 https://www.sourcecodester.com/php/14182/doctor-appointment-system.html
 https://www.sourcecodester.com/php/14185/online-clothing-store.html
+https://www.sourcecodester.com/php/14241/online-event-booking-and-reservation-system-phpmysql.html
 https://www.sourcecodester.com/php/14251/online-course-registration.html
 https://www.sourcecodester.com/php/14366/stock-management-system-php.html
 https://www.sourcecodester.com/php/14368/online-shopping-alphaware-phpmysql.html
@@ -21,6 +34,7 @@ https://www.sourcecodester.com/php/14452/seat-reservation-system-movie-theater-p
 https://www.sourcecodester.com/php/14461/simple-grocery-store-sales-and-inventory-system-using-phpmysql-source-code.html
 https://www.sourcecodester.com/php/14482/restaurant-reservation-system-php-full-source-code-2020.html
 https://www.sourcecodester.com/php/14526/online-health-care-system-php-full-source-code-2020.html
+https://www.sourcecodester.com/php/14540/point-sales-phppdo-full-source-code-2020.html
 https://www.sourcecodester.com/php/14541/gym-management-system-using-phpmysqli-source-code.html
 https://www.sourcecodester.com/php/14544/car-rental-management-system-using-phpmysqli-source-code.html
 https://www.sourcecodester.com/php/14545/online-library-management-system-phpmysqli-full-source-code-2020.html
@@ -37,3 +51,4 @@ https://www.sourcecodester.com/php/14906/simple-water-refilling-station-manageme
 https://www.sourcecodester.com/sites/default/files/download/oretnom23/seat-reservation-system-using-php_0.zip
 https://www.sourcecodester.com/sites/default/files/download/oretnom23/simple-college-website.zip
 https://www.sourcecodester.com/users/tips23
+https://www.sourcecodester.com/visual-basic-net/12655/point-sales-pos-vbnet-and-mysql-database.html

@@ -9,6 +9,7 @@ http://www.mantisbt.org/bugs/changelog_page.php?version_id=148
 http://www.mantisbt.org/bugs/changelog_page.php?version_id=150
 http://www.mantisbt.org/bugs/file_download.php?file_id=1988&amp;amp;type=bug
 http://www.mantisbt.org/bugs/file_download.php?file_id=1988&amp;type=bug
+http://www.mantisbt.org/bugs/file_download.php?file_id=1988&type=bug
 http://www.mantisbt.org/bugs/view.php?id=0009704
 http://www.mantisbt.org/bugs/view.php?id=10124
 http://www.mantisbt.org/bugs/view.php?id=11952
@@ -57,6 +58,7 @@ http://www.mantisbt.org/bugs/view.php?id=9321
 http://www.mantisbt.org/bugs/view.php?id=9664
 http://www.mantisbt.org/changelog.php
 https://www.mantisbt.org/bugs/changelog_page.php?project=mantisbt&amp;amp;version=1.2.19
+https://www.mantisbt.org/bugs/changelog_page.php?project=mantisbt&version=1.2.19
 https://www.mantisbt.org/bugs/changelog_page.php?version_id=191
 https://www.mantisbt.org/bugs/view.php?id=17243
 https://www.mantisbt.org/bugs/view.php?id=17297

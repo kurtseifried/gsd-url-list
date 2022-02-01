@@ -51,8 +51,10 @@ https://www.djangoproject.com/weblog/2020/mar/04/security-releases/
 https://www.djangoproject.com/weblog/2020/sep/01/security-releases/
 https://www.djangoproject.com/weblog/2021/apr/06/security-releases/
 https://www.djangoproject.com/weblog/2021/apr/14/debug-toolbar-security-releases/
+https://www.djangoproject.com/weblog/2021/dec/07/security-releases/
 https://www.djangoproject.com/weblog/2021/feb/01/security-releases/
 https://www.djangoproject.com/weblog/2021/jul/01/security-releases/
 https://www.djangoproject.com/weblog/2021/jun/02/security-releases/
 https://www.djangoproject.com/weblog/2021/may/04/security-releases/
 https://www.djangoproject.com/weblog/2021/may/06/security-releases/
+https://www.djangoproject.com/weblog/2022/jan/04/security-releases/

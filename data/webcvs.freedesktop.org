@@ -1,10 +1,14 @@
 http://webcvs.freedesktop.org/portland/portland/xdg-utils/scripts/xdg-email.in?r1=1.24&amp;amp;r2=1.25
 http://webcvs.freedesktop.org/portland/portland/xdg-utils/scripts/xdg-email.in?r1=1.24&amp;r2=1.25
+http://webcvs.freedesktop.org/portland/portland/xdg-utils/scripts/xdg-email.in?r1=1.24&r2=1.25
 http://webcvs.freedesktop.org/portland/portland/xdg-utils/scripts/xdg-email.in?view=log
 http://webcvs.freedesktop.org/portland/portland/xdg-utils/scripts/xdg-email?r1=1.36&amp;amp;r2=1.37
 http://webcvs.freedesktop.org/portland/portland/xdg-utils/scripts/xdg-email?r1=1.36&amp;r2=1.37
+http://webcvs.freedesktop.org/portland/portland/xdg-utils/scripts/xdg-email?r1=1.36&r2=1.37
 http://webcvs.freedesktop.org/portland/portland/xdg-utils/scripts/xdg-open.in?r1=1.17&amp;amp;r2=1.18
 http://webcvs.freedesktop.org/portland/portland/xdg-utils/scripts/xdg-open.in?r1=1.17&amp;r2=1.18
+http://webcvs.freedesktop.org/portland/portland/xdg-utils/scripts/xdg-open.in?r1=1.17&r2=1.18
 http://webcvs.freedesktop.org/portland/portland/xdg-utils/scripts/xdg-open?r1=1.32&amp;amp;r2=1.33
 http://webcvs.freedesktop.org/portland/portland/xdg-utils/scripts/xdg-open?r1=1.32&amp;r2=1.33
+http://webcvs.freedesktop.org/portland/portland/xdg-utils/scripts/xdg-open?r1=1.32&r2=1.33
 http://webcvs.freedesktop.org/portland/portland/xdg-utils/scripts/xdg-open?view=log

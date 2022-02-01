@@ -1,3 +1,4 @@
+https://docs.docker.com/desktop/windows/release-notes/
 https://docs.docker.com/docker-for-mac/release-notes/#docker-desktop-community-2500
 https://docs.docker.com/docker-for-windows/edge-release-notes/
 https://docs.docker.com/docker-for-windows/release-notes/

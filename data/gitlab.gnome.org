@@ -5,6 +5,8 @@ https://gitlab.gnome.org/GNOME/balsa/-/issues/23
 https://gitlab.gnome.org/GNOME/balsa/-/issues/34
 https://gitlab.gnome.org/GNOME/dia/issues/428
 https://gitlab.gnome.org/GNOME/ekiga/commit/02654fc949722a78d41fcffac8687d73d8574647
+https://gitlab.gnome.org/GNOME/epiphany/-/issues/1612
+https://gitlab.gnome.org/GNOME/epiphany/-/merge_requests/1045
 https://gitlab.gnome.org/GNOME/epiphany/issues/532
 https://gitlab.gnome.org/GNOME/evince/issues/1129
 https://gitlab.gnome.org/GNOME/evolution-data-server/-/commit/2cc39592b532cf0dc994fd3694b8e6bf924c9ab5
@@ -26,11 +28,15 @@ https://gitlab.gnome.org/GNOME/file-roller/-/issues/108
 https://gitlab.gnome.org/GNOME/file-roller/commit/57268e51e59b61c9e3125eb0f65551c7084297e2
 https://gitlab.gnome.org/GNOME/file-roller/commit/e8fb3e24dae711e4fb0d6777e0016cdda8787bc1
 https://gitlab.gnome.org/GNOME/gdk-pixbuf/-/blob/master/NEWS
+https://gitlab.gnome.org/GNOME/gdk-pixbuf/-/issues/136
 https://gitlab.gnome.org/GNOME/gdk-pixbuf/-/issues/164
 https://gitlab.gnome.org/GNOME/gdm/-/issues/642
 https://gitlab.gnome.org/GNOME/gdm/commit/ff98b28
 https://gitlab.gnome.org/GNOME/gdm/issues/401
 https://gitlab.gnome.org/GNOME/geary/-/issues/866
+https://gitlab.gnome.org/GNOME/gegl/-/blob/master/docs/NEWS.adoc
+https://gitlab.gnome.org/GNOME/gegl/-/commit/bfce470f0f2f37968862129d5038b35429f2909b
+https://gitlab.gnome.org/GNOME/gimp/-/commit/e8a31ba4f2ce7e6bc34882dc27c97fba993f5868
 https://gitlab.gnome.org/GNOME/gimp/issues/1689
 https://gitlab.gnome.org/GNOME/glib-networking/-/issues/135
 https://gitlab.gnome.org/GNOME/glib/-/commit/63c5b62f0a984fac9a9700b12f54fe878e016a5d
@@ -100,4 +106,6 @@ https://gitlab.gnome.org/GNOME/libxslt/commit/c5eb6cf3aba0af048596106ed839b4ae17
 https://gitlab.gnome.org/GNOME/libxslt/commit/e03553605b45c88f0b4b2980adfbbb8f6fca2fd6
 https://gitlab.gnome.org/GNOME/libzapojit/-/issues/4
 https://gitlab.gnome.org/GNOME/nautilus/issues/987
+https://gitlab.gnome.org/GNOME/pango/-/commits/main/pango/pango-bidi-type.c
+https://gitlab.gnome.org/GNOME/pango/-/issues/342
 https://gitlab.gnome.org/GNOME/pango/blob/master/pango/pango-bidi-type.c

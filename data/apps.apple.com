@@ -3,6 +3,7 @@ https://apps.apple.com/jp/app/furimaapuri-furiru-fril-fasshon/id523497998
 https://apps.apple.com/us/app/canary-mail/id1236045954
 https://apps.apple.com/us/app/documents-by-readdle/id364901807
 https://apps.apple.com/us/app/ewelink-smart-home/id1035163158
+https://apps.apple.com/us/app/gglocker/id1449241376#?platform=iphone
 https://apps.apple.com/us/app/hickory-smart/id1189748191
 https://apps.apple.com/us/app/ilbo/id1116864683
 https://apps.apple.com/us/app/oklok/id1392287771

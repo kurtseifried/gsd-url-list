@@ -13,5 +13,11 @@ https://www.incibe-cert.es/en/early-warning/security-advisories/gesio-sql-inject
 https://www.incibe-cert.es/en/early-warning/security-advisories/integria-ims-incorrect-authorization
 https://www.incibe-cert.es/en/early-warning/security-advisories/integria-ims-remote-code-execution
 https://www.incibe-cert.es/en/early-warning/security-advisories/integria-ims-vulnerable-cross-site-scripting-xss
+https://www.incibe-cert.es/en/early-warning/security-advisories/meross-mss550x-missing-encryption-sensitive-data
 https://www.incibe-cert.es/en/early-warning/security-advisories/openkm-document-management-community-vulnerable-cross-site
+https://www.incibe-cert.es/en/early-warning/security-advisories/parallels-remote-application-server-credentials-management-errors
+https://www.incibe-cert.es/en/early-warning/security-advisories/tcman-gim-missing-authorization-vulnerability
+https://www.incibe-cert.es/en/early-warning/security-advisories/tcman-gim-open-redirect-vulnerability
+https://www.incibe-cert.es/en/early-warning/security-advisories/tcman-gim-sql-improper-authentication
+https://www.incibe-cert.es/en/early-warning/security-advisories/tcman-gim-sql-injection-vulnerability
 https://www.incibe-cert.es/en/early-warning/vulnerabilities/cve-2019-11021

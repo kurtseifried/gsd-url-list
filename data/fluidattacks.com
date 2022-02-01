@@ -1,4 +1,6 @@
 https://fluidattacks.com/advisories/
+https://fluidattacks.com/advisories/hendrix/
+https://fluidattacks.com/advisories/joplin/
 https://fluidattacks.com/advisories/morrison/
 https://fluidattacks.com/advisories/policy
 https://fluidattacks.com/advisories/policy/

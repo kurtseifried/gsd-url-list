@@ -1,0 +1,1 @@
+https://flink.apache.org/2021/12/10/log4j-cve.html

@@ -1,8 +1,10 @@
 http://dl.acm.org/citation.cfm?id=2046756&amp;amp;dl=ACM&amp;amp;coll=DL
 http://dl.acm.org/citation.cfm?id=2046756&amp;dl=ACM&amp;coll=DL
+http://dl.acm.org/citation.cfm?id=2046756&dl=ACM&coll=DL
 http://dl.acm.org/citation.cfm?id=2046771
 http://dl.acm.org/citation.cfm?id=2714650
 https://dl.acm.org/citation.cfm?id=3139942&amp;amp;preflayout=flat
+https://dl.acm.org/citation.cfm?id=3139942&preflayout=flat
 https://dl.acm.org/citation.cfm?id=3139943
 https://dl.acm.org/citation.cfm?id=3139947
 https://dl.acm.org/citation.cfm?id=3326082

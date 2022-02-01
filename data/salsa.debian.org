@@ -8,9 +8,12 @@ https://salsa.debian.org/debian/net-snmp/-/commit/fad8725402752746daf0a751dcff19
 https://salsa.debian.org/debian/w3m/commit/18dcbadf2771cdb0c18509b14e4e73505b242753
 https://salsa.debian.org/freedombox-team/freedombox/-/issues/1935
 https://salsa.debian.org/hmh/intel-microcode/-/blob/master/debian/README.Debian
+https://salsa.debian.org/hurd-team/hurd/-/blob/4d1b079411e2f40576e7b58f9b5b78f733a2beda/debian/patches/0034-proc-Use-UIDs-for-evaluating-permissions.patch
 https://salsa.debian.org/kernel-team/kernel-sec/blob/f6273af2d956a87296b6b60379d0a186c9be4bbc/active/CVE-2019-15239
 https://salsa.debian.org/kernel-team/kernel-sec/blob/master/retired/CVE-2019-12382
 https://salsa.debian.org/kernel-team/linux/commit/baefcdc2f29923e7325ce4e1a72c3ff0a9800f32
+https://salsa.debian.org/php-team/php/-/blob/dc253886b5b2e9bc8d9e36db787abb083a667fd8/debian/php-cgi.conf#L5-6
+https://salsa.debian.org/php-team/php/-/commit/dc253886b5b2e9bc8d9e36db787abb083a667fd8
 https://salsa.debian.org/rousseau/PCSC/-/commit/697fe05967af7ea215bcd5d5774be587780c9e22
 https://salsa.debian.org/sympa-team/sympa/-/merge_requests/1
 https://salsa.debian.org/webmaster-team/webwml

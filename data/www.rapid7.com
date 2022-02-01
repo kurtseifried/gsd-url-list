@@ -78,10 +78,13 @@ http://www.rapid7.com/db/modules/exploit/windows/misc/manageengine_eventlog_anal
 http://www.rapid7.com/db/modules/exploit/windows/misc/vmhgfs_webdav_dll_sideload
 http://www.rapid7.com/db/modules/exploit/windows/scada/advantech_webaccess_dashboard_file_upload
 http://www.rapid7.com/security-center/advisories/R7-0037.jsp
+https://www.rapid7.com/blog/post/2016/11/15/r7-2016-24-opennms-stored-xss-via-snmp-cve-2016-6555-cve-2016-6556/
 https://www.rapid7.com/blog/post/2021/04/13/cve-2021-26908-and-cve-2021-26909-automox-agent-information-disclosure-fixed/
 https://www.rapid7.com/blog/post/2021/06/02/untitled-cve-2021-3198-and-cve-2021-3540-mobileiron-shell-escape-privilege-escalation-vulnerabilities/
 https://www.rapid7.com/blog/post/2021/06/08/akkadian-provisioning-manager-multiple-vulnerabilities-disclosure/
+https://www.rapid7.com/blog/post/2021/07/07/cve-2020-7387-7390-multiple-sage-x3-vulnerabilities/
 https://www.rapid7.com/blog/post/2021/07/27/multiple-open-source-web-app-vulnerabilities-fixed/
+https://www.rapid7.com/blog/post/2021/12/10/widespread-exploitation-of-critical-remote-code-execution-in-apache-log4j/
 https://www.rapid7.com/db/modules/auxiliary/admin/http/manage_engine_dc_create_admin
 https://www.rapid7.com/db/modules/auxiliary/scanner/ftp/easy_file_sharing_ftp
 https://www.rapid7.com/db/modules/auxiliary/scanner/http/accellion_fta_statecode_file_read

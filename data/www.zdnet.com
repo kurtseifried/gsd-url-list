@@ -21,6 +21,7 @@ https://www.zdnet.com/article/exploit-vendor-drops-tor-browser-zero-day-on-twitt
 https://www.zdnet.com/article/hackers-are-going-after-cisco-rv320rv325-routers-using-a-new-exploit/
 https://www.zdnet.com/article/new-cold-boot-attack-affects-seven-years-of-lg-android-smartphones/
 https://www.zdnet.com/article/new-platypus-attack-can-steal-data-from-intel-cpus/
+https://www.zdnet.com/article/security-warning-new-zero-day-in-the-log4j-java-library-is-already-being-exploited/
 https://www.zdnet.com/article/tesla-car-hacked-at-pwn2own-contest/
 https://www.zdnet.com/article/unpatched-kde-vulnerability-disclosed-on-twitter/
 https://www.zdnet.com/article/wifi-firmware-bug-affects-laptops-smartphones-routers-gaming-devices/

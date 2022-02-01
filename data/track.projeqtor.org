@@ -1,1 +1,2 @@
 https://track.projeqtor.org/view/main.php?directAccess=true&amp;amp;objectClass=Ticket&amp;amp;objectId=2884
+https://track.projeqtor.org/view/main.php?directAccess=true&objectClass=Ticket&objectId=2884

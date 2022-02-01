@@ -174,6 +174,7 @@ http://support.novell.com/techcenter/psdb/fa6c6a3e792bf79b1d85821c689ea578.html
 http://support.novell.com/techcenter/psdb/fc79b7f48d739f9c803a24ddad933384.html
 http://support.novell.com/techcenter/search/search.do?cmd=displayKC&amp;amp;docType=%20c&amp;amp;externalId=10098814html&amp;amp;sliceId=&amp;amp;dialogID=717171
 http://support.novell.com/techcenter/search/search.do?cmd=displayKC&amp;docType=%20c&amp;externalId=10098814html&amp;sliceId=&amp;dialogID=717171
+http://support.novell.com/techcenter/search/search.do?cmd=displayKC&docType=%20c&externalId=10098814html&sliceId=&dialogID=717171
 https://support.novell.com/security/cve/CVE-2012-0414.html
 https://support.novell.com/security/cve/CVE-2012-0420.html
 https://support.novell.com/security/cve/CVE-2012-0425.html

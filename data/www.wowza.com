@@ -1,3 +1,4 @@
+https://www.wowza.com/docs/known-issues-with-wowza-streaming-engine#log4j2-cve
 https://www.wowza.com/docs/wowza-streaming-engine-4-7-1-release-notes
 https://www.wowza.com/docs/wowza-streaming-engine-4-8-0-release-notes
 https://www.wowza.com/docs/wowza-streaming-engine-4-8-12-release-notes

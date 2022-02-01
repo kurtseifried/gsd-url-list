@@ -2,6 +2,7 @@ http://git.savannah.gnu.org/cgit/acl.git/commit/?id=63451a0
 http://git.savannah.gnu.org/cgit/automake.git/commit/?id=784b3e6ccc7c72a1c95c340cbbe8897d6b689d76
 http://git.savannah.gnu.org/cgit/bash.git/commit/?h=devel&amp;amp;id=863d31ae775d56b785dc5b0105b6d251515d81d5
 http://git.savannah.gnu.org/cgit/bash.git/commit/?h=devel&amp;id=863d31ae775d56b785dc5b0105b6d251515d81d5
+http://git.savannah.gnu.org/cgit/bash.git/commit/?h=devel&id=863d31ae775d56b785dc5b0105b6d251515d81d5
 http://git.savannah.gnu.org/cgit/bash.git/commit/?id=4f747edc625815f449048579f6e65869914dd715
 http://git.savannah.gnu.org/cgit/bash.git/tree/CHANGES?h=bash-4.4-testing#n65
 http://git.savannah.gnu.org/cgit/coreutils.git/commit/?id=ae034822c535fa5
@@ -86,6 +87,7 @@ http://git.savannah.gnu.org/cgit/libidn.git/commit/?id=f20ce1128fb7f4d33297eee30
 http://git.savannah.gnu.org/cgit/libtasn1.git/commit/?id=1c3ccb3e040bf13e342ee60bc23b21b97b11923f
 http://git.savannah.gnu.org/cgit/libtool.git/commit/?h=branch-1-5&amp;amp;id=29b48580df75f0c5baa2962548a4c101ec7ed7ec
 http://git.savannah.gnu.org/cgit/libtool.git/commit/?h=branch-1-5&amp;id=29b48580df75f0c5baa2962548a4c101ec7ed7ec
+http://git.savannah.gnu.org/cgit/libtool.git/commit/?h=branch-1-5&id=29b48580df75f0c5baa2962548a4c101ec7ed7ec
 http://git.savannah.gnu.org/cgit/libunwind.git/commit/?id=396b6c7ab737e2bff244d640601c436a26260ca1
 http://git.savannah.gnu.org/cgit/lwip.git/commit/?id=9fb46e120655ac481b2af8f865d5ae56c39b831a
 http://git.savannah.gnu.org/cgit/patch.git/commit/?id=4e9269a5fc1fe80a1095a92593dd85db871e1fd3
@@ -126,6 +128,7 @@ http://git.savannah.gnu.org/gitweb/?p=weechat.git;a=commit;h=c265cad1c95b84abfd4
 http://git.savannah.gnu.org/gitweb/?p=weechat.git;a=commitdiff_plain;h=efb795c74fe954b9544074aafcebb1be4452b03a
 https://git.savannah.gnu.org/cgit/cpio.git/commit/?id=dd96882877721703e19272fe25034560b794061b
 https://git.savannah.gnu.org/cgit/emacs.git/commit/?h=emacs-25&amp;amp;id=9ad0fcc54442a9a01d41be19880250783426db70
+https://git.savannah.gnu.org/cgit/emacs.git/commit/?h=emacs-25&id=9ad0fcc54442a9a01d41be19880250783426db70
 https://git.savannah.gnu.org/cgit/freedink/dfarc.git/commit/?id=40cc957f52e772f45125126439ba9333cf2d2998
 https://git.savannah.gnu.org/cgit/freetype/freetype2.git/commit/?id=29c759284e305ec428703c9a5831d0b1fc3497ef
 https://git.savannah.gnu.org/cgit/icoutils.git/commit/?id=1a108713ac26215c7568353f6e02e727e6d4b24a

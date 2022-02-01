@@ -9,7 +9,11 @@ https://metacpan.org/changes/release/ALEXMV/Email-Address-List-0.02
 https://metacpan.org/changes/release/SHAY/perl-5.26.3
 https://metacpan.org/changes/release/SHAY/perl-5.28.1
 https://metacpan.org/diff/file?target=AMBS/XML-DT-0.64/&amp;amp;source=AMBS/XML-DT-0.63/
+https://metacpan.org/diff/file?target=AMBS/XML-DT-0.64/&source=AMBS/XML-DT-0.63/
 https://metacpan.org/dist/Encode/changes
+https://metacpan.org/pod/App::cpanminus
+https://metacpan.org/pod/CPAN::Checksums
+https://metacpan.org/pod/distribution/CPAN/scripts/cpan
 https://metacpan.org/pod/distribution/DBI/Changes#Changes-in-DBI-1.628-22nd-July-2013
 https://metacpan.org/pod/distribution/DBI/Changes#Changes-in-DBI-1.632-9th-Nov-2014
 https://metacpan.org/pod/distribution/DBI/Changes#Changes-in-DBI-1.643

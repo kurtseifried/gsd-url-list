@@ -2,9 +2,13 @@ http://cvs.fedoraproject.org/viewcvs/rpms/cbrpager/devel/cbrpager-0.9.16-filen-s
 http://cvs.fedoraproject.org/viewvc/rpms/cscope/devel/cscope-15.5-putstring-overflow.patch
 http://cvs.fedoraproject.org/viewvc/rpms/gif2png/devel/gif2png-overflow.patch?revision=HEAD&amp;amp;root=extras&amp;amp;view=markup
 http://cvs.fedoraproject.org/viewvc/rpms/gif2png/devel/gif2png-overflow.patch?revision=HEAD&amp;root=extras&amp;view=markup
+http://cvs.fedoraproject.org/viewvc/rpms/gif2png/devel/gif2png-overflow.patch?revision=HEAD&root=extras&view=markup
 http://cvs.fedoraproject.org/viewvc/rpms/gif2png/devel/gif2png-overflow.patch?root=extras&amp;amp;r1=1.1&amp;amp;r2=1.2
 http://cvs.fedoraproject.org/viewvc/rpms/gif2png/devel/gif2png-overflow.patch?root=extras&amp;amp;view=log
 http://cvs.fedoraproject.org/viewvc/rpms/gif2png/devel/gif2png-overflow.patch?root=extras&amp;r1=1.1&amp;r2=1.2
 http://cvs.fedoraproject.org/viewvc/rpms/gif2png/devel/gif2png-overflow.patch?root=extras&amp;view=log
+http://cvs.fedoraproject.org/viewvc/rpms/gif2png/devel/gif2png-overflow.patch?root=extras&r1=1.1&r2=1.2
+http://cvs.fedoraproject.org/viewvc/rpms/gif2png/devel/gif2png-overflow.patch?root=extras&view=log
 http://cvs.fedoraproject.org/viewvc/rpms/libnasl/F-10/libnasl.spec?r1=1.16&amp;amp;r2=1.17
 http://cvs.fedoraproject.org/viewvc/rpms/libnasl/F-10/libnasl.spec?r1=1.16&amp;r2=1.17
+http://cvs.fedoraproject.org/viewvc/rpms/libnasl/F-10/libnasl.spec?r1=1.16&r2=1.17

@@ -1,9 +1,16 @@
 https://consumer.huawei.com/cn/support/bulletin/2021/1
 https://consumer.huawei.com/en/support/bulletin/2020/12/
 https://consumer.huawei.com/en/support/bulletin/2021/1/
+https://consumer.huawei.com/en/support/bulletin/2021/10/
+https://consumer.huawei.com/en/support/bulletin/2021/11/
+https://consumer.huawei.com/en/support/bulletin/2021/12/
 https://consumer.huawei.com/en/support/bulletin/2021/2/
 https://consumer.huawei.com/en/support/bulletin/2021/3/
 https://consumer.huawei.com/en/support/bulletin/2021/4/
 https://consumer.huawei.com/en/support/bulletin/2021/5/
 https://consumer.huawei.com/en/support/bulletin/2021/6/
 https://consumer.huawei.com/en/support/bulletin/2021/7/
+https://consumer.huawei.com/en/support/bulletin/2021/8/
+https://consumer.huawei.com/en/support/bulletin/2021/9/
+https://consumer.huawei.com/en/support/bulletin/2022/1/
+https://consumer.huawei.com/om/support/bulletin/2021/10/

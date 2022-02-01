@@ -1,5 +1,6 @@
 http://www.dotnetnuke.com/About/WhatIsDotNetNuke/SecurityPolicy/SecurityBulletinno3/tabid/990/Default.aspx
 http://www.dotnetnuke.com/Community/Blogs/tabid/825/EntryId/2799/Oracle-Padding-Vulnerability-in-ASP-NET.aspx
+http://www.dotnetnuke.com/Default.aspx?tabid=825&EntryID=1278
 http://www.dotnetnuke.com/Default.aspx?tabid=825&amp;EntryID=1278
 http://www.dotnetnuke.com/Default.aspx?tabid=825&amp;amp;EntryID=1278
 http://www.dotnetnuke.com/News/Security-Policy/Security-bulletin-no.59.aspx

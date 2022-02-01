@@ -26,3 +26,4 @@ http://www.websense.com/support/article/t-kbarticle/Web-Security-Vulnerability-M
 http://www.websense.com/support/article/t-kbarticle/Why-doesn-t-my-Websense-installation-categorize-URLs-and-Permit-Block-in-accordance-with-the-Site-Lookup-Tool-s-categorization
 http://www.websense.com/support/article/t-kbarticle/v7-Apache-Tomcat-security-vulnerabilities-1258048503850
 https://www.websense.com/content/mywebsense-hotfixes.aspx?patchid=894&amp;amp;prodidx=20&amp;amp;osidx=0&amp;amp;intidx=0&amp;amp;versionidx=0
+https://www.websense.com/content/mywebsense-hotfixes.aspx?patchid=894&prodidx=20&osidx=0&intidx=0&versionidx=0

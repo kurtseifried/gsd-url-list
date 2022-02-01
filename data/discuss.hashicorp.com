@@ -27,4 +27,8 @@ https://discuss.hashicorp.com/t/hcsec-2021-25-terraform-enterprise-configuration
 https://discuss.hashicorp.com/t/hcsec-2021-26-nomad-denial-of-service-via-submission-of-incomplete-job-specification-using-consul-mesh-gateway-host-network/30311
 https://discuss.hashicorp.com/t/hcsec-2021-27-vault-merging-multiple-entity-aliases-for-the-same-mount-may-allow-privilege-escalation/
 https://discuss.hashicorp.com/t/hcsec-2021-28-vaults-google-cloud-secrets-engine-policies-with-globs-may-provide-additional-privileges-in-vault-1-8-0-onwards/
+https://discuss.hashicorp.com/t/hcsec-2021-29-consul-enterprise-namespace-default-acls-allow-privilege-escalation/31871
+https://discuss.hashicorp.com/t/hcsec-2021-30-vaults-templated-acl-policies-matched-first-created-alias-per-entity-and-auth-backend/32132
+https://discuss.hashicorp.com/t/hcsec-2021-31-nomad-qemu-task-driver-allowed-paths-bypass-with-job-args/32288
+https://discuss.hashicorp.com/t/hcsec2-21-33-vault-s-kv-secrets-engine-with-integrated-storage-exposed-to-authenticated-denial-of-service/33157
 https://discuss.hashicorp.com/t/security-bulletin-sentinel-incorrectly-parses-negation-in-certain-policy-expressions/5955

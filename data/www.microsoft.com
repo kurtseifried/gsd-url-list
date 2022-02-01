@@ -88,3 +88,4 @@ http://www.microsoft.com/windows/ie/security/powerpoint.asp
 http://www.microsoft.com/windowsxp/using/setup/getstarted/installqa.mspx
 https://www.microsoft.com/en-us/p/msi-dragon-center/9nh7n2bv1cqq?activetab=pivot:overviewtab
 https://www.microsoft.com/security/blog/2021/07/13/microsoft-discovers-threat-actor-targeting-solarwinds-serv-u-software-with-0-day-exploit
+https://www.microsoft.com/security/blog/2021/12/11/guidance-for-preventing-detecting-and-hunting-for-cve-2021-44228-log4j-2-exploitation/

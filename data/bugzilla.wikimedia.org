@@ -1,7 +1,10 @@
 http://bugzilla.wikimedia.org/show_bug.cgi?id=6055
 http://bugzilla.wikimedia.org/show_bug.cgi?id=8819
+https://bugzilla.wikimedia.org/attachment.cgi?id=13452&action=diff
 https://bugzilla.wikimedia.org/attachment.cgi?id=13452&amp;amp;action=diff
+https://bugzilla.wikimedia.org/attachment.cgi?id=14361&action=diff
 https://bugzilla.wikimedia.org/attachment.cgi?id=14361&amp;amp;action=diff
+https://bugzilla.wikimedia.org/attachment.cgi?id=14384&action=diff
 https://bugzilla.wikimedia.org/attachment.cgi?id=14384&amp;amp;action=diff
 https://bugzilla.wikimedia.org/show_bug.cgi?id=19693
 https://bugzilla.wikimedia.org/show_bug.cgi?id=22555

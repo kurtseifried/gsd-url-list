@@ -28,4 +28,11 @@ https://xenbits.xenproject.org/xsa/advisory-380.txt
 https://xenbits.xenproject.org/xsa/advisory-382.txt
 https://xenbits.xenproject.org/xsa/advisory-383.txt
 https://xenbits.xenproject.org/xsa/advisory-384.txt
+https://xenbits.xenproject.org/xsa/advisory-385.txt
 https://xenbits.xenproject.org/xsa/advisory-386.txt
+https://xenbits.xenproject.org/xsa/advisory-387.txt
+https://xenbits.xenproject.org/xsa/advisory-388.txt
+https://xenbits.xenproject.org/xsa/advisory-389.txt
+https://xenbits.xenproject.org/xsa/advisory-390.txt
+https://xenbits.xenproject.org/xsa/advisory-391.txt
+https://xenbits.xenproject.org/xsa/advisory-392.txt

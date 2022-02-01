@@ -2,3 +2,5 @@ http://www.ipcop.org/index.php?name=News&amp;amp;file=article&amp;amp;sid=40
 http://www.ipcop.org/index.php?name=News&amp;amp;file=article&amp;amp;sid=41
 http://www.ipcop.org/index.php?name=News&amp;file=article&amp;sid=40
 http://www.ipcop.org/index.php?name=News&amp;file=article&amp;sid=41
+http://www.ipcop.org/index.php?name=News&file=article&sid=40
+http://www.ipcop.org/index.php?name=News&file=article&sid=41

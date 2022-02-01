@@ -45,4 +45,5 @@ https://www.veritas.com/content/support/en_US/security/VTS20-017
 https://www.veritas.com/content/support/en_US/security/VTS21-001#issue1
 https://www.veritas.com/content/support/en_US/security/VTS21-001#issue2
 https://www.veritas.com/content/support/en_US/security/VTS21-001#issue3
+https://www.veritas.com/content/support/en_US/security/VTS21-003
 https://www.veritas.com/support/en_US/article.000116055

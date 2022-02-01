@@ -5,8 +5,10 @@ http://www.cisco.com/c/en/us/td/docs/switches/lan/catalyst6500/ios/12-2SY/releas
 http://www.cisco.com/c/en/us/td/docs/switches/lan/catalyst6500/ios/15-1SY/release_notes.pdf
 http://www.cisco.com/cisco/software/release.html?mdfid=279506669&amp;amp;catid=268437899&amp;amp;flowid=1915&amp;amp;reltype=all&amp;amp;relind=AVAILABLE&amp;amp;release=3.9.2&amp;amp;softwareid=280867577
 http://www.cisco.com/cisco/software/release.html?mdfid=279506669&amp;catid=268437899&amp;flowid=1915&amp;reltype=all&amp;relind=AVAILABLE&amp;release=3.9.2&amp;softwareid=280867577
+http://www.cisco.com/cisco/software/release.html?mdfid=279506669&catid=268437899&flowid=1915&reltype=all&relind=AVAILABLE&release=3.9.2&softwareid=280867577
 http://www.cisco.com/cisco/software/release.html?mdfid=280777815&amp;amp;softwareid=280867577&amp;amp;release=3.9.1
 http://www.cisco.com/cisco/software/release.html?mdfid=280777815&amp;softwareid=280867577&amp;release=3.9.1
+http://www.cisco.com/cisco/software/release.html?mdfid=280777815&softwareid=280867577&release=3.9.1
 http://www.cisco.com/en/US/docs/app_ntwk_services/waas/waas/v501/release/notes/ws501xrn.pdf
 http://www.cisco.com/en/US/docs/cable/cmts/release/notes/12_2sc/uBR7200/122_33_SCF/caveats.html
 http://www.cisco.com/en/US/docs/interfaces_modules/services_modules/ace/vA2_3_x/Release/Note/RACEA2_3_X.html

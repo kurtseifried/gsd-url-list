@@ -1,5 +1,6 @@
 http://www.ruby-lang.org/cgi-bin/cvsweb.cgi/ruby/lib/cgi.rb.diff?f=h&amp;amp;only_with_tag=MAIN&amp;amp;r1=text&amp;amp;tr1=1.92&amp;amp;r2=text&amp;amp;tr2=1.91
 http://www.ruby-lang.org/cgi-bin/cvsweb.cgi/ruby/lib/cgi.rb.diff?f=h&amp;only_with_tag=MAIN&amp;r1=text&amp;tr1=1.92&amp;r2=text&amp;tr2=1.91
+http://www.ruby-lang.org/cgi-bin/cvsweb.cgi/ruby/lib/cgi.rb.diff?f=h&only_with_tag=MAIN&r1=text&tr1=1.92&r2=text&tr2=1.91
 http://www.ruby-lang.org/en/20051003.html
 http://www.ruby-lang.org/en/news/2006/12/04/another-dos-vulnerability-in-cgi-library/
 http://www.ruby-lang.org/en/news/2008/03/03/webrick-file-access-vulnerability/
@@ -63,6 +64,8 @@ https://www.ruby-lang.org/en/news/2021/04/05/xml-round-trip-vulnerability-in-rex
 https://www.ruby-lang.org/en/news/2021/05/02/os-command-injection-in-rdoc/
 https://www.ruby-lang.org/en/news/2021/07/07/starttls-stripping-in-net-imap/
 https://www.ruby-lang.org/en/news/2021/07/07/trusting-pasv-responses-in-net-ftp/
+https://www.ruby-lang.org/en/news/2021/11/15/date-parsing-method-regexp-dos-cve-2021-41817/
+https://www.ruby-lang.org/en/news/2021/11/24/cookie-prefix-spoofing-in-cgi-cookie-parse-cve-2021-41819/
 https://www.ruby-lang.org/ja/news/2019/10/01/code-injection-shell-test-cve-2019-16255/
 https://www.ruby-lang.org/ja/news/2019/10/01/http-response-splitting-in-webrick-cve-2019-16254/
 https://www.ruby-lang.org/ja/news/2019/10/01/ruby-2-4-8-released/

@@ -1,5 +1,7 @@
 https://ssd-disclosure.com/?p=3814&amp;amp;preview=true
+https://ssd-disclosure.com/?p=3814&preview=true
 https://ssd-disclosure.com/?p=3899&amp;amp;preview=true
+https://ssd-disclosure.com/?p=3899&preview=true
 https://ssd-disclosure.com/?p=3926
 https://ssd-disclosure.com/?p=4676
 https://ssd-disclosure.com/?p=4688
@@ -10,6 +12,7 @@ https://ssd-disclosure.com/ssd-advisory--voipmonitor-unauth-rce
 https://ssd-disclosure.com/ssd-advisory-aapanel-cswh-to-rce/
 https://ssd-disclosure.com/ssd-advisory-hongdian-h8922-multiple-vulnerabilities/
 https://ssd-disclosure.com/ssd-advisory-ip-board-stored-xss-to-rce-chain/
+https://ssd-disclosure.com/ssd-advisory-linux-bluez-information-leak-and-heap-overflow/
 https://ssd-disclosure.com/ssd-advisory-mylittleadmin-preauth-rce/
 https://ssd-disclosure.com/ssd-advisory-netgear-nighthawk-r7000-httpd-preauth-rce/
 https://ssd-disclosure.com/ssd-advisory-netmotion-mobility-server-multiple-deserialization-of-untrusted-data-lead-to-rce/

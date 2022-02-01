@@ -1,0 +1,4 @@
+https://developers.slashdot.org/story/21/05/29/0224246/freenode-apologizes-as-prominent-open-source-projects-switch-to-libera-chat
+https://developers.slashdot.org/story/21/12/10/2131259/new-zero-day-in-the-log4j-java-library-is-already-being-exploited
+https://developers.slashdot.org/story/22/01/09/2336239/open-source-developer-intentionally-corrupts-his-own-widely-used-libraries?utm_source=rss1.0mainlinkanon&utm_medium=feed
+https://developers.slashdot.org/story/22/01/15/212234/github-restores-account-of-developer-who-intentionally-corrupted-his-librarie

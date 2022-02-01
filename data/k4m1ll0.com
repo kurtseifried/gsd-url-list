@@ -1,3 +1,4 @@
+https://k4m1ll0.com/chained_exploit_htaccess.html
 https://k4m1ll0.com/cve-2019-19681.html
 https://k4m1ll0.com/cve-2019-19968.html
 https://k4m1ll0.com/cve-2019-20050.html
@@ -6,4 +7,5 @@ https://k4m1ll0.com/cve-2020-8497.html
 https://k4m1ll0.com/cve-2020-8500.html
 https://k4m1ll0.com/cve-2020-8511.html
 https://k4m1ll0.com/cve-2021-34075.html
+https://k4m1ll0.com/cve-2021-41653.html
 https://k4m1ll0.com/cve-pandorafms754-chained-xss-rce.html

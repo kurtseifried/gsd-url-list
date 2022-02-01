@@ -1,6 +1,9 @@
 http://www.phrack.org/issues.html?issue=67&amp;amp;id=9#article
 http://www.phrack.org/issues.html?issue=67&amp;id=9#article
+http://www.phrack.org/issues.html?issue=67&id=9#article
+http://www.phrack.org/show.php?p=58&a=9
 http://www.phrack.org/show.php?p=58&amp;a=9
 http://www.phrack.org/show.php?p=58&amp;amp;a=9
+http://www.phrack.org/show.php?p=59&a=16
 http://www.phrack.org/show.php?p=59&amp;a=16
 http://www.phrack.org/show.php?p=59&amp;amp;a=16

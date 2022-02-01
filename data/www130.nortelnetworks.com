@@ -1,3 +1,9 @@
+http://www130.nortelnetworks.com/cgi-bin/eserv/cs/main.jsp?cscat=BLTNDETAIL&DocumentOID=362187&RenditionID=
+http://www130.nortelnetworks.com/cgi-bin/eserv/cs/main.jsp?cscat=BLTNDETAIL&DocumentOID=363396&RenditionID=
+http://www130.nortelnetworks.com/cgi-bin/eserv/cs/main.jsp?cscat=BLTNDETAIL&DocumentOID=375341
+http://www130.nortelnetworks.com/cgi-bin/eserv/cs/main.jsp?cscat=BLTNDETAIL&DocumentOID=375420
+http://www130.nortelnetworks.com/cgi-bin/eserv/cs/main.jsp?cscat=BLTNDETAIL&DocumentOID=375525
+http://www130.nortelnetworks.com/cgi-bin/eserv/cs/main.jsp?cscat=BLTNDETAIL&DocumentOID=391523&RenditionID=
 http://www130.nortelnetworks.com/cgi-bin/eserv/cs/main.jsp?cscat=BLTNDETAIL&amp;DocumentOID=362187&amp;RenditionID=
 http://www130.nortelnetworks.com/cgi-bin/eserv/cs/main.jsp?cscat=BLTNDETAIL&amp;DocumentOID=363396&amp;RenditionID=
 http://www130.nortelnetworks.com/cgi-bin/eserv/cs/main.jsp?cscat=BLTNDETAIL&amp;DocumentOID=375341
@@ -12,6 +18,13 @@ http://www130.nortelnetworks.com/cgi-bin/eserv/cs/main.jsp?cscat=BLTNDETAIL&amp;
 http://www130.nortelnetworks.com/cgi-bin/eserv/cs/main.jsp?cscat=BLTNDETAIL&amp;amp;DocumentOID=391523&amp;amp;RenditionID=
 http://www130.nortelnetworks.com/cgi-bin/eserv/cs/main.jsp?level=6&amp;amp;category=8&amp;amp;subcategory=6&amp;amp;subtype=&amp;amp;DocumentOID=276620&amp;amp;RenditionID=REND159588
 http://www130.nortelnetworks.com/cgi-bin/eserv/cs/main.jsp?level=6&amp;category=8&amp;subcategory=6&amp;subtype=&amp;DocumentOID=276620&amp;RenditionID=REND159588
+http://www130.nortelnetworks.com/cgi-bin/eserv/cs/main.jsp?level=6&category=8&subcategory=6&subtype=&DocumentOID=276620&RenditionID=REND159588
+http://www130.nortelnetworks.com/go/main.jsp?cscat=BLTNDETAIL&DocumentOID=363252
+http://www130.nortelnetworks.com/go/main.jsp?cscat=BLTNDETAIL&DocumentOID=498093&RenditionID=&poid=8881
+http://www130.nortelnetworks.com/go/main.jsp?cscat=BLTNDETAIL&DocumentOID=540071
+http://www130.nortelnetworks.com/go/main.jsp?cscat=BLTNDETAIL&DocumentOID=540173
+http://www130.nortelnetworks.com/go/main.jsp?cscat=BLTNDETAIL&DocumentOID=567877&RenditionID=&poid=null
+http://www130.nortelnetworks.com/go/main.jsp?cscat=BLTNDETAIL&DocumentOID=58493
 http://www130.nortelnetworks.com/go/main.jsp?cscat=BLTNDETAIL&amp;DocumentOID=363252
 http://www130.nortelnetworks.com/go/main.jsp?cscat=BLTNDETAIL&amp;DocumentOID=498093&amp;RenditionID=&amp;poid=8881
 http://www130.nortelnetworks.com/go/main.jsp?cscat=BLTNDETAIL&amp;DocumentOID=540071

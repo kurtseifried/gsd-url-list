@@ -36,6 +36,7 @@ https://gkaim.com/cve-2018-20643-vikas-chaudhary/
 https://gkaim.com/cve-2018-20644-vikas-chaudhary/
 https://gkaim.com/cve-2018-20645-vikas-chaudhary/
 https://gkaim.com/cve-2018-20646-vikas-chaudhary/
+https://gkaim.com/cve-2018-20647-vikas-chaudhary/
 https://gkaim.com/cve-2018-20648-vikas-chaudhary/
 https://gkaim.com/cve-2019-14978-vikas-chaudhary/
 https://gkaim.com/cve-2019-14979-vikas-chaudhary/

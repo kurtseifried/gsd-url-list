@@ -1,4 +1,5 @@
 http://bugzilla.suse.com/show_bug.cgi?id=1122623
+https://bugzilla.suse.com/1038984
 https://bugzilla.suse.com/957174
 https://bugzilla.suse.com/attachment.cgi?id=728337
 https://bugzilla.suse.com/attachment.cgi?id=844938
@@ -52,6 +53,7 @@ https://bugzilla.suse.com/show_bug.cgi?id=1065386
 https://bugzilla.suse.com/show_bug.cgi?id=1065396
 https://bugzilla.suse.com/show_bug.cgi?id=1065397
 https://bugzilla.suse.com/show_bug.cgi?id=1069702
+https://bugzilla.suse.com/show_bug.cgi?id=1069904
 https://bugzilla.suse.com/show_bug.cgi?id=1076537
 https://bugzilla.suse.com/show_bug.cgi?id=1076832
 https://bugzilla.suse.com/show_bug.cgi?id=1081784
@@ -67,6 +69,7 @@ https://bugzilla.suse.com/show_bug.cgi?id=1099699
 https://bugzilla.suse.com/show_bug.cgi?id=1100217
 https://bugzilla.suse.com/show_bug.cgi?id=1100365
 https://bugzilla.suse.com/show_bug.cgi?id=1101450
+https://bugzilla.suse.com/show_bug.cgi?id=1102001&_ga=2.244341506.661832603.1561012452-1774095668.1553066022
 https://bugzilla.suse.com/show_bug.cgi?id=1102001&amp;amp;_ga=2.244341506.661832603.1561012452-1774095668.1553066022
 https://bugzilla.suse.com/show_bug.cgi?id=1102062
 https://bugzilla.suse.com/show_bug.cgi?id=1102068
@@ -236,6 +239,10 @@ https://bugzilla.suse.com/show_bug.cgi?id=1186240
 https://bugzilla.suse.com/show_bug.cgi?id=1187084
 https://bugzilla.suse.com/show_bug.cgi?id=1188453
 https://bugzilla.suse.com/show_bug.cgi?id=1190975
+https://bugzilla.suse.com/show_bug.cgi?id=1191818
+https://bugzilla.suse.com/show_bug.cgi?id=1191819
+https://bugzilla.suse.com/show_bug.cgi?id=1191890
+https://bugzilla.suse.com/show_bug.cgi?id=1193484
 https://bugzilla.suse.com/show_bug.cgi?id=199440
 https://bugzilla.suse.com/show_bug.cgi?id=213229
 https://bugzilla.suse.com/show_bug.cgi?id=327854

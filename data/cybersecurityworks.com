@@ -46,3 +46,4 @@ https://cybersecurityworks.com/zerodays/cve-2020-29323-telnet-hardcoded-credenti
 https://cybersecurityworks.com/zerodays/cve-2020-29324-d-link-router-dir-895l-mfc-telnet-hardcoded-credentials.html
 https://cybersecurityworks.com/zerodays/cve-2020-5504-phpmyadmin.html
 https://cybersecurityworks.com/zerodays/cve-2021-33849-stored-cross-site-scripting-xss-in-wordpress-plugin-zoho-crm-lead-magnet-version-1-7-2-4.html
+https://cybersecurityworks.com/zerodays/cve-2021-33850-stored-cross-site-scripting-xss-in-wordpress-microsoft-clarity-plugin.html

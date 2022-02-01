@@ -31,6 +31,7 @@ http://git.fedorahosted.org/git/cluster.git?p=cluster.git;a=commitdiff;h=67fee91
 http://git.fedorahosted.org/git/cronie.git?p=cronie.git;a=commit;h=9e4a8fa5f9171fb724981f53879c9b20264aeb61
 http://git.fedorahosted.org/git/freeipa.git/?p=freeipa.git;a=commit;h=9932887f2af38b9701efec27707648c026ec445c
 https://git.fedorahosted.org/cgit/389/ds.git/commit/?h=389-ds-base-1.2.11&amp;amp;id=5a18c828533a670e7143327893f8171a19062286
+https://git.fedorahosted.org/cgit/389/ds.git/commit/?h=389-ds-base-1.2.11&id=5a18c828533a670e7143327893f8171a19062286
 https://git.fedorahosted.org/cgit/389/ds.git/commit/?id=d38ae06
 https://git.fedorahosted.org/cgit/bind-dyndb-ldap.git/tree/NEWS
 https://git.fedorahosted.org/cgit/elfutils.git/commit/?id=147018e729e7c22eeabf15b82d26e4bf68a0d18e

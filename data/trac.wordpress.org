@@ -11,6 +11,7 @@ http://trac.wordpress.org/changeset/6029
 http://trac.wordpress.org/changeset/7586
 http://trac.wordpress.org/changeset?old_path=tags%2F2.2.2&amp;amp;old=6063&amp;amp;new_path=tags%2F2.2.3&amp;amp;new=6063#file10
 http://trac.wordpress.org/changeset?old_path=tags%2F2.2.2&amp;old=6063&amp;new_path=tags%2F2.2.3&amp;new=6063#file10
+http://trac.wordpress.org/changeset?old_path=tags%2F2.2.2&old=6063&new_path=tags%2F2.2.3&new=6063#file10
 http://trac.wordpress.org/ticket/1686
 http://trac.wordpress.org/ticket/2591
 http://trac.wordpress.org/ticket/3142

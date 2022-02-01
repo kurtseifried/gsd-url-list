@@ -1,4 +1,6 @@
 http://cvs.savannah.nongnu.org/viewvc/freetype2/src/base/ftbitmap.c?root=freetype&amp;amp;r1=1.17&amp;amp;r2=1.18
 http://cvs.savannah.nongnu.org/viewvc/freetype2/src/base/ftbitmap.c?root=freetype&amp;r1=1.17&amp;r2=1.18
+http://cvs.savannah.nongnu.org/viewvc/freetype2/src/base/ftbitmap.c?root=freetype&r1=1.17&r2=1.18
 http://cvs.savannah.nongnu.org/viewvc/freetype2/src/truetype/ttgload.c?root=freetype&amp;amp;r1=1.177&amp;amp;r2=1.178
 http://cvs.savannah.nongnu.org/viewvc/freetype2/src/truetype/ttgload.c?root=freetype&amp;r1=1.177&amp;r2=1.178
+http://cvs.savannah.nongnu.org/viewvc/freetype2/src/truetype/ttgload.c?root=freetype&r1=1.177&r2=1.178

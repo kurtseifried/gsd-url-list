@@ -4,6 +4,9 @@ http://www.juniper.net/alerts/viewalert.jsp?actionBtn=Search&amp;amp;txtAlertNum
 http://www.juniper.net/alerts/viewalert.jsp?actionBtn=Search&amp;txtAlertNumber=PSN-2010-05-751&amp;viewMode=view
 http://www.juniper.net/alerts/viewalert.jsp?actionBtn=Search&amp;txtAlertNumber=PSN-2012-06-611&amp;viewMode=view
 http://www.juniper.net/alerts/viewalert.jsp?actionBtn=Search&amp;txtAlertNumber=PSN-2013-03-874&amp;viewMode=view
+http://www.juniper.net/alerts/viewalert.jsp?actionBtn=Search&txtAlertNumber=PSN-2010-05-751&viewMode=view
+http://www.juniper.net/alerts/viewalert.jsp?actionBtn=Search&txtAlertNumber=PSN-2012-06-611&viewMode=view
+http://www.juniper.net/alerts/viewalert.jsp?actionBtn=Search&txtAlertNumber=PSN-2013-03-874&viewMode=view
 http://www.juniper.net/security/auto/vulnerabilities/vuln28519.html
 http://www.juniper.net/security/auto/vulnerabilities/vuln28587.html
 http://www.juniper.net/security/auto/vulnerabilities/vuln28711.html
@@ -24,6 +27,8 @@ http://www.juniper.net/support/security/alerts/adv59739.txt
 http://www.juniper.net/support/security/alerts/screenos-sshv1-2.txt
 https://www.juniper.net/alerts/viewalert.jsp?actionBtn=Search&amp;amp;txtAlertNumber=PSN-2008-09-036&amp;amp;viewMode=view
 https://www.juniper.net/alerts/viewalert.jsp?actionBtn=Search&amp;amp;txtAlertNumber=PSN-2009-10-540&amp;amp;viewMode=view
+https://www.juniper.net/alerts/viewalert.jsp?actionBtn=Search&txtAlertNumber=PSN-2008-09-036&viewMode=view
+https://www.juniper.net/alerts/viewalert.jsp?actionBtn=Search&txtAlertNumber=PSN-2009-10-540&viewMode=view
 https://www.juniper.net/documentation/en_US/junos/topics/concept/bgp-error-handling-overview.html
 https://www.juniper.net/documentation/en_US/junos/topics/concept/firewall-user-authentication-pass-through-understanding.html
 https://www.juniper.net/documentation/en_US/junos/topics/concept/junos-telemetry-interface-oveview.html
@@ -54,5 +59,6 @@ https://www.juniper.net/documentation/en_US/junos/topics/topic-map/security-sip-
 https://www.juniper.net/documentation/en_US/junos/topics/topic-map/security-user-auth-configure-jims.html
 https://www.juniper.net/documentation/en_US/junos/topics/topic-map/security-user-auth-intergrated-user-firewall-overview.html
 https://www.juniper.net/documentation/en_US/release-independent/junos/topics/task/configuration/nfx250-configure-vsrx-internal-ip.html
+https://www.juniper.net/documentation/us/en/software/junos/network-mgmt/topics/ref/statement/client-list-edit-snmp.html
 https://www.juniper.net/documentation/us/en/software/junos/subscriber-mgmt-sessions/topics/ref/statement/active-leasequery-edit-forwarding-options.html
 https://www.juniper.net/documentation/us/en/software/junos/subscriber-mgmt-sessions/topics/topic-map/general-authentication-service-events-tracing.html

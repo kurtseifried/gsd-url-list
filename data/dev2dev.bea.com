@@ -144,6 +144,7 @@ http://dev2dev.bea.com/pub/advisory/63
 http://dev2dev.bea.com/pub/advisory/68
 http://dev2dev.bea.com/pub/advisory/7
 http://dev2dev.bea.com/resourcelibrary/advisoriesdetail.jsp?highlight=advisoriesnotifications&amp;path=components%2Fdev2dev%2Fresourcelibrary%2Fadvisoriesnotifications%2Fadvisory_BEA02-19.htm
+http://dev2dev.bea.com/resourcelibrary/advisoriesdetail.jsp?highlight=advisoriesnotifications&path=components%2Fdev2dev%2Fresourcelibrary%2Fadvisoriesnotifications%2Fadvisory_BEA02-19.htm
 http://dev2dev.bea.com/resourcelibrary/advisoriesnotifications/BEA00-08.jsp
 http://dev2dev.bea.com/resourcelibrary/advisoriesnotifications/BEA03-24.jsp
 http://dev2dev.bea.com/resourcelibrary/advisoriesnotifications/BEA03-27.jsp

@@ -193,6 +193,7 @@ https://security.paloaltonetworks.com/CVE-2021-3044
 https://security.paloaltonetworks.com/CVE-2021-3045
 https://security.paloaltonetworks.com/CVE-2021-3046
 https://security.paloaltonetworks.com/CVE-2021-3047
+https://security.paloaltonetworks.com/CVE-2021-3048
 https://security.paloaltonetworks.com/CVE-2021-3049
 https://security.paloaltonetworks.com/CVE-2021-3050
 https://security.paloaltonetworks.com/CVE-2021-3051
@@ -200,4 +201,17 @@ https://security.paloaltonetworks.com/CVE-2021-3052
 https://security.paloaltonetworks.com/CVE-2021-3053
 https://security.paloaltonetworks.com/CVE-2021-3054
 https://security.paloaltonetworks.com/CVE-2021-3055
+https://security.paloaltonetworks.com/CVE-2021-3056
 https://security.paloaltonetworks.com/CVE-2021-3057
+https://security.paloaltonetworks.com/CVE-2021-3058
+https://security.paloaltonetworks.com/CVE-2021-3059
+https://security.paloaltonetworks.com/CVE-2021-3060
+https://security.paloaltonetworks.com/CVE-2021-3061
+https://security.paloaltonetworks.com/CVE-2021-3062
+https://security.paloaltonetworks.com/CVE-2021-3063
+https://security.paloaltonetworks.com/CVE-2021-3064
+https://security.paloaltonetworks.com/CVE-2021-44228
+https://security.paloaltonetworks.com/CVE-2022-0012
+https://security.paloaltonetworks.com/CVE-2022-0013
+https://security.paloaltonetworks.com/CVE-2022-0014
+https://security.paloaltonetworks.com/CVE-2022-0015

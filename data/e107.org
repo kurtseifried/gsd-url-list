@@ -5,6 +5,7 @@ http://e107.org/comment.php?comment.news.788
 http://e107.org/comment.php?comment.news.864
 http://e107.org/comment.php?comment.news.872
 http://e107.org/e107_plugins/bugtrack/bugtrack.php?1625.show
+http://e107.org/e107_plugins/bugtrack/bugtrack.php?id=3195&action=show
 http://e107.org/e107_plugins/bugtrack/bugtrack.php?id=3195&amp;action=show
 http://e107.org/e107_plugins/bugtrack/bugtrack.php?id=3195&amp;amp;action=show
 http://e107.org/news.php

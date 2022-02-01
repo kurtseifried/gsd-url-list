@@ -1,0 +1,2 @@
+https://www.voipmonitor.org/changelog-gui?major=5
+https://www.voipmonitor.org/changelog-sniffer

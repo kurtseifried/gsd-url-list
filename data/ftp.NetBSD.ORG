@@ -127,3 +127,4 @@ http://ftp.netbsd.org/pub/NetBSD/security/advisories/NetBSD-SA2015-008.txt.asc
 http://ftp.netbsd.org/pub/NetBSD/security/advisories/NetBSD-SA2015-009.txt.asc
 http://ftp.netbsd.org/pub/NetBSD/security/advisories/NetBSD-SA2016-005.txt.asc
 http://ftp.netbsd.org/pub/NetBSD/security/advisories/NetBSD-SA2016-006.txt.asc
+http://ftp.netbsd.org/pub/NetBSD/security/advisories/NetBSD-SA2021-001.txt.asc

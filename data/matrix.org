@@ -8,3 +8,4 @@ https://matrix.org/blog/2019/05/03/security-updates-sydent-1-0-3-synapse-0-99-3-
 https://matrix.org/blog/2020/10/15/synapse-1-21-2-released-and-security-advisory
 https://matrix.org/blog/2021/06/14/adventures-in-fuzzing-libolm
 https://matrix.org/blog/2021/09/13/vulnerability-disclosure-key-sharing
+https://matrix.org/blog/2021/12/13/disclosure-buffer-overflow-in-libolm-and-matrix-js-sdk

@@ -1,2 +1,3 @@
+http://secubox.teria.org/index.php?menu=24&action=detail&aid=82
 http://secubox.teria.org/index.php?menu=24&amp;action=detail&amp;aid=82
 http://secubox.teria.org/index.php?menu=24&amp;amp;action=detail&amp;amp;aid=82

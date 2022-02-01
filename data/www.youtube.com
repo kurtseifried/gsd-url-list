@@ -29,7 +29,9 @@ https://www.youtube.com/watch?v=1H3AfaVyeuk
 https://www.youtube.com/watch?v=2UCAHSVqfuE
 https://www.youtube.com/watch?v=2j9gP5Qu2WA
 https://www.youtube.com/watch?v=3IdgBwbOT-g&amp;amp;feature=youtu.be
+https://www.youtube.com/watch?v=3IdgBwbOT-g&feature=youtu.be
 https://www.youtube.com/watch?v=3jBQFAAq23k&amp;amp;feature=youtu.be
+https://www.youtube.com/watch?v=3jBQFAAq23k&feature=youtu.be
 https://www.youtube.com/watch?v=3rXP8CGTe08
 https://www.youtube.com/watch?v=40d7uXl36O4
 https://www.youtube.com/watch?v=5z_PEZ5PyeA
@@ -48,6 +50,7 @@ https://www.youtube.com/watch?v=B0VpK0poTco
 https://www.youtube.com/watch?v=BQUVgAdhwQs
 https://www.youtube.com/watch?v=BtLUO-ujJ7I
 https://www.youtube.com/watch?v=BvZJ_e2BH_M&amp;amp;feature=youtu.be
+https://www.youtube.com/watch?v=BvZJ_e2BH_M&feature=youtu.be
 https://www.youtube.com/watch?v=BwYK_xZlKi4
 https://www.youtube.com/watch?v=C8Nz3YmVc_g
 https://www.youtube.com/watch?v=CLAHE0qUHXs
@@ -56,6 +59,7 @@ https://www.youtube.com/watch?v=Cr5DupGxmL4
 https://www.youtube.com/watch?v=CvmnUeza9zw
 https://www.youtube.com/watch?v=DOYm0DIS3Us
 https://www.youtube.com/watch?v=DghYH7WY6iE&amp;amp;feature=youtu.be
+https://www.youtube.com/watch?v=DghYH7WY6iE&feature=youtu.be
 https://www.youtube.com/watch?v=DjMEfQW3bf0
 https://www.youtube.com/watch?v=DmVgADSVS88
 https://www.youtube.com/watch?v=Do4E9ZQaPck
@@ -75,6 +79,7 @@ https://www.youtube.com/watch?v=HUM5myJWbvc
 https://www.youtube.com/watch?v=HdkZA1DO08Y
 https://www.youtube.com/watch?v=I93aH86BUaE
 https://www.youtube.com/watch?v=Iw8sIBLWE_w
+https://www.youtube.com/watch?v=JhIgiAiomsw
 https://www.youtube.com/watch?v=K2HElM_ZYu4
 https://www.youtube.com/watch?v=LDcaPstAuPk
 https://www.youtube.com/watch?v=LF5ic5nOoUY
@@ -82,10 +87,12 @@ https://www.youtube.com/watch?v=LRK3c_DhXn4
 https://www.youtube.com/watch?v=La9nMeVCtt4
 https://www.youtube.com/watch?v=Lv-STOyQCVY
 https://www.youtube.com/watch?v=M6D7DmmjLak&amp;amp;t=22s
+https://www.youtube.com/watch?v=M6D7DmmjLak&t=22s
 https://www.youtube.com/watch?v=MB8AL5u7JCA
 https://www.youtube.com/watch?v=MBK4QYkUm10
 https://www.youtube.com/watch?v=MF9lrh1kpDs
 https://www.youtube.com/watch?v=MK0SrxBC1xs&amp;amp;feature=youtu.be
+https://www.youtube.com/watch?v=MK0SrxBC1xs&feature=youtu.be
 https://www.youtube.com/watch?v=MK9AvoJDtxY
 https://www.youtube.com/watch?v=MVCe_zYtFsQ
 https://www.youtube.com/watch?v=MwtjE2PmEJU
@@ -104,6 +111,7 @@ https://www.youtube.com/watch?v=S7jOLv0sul0
 https://www.youtube.com/watch?v=SQ1_Ht-0Bdo
 https://www.youtube.com/watch?v=SSE8Xj_-QaQ
 https://www.youtube.com/watch?v=ShCs5_8mBlM&amp;amp;t=37s
+https://www.youtube.com/watch?v=ShCs5_8mBlM&t=37s
 https://www.youtube.com/watch?v=SkTKt1nV57I
 https://www.youtube.com/watch?v=SnyPJtDDMFQ
 https://www.youtube.com/watch?v=SonmmgQlLzg
@@ -114,6 +122,7 @@ https://www.youtube.com/watch?v=Tod8Q6sf0P8
 https://www.youtube.com/watch?v=Txp6IwR24jY
 https://www.youtube.com/watch?v=Ufcj4D9eA5o
 https://www.youtube.com/watch?v=V0BWq33qVCs&amp;amp;feature=youtu.be
+https://www.youtube.com/watch?v=V0BWq33qVCs&feature=youtu.be
 https://www.youtube.com/watch?v=VYKsfgox-bs
 https://www.youtube.com/watch?v=WE3b1iSnWJY
 https://www.youtube.com/watch?v=WSQW0ipnXQg
@@ -153,12 +162,14 @@ https://www.youtube.com/watch?v=kQWg-Ywv3S4
 https://www.youtube.com/watch?v=l08DHB08Gow
 https://www.youtube.com/watch?v=m6zISgWPGGY
 https://www.youtube.com/watch?v=mm4bfsZdLmA&amp;amp;t=1h53m
+https://www.youtube.com/watch?v=mm4bfsZdLmA&t=1h53m
 https://www.youtube.com/watch?v=n-mEMkeoUqs
 https://www.youtube.com/watch?v=nL141dcDGCY
 https://www.youtube.com/watch?v=nNKBRx8IglI
 https://www.youtube.com/watch?v=nn-_3AbtEkI
 https://www.youtube.com/watch?v=oDTd-yRxVJ0
 https://www.youtube.com/watch?v=oSJscEei5SE&amp;amp;app=desktop
+https://www.youtube.com/watch?v=oSJscEei5SE&app=desktop
 https://www.youtube.com/watch?v=oZXGwC7PWYE
 https://www.youtube.com/watch?v=pLMH9vGPRCo
 https://www.youtube.com/watch?v=pQS1GdQ3CBc
@@ -181,7 +192,9 @@ https://www.youtube.com/watch?v=vClCaAAfzGg
 https://www.youtube.com/watch?v=vOlw2DP9WbE
 https://www.youtube.com/watch?v=vdesswZYz-8
 https://www.youtube.com/watch?v=vnSsg6iwV9Y&amp;amp;feature=youtu.be&amp;amp;ab_channel=ashketchum
+https://www.youtube.com/watch?v=vnSsg6iwV9Y&feature=youtu.be&ab_channel=ashketchum
 https://www.youtube.com/watch?v=vuBaoQUFEYQ&amp;amp;feature=youtu.be
+https://www.youtube.com/watch?v=vuBaoQUFEYQ&feature=youtu.be
 https://www.youtube.com/watch?v=wEXJDyEOatM
 https://www.youtube.com/watch?v=wTcYWZwq3TE
 https://www.youtube.com/watch?v=waIJKWCpyNQ
@@ -190,6 +203,7 @@ https://www.youtube.com/watch?v=x-r4lnWPdzY
 https://www.youtube.com/watch?v=xYRbXBPubaw
 https://www.youtube.com/watch?v=xkdPjbaLngE
 https://www.youtube.com/watch?v=zAE4Swjc-GU&amp;amp;feature=youtu.be
+https://www.youtube.com/watch?v=zAE4Swjc-GU&feature=youtu.be
 https://www.youtube.com/watch?v=zEt-_5b4OaA
 https://www.youtube.com/watch?v=zN3DVrcu6Eg
 https://www.youtube.com/watch?v=zSG93yX0B8k

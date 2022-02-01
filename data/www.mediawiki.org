@@ -5,6 +5,7 @@ http://www.mediawiki.org/wiki/Manual:$wgShowExceptionDetails
 http://www.mediawiki.org/wiki/MediaWiki
 http://www.mediawiki.org/wiki/Release_notes/1.20
 http://www.mediawiki.org/wiki/Special:Code/MediaWiki/85856
+https://www.mediawiki.org/wiki/2021-12_security_release/FAQ
 https://www.mediawiki.org/wiki/Extension:AbuseFilter
 https://www.mediawiki.org/wiki/Parsoid
 https://www.mediawiki.org/wiki/Release_notes/1.17

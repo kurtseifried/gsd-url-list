@@ -4,6 +4,9 @@ https://lore.kernel.org/bpf/20200330160324.15259-1-daniel@iogearbox.net/T/
 https://lore.kernel.org/bpf/20210806150419.109658-1-th.yasumatsu@gmail.com/
 https://lore.kernel.org/bpf/CACAyw99bEYWJCSGqfLiJ9Jp5YE1ZsZSiJxb4RFUTwbofipf0dA@mail.gmail.com/T/#m8929643e99bea9c18ed490a7bc2591145eac6444
 https://lore.kernel.org/connman/
+https://lore.kernel.org/dri-devel/20201103194912.184413-2-jcline@redhat.com/
+https://lore.kernel.org/dri-devel/20201103194912.184413-3-jcline@redhat.com/
+https://lore.kernel.org/dri-devel/20201103194912.184413-4-jcline@redhat.com/
 https://lore.kernel.org/git/CA+kUOa=juEdBMVr_gyTKjz7PkPt2DZHkXQyzcQmAWCsEHC_ssw@mail.gmail.com/T/#u
 https://lore.kernel.org/git/xmqqim6019yd.fsf@gitster.c.googlers.com/
 https://lore.kernel.org/git/xmqqr21cqcn9.fsf@gitster-ct.c.googlers.com/T/#u
@@ -35,11 +38,14 @@ https://lore.kernel.org/lkml/20191103221719.27118-1-alex.popov@linux.com/
 https://lore.kernel.org/lkml/20191129013745.7168-1-dja@axtens.net/
 https://lore.kernel.org/lkml/20191204103955.63c4d9af@cakuba.netronome.com/
 https://lore.kernel.org/lkml/20210429165941.27020-1-andraprs@amazon.com/
+https://lore.kernel.org/lkml/20211215092501.1861229-1-jens.wiklander@linaro.org/
 https://lore.kernel.org/lkml/87o93u7d3s.fsf@intel.com/
 https://lore.kernel.org/lkml/CAG_fn=VZZ7yUxtOGzuTLkr7wmfXWtKK9BHHYawj=rt9XWnCYvg@mail.gmail.com/
 https://lore.kernel.org/lkml/b9b256cb-95f2-5fa1-9956-5a602a017c11@gmail.com/
 https://lore.kernel.org/lkml/c30fc539-68a8-65d7-226c-6f8e6fd8bdfb@suse.com/
+https://lore.kernel.org/netdev/163698540868.13805.17800408021782408762.git-patchwork-notify@kernel.org/T/
 https://lore.kernel.org/netdev/20201013171849.236025-1-kleber.souza@canonical.com/T/
+https://lore.kernel.org/netdev/CAFcO6XOvGQrRTaTkaJ0p3zR7y7nrAWD79r48=L_BbOyrK9X-vA@mail.gmail.com/
 https://lore.kernel.org/netdev/CAM_iQpUKQJrj8wE+Qa8NGR3P0L+5Uz=qo-O5+k_P60HzTde6aw%40mail.gmail.com/t/
 https://lore.kernel.org/netdev/trinity-87eaea25-2a7d-4aa9-92a5-269b822e5d95-1623609211076@3c-app-gmx-bs04/T/
 https://lore.kernel.org/patchwork/patch/1011367/

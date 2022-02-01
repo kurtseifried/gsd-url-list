@@ -1,6 +1,7 @@
 http://www.ipswitch.com/Support/IMail/news.html
 http://www.ipswitch.com/Support/WS_FTP-Server/patch-upgrades.html
 http://www.ipswitch.com/Support/WhatsUp/patch-upgrades.html
+http://www.ipswitch.com/forums/shwmessage.aspx?ForumID=20&MessageID=7699
 http://www.ipswitch.com/forums/shwmessage.aspx?ForumID=20&amp;MessageID=7699
 http://www.ipswitch.com/forums/shwmessage.aspx?ForumID=20&amp;amp;MessageID=7699
 http://www.ipswitch.com/support/ics/updates/ics200603prem.asp

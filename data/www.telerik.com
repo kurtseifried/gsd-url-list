@@ -9,6 +9,7 @@ https://www.telerik.com/forums/path-traversal-vulnerability-in-radchart-image-ha
 https://www.telerik.com/support/code-library/security-alert-for-the-obsolete-telerik-extensions-for-asp-net-mvc
 https://www.telerik.com/support/kb/aspnet-ajax/details/allows-javascriptserializer-deserialization
 https://www.telerik.com/support/whats-new/aspnet-ajax/release-history/ui-for-asp-net-ajax-r1-2020-%28version-2020-1-114%29
+https://www.telerik.com/support/whats-new/aspnet-ajax/release-history/ui-for-asp-net-ajax-r1-2020-(version-2020-1-114)
 https://www.telerik.com/support/whats-new/fiddler/release-history/fiddler-v5.0.20204
 https://www.telerik.com/support/whats-new/justdecompile/release-history/justdecompile-r2-2018-sp1
 https://www.telerik.com/support/whats-new/release-history

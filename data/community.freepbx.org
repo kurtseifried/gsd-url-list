@@ -1,3 +1,5 @@
 http://community.freepbx.org/t/critical-freepbx-rce-vulnerability-all-versions-cve-2014-7235/24536
+https://community.freepbx.org/t/0-day-freepbx-exploit/80092
 https://community.freepbx.org/t/freepbx-security-vulnerability-sec-2019-00
 https://community.freepbx.org/t/freepbx-security-vulnerability-sec-2019-001/62772
+https://community.freepbx.org/t/security-issue-potential-rest-phone-apps-rce/80109

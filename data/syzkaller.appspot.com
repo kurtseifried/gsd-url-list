@@ -2,6 +2,7 @@ https://syzkaller.appspot.com/bug?extid=bd391451452fb0b93039
 https://syzkaller.appspot.com/bug?id=082c09653e43e33a6a56f8c57cf051eeacae9d5f
 https://syzkaller.appspot.com/bug?id=08b8be45afea11888776f897895aef9ad1c3ecfd
 https://syzkaller.appspot.com/bug?id=0c1e517c657d3de2361cb0cc2d3a8663c25039a7
+https://syzkaller.appspot.com/bug?id=22c3987f75a7b90e238a26b5a5920525c2d1f345
 https://syzkaller.appspot.com/bug?id=240f09164db2c3d3af33a117c713dc7650dc29d6
 https://syzkaller.appspot.com/bug?id=2e1943a94647f7732dd6fc60368642d6e8dc91b1
 https://syzkaller.appspot.com/bug?id=36fe241584203cf394d44560a42e3430434f1213
@@ -26,3 +27,4 @@ https://syzkaller.appspot.com/bug?id=f0b1f2952022c75394c0eef2afeb17af90f9227e
 https://syzkaller.appspot.com/bug?id=f4d1cb4330bd3ddf4a628332b4285407b2eedd7b
 https://syzkaller.appspot.com/bug?id=f99edaeec58ad40380ed5813d89e205861be2896
 https://syzkaller.appspot.com/text?tag=ReproC&amp;amp;x=15ca2f46900000
+https://syzkaller.appspot.com/text?tag=ReproC&x=15ca2f46900000

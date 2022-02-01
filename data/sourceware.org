@@ -14,8 +14,10 @@ http://sourceware.org/bugzilla/show_bug.cgi?id=15330
 http://sourceware.org/bugzilla/show_bug.cgi?id=2584
 http://sourceware.org/cgi-bin/cvsweb.cgi/cluster/cman/daemon/daemon.c.diff?cvsroot=cluster&amp;amp;r1=1.34&amp;amp;r2=1.35
 http://sourceware.org/cgi-bin/cvsweb.cgi/cluster/cman/daemon/daemon.c.diff?cvsroot=cluster&amp;r1=1.34&amp;r2=1.35
+http://sourceware.org/cgi-bin/cvsweb.cgi/cluster/cman/daemon/daemon.c.diff?cvsroot=cluster&r1=1.34&r2=1.35
 http://sourceware.org/cgi-bin/cvsweb.cgi/~checkout~/src/gdb/NEWS?content-type=text/x-cvsweb-markup&amp;amp;cvsroot=src
 http://sourceware.org/cgi-bin/cvsweb.cgi/~checkout~/src/gdb/NEWS?content-type=text/x-cvsweb-markup&amp;cvsroot=src
+http://sourceware.org/cgi-bin/cvsweb.cgi/~checkout~/src/gdb/NEWS?content-type=text/x-cvsweb-markup&cvsroot=src
 http://sourceware.org/git/?p=glibc.git;a=commit;h=153aa31b93be22e01b236375fb02a9f9b9a0195f
 http://sourceware.org/git/?p=glibc.git;a=commit;h=199eb0de8d673fb23aa127721054b4f1803d61f3
 http://sourceware.org/git/?p=glibc.git;a=commit;h=8126d90480fa3e0c5c5cd0d02cb1c93174b45485
@@ -185,6 +187,7 @@ https://sourceware.org/bugzilla/show_bug.cgi?id=22507
 https://sourceware.org/bugzilla/show_bug.cgi?id=22508
 https://sourceware.org/bugzilla/show_bug.cgi?id=22509
 https://sourceware.org/bugzilla/show_bug.cgi?id=22510
+https://sourceware.org/bugzilla/show_bug.cgi?id=22542
 https://sourceware.org/bugzilla/show_bug.cgi?id=22625
 https://sourceware.org/bugzilla/show_bug.cgi?id=22644
 https://sourceware.org/bugzilla/show_bug.cgi?id=22741
@@ -291,8 +294,12 @@ https://sourceware.org/bugzilla/show_bug.cgi?id=27896
 https://sourceware.org/bugzilla/show_bug.cgi?id=27896#c1
 https://sourceware.org/bugzilla/show_bug.cgi?id=28011
 https://sourceware.org/bugzilla/show_bug.cgi?id=28213
+https://sourceware.org/bugzilla/show_bug.cgi?id=28524
+https://sourceware.org/bugzilla/show_bug.cgi?id=28694
+https://sourceware.org/bugzilla/show_bug.cgi?id=28768
 https://sourceware.org/bugzilla/show_bug.cgi?id=661
 https://sourceware.org/git/?p=binutils-gdb.git;a=commit;h=bd25671c6f202c4a5108883caa2adb24ff6f361f
+https://sourceware.org/git/?p=binutils-gdb.git;a=patch;h=372dd157272e0674d13372655cc60eaca9c06926
 https://sourceware.org/git/?p=elfutils.git;a=commit;h=29e31978ba51c1051743a503ee325b5ebc03d7e9
 https://sourceware.org/git/?p=elfutils.git;a=commit;h=6983e59b727458a6c64d9659c85f08218bc4fcda
 https://sourceware.org/git/?p=glibc.git;a=blob_plain;f=NEWS;hb=HEAD
@@ -305,6 +312,7 @@ https://sourceware.org/git/?p=glibc.git;a=commit;h=8e448310d74b283c5cd02b9ed7fb9
 https://sourceware.org/git/?p=glibc.git;a=commit;h=a0ac24d98ace90d1ccba6a2f3e7d55600f2fdb6e
 https://sourceware.org/git/?p=glibc.git;a=commit;h=b805aebd42364fe696e417808a700fdb9800c9e8
 https://sourceware.org/git/?p=glibc.git;a=commit;h=ee7a3144c9922808181009b7b3e50e852fb4999b
+https://sourceware.org/git/?p=glibc.git;a=commit;h=ff012870b2c02a62598c04daa1e54632e020fd7d
 https://sourceware.org/git/?p=glibc.git;a=commitdiff;h=20b38e0
 https://sourceware.org/git/?p=glibc.git;a=commitdiff;h=3f8cc204fdd0
 https://sourceware.org/git/?p=lvm2.git;a=commit;h=bcf9556b8fcd16ad8997f80cc92785f295c66701
@@ -324,6 +332,7 @@ https://sourceware.org/git/gitweb.cgi?p=binutils-gdb.git;h=116acb2c268c89c891866
 https://sourceware.org/git/gitweb.cgi?p=binutils-gdb.git;h=11855d8a1f11b102a702ab76e95b22082cccf2f8
 https://sourceware.org/git/gitweb.cgi?p=binutils-gdb.git;h=11fa9f134fd658075c6f74499c780df045d9e9ca
 https://sourceware.org/git/gitweb.cgi?p=binutils-gdb.git;h=160b1a618ad94988410dc81fce9189fcda5b7ff4
+https://sourceware.org/git/gitweb.cgi?p=binutils-gdb.git;h=161e87d12167b1e36193385485c1f6ce92f74f02
 https://sourceware.org/git/gitweb.cgi?p=binutils-gdb.git;h=19485196044b2521af979f1e5c4a89bfb90fba0b
 https://sourceware.org/git/gitweb.cgi?p=binutils-gdb.git;h=1b86808a86077722ee4f42ff97f836b12420bb2a
 https://sourceware.org/git/gitweb.cgi?p=binutils-gdb.git;h=1da5c9a485f3dcac4c45e96ef4b7dae5948314b5

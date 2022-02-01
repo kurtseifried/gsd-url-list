@@ -7,3 +7,4 @@ https://nakedsecurity.sophos.com/2015/02/04/internet-explorer-has-a-cross-site-s
 https://nakedsecurity.sophos.com/2016/08/25/anatomy-of-a-cryptographic-collision-the-sweet32-attack/
 https://nakedsecurity.sophos.com/2017/10/05/urgent-update-your-mac-again-right-now/
 https://nakedsecurity.sophos.com/2018/02/20/apple-fixes-that-1-character-to-crash-your-mac-and-iphone-bug/
+https://nakedsecurity.sophos.com/2021/12/13/log4shell-explained-how-it-works-why-you-need-to-know-and-how-to-fix-it/

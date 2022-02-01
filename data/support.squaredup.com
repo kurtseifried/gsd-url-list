@@ -1,6 +1,13 @@
+https://support.squaredup.com
 https://support.squaredup.com/hc/en-us/articles/360017255858
 https://support.squaredup.com/hc/en-us/articles/360017568238
 https://support.squaredup.com/hc/en-us/articles/360017568258
 https://support.squaredup.com/hc/en-us/articles/360019427218-CVE-2020-9388-API-Endpoints-are-not-protected-against-CSRF
 https://support.squaredup.com/hc/en-us/articles/360019427238-CVE-2020-9389-Username-enumeration-possible-via-a-timing-attack
 https://support.squaredup.com/hc/en-us/articles/360019427258-CVE-2020-9390-Stored-cross-site-scripting
+https://support.squaredup.com/hc/en-us/articles/4410635417233-CVE-2021-40092-Stored-cross-site-scripting-Image-tile-
+https://support.squaredup.com/hc/en-us/articles/4410635418257-CVE-2021-40093-Stored-cross-site-scripting-Action-Buttons-
+https://support.squaredup.com/hc/en-us/articles/4410635419153-CVE-2021-40095-Reading-arbitrary-files
+https://support.squaredup.com/hc/en-us/articles/4410656394129-CVE-2021-40091-SSRF-issue
+https://support.squaredup.com/hc/en-us/articles/4410656395537-CVE-2021-40094-DOM-based-stored-cross-site-scripting
+https://support.squaredup.com/hc/en-us/articles/4410656396817-CVE-2021-40096-Stored-cross-site-scripting-provider-configuration-

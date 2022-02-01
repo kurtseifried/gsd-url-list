@@ -14,4 +14,5 @@ https://tls.mbed.org/tech-updates/security-advisories/mbedtls-security-advisory-
 https://tls.mbed.org/tech-updates/security-advisories/mbedtls-security-advisory-2020-04
 https://tls.mbed.org/tech-updates/security-advisories/mbedtls-security-advisory-2020-09-1
 https://tls.mbed.org/tech-updates/security-advisories/mbedtls-security-advisory-2020-09-2
+https://tls.mbed.org/tech-updates/security-advisories/mbedtls-security-advisory-2021-12
 https://tls.mbed.org/tech-updates/security-advisories/polarssl-security-advisory-2011-02

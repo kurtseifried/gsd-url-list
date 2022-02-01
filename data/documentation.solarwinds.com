@@ -1,6 +1,7 @@
 https://documentation.solarwinds.com/en/Success_Center/SAM/Content/Release_Notes/SAM_2020-2-5_release_notes.htm#Fixed
 https://documentation.solarwinds.com/en/Success_Center/orionplatform/Content/Release_Notes/Orion_Platform_2020-2-1_release_notes.htm#NewFeaturesOrion
 https://documentation.solarwinds.com/en/Success_Center/orionplatform/Content/Release_Notes/Orion_Platform_2020-2-5_release_notes.htm
+https://documentation.solarwinds.com/en/Success_Center/orionplatform/content/core-secure-configuration.htm
 https://documentation.solarwinds.com/en/success_center/arm/content/release_notes/arm_2021-4_release_notes.htm
 https://documentation.solarwinds.com/en/success_center/dameware/content/release_notes/dameware_12-2_release_notes.htm
 https://documentation.solarwinds.com/en/success_center/dpa/content/release_notes/dpa_2021-3-7438_release_notes.htm
@@ -16,4 +17,5 @@ https://documentation.solarwinds.com/en/success_center/servu/Content/Release_Not
 https://documentation.solarwinds.com/en/success_center/servu/content/release_notes/servu_15-2-2_release_notes.htm
 https://documentation.solarwinds.com/en/success_center/servu/content/release_notes/servu_15-2-3_release_notes.htm
 https://documentation.solarwinds.com/en/success_center/servu/content/release_notes/servu_15-2-4_release_notes.htm
+https://documentation.solarwinds.com/en/success_center/servu/content/release_notes/servu_15-2-5_release_notes.htm
 https://documentation.solarwinds.com/en/success_center/servu/content/release_notes/servu_15-2_release_notes.htm

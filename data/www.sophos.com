@@ -25,4 +25,8 @@ https://www.sophos.com/en-us.aspx
 https://www.sophos.com/en-us/legal/sophos-responsible-disclosure-policy.aspx
 https://www.sophos.com/en-us/security-advisories/sophos-sa-20211007-hmp-lpe
 https://www.sophos.com/en-us/security-advisories/sophos-sa-20211007-hmpa-lpe
+https://www.sophos.com/en-us/security-advisories/sophos-sa-20211029-ssw-pw-bypass
+https://www.sophos.com/en-us/security-advisories/sophos-sa-20211126-ixa-hmpa-local-dos
+https://www.sophos.com/en-us/security-advisories/sophos-sa-20211126-sg-sqli
+https://www.sophos.com/en-us/security-advisories/sophos-sa-20211210-log4j-rce
 https://www.sophos.com/en-us/support/knowledgebase/121879.aspx

@@ -1,1 +1,2 @@
 https://gforge.inria.fr/scm/viewvc.php/mpfr?revision=9243&amp;amp;view=revision
+https://gforge.inria.fr/scm/viewvc.php/mpfr?revision=9243&view=revision

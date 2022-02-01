@@ -113,6 +113,7 @@ http://downloads.asterisk.org/pub/security/AST-2019-007.html
 http://downloads.asterisk.org/pub/security/AST-2019-008.html
 http://downloads.asterisk.org/pub/security/AST-2020-001.html
 http://downloads.asterisk.org/pub/security/AST-2020-002.html
+http://downloads.asterisk.org/pub/security/AST-2021-007.html
 https://downloads.asterisk.org/pub/security/
 https://downloads.asterisk.org/pub/security/AST-2018-010.html
 https://downloads.asterisk.org/pub/security/AST-2019-001.html

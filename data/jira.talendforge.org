@@ -1,1 +1,3 @@
 https://jira.talendforge.org/browse/SF-141
+https://jira.talendforge.org/browse/TAPACHE-180
+https://jira.talendforge.org/browse/TCOMP-2054

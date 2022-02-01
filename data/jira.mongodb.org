@@ -14,6 +14,7 @@ https://jira.mongodb.org/browse/SERVER-24378
 https://jira.mongodb.org/browse/SERVER-25335
 https://jira.mongodb.org/browse/SERVER-31273
 https://jira.mongodb.org/browse/SERVER-35636
+https://jira.mongodb.org/browse/SERVER-36263
 https://jira.mongodb.org/browse/SERVER-36993
 https://jira.mongodb.org/browse/SERVER-38070
 https://jira.mongodb.org/browse/SERVER-38164
@@ -34,6 +35,7 @@ https://jira.mongodb.org/browse/SERVER-50170
 https://jira.mongodb.org/browse/SERVER-50605
 https://jira.mongodb.org/browse/SERVER-51083
 https://jira.mongodb.org/browse/SERVER-53929
+https://jira.mongodb.org/browse/SERVER-59071
 https://jira.mongodb.org/browse/SERVER-7769
 https://jira.mongodb.org/browse/SERVER-9124
 https://jira.mongodb.org/browse/SERVER-9878

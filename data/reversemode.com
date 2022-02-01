@@ -10,3 +10,9 @@ http://reversemode.com/index.php?option=com_content&amp;task=view&amp;id=69&amp;
 http://reversemode.com/index.php?option=com_content&amp;task=view&amp;id=70&amp;Itemid=1
 http://reversemode.com/index.php?option=com_content&amp;task=view&amp;id=72&amp;Itemid=1
 http://reversemode.com/index.php?option=com_content&amp;task=view&amp;id=80&amp;Itemid=1
+http://reversemode.com/index.php?option=com_content&task=view&id=55&Itemid=1
+http://reversemode.com/index.php?option=com_content&task=view&id=65&Itemid=1
+http://reversemode.com/index.php?option=com_content&task=view&id=69&Itemid=1
+http://reversemode.com/index.php?option=com_content&task=view&id=70&Itemid=1
+http://reversemode.com/index.php?option=com_content&task=view&id=72&Itemid=1
+http://reversemode.com/index.php?option=com_content&task=view&id=80&Itemid=1

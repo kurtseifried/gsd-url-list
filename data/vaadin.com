@@ -18,3 +18,4 @@ https://vaadin.com/security/cve-2021-31412
 https://vaadin.com/security/cve-2021-33604
 https://vaadin.com/security/cve-2021-33605
 https://vaadin.com/security/cve-2021-33609
+https://vaadin.com/security/cve-2021-33611

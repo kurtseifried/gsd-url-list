@@ -5,6 +5,7 @@ https://safebreach.com/Post/Check-Point-Endpoint-Security-Initial-Client-for-Win
 https://safebreach.com/Post/Comodo-Internet-Security-DLL-Preloading-and-Potential-Abuses-CVE-2019-18215
 https://safebreach.com/Post/Forcepoint-VPN-Client-for-Windows-Unquoted-Search-Path-and-Potential-Abuses-CVE-2019-6145
 https://safebreach.com/Post/HP-Touchpoint-Analytics-DLL-Search-Order-Hijacking-Potential-Abuses-CVE-2019-6333
+https://safebreach.com/Post/Kaspersky-Secure-Connection-DLL-Preloading-and-Potential-Abuses-CVE-2019-15689
 https://safebreach.com/Post/Maxthon-Browser-for-Windows-Unquoted-Search-Path-and-Potential-Abuses-CVE-2019-16647
 https://safebreach.com/Post/McAfee-All-Editions-MTP-AVP-MIS-Self-Defense-Bypass-and-Potential-Usages-CVE-2019-3648
 https://safebreach.com/Post/NVIDIA-GPU-Display-Drivers-for-Windows-and-GFE-Software-DLL-Preloading-and-Potential-Abuses-CVE-2019-5694-CVE-2019-5695

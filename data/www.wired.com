@@ -14,6 +14,9 @@ https://www.wired.com/story/amazon-echo-alexa-skill-spying/
 https://www.wired.com/story/amazon-key-flaw-let-deliverymen-disable-your-camera/
 https://www.wired.com/story/chromecast-roku-sonos-dns-rebinding-vulnerability
 https://www.wired.com/story/chromecast-roku-sonos-dns-rebinding-vulnerability/
+https://www.wired.com/story/lo4j-ftc-vulnerability/
+https://www.wired.com/story/log4j-flaw-hacking-internet/
+https://www.wired.com/story/log4j-log4shell/
 https://www.wired.com/story/macos-update-undoes-apple-root-bug-patch/
 https://www.wired.com/story/tesla-model-x-hack-bluetooth/
 https://www.wired.com/story/tinder-lack-of-encryption-lets-strangers-spy-on-swipes/

@@ -1,7 +1,11 @@
 http://lists.kde.org/?l=kde-announce&amp;amp;m=106296509815092&amp;amp;w=2
 http://lists.kde.org/?l=kde-announce&amp;amp;m=117346514411140&amp;amp;w=2
 http://lists.kde.org/?l=kde-announce&amp;m=106296509815092&amp;w=2
+http://lists.kde.org/?l=kde-announce&m=106296509815092&w=2
+http://lists.kde.org/?l=kde-announce&m=117346514411140&w=2
 http://lists.kde.org/?l=kde-devel&amp;amp;m=90221974029738&amp;amp;w=2
 http://lists.kde.org/?l=kde-devel&amp;amp;m=91560433413263&amp;amp;w=2
 http://lists.kde.org/?l=kde-devel&amp;m=90221974029738&amp;w=2
 http://lists.kde.org/?l=kde-devel&amp;m=91560433413263&amp;w=2
+http://lists.kde.org/?l=kde-devel&m=90221974029738&w=2
+http://lists.kde.org/?l=kde-devel&m=91560433413263&w=2

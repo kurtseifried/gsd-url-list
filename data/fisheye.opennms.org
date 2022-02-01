@@ -1,2 +1,3 @@
 http://fisheye.opennms.org/browse/opennms/features/springframework-security/src/main/java/org/opennms/web/springframework/security/SecurityAuthenticationEventOnmsEventBuilder.java?r2=d2ce15470cb6c87c115c918eb86ef147486a9166&amp;amp;r1=80b80e110e4bce568fc2c6c0a15a
 http://fisheye.opennms.org/browse/opennms/features/springframework-security/src/main/java/org/opennms/web/springframework/security/SecurityAuthenticationEventOnmsEventBuilder.java?r2=d2ce15470cb6c87c115c918eb86ef147486a9166&amp;r1=80b80e110e4bce568fc2c6c0a15a
+http://fisheye.opennms.org/browse/opennms/features/springframework-security/src/main/java/org/opennms/web/springframework/security/SecurityAuthenticationEventOnmsEventBuilder.java?r2=d2ce15470cb6c87c115c918eb86ef147486a9166&r1=80b80e110e4bce568fc2c6c0a15a

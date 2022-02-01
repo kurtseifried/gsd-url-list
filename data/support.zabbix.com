@@ -13,6 +13,10 @@ https://support.zabbix.com/browse/ZBX-16551
 https://support.zabbix.com/browse/ZBX-17600
 https://support.zabbix.com/browse/ZBX-18057
 https://support.zabbix.com/browse/ZBX-18942
+https://support.zabbix.com/browse/ZBX-20341
+https://support.zabbix.com/browse/ZBX-20350
+https://support.zabbix.com/browse/ZBX-20384
+https://support.zabbix.com/browse/ZBX-20388
 https://support.zabbix.com/browse/ZBX-2326
 https://support.zabbix.com/browse/ZBX-3794
 https://support.zabbix.com/browse/ZBX-3835

@@ -3,3 +3,4 @@ https://media.boschsecurity.com/fs/media/pb/security_advisories/bosch-2019-0401b
 https://media.boschsecurity.com/fs/media/pb/security_advisories/bosch-2019-0402bt-cve-2019-8952_security_advisory_vrm_path_traversal.pdf
 https://media.boschsecurity.com/fs/media/pb/security_advisories/bosch-2019-0403bt-cve-2019-6957_security_advisory_software_buffer_overflow.pdf
 https://media.boschsecurity.com/fs/media/pb/security_advisories/bosch-2019-0404bt-cve-2019-6958_security_advisory_improper_access_control.pdf
+https://media.boschsecurity.com/fs/media/pb/security_advisories/bosch-sa-381489-bt_cve-2020-6767_securityadvisory_bvms_pathtraversal.pdf

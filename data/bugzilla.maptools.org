@@ -1,3 +1,4 @@
+http://bugzilla.maptools.org/attachment.cgi?id=477&action=diff
 http://bugzilla.maptools.org/attachment.cgi?id=477&amp;action=diff
 http://bugzilla.maptools.org/attachment.cgi?id=477&amp;amp;action=diff
 http://bugzilla.maptools.org/show_bug.cgi?id=1996
@@ -101,5 +102,8 @@ http://bugzilla.maptools.org/show_bug.cgi?id=2811
 http://bugzilla.maptools.org/show_bug.cgi?id=2816
 http://bugzilla.maptools.org/show_bug.cgi?id=2819
 http://bugzilla.maptools.org/show_bug.cgi?id=2820
+http://bugzilla.maptools.org/show_bug.cgi?id=2831
 http://bugzilla.maptools.org/show_bug.cgi?id=2833
 http://bugzilla.maptools.org/show_bug.cgi?id=2836
+http://bugzilla.maptools.org/show_bug.cgi?id=2851
+http://bugzilla.maptools.org/show_bug.cgi?id=2852

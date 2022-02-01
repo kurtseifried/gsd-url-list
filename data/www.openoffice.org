@@ -51,6 +51,7 @@ http://www.openoffice.org/security/cves/CVE-2015-5214.html
 http://www.openoffice.org/security/cves/CVE-2016-1513.html
 http://www.openoffice.org/security/cves/CVE-2017-9806.html
 http://www.openoffice.org/servlets/ReadMsg?list=dev&amp;amp;msgNo=27690
+http://www.openoffice.org/servlets/ReadMsg?list=dev&msgNo=27690
 https://www.openoffice.org/security/cves/CVE-2016-6803.html
 https://www.openoffice.org/security/cves/CVE-2016-6804.html
 https://www.openoffice.org/security/cves/CVE-2017-12607.html

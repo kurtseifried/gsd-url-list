@@ -1,1 +1,17 @@
+https://www.nu11secur1ty.com/2021/09/cve-nu11-07-elearning-v2by-oretnom23-is.html
+https://www.nu11secur1ty.com/2021/10/cve-2021-38727.html
 https://www.nu11secur1ty.com/2021/10/cve-2021-41511.html
+https://www.nu11secur1ty.com/2021/11/cve-2021-41648.html
+https://www.nu11secur1ty.com/2021/11/cve-2021-41675.html
+https://www.nu11secur1ty.com/2021/11/cve-2021-42580.html
+https://www.nu11secur1ty.com/2021/11/cve-2021-43141.html
+https://www.nu11secur1ty.com/2021/12/cve-2021-37808.html
+https://www.nu11secur1ty.com/2021/12/cve-2021-41492.html
+https://www.nu11secur1ty.com/2021/12/cve-2021-41646.html
+https://www.nu11secur1ty.com/2021/12/cve-2021-42668.html
+https://www.nu11secur1ty.com/2021/12/cve-2021-43451.html
+https://www.nu11secur1ty.com/2021/12/cve-2021-44280.html
+https://www.nu11secur1ty.com/2021/12/cve-2021-44653.html
+https://www.nu11secur1ty.com/2021/12/cve-2021-44655.html
+https://www.nu11secur1ty.com/2021/12/online-enrollment-management-system-sql.html
+https://www.nu11secur1ty.com/2022/01/cve-2022-21907.html

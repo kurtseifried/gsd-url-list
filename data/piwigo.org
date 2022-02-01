@@ -7,6 +7,7 @@ http://piwigo.org/bugs/view.php?id=2805
 http://piwigo.org/bugs/view.php?id=3089
 http://piwigo.org/code/wsvn/Piwigo?op=revision&amp;amp;rev=5936
 http://piwigo.org/code/wsvn/Piwigo?op=revision&amp;rev=5936
+http://piwigo.org/code/wsvn/Piwigo?op=revision&rev=5936
 http://piwigo.org/dev/changeset/28678
 http://piwigo.org/dev/changeset/30563/trunk/include/functions_rate.inc.php
 http://piwigo.org/forum/viewtopic.php?id=19173

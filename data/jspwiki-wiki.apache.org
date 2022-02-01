@@ -8,3 +8,5 @@ https://jspwiki-wiki.apache.org/Wiki.jsp?page=CVE-2019-10089
 https://jspwiki-wiki.apache.org/Wiki.jsp?page=CVE-2019-10090
 https://jspwiki-wiki.apache.org/Wiki.jsp?page=CVE-2019-12404
 https://jspwiki-wiki.apache.org/Wiki.jsp?page=CVE-2019-12407
+https://jspwiki-wiki.apache.org/Wiki.jsp?page=CVE-2021-40369
+https://jspwiki-wiki.apache.org/Wiki.jsp?page=CVE-2021-44140

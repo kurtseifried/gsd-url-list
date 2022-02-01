@@ -103,6 +103,9 @@ http://bugs.debian.org/cgi-bin/bugreport.cgi?archive=no&amp;amp;bug=188366
 http://bugs.debian.org/cgi-bin/bugreport.cgi?archive=no&amp;bug=183525
 http://bugs.debian.org/cgi-bin/bugreport.cgi?archive=no&amp;bug=186219
 http://bugs.debian.org/cgi-bin/bugreport.cgi?archive=no&amp;bug=188366
+http://bugs.debian.org/cgi-bin/bugreport.cgi?archive=no&bug=183525
+http://bugs.debian.org/cgi-bin/bugreport.cgi?archive=no&bug=186219
+http://bugs.debian.org/cgi-bin/bugreport.cgi?archive=no&bug=188366
 http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=%23400582
 http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=167471
 http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=196063
@@ -119,6 +122,7 @@ http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=261386
 http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=261755
 http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=263282&amp;amp;archive=yes
 http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=263282&amp;archive=yes
+http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=263282&archive=yes
 http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=267837
 http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=273694
 http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=278384
@@ -749,6 +753,8 @@ http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=862707
 http://bugs.debian.org/cgi-bin/bugreport.cgi?msg=10;filename=90-remote-vulnerability.dpatch;att=1;bug=451875
 http://bugs.debian.org/cgi-bin/bugreport.cgi?msg=31;filename=diff;att=1;bug=534982
 http://bugs.debian.org/cgi-bin/bugreport.cgi?msg=5;filename=interdiff;att=1;bug=440535
+https://bugs.debian.org/1000156
+https://bugs.debian.org/1003027
 https://bugs.debian.org/137102
 https://bugs.debian.org/170747
 https://bugs.debian.org/200543
@@ -916,7 +922,13 @@ https://bugs.debian.org/987608
 https://bugs.debian.org/991971
 https://bugs.debian.org/992058
 https://bugs.debian.org/993867
+https://bugs.debian.org/994405
 https://bugs.debian.org/cgi-bin/bugreport.cgi?att=1;bug=623868;filename=0001-Fix-the-calculation-of-the-frame-size-in-memory-mapp.patch;msg=10
+https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1002667
+https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1002668
+https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1002669
+https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1002687
+https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1002739
 https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=133131
 https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=183525
 https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=203707
@@ -1928,6 +1940,7 @@ https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=649384
 https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=650009
 https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=650434
 https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=650674
+https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=651510
 https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=651917
 https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=652249
 https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=652352
@@ -3451,4 +3464,5 @@ https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=990835
 https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=991365
 https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=993476
 https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=993746
+https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=999804
 https://bugs.debian.org/cgi-bin/bugreport.cgi?msg=17;filename=0001-fix-fifo-and-ctl-defaults-pointing-to-unsecure-tmp-d.patch;att=1;bug=775681

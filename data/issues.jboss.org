@@ -44,3 +44,4 @@ https://issues.jboss.org/browse/WFLY-5223?_sscc=t
 https://issues.jboss.org/browse/WFLY-9107
 https://issues.jboss.org/browse/WFLY-9620
 https://issues.jboss.org/secure/ReleaseNote.jspa?projectId=12310691&amp;amp;version=12319522
+https://issues.jboss.org/secure/ReleaseNote.jspa?projectId=12310691&version=12319522

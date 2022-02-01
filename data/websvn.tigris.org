@@ -3,3 +3,4 @@ http://websvn.tigris.org/issues/show_bug.cgi?id=275
 http://websvn.tigris.org/servlets/NewsItemView?newsItemID=2218
 http://websvn.tigris.org/servlets/ReadMsg?list=dev&amp;amp;msgNo=1328
 http://websvn.tigris.org/servlets/ReadMsg?list=dev&amp;msgNo=1328
+http://websvn.tigris.org/servlets/ReadMsg?list=dev&msgNo=1328

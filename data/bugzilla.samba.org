@@ -11,6 +11,7 @@ https://bugzilla.samba.org/show_bug.cgi?id=13112
 https://bugzilla.samba.org/show_bug.cgi?id=13374
 https://bugzilla.samba.org/show_bug.cgi?id=13773
 https://bugzilla.samba.org/show_bug.cgi?id=13834
+https://bugzilla.samba.org/show_bug.cgi?id=13979
 https://bugzilla.samba.org/show_bug.cgi?id=14651
 https://bugzilla.samba.org/show_bug.cgi?id=14770,
 https://bugzilla.samba.org/show_bug.cgi?id=6478

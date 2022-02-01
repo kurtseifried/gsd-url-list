@@ -10,6 +10,7 @@ https://www.nlnetlabs.nl/bugs-script/show_bug.cgi?id=573
 https://www.nlnetlabs.nl/bugs-script/show_bug.cgi?id=790
 https://www.nlnetlabs.nl/downloads/nsd/CVE-2020-28935.txt
 https://www.nlnetlabs.nl/downloads/routinator/CVE-2021-41531.txt
+https://www.nlnetlabs.nl/downloads/routinator/CVE-2021-43172_CVE-2021-43173_CVE-2021-43174.txt
 https://www.nlnetlabs.nl/downloads/unbound/CVE-2019-18934.txt
 https://www.nlnetlabs.nl/downloads/unbound/CVE-2020-28935.txt
 https://www.nlnetlabs.nl/news/2019/Nov/19/unbound-1.9.5-released/

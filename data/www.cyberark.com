@@ -1,3 +1,5 @@
+https://www.cyberark.com/ca21-34/
+https://www.cyberark.com/product-security/
 https://www.cyberark.com/products/
 https://www.cyberark.com/resources/blog
 https://www.cyberark.com/resources/blog/introducing-cyberark-endpoint-privilege-manager

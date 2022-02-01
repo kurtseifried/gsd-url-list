@@ -5,6 +5,7 @@ http://www.zenphoto.org/news/zenphoto-1.4.8
 http://www.zenphoto.org/news/zenphoto-1.4.9
 http://www.zenphoto.org/support/topic.php?id=1146&amp;amp;replies=3
 http://www.zenphoto.org/support/topic.php?id=1146&amp;replies=3
+http://www.zenphoto.org/support/topic.php?id=1146&replies=3
 http://www.zenphoto.org/support/topic.php?id=1148
 http://www.zenphoto.org/trac/changeset/8994
 http://www.zenphoto.org/trac/changeset/8995

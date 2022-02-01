@@ -176,6 +176,7 @@ https://jira.atlassian.com/browse/JIRAAUTOSERVER-185
 https://jira.atlassian.com/browse/JRA-47557
 https://jira.atlassian.com/browse/JRA-61803
 https://jira.atlassian.com/browse/JRA-61861
+https://jira.atlassian.com/browse/JRA-61888?src=confmacro&_ga=1.139403892.63283854.1485351777
 https://jira.atlassian.com/browse/JRA-61888?src=confmacro&amp;amp;_ga=1.139403892.63283854.1485351777
 https://jira.atlassian.com/browse/JRA/fixforversion/33790
 https://jira.atlassian.com/browse/JRASERVER-59980
@@ -330,12 +331,22 @@ https://jira.atlassian.com/browse/JRASERVER-72736
 https://jira.atlassian.com/browse/JRASERVER-72737
 https://jira.atlassian.com/browse/JRASERVER-72738
 https://jira.atlassian.com/browse/JRASERVER-72761
+https://jira.atlassian.com/browse/JRASERVER-72800
+https://jira.atlassian.com/browse/JRASERVER-72801
+https://jira.atlassian.com/browse/JRASERVER-72802
+https://jira.atlassian.com/browse/JRASERVER-72803
 https://jira.atlassian.com/browse/JRASERVER-72804
 https://jira.atlassian.com/browse/JRASERVER-72813
+https://jira.atlassian.com/browse/JRASERVER-72898
 https://jira.atlassian.com/browse/JRASERVER-72915
 https://jira.atlassian.com/browse/JRASERVER-72916
 https://jira.atlassian.com/browse/JRASERVER-72939
 https://jira.atlassian.com/browse/JRASERVER-72940
+https://jira.atlassian.com/browse/JRASERVER-73067
+https://jira.atlassian.com/browse/JRASERVER-73068
+https://jira.atlassian.com/browse/JRASERVER-73071
+https://jira.atlassian.com/browse/JSDSERVER-10982
+https://jira.atlassian.com/browse/JSDSERVER-10984
 https://jira.atlassian.com/browse/JSDSERVER-6517
 https://jira.atlassian.com/browse/JSDSERVER-6589
 https://jira.atlassian.com/browse/JSDSERVER-6590
@@ -359,3 +370,5 @@ https://jira.atlassian.com/browse/SRCTREEWIN-9077
 https://jira.atlassian.com/i#browse/JRA-34160
 https://jira.atlassian.com/secure/ReleaseNote.jspa?projectId=10240&amp;amp;version=33790
 https://jira.atlassian.com/secure/ReleaseNote.jspa?projectId=10240&amp;amp;version=62034
+https://jira.atlassian.com/secure/ReleaseNote.jspa?projectId=10240&version=33790
+https://jira.atlassian.com/secure/ReleaseNote.jspa?projectId=10240&version=62034

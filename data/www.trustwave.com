@@ -22,12 +22,17 @@ https://www.trustwave.com/Resources/Security-Advisories/Advisories/TWSL2016-018/
 https://www.trustwave.com/Resources/Security-Advisories/Advisories/TWSL2017-011/?fid=9707
 https://www.trustwave.com/Resources/Security-Advisories/Advisories/TWSL2017-016/?fid=9946
 https://www.trustwave.com/Resources/Security-Advisories/Advisories/TWSL2017-017/?fid=10211
+https://www.trustwave.com/Resources/Security-Advisories/Advisories/TWSL2018-009/?fid=11720
+https://www.trustwave.com/Resources/SpiderLabs-Blog/-Honeypot-Alert--Fritz!Box-%E2%80%93-Remote-Command-Execution-Exploit-Attempt/
 https://www.trustwave.com/Resources/SpiderLabs-Blog/-Honeypot-Alert--Fritz%21Box-%E2%80%93-Remote-Command-Execution-Exploit-Attempt/
 https://www.trustwave.com/Resources/SpiderLabs-Blog/Attacking-Ruby-Gem-Security-with-CVE-2015-3900/
 https://www.trustwave.com/Resources/SpiderLabs-Blog/CVE-2018-1000136---Electron-nodeIntegration-Bypass/
+https://www.trustwave.com/Resources/SpiderLabs-Blog/CVE-2018-16962--Webroot-SecureAnywhere-macOS-Kernel-Level-Memory-Corruption/
 https://www.trustwave.com/Resources/SpiderLabs-Blog/Credential-Leak-Flaws-in-Windows-PureVPN-Client/
 https://www.trustwave.com/Resources/SpiderLabs-Blog/Denial-of-Service-Vulnerability-in-Brother-Printers/?page=1&amp;amp;year=0&amp;amp;month=0&amp;amp;LangType=1033
+https://www.trustwave.com/Resources/SpiderLabs-Blog/Denial-of-Service-Vulnerability-in-Brother-Printers/?page=1&year=0&month=0&LangType=1033
 https://www.trustwave.com/Resources/SpiderLabs-Blog/Elephone-P9000-Lock-Screen-Lockout-Bypass/?page=1&amp;amp;year=0&amp;amp;month=0
+https://www.trustwave.com/Resources/SpiderLabs-Blog/Elephone-P9000-Lock-Screen-Lockout-Bypass/?page=1&year=0&month=0
 https://www.trustwave.com/Resources/SpiderLabs-Blog/Joomla-SQL-Injection-Vulnerability-Exploit-Results-in-Full-Administrative-Access/
 https://www.trustwave.com/Resources/SpiderLabs-Blog/Reflected-File-Download---A-New-Web-Attack-Vector/
 https://www.trustwave.com/Resources/SpiderLabs-Blog/Username-Enumeration-against-OpenSSH-SELinux-with-CVE-2015-3238/
@@ -39,6 +44,7 @@ https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/d-link-multiple-
 https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/full-system-control-with-new-solarwinds-orion-based-and-serv-u-ftp-vulnerabilities/
 https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/magic-home-pro-mobile-application-authentication-bypass-cve-2020-27199/
 https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/modsecurity-denial-of-service-details-cve-2019-19886/
+https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/modsecurity-dos-vulnerability-in-json-parsing-cve-2021-42717/
 https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/solarwinds-serv-u-1523-share-url-xss-cve-2021-32604/
 https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/twsl2012-008-multiple-vulnerabilities-in-scrutinizer-netflow-sflow-analyzer/
 https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/twsl2012-016-multiple-vulnerabilities-in-bitweaver/
@@ -50,6 +56,7 @@ https://www.trustwave.com/en-us/resources/security-resources/security-advisories
 https://www.trustwave.com/en-us/resources/security-resources/security-advisories/?fid=18986
 https://www.trustwave.com/en-us/resources/security-resources/security-advisories/?fid=22113
 https://www.trustwave.com/en-us/resources/security-resources/security-advisories/?fid=23920&amp;amp;dl=1
+https://www.trustwave.com/en-us/resources/security-resources/security-advisories/?fid=23920&dl=1
 https://www.trustwave.com/en-us/resources/security-resources/security-advisories/?fid=26164
 https://www.trustwave.com/en-us/resources/security-resources/security-advisories/?fid=26165
 https://www.trustwave.com/en-us/resources/security-resources/security-advisories/?fid=26455

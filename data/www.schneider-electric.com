@@ -4,6 +4,7 @@ http://www.schneider-electric.com/download/ww/en/details/35081317-Vulnerability-
 http://www.schneider-electric.com/download/ww/en/file/141141292-SEVD-2013-143-01.pdf
 http://www.schneider-electric.com/download/ww/en/file/36555639-SEVD-2013-023-01.pdf/?fileName=SEVD-2013-023-01.pdf&amp;amp;reference=SEVD-2013-023-01&amp;amp;docType=Technical-paper
 http://www.schneider-electric.com/download/ww/en/file/36555639-SEVD-2013-023-01.pdf/?fileName=SEVD-2013-023-01.pdf&amp;reference=SEVD-2013-023-01&amp;docType=Technical-paper
+http://www.schneider-electric.com/download/ww/en/file/36555639-SEVD-2013-023-01.pdf/?fileName=SEVD-2013-023-01.pdf&reference=SEVD-2013-023-01&docType=Technical-paper
 http://www.schneider-electric.com/en/download/document/SEVD-2017-061-01/
 http://www.schneider-electric.com/en/download/document/SEVD-2017-125-01/
 http://www.schneider-electric.com/en/download/document/SEVD-2017-125-02/

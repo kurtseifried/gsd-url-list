@@ -49,4 +49,5 @@ https://supportannouncement.us.dlink.com/announcement/publication.aspx?name=SAP1
 https://supportannouncement.us.dlink.com/announcement/publication.aspx?name=SAP10237
 https://supportannouncement.us.dlink.com/announcement/publication.aspx?name=SAP10243
 https://supportannouncement.us.dlink.com/announcement/publication.aspx?name=SAP10245
+https://supportannouncement.us.dlink.com/announcement/publication.aspx?name=SAP10246
 https://supportannouncement.us.dlink.com/announcement/publication.aspx?name=SAP10247

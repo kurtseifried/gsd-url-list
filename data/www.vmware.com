@@ -156,6 +156,8 @@ http://www.vmware.com/support/kb/enduser/std_adp.php?p_sid=dsxk%2ABWh&amp;amp;p_
 http://www.vmware.com/support/kb/enduser/std_adp.php?p_sid=dsxk%2ABWh&amp;amp;p_lva=&amp;amp;p_faqid=1817
 http://www.vmware.com/support/kb/enduser/std_adp.php?p_sid=dsxk*BWh&amp;p_lva=&amp;p_faqid=1108
 http://www.vmware.com/support/kb/enduser/std_adp.php?p_sid=dsxk*BWh&amp;p_lva=&amp;p_faqid=1817
+http://www.vmware.com/support/kb/enduser/std_adp.php?p_sid=dsxk*BWh&p_lva=&p_faqid=1108
+http://www.vmware.com/support/kb/enduser/std_adp.php?p_sid=dsxk*BWh&p_lva=&p_faqid=1817
 http://www.vmware.com/support/player/doc/releasenotes_player.html
 http://www.vmware.com/support/player2/doc/releasenotes_player2.html
 http://www.vmware.com/support/server/doc/releasenotes_server.html
@@ -273,6 +275,12 @@ https://www.vmware.com/security/advisories/VMSA-2021-0021.html
 https://www.vmware.com/security/advisories/VMSA-2021-0022.html
 https://www.vmware.com/security/advisories/VMSA-2021-0023.html
 https://www.vmware.com/security/advisories/VMSA-2021-0024.html
+https://www.vmware.com/security/advisories/VMSA-2021-0025.html
+https://www.vmware.com/security/advisories/VMSA-2021-0027.html
+https://www.vmware.com/security/advisories/VMSA-2021-0028.html
+https://www.vmware.com/security/advisories/VMSA-2021-0029.html
+https://www.vmware.com/security/advisories/VMSA-2021-0030.html
+https://www.vmware.com/security/advisories/VMSA-2022-0001.html
 https://www.vmware.com/support/vsphere4/doc/vsp_esxi41_u3_rel_notes.html#resolvedissuessecurity
 https://www.vmware.com/us/security/advisories/VMSA-2017-0016.html
 https://www.vmware.com/us/security/advisories/VMSA-2018-0002.html

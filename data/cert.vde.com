@@ -69,3 +69,6 @@ https://cert.vde.com/en-us/advisories/vde-2021-027
 https://cert.vde.com/en-us/advisories/vde-2021-038
 https://cert.vde.com/en/advisories/VDE-2021-029/
 https://cert.vde.com/en/advisories/VDE-2021-037/
+https://cert.vde.com/en/advisories/VDE-2021-046/
+https://cert.vde.com/en/advisories/VDE-2021-051/
+https://cert.vde.com/en/advisories/VDE-2021-052/

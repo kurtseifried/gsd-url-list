@@ -18,6 +18,7 @@ http://shinnai.altervista.org/exploits/txt/TXT_rNowA1916DKFNUF48NyS.html
 http://shinnai.altervista.org/exploits/txt/TXT_wfv7ZG0G6KnQlk1SieLd.html
 http://shinnai.altervista.org/viewtopic.php?id=41&amp;amp;t_id=8
 http://shinnai.altervista.org/viewtopic.php?id=41&amp;t_id=8
+http://shinnai.altervista.org/viewtopic.php?id=41&t_id=8
 http://shinnai.altervista.org/viewtopic.php?id=42&amp;amp;t_id=17
 http://shinnai.altervista.org/viewtopic.php?id=42&amp;amp;t_id=19
 http://shinnai.altervista.org/viewtopic.php?id=42&amp;amp;t_id=25
@@ -34,3 +35,11 @@ http://shinnai.altervista.org/viewtopic.php?id=42&amp;t_id=27
 http://shinnai.altervista.org/viewtopic.php?id=42&amp;t_id=28
 http://shinnai.altervista.org/viewtopic.php?id=42&amp;t_id=31
 http://shinnai.altervista.org/viewtopic.php?id=42&amp;t_id=32
+http://shinnai.altervista.org/viewtopic.php?id=42&t_id=17
+http://shinnai.altervista.org/viewtopic.php?id=42&t_id=19
+http://shinnai.altervista.org/viewtopic.php?id=42&t_id=25
+http://shinnai.altervista.org/viewtopic.php?id=42&t_id=26
+http://shinnai.altervista.org/viewtopic.php?id=42&t_id=27
+http://shinnai.altervista.org/viewtopic.php?id=42&t_id=28
+http://shinnai.altervista.org/viewtopic.php?id=42&t_id=31
+http://shinnai.altervista.org/viewtopic.php?id=42&t_id=32

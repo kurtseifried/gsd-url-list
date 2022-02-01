@@ -9,9 +9,13 @@ https://community.ui.com/releases/Security-Advisory-Bulletin-003-003/982bbaa8-2a
 https://community.ui.com/releases/Security-Advisory-Bulletin-018-018/cfa1566b-4bf8-427b-8cc7-8cffba3a93a4
 https://community.ui.com/releases/Security-Advisory-Bulletin-019-019/90a00abe-d6b6-43c6-92d4-0a0342f1506f
 https://community.ui.com/releases/Security-Advisory-Bulletin-020-020/8ce6a7e6-0cce-4814-8bbe-ee812cb94b1a
+https://community.ui.com/releases/Security-Advisory-Bulletin-021-021/62bd8841-6603-4fee-9dba-73037148f173
+https://community.ui.com/releases/Security-Advisory-Bulletin-022-022/cd83c01b-33e4-454a-b3b9-1c3ccebea7cb
+https://community.ui.com/releases/Security-Advisory-Bulletin-023-023/808a1db0-5f8e-4b91-9097-9822f3f90207
 https://community.ui.com/releases/Security-advisory-bulletin-006-006/3cf6264e-e0e6-4e26-a331-1d271f84673e
 https://community.ui.com/releases/Security-advisory-bulletin-007-007/eb639fa0-68ad-4bf5-9663-3b760eb2f93a
 https://community.ui.com/releases/Security-advisory-bulletin-008-008/5f66ca4c-10d6-4ca5-9620-37d5a4f22413
+https://community.ui.com/releases/Security-advisory-bulletin-009-009/c45b6c35-2e0d-4aeb-a9ef-e1d49bcf5fd8
 https://community.ui.com/releases/Security-advisory-bulletin-009-009/c45b6c35-2e0d-4aeb-a9ef-e1d49bcf5fd8,
 https://community.ui.com/releases/Security-advisory-bulletin-010-010/36a8448a-7dbf-4d30-bb54-398c44591dd4
 https://community.ui.com/releases/Security-advisory-bulletin-011-011/d0d411a5-6dcb-4988-9709-d57f50957261
@@ -23,6 +27,7 @@ https://community.ui.com/releases/Security-advisory-bulletin-016-016/40c1d33d-78
 https://community.ui.com/releases/Security-advisory-bulletin-017-017/071141e5-bc2e-4b71-81f3-5e499316fcee
 https://community.ui.com/releases/UniFi-Cloud-Key-Firmware-1-1-11/a24e55e1-6d90-46d7-92e2-01539ec8c79d
 https://community.ui.com/releases/UniFi-Dream-Machine-Firmware-1-8-0/deabc255-a081-49ba-8f51-131f3a13000a
+https://community.ui.com/releases/UniFi-Network-Application-6-5-54/d717f241-48bb-4979-8b10-99db36ddabe1
 https://community.ui.com/releases/UniFi-Protect-1-13-3/f4be7d35-93a3-422b-8eef-122e442c00ba
 https://community.ui.com/releases/UniFi-Protect-1-14-10/48a8dbdd-b872-47fa-bbde-1d24ddf5d5b5
 https://community.ui.com/releases/UniFi-Protect-1-14-11/928e6fac-afeb-49c2-93a5-1b3066bf2bbf

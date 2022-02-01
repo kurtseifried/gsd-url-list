@@ -19,4 +19,6 @@ https://public.support.unisys.com/common/public/vulnerability/NVD_Detail_Rpt.asp
 https://public.support.unisys.com/common/public/vulnerability/NVD_Detail_Rpt.aspx?ID=62
 https://public.support.unisys.com/common/public/vulnerability/NVD_Detail_Rpt.aspx?ID=63
 https://public.support.unisys.com/common/public/vulnerability/NVD_Detail_Rpt.aspx?ID=64
+https://public.support.unisys.com/common/public/vulnerability/NVD_Detail_Rpt.aspx?ID=65
+https://public.support.unisys.com/common/public/vulnerability/NVD_Detail_Rpt.aspx?ID=68
 https://public.support.unisys.com/common/public/vulnerability/NVD_Home.aspx

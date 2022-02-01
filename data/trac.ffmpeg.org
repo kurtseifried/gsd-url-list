@@ -75,6 +75,7 @@ https://trac.ffmpeg.org/ticket/8317
 https://trac.ffmpeg.org/ticket/8673
 https://trac.ffmpeg.org/ticket/8716
 https://trac.ffmpeg.org/ticket/8718
+https://trac.ffmpeg.org/ticket/8782
 https://trac.ffmpeg.org/ticket/8845
 https://trac.ffmpeg.org/ticket/8859
 https://trac.ffmpeg.org/ticket/8860

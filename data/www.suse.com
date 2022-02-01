@@ -21400,6 +21400,7 @@ https://www.suse.com/security/cve/CVE-2018-17957.html
 https://www.suse.com/security/cve/CVE-2018-17958.html
 https://www.suse.com/security/cve/CVE-2018-17961.html
 https://www.suse.com/security/cve/CVE-2018-17962.html
+https://www.suse.com/security/cve/CVE-2018-17962/
 https://www.suse.com/security/cve/CVE-2018-17963.html
 https://www.suse.com/security/cve/CVE-2018-17965.html
 https://www.suse.com/security/cve/CVE-2018-17966.html
@@ -21517,7 +21518,9 @@ https://www.suse.com/security/cve/CVE-2018-18544.html
 https://www.suse.com/security/cve/CVE-2018-18557.html
 https://www.suse.com/security/cve/CVE-2018-18559.html
 https://www.suse.com/security/cve/CVE-2018-18584.html
+https://www.suse.com/security/cve/CVE-2018-18584/
 https://www.suse.com/security/cve/CVE-2018-18585.html
+https://www.suse.com/security/cve/CVE-2018-18585/
 https://www.suse.com/security/cve/CVE-2018-18586.html
 https://www.suse.com/security/cve/CVE-2018-18605.html
 https://www.suse.com/security/cve/CVE-2018-18606.html
@@ -24816,6 +24819,7 @@ https://www.suse.com/security/cve/CVE-2019-3560.html
 https://www.suse.com/security/cve/CVE-2019-3681.html
 https://www.suse.com/security/cve/CVE-2019-3682.html
 https://www.suse.com/security/cve/CVE-2019-3683.html
+https://www.suse.com/security/cve/CVE-2019-3683/
 https://www.suse.com/security/cve/CVE-2019-3684.html
 https://www.suse.com/security/cve/CVE-2019-3685.html
 https://www.suse.com/security/cve/CVE-2019-3687.html
@@ -28983,6 +28987,7 @@ https://www.suse.com/security/cve/CVE-2021-36740.html
 https://www.suse.com/security/cve/CVE-2021-36976.html
 https://www.suse.com/security/cve/CVE-2021-36978.html
 https://www.suse.com/security/cve/CVE-2021-36980.html
+https://www.suse.com/security/cve/CVE-2021-44228.html
 https://www.suse.com/support/kb/doc.php?id=7015773
 https://www.suse.com/support/kb/doc/?id=000019673
 https://www.suse.com/support/kb/doc/?id=7020973

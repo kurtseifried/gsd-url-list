@@ -12,4 +12,5 @@ http://www.zen-cart.com/modules/ipb/index.php?showtopic=4835
 http://www.zen-cart.com/modules/ipb/index.php?showtopic=4873
 http://www.zen-cart.com/modules/mydownloads/viewcat.php?cid=31&amp;amp;orderby=dateD
 http://www.zen-cart.com/modules/mydownloads/viewcat.php?cid=31&amp;orderby=dateD
+http://www.zen-cart.com/modules/mydownloads/viewcat.php?cid=31&orderby=dateD
 https://www.zen-cart.com/showthread.php?218914-Security-Patches-for-v1-5-4-November-2015

@@ -24,3 +24,4 @@ https://wwws.nightwatchcybersecurity.com/2019/05/23/exploring-the-file-system-vi
 https://wwws.nightwatchcybersecurity.com/2019/05/27/xss-in-ssi-printenv-command-apache-tomcat-cve-2019-0221/
 https://wwws.nightwatchcybersecurity.com/2019/10/24/nfc-beaming-bypasses-security-controls-in-android-cve-2019-2114/
 https://wwws.nightwatchcybersecurity.com/2020/05/10/two-vulnerabilities-in-oracles-iplanet-web-server-cve-2020-9315-and-cve-2020-9314/
+https://wwws.nightwatchcybersecurity.com/2021/03/14/local-denial-of-service-in-nissan-leaf-ev-2018-head-unit-display/

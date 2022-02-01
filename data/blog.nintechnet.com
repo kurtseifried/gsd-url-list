@@ -3,6 +3,7 @@ https://blog.nintechnet.com/authenticated-rce-vulnerability-in-wordpress-secure-
 https://blog.nintechnet.com/authenticated-settings-change-vulnerability-in-yit-plugin-framework/
 https://blog.nintechnet.com/critical-vulnerability-fixed-in-wordpress-lifterlms-plugin/
 https://blog.nintechnet.com/critical-vulnerability-in-wordpress-bold-page-builder-plugin-currently-being-exploited/
+https://blog.nintechnet.com/improper-input-validation-fixed-in-wordpress-popular-posts-plugin/
 https://blog.nintechnet.com/multiple-vulnerabilities-fixed-in-wordpress-givewp-plugin/
 https://blog.nintechnet.com/multiple-vulnerabilities-in-sliced-invoices-plugin/
 https://blog.nintechnet.com/multiple-vulnerabilities-in-wordpress-igniteup-coming-soon-and-maintenance-mode-plugin/

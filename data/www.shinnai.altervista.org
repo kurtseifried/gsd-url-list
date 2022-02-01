@@ -12,6 +12,11 @@ http://www.shinnai.altervista.org/index.php?mod=02_Forum&amp;group=Exploits&amp;
 http://www.shinnai.altervista.org/index.php?mod=02_Forum&amp;group=Security&amp;argument=Remote_performed_exploits&amp;topic=1206434746.ff.php&amp;page=last
 http://www.shinnai.altervista.org/index.php?mod=02_Forum&amp;group=Security&amp;argument=Remote_performed_exploits&amp;topic=1207033569.ff.php
 http://www.shinnai.altervista.org/index.php?mod=02_Forum&amp;group=Security&amp;argument=Remote_performed_exploits&amp;topic=1210750552.ff.php&amp;page=last
+http://www.shinnai.altervista.org/index.php?mod=02_Forum&group=Exploits&argument=Remote&topic=1182845325.ff.php&page=last
+http://www.shinnai.altervista.org/index.php?mod=02_Forum&group=Exploits&argument=Remote&topic=1183360239.ff.php&page=last
+http://www.shinnai.altervista.org/index.php?mod=02_Forum&group=Security&argument=Remote_performed_exploits&topic=1206434746.ff.php&page=last
+http://www.shinnai.altervista.org/index.php?mod=02_Forum&group=Security&argument=Remote_performed_exploits&topic=1207033569.ff.php
+http://www.shinnai.altervista.org/index.php?mod=02_Forum&group=Security&argument=Remote_performed_exploits&topic=1210750552.ff.php&page=last
 http://www.shinnai.altervista.org/moaxb/20070504/actsoft.txt
 http://www.shinnai.altervista.org/moaxb/20070504/oa.txt
 http://www.shinnai.altervista.org/moaxb/20070505/east.txt
@@ -33,6 +38,7 @@ http://www.shinnai.altervista.org/moaxb/20070526/leadocrtxt.html
 http://www.shinnai.altervista.org/moaxb/20070527/leadrasterisistxt.html
 http://www.shinnai.altervista.org/viewtopic.php?id=41&amp;amp;t_id=30
 http://www.shinnai.altervista.org/viewtopic.php?id=41&amp;t_id=30
+http://www.shinnai.altervista.org/viewtopic.php?id=41&t_id=30
 http://www.shinnai.altervista.org/viewtopic.php?id=42&amp;amp;t_id=13
 http://www.shinnai.altervista.org/viewtopic.php?id=42&amp;amp;t_id=14
 http://www.shinnai.altervista.org/viewtopic.php?id=42&amp;amp;t_id=15
@@ -41,4 +47,8 @@ http://www.shinnai.altervista.org/viewtopic.php?id=42&amp;t_id=13
 http://www.shinnai.altervista.org/viewtopic.php?id=42&amp;t_id=14
 http://www.shinnai.altervista.org/viewtopic.php?id=42&amp;t_id=15
 http://www.shinnai.altervista.org/viewtopic.php?id=42&amp;t_id=18
+http://www.shinnai.altervista.org/viewtopic.php?id=42&t_id=13
+http://www.shinnai.altervista.org/viewtopic.php?id=42&t_id=14
+http://www.shinnai.altervista.org/viewtopic.php?id=42&t_id=15
+http://www.shinnai.altervista.org/viewtopic.php?id=42&t_id=18
 http://www.shinnai.altervista.org/xplits/TXT_lyyELAFI8pOPu2p7N6cq.html

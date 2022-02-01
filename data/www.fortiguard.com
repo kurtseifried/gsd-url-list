@@ -65,7 +65,10 @@ http://www.fortiguard.com/zeroday/FG-VD-15-110
 http://www.fortiguard.com/zeroday/FG-VD-15-111
 http://www.fortiguard.com/zeroday/FG-VD-15-112
 https://www.fortiguard.com/psirt/FG-IR-19-037
+https://www.fortiguard.com/psirt/FG-IR-20-002
 https://www.fortiguard.com/psirt/FG-IR-20-009
+https://www.fortiguard.com/psirt/FG-IR-20-033
+https://www.fortiguard.com/psirt/FG-IR-20-040
 https://www.fortiguard.com/psirt/FG-IR-20-076
 https://www.fortiguard.com/psirt/FG-IR-20-123
 https://www.fortiguard.com/psirt/FG-IR-20-124
@@ -75,6 +78,8 @@ https://www.fortiguard.com/psirt/FG-IR-20-177
 https://www.fortiguard.com/psirt/FG-IR-20-231
 https://www.fortiguard.com/psirt/FG-IR-20-233
 https://www.fortiguard.com/psirt/FG-IR-20-236
+https://www.fortiguard.com/psirt?date=11-2021&amp;risk=3
+https://www.fortiguard.com/psirt?date=11-2021&risk=3
 https://www.fortiguard.com/zeroday/FG-VD-15-080
 https://www.fortiguard.com/zeroday/FG-VD-15-081
 https://www.fortiguard.com/zeroday/FG-VD-17-089
@@ -96,5 +101,8 @@ https://www.fortiguard.com/zeroday/FG-VD-21-036
 https://www.fortiguard.com/zeroday/FG-VD-21-037
 https://www.fortiguard.com/zeroday/FG-VD-21-038
 https://www.fortiguard.com/zeroday/FG-VD-21-039
+https://www.fortiguard.com/zeroday/FG-VD-21-052
+https://www.fortiguard.com/zeroday/FG-VD-21-053
 https://www.fortiguard.com/zeroday/FG-VD-21-059
 https://www.fortiguard.com/zeroday/FG-VD-21-060
+https://www.fortiguard.com/zeroday/FG-VD-21-069

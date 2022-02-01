@@ -5,9 +5,15 @@ http://www.webspell.org/index.php?site=files&amp;amp;file=30
 http://www.webspell.org/index.php?site=files&amp;cat=21
 http://www.webspell.org/index.php?site=files&amp;file=25
 http://www.webspell.org/index.php?site=files&amp;file=30
+http://www.webspell.org/index.php?site=files&cat=21
+http://www.webspell.org/index.php?site=files&file=25
+http://www.webspell.org/index.php?site=files&file=30
 http://www.webspell.org/index.php?site=news_comments&amp;amp;newsID=126&amp;amp;lang=uk
 http://www.webspell.org/index.php?site=news_comments&amp;amp;newsID=130
 http://www.webspell.org/index.php?site=news_comments&amp;amp;newsID=49&amp;amp;lang=en
 http://www.webspell.org/index.php?site=news_comments&amp;newsID=126&amp;lang=uk
 http://www.webspell.org/index.php?site=news_comments&amp;newsID=130
 http://www.webspell.org/index.php?site=news_comments&amp;newsID=49&amp;lang=en
+http://www.webspell.org/index.php?site=news_comments&newsID=126&lang=uk
+http://www.webspell.org/index.php?site=news_comments&newsID=130
+http://www.webspell.org/index.php?site=news_comments&newsID=49&lang=en

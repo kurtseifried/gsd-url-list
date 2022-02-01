@@ -1,1 +1,3 @@
 https://bugs.openwrt.org/index.php?do=details&amp;amp;task_id=1974
+https://bugs.openwrt.org/index.php?do=details&task_id=1974
+https://bugs.openwrt.org/index.php?do=details&task_id=4199

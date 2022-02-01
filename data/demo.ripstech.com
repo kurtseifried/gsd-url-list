@@ -1,4 +1,5 @@
 https://demo.ripstech.com/main/%28scans/38/51//sidebar:types/38/51/0%29
+https://demo.ripstech.com/main/(scans/38/51//sidebar:types/38/51/0)
 https://demo.ripstech.com/projects/abantecart_1.2.8
 https://demo.ripstech.com/projects/e107_2.1.2
 https://demo.ripstech.com/projects/kliqqi_3.0.0.5

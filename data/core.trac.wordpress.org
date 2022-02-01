@@ -41,10 +41,15 @@ http://core.trac.wordpress.org/changeset?old_path=%2Ftags%2F3.4.1&amp;amp;old=21
 http://core.trac.wordpress.org/changeset?old_path=%2Ftags%2F3.4.1&amp;old=21780&amp;new_path=%2Ftags%2F3.4.2&amp;new=21780#file2
 http://core.trac.wordpress.org/changeset?old_path=%2Ftags%2F3.4.1&amp;old=21780&amp;new_path=%2Ftags%2F3.4.2&amp;new=21780#file23
 http://core.trac.wordpress.org/changeset?old_path=%2Ftags%2F3.4.1&amp;old=21780&amp;new_path=%2Ftags%2F3.4.2&amp;new=21780#file42
+http://core.trac.wordpress.org/changeset?old_path=%2Ftags%2F3.4.1&old=21780&new_path=%2Ftags%2F3.4.2&new=21780#file2
+http://core.trac.wordpress.org/changeset?old_path=%2Ftags%2F3.4.1&old=21780&new_path=%2Ftags%2F3.4.2&new=21780#file23
+http://core.trac.wordpress.org/changeset?old_path=%2Ftags%2F3.4.1&old=21780&new_path=%2Ftags%2F3.4.2&new=21780#file42
 http://core.trac.wordpress.org/changeset?reponame=&amp;amp;new=21153%40branches%2F3.4&amp;amp;old=21076%40trunk#file16
 http://core.trac.wordpress.org/changeset?reponame=&amp;new=21153%40branches%2F3.4&amp;old=21076%40trunk#file16
+http://core.trac.wordpress.org/changeset?reponame=&new=21153%40branches%2F3.4&old=21076%40trunk#file16
 http://core.trac.wordpress.org/query?status=closed&amp;amp;group=resolution&amp;amp;order=priority&amp;amp;milestone=3.0.1&amp;amp;resolution=fixed
 http://core.trac.wordpress.org/query?status=closed&amp;group=resolution&amp;order=priority&amp;milestone=3.0.1&amp;resolution=fixed
+http://core.trac.wordpress.org/query?status=closed&group=resolution&order=priority&milestone=3.0.1&resolution=fixed
 http://core.trac.wordpress.org/ticket/11119
 http://core.trac.wordpress.org/ticket/11122
 http://core.trac.wordpress.org/ticket/16892
@@ -107,6 +112,7 @@ https://core.trac.wordpress.org/changeset/46893/trunk
 https://core.trac.wordpress.org/changeset/46894/trunk
 https://core.trac.wordpress.org/changeset/47984
 https://core.trac.wordpress.org/query?status=closed&amp;amp;milestone=4.5
+https://core.trac.wordpress.org/query?status=closed&milestone=4.5
 https://core.trac.wordpress.org/ticket/11236
 https://core.trac.wordpress.org/ticket/13887
 https://core.trac.wordpress.org/ticket/14119

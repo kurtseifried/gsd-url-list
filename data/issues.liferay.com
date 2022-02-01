@@ -8,6 +8,7 @@ http://issues.liferay.com/browse/LPS-14927
 http://issues.liferay.com/browse/LPS-6034
 http://issues.liferay.com/secure/ReleaseNote.jspa?version=10656&amp;amp;styleName=Html&amp;amp;projectId=10952
 http://issues.liferay.com/secure/ReleaseNote.jspa?version=10656&amp;styleName=Html&amp;projectId=10952
+http://issues.liferay.com/secure/ReleaseNote.jspa?version=10656&styleName=Html&projectId=10952
 https://issues.liferay.com/browse/LPE-14964
 https://issues.liferay.com/browse/LPE-16928
 https://issues.liferay.com/browse/LPE-16963

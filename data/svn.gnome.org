@@ -1,10 +1,15 @@
 http://svn.gnome.org/viewcvs/gimp?view=revision&amp;amp;revision=22798
 http://svn.gnome.org/viewcvs/gimp?view=revision&amp;revision=22798
+http://svn.gnome.org/viewcvs/gimp?view=revision&revision=22798
 http://svn.gnome.org/viewvc/glib?view=revision&amp;amp;revision=7973
 http://svn.gnome.org/viewvc/glib?view=revision&amp;revision=7973
+http://svn.gnome.org/viewvc/glib?view=revision&revision=7973
 http://svn.gnome.org/viewvc/libxml2?view=revision&amp;amp;revision=3772
 http://svn.gnome.org/viewvc/libxml2?view=revision&amp;revision=3772
+http://svn.gnome.org/viewvc/libxml2?view=revision&revision=3772
 http://svn.gnome.org/viewvc/network-manager-applet/trunk/nm-applet.conf?r1=1133&amp;amp;r2=1207&amp;amp;pathrev=1207
 http://svn.gnome.org/viewvc/network-manager-applet/trunk/nm-applet.conf?r1=1133&amp;r2=1207&amp;pathrev=1207
+http://svn.gnome.org/viewvc/network-manager-applet/trunk/nm-applet.conf?r1=1133&r2=1207&pathrev=1207
 http://svn.gnome.org/viewvc/network-manager-applet?view=revision&amp;amp;revision=1207
 http://svn.gnome.org/viewvc/network-manager-applet?view=revision&amp;revision=1207
+http://svn.gnome.org/viewvc/network-manager-applet?view=revision&revision=1207

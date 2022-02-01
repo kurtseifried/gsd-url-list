@@ -1,11 +1,14 @@
 https://support.broadcom.com/external/content/security-advisories/CA20200205-01-Security-Notice-for-CA-Unified-Infrastructure-Management/7832
 https://support.broadcom.com/external/content/security-advisories/CA20201116-01-Security-Notice-for-CA-Unified-Infrastructure-Management/16565
+https://support.broadcom.com/external/content/security-advisories/CA20211201-01-Security-Notice-for-CA-Network-Flow-Analysis/19689
+https://support.broadcom.com/external/content/security-advisories/NetMaster-12.2-ReportCenter-Vulnerability-CVE-2022-23083/20049
 https://support.broadcom.com/security-advisory/content/security-advisories/0/SYMSA17969
 https://support.broadcom.com/security-advisory/content/security-advisories/0/SYMSA18331
 https://support.broadcom.com/security-advisory/content/security-advisories/CA20201215-01-Security-Notice-for-CA-Service-Catalog/ESDSA16810
 https://support.broadcom.com/security-advisory/content/security-advisories/Privilege-Escalation-and-Information-Disclosure-Vulnerabilities-in-SMG/SYMSA16609
 https://support.broadcom.com/security-advisory/content/security-advisories/SEDR-Information-Disclosure/SYMSA16090
 https://support.broadcom.com/security-advisory/content/security-advisories/Symantec-Endpoint-Detection-Response-Security-Update/SYMSA16562
+https://support.broadcom.com/security-advisory/content/security-advisories/Symantec-Security-Advisory-for-Log4j-2-CVE-2021-44228-Vulnerability/SYMSA19793
 https://support.broadcom.com/security-advisory/security-advisory-detail.html?notificationId=SYMSA1750
 https://support.broadcom.com/security-advisory/security-advisory-detail.html?notificationId=SYMSA1751
 https://support.broadcom.com/security-advisory/security-advisory-detail.html?notificationId=SYMSA1752

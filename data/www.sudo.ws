@@ -3,8 +3,10 @@ http://www.sudo.ws/bugs/show_bug.cgi?id=182
 http://www.sudo.ws/cgi-bin/cvsweb/sudo/auth/kerb5.c
 http://www.sudo.ws/cgi-bin/cvsweb/sudo/parse.c.diff?r1=1.160.2.21&amp;amp;r2=1.160.2.22&amp;amp;f=h
 http://www.sudo.ws/cgi-bin/cvsweb/sudo/parse.c.diff?r1=1.160.2.21&amp;r2=1.160.2.22&amp;f=h
+http://www.sudo.ws/cgi-bin/cvsweb/sudo/parse.c.diff?r1=1.160.2.21&r2=1.160.2.22&f=h
 http://www.sudo.ws/cgi-bin/cvsweb/sudo/set_perms.c.diff?r1=1.30.2.7&amp;amp;r2=1.30.2.8
 http://www.sudo.ws/cgi-bin/cvsweb/sudo/set_perms.c.diff?r1=1.30.2.7&amp;r2=1.30.2.8
+http://www.sudo.ws/cgi-bin/cvsweb/sudo/set_perms.c.diff?r1=1.30.2.7&r2=1.30.2.8
 http://www.sudo.ws/repos/sudo/rev/049a12a5cc14
 http://www.sudo.ws/repos/sudo/rev/07d1b0ce530e
 http://www.sudo.ws/repos/sudo/rev/0c0283d1fafa

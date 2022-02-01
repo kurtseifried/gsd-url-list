@@ -8,4 +8,13 @@ http://distro.conectiva.com/atualizacoes/?id=a&amp;anuncio=000498
 http://distro.conectiva.com/atualizacoes/?id=a&amp;anuncio=000505
 http://distro.conectiva.com/atualizacoes/?id=a&amp;anuncio=000507
 http://distro.conectiva.com/atualizacoes/?id=a&amp;anuncio=000619
+http://distro.conectiva.com/atualizacoes/?id=a&anuncio=000487
+http://distro.conectiva.com/atualizacoes/?id=a&anuncio=000498
+http://distro.conectiva.com/atualizacoes/?id=a&anuncio=000505
+http://distro.conectiva.com/atualizacoes/?id=a&anuncio=000507
+http://distro.conectiva.com/atualizacoes/?id=a&anuncio=000530
+http://distro.conectiva.com/atualizacoes/?id=a&anuncio=000552
+http://distro.conectiva.com/atualizacoes/?id=a&anuncio=000557
+http://distro.conectiva.com/atualizacoes/?id=a&anuncio=000619
 http://distro.conectiva.com/atualizacoes/index.php?id=a&amp;amp;anuncio=000978
+http://distro.conectiva.com/atualizacoes/index.php?id=a&anuncio=000978

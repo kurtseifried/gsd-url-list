@@ -61,6 +61,7 @@ http://www.samba.org/samba/security/CVE-2014-0239
 http://www.samba.org/samba/security/CVE-2014-0244
 http://www.samba.org/samba/security/CVE-2014-3493
 http://www.samba.org/samba/security/CVE-2014-3560
+https://www.samba.org/samba/history/
 https://www.samba.org/samba/history/samba-4.2.0.html
 https://www.samba.org/samba/history/samba-4.2.10.html
 https://www.samba.org/samba/latest_news.html#4.4.2
@@ -136,3 +137,4 @@ https://www.samba.org/samba/security/CVE-2020-14383.html
 https://www.samba.org/samba/security/CVE-2020-27840.html
 https://www.samba.org/samba/security/CVE-2021-20254.html
 https://www.samba.org/samba/security/CVE-2021-20277.html
+https://www.samba.org/samba/security/CVE-2021-43566.html

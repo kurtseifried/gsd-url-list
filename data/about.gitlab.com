@@ -36,6 +36,7 @@ https://about.gitlab.com/2019/04/01/security-release-gitlab-11-dot-9-dot-4-relea
 https://about.gitlab.com/2019/04/10/critical-security-release-gitlab-11-dot-9-dot-7-released/
 https://about.gitlab.com/2019/04/29/security-release-gitlab-11-dot-10-dot-2-released/
 https://about.gitlab.com/2019/04/30/security-release-gitlab-11-dot-10-dot-3-released/
+https://about.gitlab.com/2019/07/29/security-release-gitlab-12-dot-1-dot-2-released/
 https://about.gitlab.com/2019/08/12/critical-security-release-gitlab-12-dot-1-dot-6-released/
 https://about.gitlab.com/2019/08/29/security-release-gitlab-12-dot-2-dot-3-released/
 https://about.gitlab.com/2019/09/10/critical-security-release-gitlab-12-dot-2-dot-5-released/

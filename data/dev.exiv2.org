@@ -2,3 +2,4 @@ http://dev.exiv2.org/issues/1295
 http://dev.exiv2.org/issues/960
 http://dev.exiv2.org/projects/exiv2/repository/diff?rev=3264&amp;amp;rev_to=3263
 http://dev.exiv2.org/projects/exiv2/repository/diff?rev=3264&amp;rev_to=3263
+http://dev.exiv2.org/projects/exiv2/repository/diff?rev=3264&rev_to=3263

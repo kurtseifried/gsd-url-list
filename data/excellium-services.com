@@ -13,6 +13,9 @@ https://excellium-services.com/cert-xlm-advisory/CVE-2021-38615
 https://excellium-services.com/cert-xlm-advisory/CVE-2021-38616
 https://excellium-services.com/cert-xlm-advisory/CVE-2021-38617
 https://excellium-services.com/cert-xlm-advisory/CVE-2021-41320
+https://excellium-services.com/cert-xlm-advisory/CVE-2021-42110
+https://excellium-services.com/cert-xlm-advisory/CVE-2021-43978
+https://excellium-services.com/cert-xlm-advisory/CVE-2021-44035
 https://excellium-services.com/cert-xlm-advisory/cve-2016-1159/
 https://excellium-services.com/cert-xlm-advisory/cve-2019-12959/
 https://excellium-services.com/cert-xlm-advisory/cve-2019-16202/
@@ -34,3 +37,4 @@ https://excellium-services.com/cert-xlm-advisory/cve-2021-32017/
 https://excellium-services.com/cert-xlm-advisory/cve-2021-32018/
 https://excellium-services.com/cert-xlm-advisory/cve-2021-38618/
 https://excellium-services.com/cve-2021-31530/
+https://excellium-services.com/cve-2021-42111/

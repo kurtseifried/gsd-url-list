@@ -1,3 +1,9 @@
+https://blog.cloudflare.com/actual-cve-2021-44228-payloads-captured-in-the-wild/
+https://blog.cloudflare.com/cve-2021-44228-log4j-rce-0-day-mitigation/
 https://blog.cloudflare.com/dns-encryption-explained/
+https://blog.cloudflare.com/exploitation-of-cve-2021-44228-before-public-disclosure-and-evolution-of-waf-evasion-patterns/
+https://blog.cloudflare.com/how-cloudflare-security-responded-to-log4j2-vulnerability/
+https://blog.cloudflare.com/inside-the-log4j2-vulnerability-cve-2021-44228/
+https://blog.cloudflare.com/log4j-cloudflare-logs-mitigation/
 https://blog.cloudflare.com/logjam-the-latest-tls-vulnerability-explained/
 https://blog.cloudflare.com/yet-another-padding-oracle-in-openssl-cbc-ciphersuites/

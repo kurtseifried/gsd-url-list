@@ -155,7 +155,9 @@ http://drupalcode.org/project/yandex_metrics.git/commitdiff/80bb901
 http://drupalcode.org/project/zipcart.git/commitdiff/fe143c2
 http://drupalcode.org/viewvc/drupal/contributions/modules/ctools/page_manager/page_manager.admin.inc?r1=1.27.2.9&amp;amp;r2=1.27.2.10
 http://drupalcode.org/viewvc/drupal/contributions/modules/ctools/page_manager/page_manager.admin.inc?r1=1.27.2.9&amp;r2=1.27.2.10
+http://drupalcode.org/viewvc/drupal/contributions/modules/ctools/page_manager/page_manager.admin.inc?r1=1.27.2.9&r2=1.27.2.10
 http://drupalcode.org/viewvc/drupal/contributions/modules/ctools/page_manager/page_manager.admin.inc?view=log
 http://drupalcode.org/viewvc/drupal/contributions/modules/ctools/page_manager/plugins/tasks/page.admin.inc?r1=1.18.2.6&amp;amp;r2=1.18.2.7
 http://drupalcode.org/viewvc/drupal/contributions/modules/ctools/page_manager/plugins/tasks/page.admin.inc?r1=1.18.2.6&amp;r2=1.18.2.7
+http://drupalcode.org/viewvc/drupal/contributions/modules/ctools/page_manager/plugins/tasks/page.admin.inc?r1=1.18.2.6&r2=1.18.2.7
 http://drupalcode.org/viewvc/drupal/contributions/modules/ctools/page_manager/plugins/tasks/page.admin.inc?view=log

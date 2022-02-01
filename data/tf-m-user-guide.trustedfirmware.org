@@ -1,0 +1,1 @@
+https://tf-m-user-guide.trustedfirmware.org/docs/security/security_advisories/profile_small_key_id_encoding_vulnerability.html

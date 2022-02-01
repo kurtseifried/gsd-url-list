@@ -1,5 +1,9 @@
 https://www.amd.com/en/corporate/product-security
+https://www.amd.com/en/corporate/product-security/bulletin/amd-sb-1000
 https://www.amd.com/en/corporate/product-security/bulletin/amd-sb-1003
 https://www.amd.com/en/corporate/product-security/bulletin/amd-sb-1004
 https://www.amd.com/en/corporate/product-security/bulletin/amd-sb-1009
+https://www.amd.com/en/corporate/product-security/bulletin/amd-sb-1016
 https://www.amd.com/en/corporate/product-security/bulletin/amd-sb-1017
+https://www.amd.com/en/corporate/product-security/bulletin/amd-sb-1021
+https://www.amd.com/en/corporate/product-security/bulletin/amd-sb-1023

@@ -1,1 +1,3 @@
 https://gmplib.org/list-archives/gmp-bugs/2013-December/003267.html
+https://gmplib.org/list-archives/gmp-bugs/2021-September/005077.html
+https://gmplib.org/repo/gmp-6.2/rev/561a9c25298e

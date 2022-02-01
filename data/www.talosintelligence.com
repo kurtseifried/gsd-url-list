@@ -129,6 +129,7 @@ http://www.talosintelligence.com/reports/TALOS-2017-0281/
 http://www.talosintelligence.com/reports/TALOS-2017-0282/
 http://www.talosintelligence.com/reports/TALOS-2017-0283/
 http://www.talosintelligence.com/reports/TALOS-2017-0285/
+http://www.talosintelligence.com/reports/TALOS-2017-0296/
 http://www.talosintelligence.com/reports/TALOS-2017-0302/
 https://www.talosintelligence.com/vulnerability_reports/SAP
 https://www.talosintelligence.com/vulnerability_reports/TALOS-2016-0082
@@ -483,3 +484,7 @@ https://www.talosintelligence.com/vulnerability_reports/TALOS-2021-1251
 https://www.talosintelligence.com/vulnerability_reports/TALOS-2021-1252
 https://www.talosintelligence.com/vulnerability_reports/TALOS-2021-1262
 https://www.talosintelligence.com/vulnerability_reports/TALOS-2021-1297
+https://www.talosintelligence.com/vulnerability_reports/TALOS-2021-1348
+https://www.talosintelligence.com/vulnerability_reports/TALOS-2021-1352
+https://www.talosintelligence.com/vulnerability_reports/TALOS-2021-1372
+https://www.talosintelligence.com/vulnerability_reports/TALOS-2021-1402

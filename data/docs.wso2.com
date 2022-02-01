@@ -1,4 +1,5 @@
 https://docs.wso2.com/display/Security/2020+Advisories
+https://docs.wso2.com/display/Security/2021+Advisories
 https://docs.wso2.com/display/Security/Security+Advisories
 https://docs.wso2.com/display/Security/Security+Advisory+WSO2-2016-0096
 https://docs.wso2.com/display/Security/Security+Advisory+WSO2-2016-0098
@@ -31,4 +32,5 @@ https://docs.wso2.com/display/Security/Security+Advisory+WSO2-2020-0742
 https://docs.wso2.com/display/Security/Security+Advisory+WSO2-2020-0781
 https://docs.wso2.com/display/Security/Security+Advisory+WSO2-2020-0843
 https://docs.wso2.com/display/Security/Security+Advisory+WSO2-2020-1132
+https://docs.wso2.com/display/Security/Security+Advisory+WSO2-2021-1314
 https://docs.wso2.com/display/Security/WSO2+Security+Vulnerability+Management+Process

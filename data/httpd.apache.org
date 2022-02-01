@@ -11,6 +11,8 @@ http://httpd.apache.org/security/vulnerabilities_22.html#2.2.21
 http://httpd.apache.org/security/vulnerabilities_22.html#2.2.22
 http://httpd.apache.org/security/vulnerabilities_24.html
 https://httpd.apache.org/docs/current/mod/mod_ssl.html#sslcompression
+https://httpd.apache.org/security/impact_levels.html#low
+https://httpd.apache.org/security/impact_levels.html#moderate
 https://httpd.apache.org/security/vulnerabilities_22.html
 https://httpd.apache.org/security/vulnerabilities_22.html#CVE-2016-4975
 https://httpd.apache.org/security/vulnerabilities_24.html

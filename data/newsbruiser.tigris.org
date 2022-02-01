@@ -1,3 +1,4 @@
 http://newsbruiser.tigris.org/servlets/NewsItemView?newsItemID=1016
 http://newsbruiser.tigris.org/source/browse/newsbruiser/CHANGELOG?rev=1.283&amp;amp;content-type=text/x-cvsweb-markup
 http://newsbruiser.tigris.org/source/browse/newsbruiser/CHANGELOG?rev=1.283&amp;content-type=text/x-cvsweb-markup
+http://newsbruiser.tigris.org/source/browse/newsbruiser/CHANGELOG?rev=1.283&content-type=text/x-cvsweb-markup

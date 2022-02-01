@@ -89,6 +89,11 @@ http://www.zeroscience.mk/en/vulnerabilities/ZSL-2015-5272.php
 http://www.zeroscience.mk/en/vulnerabilities/ZSL-2016-5313.php
 http://www.zeroscience.mk/en/vulnerabilities/ZSL-2016-5327.php
 http://www.zeroscience.mk/en/vulnerabilities/ZSL-2016-5384.php
+https://www.zeroscience.mk/codes/fatpipe_auth.txt
+https://www.zeroscience.mk/codes/fatpipe_backdoor.txt
+https://www.zeroscience.mk/codes/fatpipe_configdl.txt
+https://www.zeroscience.mk/codes/fatpipe_csrf.txt
+https://www.zeroscience.mk/codes/fatpipe_privesc.txt
 https://www.zeroscience.mk/en/vulnerabilities
 https://www.zeroscience.mk/en/vulnerabilities/
 https://www.zeroscience.mk/en/vulnerabilities/ZSL-2018-5453.php
@@ -121,3 +126,8 @@ https://www.zeroscience.mk/en/vulnerabilities/ZSL-2021-5634.php
 https://www.zeroscience.mk/en/vulnerabilities/ZSL-2021-5648.php
 https://www.zeroscience.mk/en/vulnerabilities/ZSL-2021-5649.php
 https://www.zeroscience.mk/en/vulnerabilities/ZSL-2021-5651.php
+https://www.zeroscience.mk/en/vulnerabilities/ZSL-2021-5681.php
+https://www.zeroscience.mk/en/vulnerabilities/ZSL-2021-5682.php
+https://www.zeroscience.mk/en/vulnerabilities/ZSL-2021-5683.php
+https://www.zeroscience.mk/en/vulnerabilities/ZSL-2021-5684.php
+https://www.zeroscience.mk/en/vulnerabilities/ZSL-2021-5685.php

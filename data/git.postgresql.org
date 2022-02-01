@@ -1,4 +1,5 @@
 http://git.postgresql.org/gitweb/?p=pgbouncer.git;a=commit;h=4b92112b820830b30cd7bc91bef3dd8f35305525
+http://git.postgresql.org/gitweb/?p=postgresql.git&a=commit&h=932ded2ed51e8333852e370c7a6dad75d9f236f9
 http://git.postgresql.org/gitweb/?p=postgresql.git&amp;a=commit&amp;h=932ded2ed51e8333852e370c7a6dad75d9f236f9
 http://git.postgresql.org/gitweb/?p=postgresql.git&amp;amp;a=commit&amp;amp;h=932ded2ed51e8333852e370c7a6dad75d9f236f9
 http://git.postgresql.org/gitweb/?p=postgresql.git;a=commit;h=08fa47c4850cea32c3116665975bca219fbf2fe6

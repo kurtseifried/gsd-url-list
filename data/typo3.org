@@ -122,6 +122,7 @@ http://typo3.org/extensions/repository/view/yatse/0.3.2/
 http://typo3.org/fileadmin/security-team/bug32571/32571.diff
 http://typo3.org/news-single-view/?tx_newsimporter_pi1%5BshowItem%5D=0&amp;amp;cHash=e4a40a11a9
 http://typo3.org/news-single-view/?tx_newsimporter_pi1%5BshowItem%5D=0&amp;cHash=e4a40a11a9
+http://typo3.org/news-single-view/?tx_newsimporter_pi1%5BshowItem%5D=0&cHash=e4a40a11a9
 http://typo3.org/support/teamssecuritysecurity-bulletins/security-bulletins-single-view/article/sql-injection-and-open-redirection-in-typo3-core/
 http://typo3.org/teams/security/security-bulletins/typo3-20050725-1/
 http://typo3.org/teams/security/security-bulletins/typo3-20060911-1/
@@ -319,6 +320,9 @@ https://typo3.org/security/advisory/typo3-ext-sa-2021-010
 https://typo3.org/security/advisory/typo3-ext-sa-2021-011
 https://typo3.org/security/advisory/typo3-ext-sa-2021-013
 https://typo3.org/security/advisory/typo3-ext-sa-2021-014
+https://typo3.org/security/advisory/typo3-ext-sa-2021-015
+https://typo3.org/security/advisory/typo3-ext-sa-2021-017
+https://typo3.org/security/advisory/typo3-ext-sa-2021-018
 https://typo3.org/security/advisory/typo3-psa-2019-003/
 https://typo3.org/security/advisory/typo3-psa-2019-007/
 https://typo3.org/security/advisory/typo3-psa-2019-008/

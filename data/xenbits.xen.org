@@ -164,6 +164,7 @@ http://xenbits.xen.org/xsa/advisory-366.html
 http://xenbits.xen.org/xsa/advisory-367.html
 http://xenbits.xen.org/xsa/advisory-369.html
 http://xenbits.xen.org/xsa/advisory-375.html
+http://xenbits.xen.org/xsa/advisory-384.html
 http://xenbits.xen.org/xsa/advisory-83.html
 http://xenbits.xen.org/xsa/advisory-84.html
 http://xenbits.xen.org/xsa/advisory-85.html

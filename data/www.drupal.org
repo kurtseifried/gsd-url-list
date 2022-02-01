@@ -540,3 +540,4 @@ https://www.drupal.org/sa-core-2020-013
 https://www.drupal.org/sa-core-2021-001
 https://www.drupal.org/sa-core-2021-003
 https://www.drupal.org/sa-core-2021-004
+https://www.drupal.org/sa-core-2021-011

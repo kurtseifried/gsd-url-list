@@ -1,4 +1,5 @@
 https://www.jfrog.com/confluence/display/JFROG/Artifactory+Release+Notes
+https://www.jfrog.com/confluence/display/JFROG/CVE-2021-3860%3A+Artifactory+Low+Privileged+Blind+SQL+Injection
 https://www.jfrog.com/confluence/display/JFROG/JFrog+Artifactory
 https://www.jfrog.com/confluence/display/RTF/Release+Notes
 https://www.jfrog.com/confluence/display/RTF/Release+Notes#ReleaseNotes-Artifactory4.16
@@ -9,3 +10,4 @@ https://www.jfrog.com/confluence/display/RTF6X/Importing+and+Exporting
 https://www.jfrog.com/confluence/display/RTF6X/Release+Notes#ReleaseNotes-Artifactory6.18
 https://www.jfrog.com/jira/browse/RTFACT-17004
 https://www.jfrog.com/jira/secure/ReleaseNote.jspa?projectId=10070&amp;amp;version=19581
+https://www.jfrog.com/jira/secure/ReleaseNote.jspa?projectId=10070&version=19581

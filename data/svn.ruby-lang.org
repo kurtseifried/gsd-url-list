@@ -1,5 +1,6 @@
 http://svn.ruby-lang.org/cgi-bin/viewvc.cgi/trunk/ext/bigdecimal/bigdecimal.c?r1=29364&amp;amp;r2=30993
 http://svn.ruby-lang.org/cgi-bin/viewvc.cgi/trunk/ext/bigdecimal/bigdecimal.c?r1=29364&amp;r2=30993
+http://svn.ruby-lang.org/cgi-bin/viewvc.cgi/trunk/ext/bigdecimal/bigdecimal.c?r1=29364&r2=30993
 http://svn.ruby-lang.org/cgi-bin/viewvc.cgi?view=rev&amp;amp;revision=13499
 http://svn.ruby-lang.org/cgi-bin/viewvc.cgi?view=rev&amp;amp;revision=13500
 http://svn.ruby-lang.org/cgi-bin/viewvc.cgi?view=rev&amp;amp;revision=13502
@@ -14,6 +15,13 @@ http://svn.ruby-lang.org/cgi-bin/viewvc.cgi?view=rev&amp;revision=13504
 http://svn.ruby-lang.org/cgi-bin/viewvc.cgi?view=rev&amp;revision=13656
 http://svn.ruby-lang.org/cgi-bin/viewvc.cgi?view=rev&amp;revision=17460
 http://svn.ruby-lang.org/cgi-bin/viewvc.cgi?view=rev&amp;revision=17756
+http://svn.ruby-lang.org/cgi-bin/viewvc.cgi?view=rev&revision=13499
+http://svn.ruby-lang.org/cgi-bin/viewvc.cgi?view=rev&revision=13500
+http://svn.ruby-lang.org/cgi-bin/viewvc.cgi?view=rev&revision=13502
+http://svn.ruby-lang.org/cgi-bin/viewvc.cgi?view=rev&revision=13504
+http://svn.ruby-lang.org/cgi-bin/viewvc.cgi?view=rev&revision=13656
+http://svn.ruby-lang.org/cgi-bin/viewvc.cgi?view=rev&revision=17460
+http://svn.ruby-lang.org/cgi-bin/viewvc.cgi?view=rev&revision=17756
 http://svn.ruby-lang.org/cgi-bin/viewvc.cgi?view=revision&amp;amp;revision=31713
 http://svn.ruby-lang.org/cgi-bin/viewvc.cgi?view=revision&amp;amp;revision=32050
 http://svn.ruby-lang.org/cgi-bin/viewvc.cgi?view=revision&amp;amp;revision=37068
@@ -26,6 +34,12 @@ http://svn.ruby-lang.org/cgi-bin/viewvc.cgi?view=revision&amp;revision=37068
 http://svn.ruby-lang.org/cgi-bin/viewvc.cgi?view=revision&amp;revision=37163
 http://svn.ruby-lang.org/cgi-bin/viewvc.cgi?view=revision&amp;revision=39384
 http://svn.ruby-lang.org/cgi-bin/viewvc.cgi?view=revision&amp;revision=46778
+http://svn.ruby-lang.org/cgi-bin/viewvc.cgi?view=revision&revision=31713
+http://svn.ruby-lang.org/cgi-bin/viewvc.cgi?view=revision&revision=32050
+http://svn.ruby-lang.org/cgi-bin/viewvc.cgi?view=revision&revision=37068
+http://svn.ruby-lang.org/cgi-bin/viewvc.cgi?view=revision&revision=37163
+http://svn.ruby-lang.org/cgi-bin/viewvc.cgi?view=revision&revision=39384
+http://svn.ruby-lang.org/cgi-bin/viewvc.cgi?view=revision&revision=46778
 http://svn.ruby-lang.org/repos/ruby/tags/v1_8_7_352/ChangeLog
 http://svn.ruby-lang.org/repos/ruby/tags/v1_9_1_429/ChangeLog
 http://svn.ruby-lang.org/repos/ruby/tags/v1_9_2_290/ChangeLog

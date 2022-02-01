@@ -10,3 +10,4 @@ https://cve.naver.com/detail/cve-2020-9752
 https://cve.naver.com/detail/cve-2020-9753
 https://cve.naver.com/detail/cve-2021-33591
 https://cve.naver.com/detail/cve-2021-33592
+https://cve.naver.com/detail/cve-2021-43059

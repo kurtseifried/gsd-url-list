@@ -1,10 +1,13 @@
 http://www3.ca.com/be/securityadvisor/vulninfo/Vuln.aspx?ID=34511
 http://www3.ca.com/securityadvisor/blogs/posting.aspx?id=90744&amp;amp;pid=93243&amp;amp;date=2006/9
 http://www3.ca.com/securityadvisor/blogs/posting.aspx?id=90744&amp;pid=93243&amp;date=2006/9
+http://www3.ca.com/securityadvisor/blogs/posting.aspx?id=90744&pid=93243&date=2006/9
 http://www3.ca.com/securityadvisor/blogs/posting.aspx?pid=93775&amp;amp;id=90744
 http://www3.ca.com/securityadvisor/blogs/posting.aspx?pid=93775&amp;id=90744
+http://www3.ca.com/securityadvisor/blogs/posting.aspx?pid=93775&id=90744
 http://www3.ca.com/securityadvisor/blogs/posting.aspx?pid=94397&amp;amp;id=90744
 http://www3.ca.com/securityadvisor/blogs/posting.aspx?pid=94397&amp;id=90744
+http://www3.ca.com/securityadvisor/blogs/posting.aspx?pid=94397&id=90744
 http://www3.ca.com/securityadvisor/newsinfo/collateral.aspx?cid=101317
 http://www3.ca.com/securityadvisor/newsinfo/collateral.aspx?cid=97428
 http://www3.ca.com/securityadvisor/newsinfo/collateral.aspx?cid=97696

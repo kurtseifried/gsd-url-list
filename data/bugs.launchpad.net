@@ -1,6 +1,8 @@
 https://bugs.launchpad.net/apparmor/+bug/1597017
 https://bugs.launchpad.net/apparmor/+bug/1668892
 https://bugs.launchpad.net/apport/+bug/1648806
+https://bugs.launchpad.net/apport/+bug/1839413
+https://bugs.launchpad.net/apport/+bug/1839415
 https://bugs.launchpad.net/apport/+bug/1854237
 https://bugs.launchpad.net/bugs/1482371
 https://bugs.launchpad.net/bugs/1498163
@@ -13,6 +15,9 @@ https://bugs.launchpad.net/bugs/1614841
 https://bugs.launchpad.net/bugs/1770535
 https://bugs.launchpad.net/bugs/1819547
 https://bugs.launchpad.net/bugs/1836041
+https://bugs.launchpad.net/bugs/1850867
+https://bugs.launchpad.net/bugs/1850994
+https://bugs.launchpad.net/bugs/1858973
 https://bugs.launchpad.net/bugs/1878177
 https://bugs.launchpad.net/bugs/1899193
 https://bugs.launchpad.net/bugs/1901572
@@ -33,6 +38,7 @@ https://bugs.launchpad.net/bugs/cve/2010-1447
 https://bugs.launchpad.net/bzr/+bug/1710979
 https://bugs.launchpad.net/calibre/+bug/1651728
 https://bugs.launchpad.net/calibre/+bug/1753870
+https://bugs.launchpad.net/calibre/+bug/1951979
 https://bugs.launchpad.net/calibre/+bug/885027
 https://bugs.launchpad.net/ceilometer/+bug/1244476
 https://bugs.launchpad.net/cinder/+bug/1198185
@@ -96,6 +102,7 @@ https://bugs.launchpad.net/inkscape/+bug/1025185
 https://bugs.launchpad.net/inkscape/+bug/911146
 https://bugs.launchpad.net/ironic-inspector/+bug/1506419
 https://bugs.launchpad.net/ironic/+bug/1572796
+https://bugs.launchpad.net/juju-core/+bug/1415671
 https://bugs.launchpad.net/juju/+bug/1682411
 https://bugs.launchpad.net/katacontainers.io/+bug/1878234
 https://bugs.launchpad.net/keystone/+bug/1006815
@@ -147,6 +154,10 @@ https://bugs.launchpad.net/lxml/+bug/1888153
 https://bugs.launchpad.net/maas/%2Bbug/1039513
 https://bugs.launchpad.net/maas/%2Bbug/1251336
 https://bugs.launchpad.net/maas/+bug/1158425
+https://bugs.launchpad.net/maas/+bug/1212205
+https://bugs.launchpad.net/maas/+bug/1298772
+https://bugs.launchpad.net/maas/+bug/1379826
+https://bugs.launchpad.net/maas/+bug/1428666
 https://bugs.launchpad.net/magnum/+bug/1620536
 https://bugs.launchpad.net/mahara/+bug/1009774
 https://bugs.launchpad.net/mahara/+bug/1009777
@@ -207,6 +218,11 @@ https://bugs.launchpad.net/mahara/+bug/1836984
 https://bugs.launchpad.net/mahara/+bug/1840201
 https://bugs.launchpad.net/mahara/+bug/1863043
 https://bugs.launchpad.net/mahara/+bug/1888163
+https://bugs.launchpad.net/mahara/+bug/1930469
+https://bugs.launchpad.net/mahara/+bug/1930471
+https://bugs.launchpad.net/mahara/+bug/1942903
+https://bugs.launchpad.net/mahara/+bug/1944633
+https://bugs.launchpad.net/mahara/+bug/1944979
 https://bugs.launchpad.net/mahara/+bug/784978
 https://bugs.launchpad.net/mahara/+bug/798136
 https://bugs.launchpad.net/mahara/+bug/800032
@@ -219,6 +235,9 @@ https://bugs.launchpad.net/mailman/+bug/1873722
 https://bugs.launchpad.net/mailman/+bug/1877379
 https://bugs.launchpad.net/mailman/+bug/1947639
 https://bugs.launchpad.net/mailman/+bug/1947640
+https://bugs.launchpad.net/mailman/+bug/1949401
+https://bugs.launchpad.net/mailman/+bug/1949403
+https://bugs.launchpad.net/mailman/+bug/1952384
 https://bugs.launchpad.net/manila-ui/+bug/1597738
 https://bugs.launchpad.net/manila/+bug/1861485
 https://bugs.launchpad.net/mistral/+bug/1783708
@@ -241,6 +260,7 @@ https://bugs.launchpad.net/neutron/+bug/1734320
 https://bugs.launchpad.net/neutron/+bug/1757482
 https://bugs.launchpad.net/neutron/+bug/1767422
 https://bugs.launchpad.net/nova-lxd/+bug/1656847
+https://bugs.launchpad.net/nova/%2Bbug/853330
 https://bugs.launchpad.net/nova/+bug/1015531
 https://bugs.launchpad.net/nova/+bug/1017795
 https://bugs.launchpad.net/nova/+bug/1031311
@@ -294,6 +314,7 @@ https://bugs.launchpad.net/ossn/+bug/1188189
 https://bugs.launchpad.net/ossn/+bug/1606495
 https://bugs.launchpad.net/ossn/+bug/1649333
 https://bugs.launchpad.net/ossn/+bug/1686743
+https://bugs.launchpad.net/oxide/%2Bbug/1626099
 https://bugs.launchpad.net/oxide/+bug/1431484
 https://bugs.launchpad.net/percona-toolkit/+bug/1279502
 https://bugs.launchpad.net/percona-toolkit/+bug/1408375
@@ -304,6 +325,7 @@ https://bugs.launchpad.net/pithos/%2Bbug/667896
 https://bugs.launchpad.net/pithos/+bug/733307
 https://bugs.launchpad.net/pycrypto/+bug/985164
 https://bugs.launchpad.net/pypolicyd-spf/+bug/1838816
+https://bugs.launchpad.net/python-dbusmock/+bug/1453815
 https://bugs.launchpad.net/python-keystoneclient/+bug/1179615
 https://bugs.launchpad.net/python-keystoneclient/+bug/1282865
 https://bugs.launchpad.net/python-keystoneclient/+bug/1353315
@@ -320,6 +342,9 @@ https://bugs.launchpad.net/qemu/+bug/807893
 https://bugs.launchpad.net/remote-login-service/%2Bbug/1070896
 https://bugs.launchpad.net/shutter/+bug/1495163
 https://bugs.launchpad.net/shutter/+bug/1652600
+https://bugs.launchpad.net/snapd/+bug/1812973
+https://bugs.launchpad.net/snapd/+bug/1813365
+https://bugs.launchpad.net/snapweb/+bug/1637242
 https://bugs.launchpad.net/software-center-agent/%2Bbug/1052789
 https://bugs.launchpad.net/swift/+bug/1006414
 https://bugs.launchpad.net/swift/+bug/1183884
@@ -336,10 +361,12 @@ https://bugs.launchpad.net/tripleo/+bug/1494896
 https://bugs.launchpad.net/tripleo/+bug/1516027
 https://bugs.launchpad.net/tripleo/+bug/1720787
 https://bugs.launchpad.net/trove/+bug/1398195
+https://bugs.launchpad.net/ubuntu-download-manager/+bug/1567960
 https://bugs.launchpad.net/ubuntu/%2Bsource/acpi-support/%2Bbug/1340812
 https://bugs.launchpad.net/ubuntu/%2Bsource/apport/%2Bbug/1438758
 https://bugs.launchpad.net/ubuntu/%2Bsource/apport/%2Bbug/1830858
 https://bugs.launchpad.net/ubuntu/%2Bsource/aptdaemon/%2Bbug/959131
+https://bugs.launchpad.net/ubuntu/%2Bsource/ecryptfs-utils/%2Bbug/830850
 https://bugs.launchpad.net/ubuntu/%2Bsource/indicator-datetime/%2Bbug/1246812
 https://bugs.launchpad.net/ubuntu/%2Bsource/ldm/%2Bbug/953340
 https://bugs.launchpad.net/ubuntu/%2Bsource/libimobiledevice/%2Bbug/1164263
@@ -351,6 +378,7 @@ https://bugs.launchpad.net/ubuntu/%2Bsource/lxc/%2Bbug/1261045
 https://bugs.launchpad.net/ubuntu/%2Bsource/maas/%2Bbug/1254034
 https://bugs.launchpad.net/ubuntu/%2Bsource/network-manager/%2Bbug/1449245
 https://bugs.launchpad.net/ubuntu/%2Bsource/pam/%2Bbug/610125
+https://bugs.launchpad.net/ubuntu/%2Bsource/python-apt/%2Bbug/1858972
 https://bugs.launchpad.net/ubuntu/%2Bsource/simplestreams/%2Bbug/1487004
 https://bugs.launchpad.net/ubuntu/%2Bsource/software-properties/%2Bbug/915210
 https://bugs.launchpad.net/ubuntu/%2Bsource/ubiquity-slideshow-ubuntu/%2Bbug/991982
@@ -360,10 +388,14 @@ https://bugs.launchpad.net/ubuntu/%2Bsource/update-manager/%2Bbug/1004503
 https://bugs.launchpad.net/ubuntu/%2Bsource/update-manager/%2Bbug/881548
 https://bugs.launchpad.net/ubuntu/%2Bsource/whoopsie/%2Bbug/1830863
 https://bugs.launchpad.net/ubuntu/+bug/531569
+https://bugs.launchpad.net/ubuntu/+source/accountsservice/+bug/1900255
+https://bugs.launchpad.net/ubuntu/+source/accountsservice/+bug/1950149
 https://bugs.launchpad.net/ubuntu/+source/acpid/+bug/893821
 https://bugs.launchpad.net/ubuntu/+source/apache2/+bug/811422
 https://bugs.launchpad.net/ubuntu/+source/apport/+bug/1452239
 https://bugs.launchpad.net/ubuntu/+source/apport/+bug/1492570
+https://bugs.launchpad.net/ubuntu/+source/apport/+bug/1507480
+https://bugs.launchpad.net/ubuntu/+source/apport/+bug/1830862
 https://bugs.launchpad.net/ubuntu/+source/apport/+bug/1839795
 https://bugs.launchpad.net/ubuntu/+source/apport/+bug/1850929
 https://bugs.launchpad.net/ubuntu/+source/apport/+bug/1851806
@@ -379,6 +411,7 @@ https://bugs.launchpad.net/ubuntu/+source/apt/+bug/1647467
 https://bugs.launchpad.net/ubuntu/+source/apt/+bug/1899193
 https://bugs.launchpad.net/ubuntu/+source/apt/+bug/356012
 https://bugs.launchpad.net/ubuntu/+source/apt/+bug/868353
+https://bugs.launchpad.net/ubuntu/+source/aptdaemon/+bug/1888235
 https://bugs.launchpad.net/ubuntu/+source/aptdaemon/+bug/1899513
 https://bugs.launchpad.net/ubuntu/+source/audiofile/+bug/1502721
 https://bugs.launchpad.net/ubuntu/+source/autokey/+bug/538471
@@ -389,6 +422,7 @@ https://bugs.launchpad.net/ubuntu/+source/binutils/+bug/1763099
 https://bugs.launchpad.net/ubuntu/+source/binutils/+bug/1763101
 https://bugs.launchpad.net/ubuntu/+source/binutils/+bug/1763102
 https://bugs.launchpad.net/ubuntu/+source/blueman/+bug/1897287
+https://bugs.launchpad.net/ubuntu/+source/bluez/+bug/1926548
 https://bugs.launchpad.net/ubuntu/+source/bozohttpd/+bug/582473
 https://bugs.launchpad.net/ubuntu/+source/byobu/+bug/1827202
 https://bugs.launchpad.net/ubuntu/+source/cfingerd/+bug/1104425
@@ -398,6 +432,7 @@ https://bugs.launchpad.net/ubuntu/+source/cloud-init/+bug/1860795
 https://bugs.launchpad.net/ubuntu/+source/cobbler/+bug/978999
 https://bugs.launchpad.net/ubuntu/+source/compiz-fusion-plugins-main/+bug/247088
 https://bugs.launchpad.net/ubuntu/+source/conky/+bug/607309
+https://bugs.launchpad.net/ubuntu/+source/content-hub/+bug/1456628
 https://bugs.launchpad.net/ubuntu/+source/coreutils/+bug/354793
 https://bugs.launchpad.net/ubuntu/+source/cups/+bug/298241
 https://bugs.launchpad.net/ubuntu/+source/dhcpcd/+bug/1517226
@@ -405,6 +440,7 @@ https://bugs.launchpad.net/ubuntu/+source/dnsmasq/+bug/47438
 https://bugs.launchpad.net/ubuntu/+source/dpkg/+bug/1389135
 https://bugs.launchpad.net/ubuntu/+source/dtc-xen/+bug/505072
 https://bugs.launchpad.net/ubuntu/+source/ecryptfs-utils/+bug/1447282
+https://bugs.launchpad.net/ubuntu/+source/ekiga/+bug/791652
 https://bugs.launchpad.net/ubuntu/+source/elinks/+bug/141018
 https://bugs.launchpad.net/ubuntu/+source/ettercap/+bug/656347
 https://bugs.launchpad.net/ubuntu/+source/feh/+bug/607328
@@ -484,6 +520,10 @@ https://bugs.launchpad.net/ubuntu/+source/linux/+bug/1743792
 https://bugs.launchpad.net/ubuntu/+source/linux/+bug/1748846
 https://bugs.launchpad.net/ubuntu/+source/linux/+bug/1763384
 https://bugs.launchpad.net/ubuntu/+source/linux/+bug/1763403
+https://bugs.launchpad.net/ubuntu/+source/linux/+bug/1831637
+https://bugs.launchpad.net/ubuntu/+source/linux/+bug/1831638
+https://bugs.launchpad.net/ubuntu/+source/linux/+bug/1832286
+https://bugs.launchpad.net/ubuntu/+source/linux/+bug/1850867
 https://bugs.launchpad.net/ubuntu/+source/linux/+bug/1859522
 https://bugs.launchpad.net/ubuntu/+source/linux/+bug/1862840
 https://bugs.launchpad.net/ubuntu/+source/linux/+bug/1867717
@@ -500,6 +540,7 @@ https://bugs.launchpad.net/ubuntu/+source/lxc/+bug/1661447
 https://bugs.launchpad.net/ubuntu/+source/lxc/+bug/1783591
 https://bugs.launchpad.net/ubuntu/+source/lxcfs/+bug/1508481
 https://bugs.launchpad.net/ubuntu/+source/lxcfs/+bug/1512854
+https://bugs.launchpad.net/ubuntu/+source/lxd/+bug/1502270
 https://bugs.launchpad.net/ubuntu/+source/lxd/+bug/1515689
 https://bugs.launchpad.net/ubuntu/+source/lynx-cur/+bug/613254
 https://bugs.launchpad.net/ubuntu/+source/man-db/+bug/1482786
@@ -529,6 +570,7 @@ https://bugs.launchpad.net/ubuntu/+source/phpldapadmin/+bug/1906474
 https://bugs.launchpad.net/ubuntu/+source/pitivi/+bug/1495272
 https://bugs.launchpad.net/ubuntu/+source/policykit/+bug/205037
 https://bugs.launchpad.net/ubuntu/+source/poppler/+bug/361875
+https://bugs.launchpad.net/ubuntu/+source/pulseaudio/+bug/1877102
 https://bugs.launchpad.net/ubuntu/+source/python-cjson/+bug/585274
 https://bugs.launchpad.net/ubuntu/+source/python-keyring/+bug/1004845
 https://bugs.launchpad.net/ubuntu/+source/python-keyring/+bug/1031465
@@ -540,18 +582,24 @@ https://bugs.launchpad.net/ubuntu/+source/ruby1.8/+bug/241657
 https://bugs.launchpad.net/ubuntu/+source/screen/+bug/315993
 https://bugs.launchpad.net/ubuntu/+source/seahorse/+bug/189774
 https://bugs.launchpad.net/ubuntu/+source/seahorse/+bug/189774/comments/13
+https://bugs.launchpad.net/ubuntu/+source/selinux/+bug/876994
 https://bugs.launchpad.net/ubuntu/+source/shadow/+bug/1266675
 https://bugs.launchpad.net/ubuntu/+source/shadow/+bug/1729357
 https://bugs.launchpad.net/ubuntu/+source/signon/+bug/1392380
 https://bugs.launchpad.net/ubuntu/+source/software-properties/+bug/1016643
+https://bugs.launchpad.net/ubuntu/+source/software-properties/+bug/1890286
 https://bugs.launchpad.net/ubuntu/+source/sqlite3/+bug/1448758
 https://bugs.launchpad.net/ubuntu/+source/sqlite3/+bug/1700937
 https://bugs.launchpad.net/ubuntu/+source/sqlite3/+bug/1756349
 https://bugs.launchpad.net/ubuntu/+source/squashfs-tools/+bug/1941790
 https://bugs.launchpad.net/ubuntu/+source/ssmtp/+bug/282424
+https://bugs.launchpad.net/ubuntu/+source/subiquity/+bug/1878115
 https://bugs.launchpad.net/ubuntu/+source/sudo/+bug/87023
 https://bugs.launchpad.net/ubuntu/+source/svn-workbench/+bug/1495268
 https://bugs.launchpad.net/ubuntu/+source/systemd/+bug/1725351
+https://bugs.launchpad.net/ubuntu/+source/systemd/+bug/1795921
+https://bugs.launchpad.net/ubuntu/+source/systemd/+bug/1796402
+https://bugs.launchpad.net/ubuntu/+source/systemd/+bug/1796692
 https://bugs.launchpad.net/ubuntu/+source/systemd/+bug/1803993
 https://bugs.launchpad.net/ubuntu/+source/tar/+bug/1810241
 https://bugs.launchpad.net/ubuntu/+source/tesseract/+bug/607297
@@ -560,10 +608,12 @@ https://bugs.launchpad.net/ubuntu/+source/tiff/+bug/589565
 https://bugs.launchpad.net/ubuntu/+source/tiff/+bug/591605
 https://bugs.launchpad.net/ubuntu/+source/tinyproxy/+bug/1036985
 https://bugs.launchpad.net/ubuntu/+source/ubuntu-core-launcher/+bug/1576699
+https://bugs.launchpad.net/ubuntu/+source/ubuntu-keyboard/+bug/1594863
 https://bugs.launchpad.net/ubuntu/+source/unity-scope-gdrive/+bug/1509076
 https://bugs.launchpad.net/ubuntu/+source/unity/+bug/1308572
 https://bugs.launchpad.net/ubuntu/+source/unity/+bug/1308850
 https://bugs.launchpad.net/ubuntu/+source/unity/+bug/1313885
+https://bugs.launchpad.net/ubuntu/+source/unity8/+bug/1536296
 https://bugs.launchpad.net/ubuntu/+source/unzip/+bug/1643750
 https://bugs.launchpad.net/ubuntu/+source/unzip/+bug/580961/comments/120
 https://bugs.launchpad.net/ubuntu/+source/update-manager/+bug/881541
@@ -571,6 +621,8 @@ https://bugs.launchpad.net/ubuntu/+source/upstart/+bug/1425685
 https://bugs.launchpad.net/ubuntu/+source/vlc/+bug/1533633
 https://bugs.launchpad.net/ubuntu/+source/vm-builder/+bug/296841
 https://bugs.launchpad.net/ubuntu/+source/whoopsie-daisy/+bug/973687
+https://bugs.launchpad.net/ubuntu/+source/whoopsie/+bug/1830863
+https://bugs.launchpad.net/ubuntu/+source/whoopsie/+bug/1830865
 https://bugs.launchpad.net/ubuntu/+source/whoopsie/+bug/1872560
 https://bugs.launchpad.net/ubuntu/+source/wine/+bug/1764719
 https://bugs.launchpad.net/ubuntu/+source/xdiagnose/+bug/1036211

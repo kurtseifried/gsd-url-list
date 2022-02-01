@@ -10,3 +10,4 @@ https://www.yubico.com/support/security-advisories/ysa-2020-06/
 https://www.yubico.com/support/security-advisories/ysa-2021-01/
 https://www.yubico.com/support/security-advisories/ysa-2021-02/
 https://www.yubico.com/support/security-advisories/ysa-2021-03
+https://www.yubico.com/support/security-advisories/ysa-2021-04/

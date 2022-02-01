@@ -1,6 +1,9 @@
 http://www.tug.org/svn/texlive/trunk/Build/source/texk/dvipsk/ChangeLog?r1=18009&amp;amp;r2=18095
 http://www.tug.org/svn/texlive/trunk/Build/source/texk/dvipsk/ChangeLog?r1=18009&amp;r2=18095
+http://www.tug.org/svn/texlive/trunk/Build/source/texk/dvipsk/ChangeLog?r1=18009&r2=18095
 http://www.tug.org/svn/texlive/trunk/Build/source/texk/dvipsk/ChangeLog?view=log
 https://www.tug.org/svn/texlive/trunk/Build/source/texk/kpathsea/mktexlsr?r1=19613&amp;amp;r2=22885
+https://www.tug.org/svn/texlive/trunk/Build/source/texk/kpathsea/mktexlsr?r1=19613&r2=22885
 https://www.tug.org/svn/texlive/trunk/Build/source/texk/kpathsea/mktexlsr?view=log
 https://www.tug.org/svn/texlive?view=revision&amp;amp;revision=42605
+https://www.tug.org/svn/texlive?view=revision&revision=42605

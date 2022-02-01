@@ -4,11 +4,14 @@ https://owncloud.com/security-advisories/bypassing-file-firewall-oc-sa-2020-002/
 https://owncloud.com/security-advisories/cross-site-request-forgery-in-the-ocs-api/
 https://owncloud.com/security-advisories/cve-2020-28646/
 https://owncloud.com/security-advisories/cve-2021-29659/
+https://owncloud.com/security-advisories/cve-2021-33827/
+https://owncloud.com/security-advisories/cve-2021-33828/
 https://owncloud.com/security-advisories/cve-2021-35946/
 https://owncloud.com/security-advisories/cve-2021-35947/
 https://owncloud.com/security-advisories/cve-2021-35948/
 https://owncloud.com/security-advisories/cve-2021-35949/
 https://owncloud.com/security-advisories/cve-2021-40537/
+https://owncloud.com/security-advisories/cve-2021-44537/
 https://owncloud.com/security-advisories/deleting-received-group-share-for-whole-group/
 https://owncloud.com/security-advisories/feed/
 https://owncloud.com/security-advisories/files-antivirus-doesnt-delete-virus-if-uploaded-through-public-link/

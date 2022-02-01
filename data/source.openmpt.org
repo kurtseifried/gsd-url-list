@@ -1,4 +1,7 @@
 https://source.openmpt.org/browse/openmpt/branches/OpenMPT-1.26/?op=revision&amp;amp;rev=8438
+https://source.openmpt.org/browse/openmpt/branches/OpenMPT-1.26/?op=revision&rev=8438
 https://source.openmpt.org/browse/openmpt/trunk/?op=revision&amp;amp;rev=10149&amp;amp;peg=10150
+https://source.openmpt.org/browse/openmpt/trunk/?op=revision&rev=10149&peg=10150
 https://source.openmpt.org/browse/openmpt/trunk/?rev=6800
 https://source.openmpt.org/browse/openmpt/trunk/OpenMPT/?op=revision&amp;amp;rev=12127&amp;amp;peg=12127
+https://source.openmpt.org/browse/openmpt/trunk/OpenMPT/?op=revision&rev=12127&peg=12127

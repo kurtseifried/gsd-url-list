@@ -12,8 +12,11 @@ https://docs.github.com/en/enterprise-server@2.22/admin/release-notes#2.22.9
 https://docs.github.com/en/enterprise-server@3.0/admin/release-notes#3.0.1
 https://docs.github.com/en/enterprise-server@3.0/admin/release-notes#3.0.11
 https://docs.github.com/en/enterprise-server@3.0/admin/release-notes#3.0.16
+https://docs.github.com/en/enterprise-server@3.0/admin/release-notes#3.0.19
 https://docs.github.com/en/enterprise-server@3.0/admin/release-notes#3.0.3
 https://docs.github.com/en/enterprise-server@3.0/admin/release-notes#3.0.4
 https://docs.github.com/en/enterprise-server@3.0/admin/release-notes#3.0.7
+https://docs.github.com/en/enterprise-server@3.1/admin/release-notes#3.1.11
 https://docs.github.com/en/enterprise-server@3.1/admin/release-notes#3.1.3
 https://docs.github.com/en/enterprise-server@3.1/admin/release-notes#3.1.8
+https://docs.github.com/en/enterprise-server@3.2/admin/release-notes#3.2.3

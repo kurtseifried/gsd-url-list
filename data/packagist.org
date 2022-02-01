@@ -13,6 +13,7 @@ https://packagist.org/packages/phpfastcache/phpfastcache
 https://packagist.org/packages/prestashop/contactform
 https://packagist.org/packages/prestashop/productcomments
 https://packagist.org/packages/prestashop/ps_emailsubscription
+https://packagist.org/packages/smarty/smarty
 https://packagist.org/packages/symfony/http-kernel
 https://packagist.org/packages/symfony/symfony
 https://packagist.org/packages/typo3/cms-backend

@@ -90,7 +90,12 @@ https://source.android.com/security/bulletin/2021-07-01
 https://source.android.com/security/bulletin/2021-08-01
 https://source.android.com/security/bulletin/2021-09-01
 https://source.android.com/security/bulletin/2021-10-01
+https://source.android.com/security/bulletin/2021-11-01
+https://source.android.com/security/bulletin/2021-12-01
+https://source.android.com/security/bulletin/2022-01-01
 https://source.android.com/security/bulletin/aaos/2021-10-01
+https://source.android.com/security/bulletin/aaos/2021-12-01
+https://source.android.com/security/bulletin/aaos/2022-01-01
 https://source.android.com/security/bulletin/android-10
 https://source.android.com/security/bulletin/android-11
 https://source.android.com/security/bulletin/pixel/2017-10-01
@@ -131,3 +136,6 @@ https://source.android.com/security/bulletin/pixel/2021-07-01
 https://source.android.com/security/bulletin/pixel/2021-08-01
 https://source.android.com/security/bulletin/pixel/2021-09-01
 https://source.android.com/security/bulletin/pixel/2021-10-01
+https://source.android.com/security/bulletin/pixel/2021-11-01
+https://source.android.com/security/bulletin/pixel/2021-12-01
+https://source.android.com/security/bulletin/pixel/2022-01-01

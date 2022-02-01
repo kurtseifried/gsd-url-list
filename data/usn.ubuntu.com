@@ -5,6 +5,7 @@ https://usn.ubuntu.com/111-1/
 https://usn.ubuntu.com/112-1/
 https://usn.ubuntu.com/113-1/
 https://usn.ubuntu.com/1167-1/
+https://usn.ubuntu.com/1196-1/
 https://usn.ubuntu.com/127-1/
 https://usn.ubuntu.com/132-1/
 https://usn.ubuntu.com/136-1/
@@ -117,6 +118,7 @@ https://usn.ubuntu.com/304-1/
 https://usn.ubuntu.com/305-1/
 https://usn.ubuntu.com/306-1/
 https://usn.ubuntu.com/307-1/
+https://usn.ubuntu.com/3113-1/
 https://usn.ubuntu.com/317-1/
 https://usn.ubuntu.com/319-1/
 https://usn.ubuntu.com/320-1/
@@ -755,6 +757,7 @@ https://usn.ubuntu.com/4015-1/
 https://usn.ubuntu.com/4015-2/
 https://usn.ubuntu.com/4016-1/
 https://usn.ubuntu.com/4016-2/
+https://usn.ubuntu.com/4017-1
 https://usn.ubuntu.com/4018-1/
 https://usn.ubuntu.com/4019-1/
 https://usn.ubuntu.com/4019-2/
@@ -909,6 +912,7 @@ https://usn.ubuntu.com/4166-2/
 https://usn.ubuntu.com/4168-1/
 https://usn.ubuntu.com/4169-1/
 https://usn.ubuntu.com/417-1/
+https://usn.ubuntu.com/4170-1/
 https://usn.ubuntu.com/4171-1/
 https://usn.ubuntu.com/4171-2/
 https://usn.ubuntu.com/4171-3/
@@ -1421,6 +1425,7 @@ https://usn.ubuntu.com/95-1/
 https://usn.ubuntu.com/96-1/
 https://usn.ubuntu.com/97-1/
 https://usn.ubuntu.com/98-1/
+https://usn.ubuntu.com/USN-4451-1/
 https://usn.ubuntu.com/usn/usn-2576-1/
 https://usn.ubuntu.com/usn/usn-2576-2/
 https://usn.ubuntu.com/usn/usn-3311-1/
@@ -1434,6 +1439,7 @@ https://usn.ubuntu.com/usn/usn-3525-1/
 https://usn.ubuntu.com/usn/usn-3664-1
 https://usn.ubuntu.com/usn/usn-3713-1
 https://usn.ubuntu.com/usn/usn-3730-1
+https://usn.ubuntu.com/usn/usn-4052-1
 https://usn.ubuntu.com/usn/usn-4170-1
 https://usn.ubuntu.com/usn/usn-4170-2
 https://usn.ubuntu.com/usn/usn-4171-1
@@ -1442,10 +1448,14 @@ https://usn.ubuntu.com/usn/usn-4183-1
 https://usn.ubuntu.com/usn/usn-4184-1
 https://usn.ubuntu.com/usn/usn-4208-1
 https://usn.ubuntu.com/usn/usn-4209-1
+https://usn.ubuntu.com/usn/usn-4247-1
 https://usn.ubuntu.com/usn/usn-4302-1
 https://usn.ubuntu.com/usn/usn-4313-1
 https://usn.ubuntu.com/usn/usn-4318-1
+https://usn.ubuntu.com/usn/usn-4355-1
 https://usn.ubuntu.com/usn/usn-4452-1
+https://usn.ubuntu.com/usn/usn-4616-1
+https://usn.ubuntu.com/usn/usn-4618-1
 https://usn.ubuntu.com/usn/usn-4661-1
 https://usn.ubuntu.com/usn/usn-4664-1
 https://usn.ubuntu.com/usn/usn-4667-1

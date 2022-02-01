@@ -122,4 +122,12 @@ https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2021-0019
 https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2021-0021
 https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2021-0022
 https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2021-0024
+https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2021-0025
+https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2021-0026
+https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2021-0027
+https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2021-0028
+https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2021-0030
+https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2021-0031
+https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2021-0032
+https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2021-0033
 https://psirt.global.sonicwall.com/vuln-list

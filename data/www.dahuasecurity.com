@@ -10,3 +10,4 @@ https://www.dahuasecurity.com/support/cybersecurity/details/757
 https://www.dahuasecurity.com/support/cybersecurity/details/767
 https://www.dahuasecurity.com/support/cybersecurity/details/777
 https://www.dahuasecurity.com/support/cybersecurity/details/957
+https://www.dahuasecurity.com/support/cybersecurity/details/987

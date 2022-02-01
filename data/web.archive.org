@@ -2,10 +2,12 @@ http://web.archive.org/web/20040823075750/http://www.linksys.com/download/firmwa
 http://web.archive.org/web/20040920024328/http://www.phpgroupware.org/
 http://web.archive.org/web/20041106200147/http://www.it-helpnet.de/bugless/bugs.php?mode=show&amp;amp;id=8&amp;amp;SID=
 http://web.archive.org/web/20041106200147/http://www.it-helpnet.de/bugless/bugs.php?mode=show&amp;id=8&amp;SID=
+http://web.archive.org/web/20041106200147/http://www.it-helpnet.de/bugless/bugs.php?mode=show&id=8&SID=
 http://web.archive.org/web/20041130092749/www.r1ch.net/stuff/r1q2/
 http://web.archive.org/web/20050303003128/http://powerportal.sourceforge.net/
 http://web.archive.org/web/20050323212004/www.coreslawn.de/?show=downloads&amp;amp;cat_id=1
 http://web.archive.org/web/20050323212004/www.coreslawn.de/?show=downloads&amp;cat_id=1
+http://web.archive.org/web/20050323212004/www.coreslawn.de/?show=downloads&cat_id=1
 http://web.archive.org/web/20060502082622/www.gleg.net/vulndisco_pack_professional.shtml
 http://web.archive.org/web/20060502082657/http://www.gleg.net/vulndisco_pack_standard.shtml
 http://web.archive.org/web/20100924002712/http://www.uvnc.com/download/
@@ -13,9 +15,12 @@ http://web.archive.org/web/20101229090807/http://www.pkware.com/support/desktop/
 http://web.archive.org/web/20130329070349/http://ftp.osuosl.org/pub/linux/kernel/v3.0/ChangeLog-3.0
 http://web.archive.org/web/20131205055429/https://communities.intel.com/community/wired/blog/2013/02/07/intel-82574l-gigabit-ethernet-controller-statement
 http://web.archive.org/web/20150321220028/https://freakattack.com/
+http://web.archive.org/web/20150801185019/
 http://web.archive.org/web/20170701212357/http://phpunit.vulnbusters.com/
 http://web.archive.org/web/20200429193852/https://support.avira.com/hc/en-us/articles/360000109798-Avira-Antivirus-for-Windows
 http://web.archive.org/web/20200530054359/https://docs.docker.com/engine/release-notes/
+http://web.archive.org/web/20210320190014/http://firmware.re/vulns/acsa-2013-002.php
+http://web.archive.org/web/20210704022108/https://github.com/Marak/faker.js/issues/1046
 https://web.archive.org/web/20000819203059/http://xforce.iss.net:80/alerts/vol-4_num-7.php#jet-text-isam
 https://web.archive.org/web/20080622172542/www.iss.net/threats/advise123.html
 https://web.archive.org/web/20090120112751/http://trac.imagemagick.org/changeset/13736
@@ -55,6 +60,8 @@ https://web.archive.org/web/20180612235401/https://github.com/CFSECURITE/wordpre
 https://web.archive.org/web/20181104111128/https://embedi.com/blog/skeleton-closet-ms-office-vulnerability-you-didnt-know-about/
 https://web.archive.org/web/20181223120225/https://badpackets.net/over-19000-orange-livebox-adsl-modems-are-leaking-their-wifi-credentials/
 https://web.archive.org/web/20190528215510/http://brianstafford.info/libesmtp/
+https://web.archive.org/web/20190923165849/https://github.com/tarantula-team/Traveloka-Android-App-Critical-Vulnerability
 https://web.archive.org/web/20200327142627/https://www.quantumleap.it/geocall-v-6-3-multiple-vulnerabilities/
 https://web.archive.org/web/20201219095507/https://docs.nomagic.com/display/TWCloud185SP1/Installation+on+Centos+7.
 https://web.archive.org/web/20201219155833/https://docs.nomagic.com/pages/viewpage.action?pageId=20846937
+https://web.archive.org/web/20211030075524/https://marak.com/blog/2021-04-25-monetizing-open-source-is-problematic

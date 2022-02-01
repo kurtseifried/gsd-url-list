@@ -1,4 +1,6 @@
 https://discuss.elastic.co/t/7-12-1-security-update/271433
+https://discuss.elastic.co/t/apache-log4j2-remote-code-execution-rce-vulnerability-cve-2021-44228-esa-2021-31/291476
+https://discuss.elastic.co/t/apm-java-agent-security-update/289627
 https://discuss.elastic.co/t/beats-5-6-4-security-update/106739
 https://discuss.elastic.co/t/elastic-apm-agent-for-go-1-11-0-security-update/263252
 https://discuss.elastic.co/t/elastic-apm-agent-for-python-5-1-0-security-update/196145
@@ -32,7 +34,9 @@ https://discuss.elastic.co/t/elasticsearch-7-10-2-security-update/261164
 https://discuss.elastic.co/t/elasticsearch-7-13-3-and-6-8-17-security-update/278100
 https://discuss.elastic.co/t/elasticsearch-7-13-4-security-update/279177
 https://discuss.elastic.co/t/elasticsearch-remote-code-execution-cve-2015-5377/25736
+https://discuss.elastic.co/t/enterprise-search-7-16-0-security-update/291146
 https://discuss.elastic.co/t/enterprise-search-7-9-0-security-update/245457
 https://discuss.elastic.co/t/kibana-6-0-1-and-5-6-5-security-update/110571
+https://discuss.elastic.co/t/kibana-7-15-2-security-update/288923
 https://discuss.elastic.co/t/x-pack-alerting-and-kibana-5-6-1-security-update/101884
 https://discuss.elastic.co/t/x-pack-security-5-6-0-and-5-5-3-security-update/100089

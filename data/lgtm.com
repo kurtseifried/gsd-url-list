@@ -7,7 +7,9 @@ https://lgtm.com/blog/restlet_CVE-2017-14949
 https://lgtm.com/blog/swagger_snakeyaml_CVE-2017-1000207_CVE-2017-1000208
 https://lgtm.com/projects/g/kontena/kontena/rev/06a7a06e65a5ef0dada14faee2ae20388b87c1fe
 https://lgtm.com/projects/g/libav/libav/snapshot/f5f553ca3bdca0c97dd08bbf002f0d8cb193788b/files/libavcodec/srtdec.c?sort=name&amp;amp;dir=ASC&amp;amp;mode=heatmap#xeec693aa6d85853b:1
+https://lgtm.com/projects/g/libav/libav/snapshot/f5f553ca3bdca0c97dd08bbf002f0d8cb193788b/files/libavcodec/srtdec.c?sort=name&dir=ASC&mode=heatmap#xeec693aa6d85853b:1
 https://lgtm.com/projects/g/linagora/hublin/snapshot/af9f1ce253b4ee923ff8da8f9d908d02a8e95b7f/files/backend/webserver/views.js?sort=name&amp;amp;dir=ASC&amp;amp;mode=heatmap&amp;amp;showExcluded=false#xb24eb0101d2aec21:1
+https://lgtm.com/projects/g/linagora/hublin/snapshot/af9f1ce253b4ee923ff8da8f9d908d02a8e95b7f/files/backend/webserver/views.js?sort=name&dir=ASC&mode=heatmap&showExcluded=false#xb24eb0101d2aec21:1
 https://lgtm.com/query/7714424068617023832
 https://lgtm.com/query/8609731774537641779/
 https://lgtm.com/rules/1505913226124/
